@@ -1,0 +1,50 @@
+{
+  "name_of_cocktail": "Wolf Bite",
+  "ingredients": [
+    {
+      "ingredient_name": "Absinthe",
+      "ingredient_volume": 1,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Melon Liqueur",
+      "ingredient_volume": 1,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Pineapple Juice",
+      "ingredient_volume": 2,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Lemon-lime soda",
+      "ingredient_volume": 1,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Grenadine",
+      "ingredient_volume": 1,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    }
+  ],
+  "popularity_score": 0.5,
+  "difficulty_score": 0.3,
+  "instructions": [
+    "Pour Absinthe, Melon Liqueur, Pineapple Juice into a shaker with ice.",
+    "Shake well.",
+    "Strain into a shot glass, leaving some room at the top.",
+    "Top off with lemon-lime soda.",
+    "Drizzle Grenadine into the center of the cocktail."
+  ],
+  "taste_profile": ["Sweet", "Sour"],
+  "garnish": "None",
+  "alcohol_content": 0.25,
+  "color": "Green",
+  "glass_type": "Shot Glass",
+  "serving_temperature": "Cold"
+}

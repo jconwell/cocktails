@@ -1,0 +1,74 @@
+{
+  "name": "Wassail",
+  "ingredients": [
+    {
+      "name": "apple cider",
+      "volume": 64,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "brown sugar",
+      "volume": 1,
+      "unit": "cup",
+      "isLiquid": false
+    },
+    {
+      "name": "lemon juice",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "orange juice",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "cloves",
+      "volume": 8,
+      "unit": "count",
+      "isLiquid": false
+    },
+    {
+      "name": "allspice",
+      "volume": 10,
+      "unit": "count",
+      "isLiquid": false
+    },
+    {
+      "name": "cinnamon sticks",
+      "volume": 5,
+      "unit": "count",
+      "isLiquid": false
+    },
+    {
+      "name": "brandy",
+      "volume": 16,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.65,
+  "difficulty": 0.5,
+  "instructions": [
+    "Combine all ingredients in a large pot.",
+    "Bring to a simmer over medium heat, stirring to dissolve the sugar.",
+    "Reduce heat to low and simmer for 1-2 hours.",
+    "Strain out spices.",
+    "Stir in brandy.",
+    "Serve warm."
+  ],
+  "tasteProfile": [
+    "sweet",
+    "spicy",
+    "fruity"
+  ],
+  "garnishes": "orange slices and cinnamon sticks",
+  "alcoholContent": 12.0,
+  "color": "brown",
+  "texture": "smooth",
+  "temperature": "hot",
+  "glassType": "mug"
+}

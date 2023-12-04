@@ -1,0 +1,42 @@
+{
+  "cocktailName": "In And Out Lemontini",
+  "ingredients": [
+    {
+      "name": "Citrus Vodka",
+      "volume": 2,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon Juice",
+      "volume": 1,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Simple Syrup",
+      "volume": 1,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularityScore": 0.65,
+  "difficultyScore": 0.3,
+  "instructions": [
+    "Chill martini glass in freezer.",
+    "Combine citrus vodka, lemon juice, and simple syrup into a shaker with ice.",
+    "Shake vigorously for about 20 seconds.",
+    "Strain the mixture into the chilled martini glass.",
+    "Garnish with a lemon twist."
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Citrus",
+    "Tart"
+  ],
+  "garnish": "Lemon Twist",
+  "alcoholContent": 0.24,
+  "drinkColor": "Light Yellow",
+  "drinkTexture": "Smooth",
+  "servingGlassType": "Martini Glass"
+}

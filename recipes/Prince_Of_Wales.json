@@ -1,0 +1,56 @@
+{
+  "cocktailName": "Prince Of Wales",
+  "ingredients": [
+    {
+      "name": "Rye whisky",
+      "volume": 1.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Pineapple slice",
+      "volume": 1,
+      "unit": "piece",
+      "isLiquid": false
+    },
+    {
+      "name": "Powdered sugar",
+      "volume": 0.5,
+      "unit": "tsp",
+      "isLiquid": false
+    },
+    {
+      "name": "Angostura bitters",
+      "volume": 2,
+      "unit": "drops",
+      "isLiquid": true
+    },
+    {
+      "name": "Champagne",
+      "volume": 0.25,
+      "unit": "cup",
+      "isLiquid": true
+    }
+  ],
+  "popularityRating": 0.65,
+  "difficultyRating": 0.5,
+  "instructions": [
+    "Muddle the pineapple in a shaker.",
+    "Add the rye, sugar, and bitters.",
+    "Shake well with ice.",
+    "Strain into a chilled small highball or rocks glass.",
+    "Top with Champagne."
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Fruity",
+    "Bitter"
+  ],
+  "garnish": "Lemon twist",
+  "alcoholContent": 0.25,
+  "color": "Pale gold",
+  "texture": "Sparkling",
+  "servingTemperature": "Chilled",
+  "glassType": "Highball glass",
+  "occasion": "Celebration"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Rebujito",
+  "ingredients": [
+    {
+      "name": "Manzanilla sherry",
+      "volume": 2.5,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Sprite or 7Up",
+      "volume": 5,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Freshly squeezed lemon juice",
+      "volume": 0.5,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Mint leaves",
+      "volume": 4,
+      "unit_of_measure": "count",
+      "is_liquid": false
+    }
+  ],
+  "popularity": 0.5,
+  "difficulty": 0.2,
+  "instructions": [
+    "Pour the Manzanilla sherry into a glass filled with ice.",
+    "Add the Sprite or 7Up and lemon juice.",
+    "Stir gently to combine.",
+    "Garnish with mint leaves."
+  ],
+  "taste_profile": ["sweet", "sour", "minty"],
+  "garnish": "Mint leaves",
+  "alcohol_content": 0.15,
+  "time_to_prepare": 5,
+  "color": "Golden",
+  "glass_type": "Highball glass",
+  "occasion": ["Casual", "Summer", "Party"],
+  "taste_strength": 0.6,
+  "alcohol_strength": 0.2
+}

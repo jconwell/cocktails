@@ -1,0 +1,42 @@
+{
+  "name": "Mauresque",
+  "ingredient1": {
+    "ingredientName": "Pastis",
+    "volume": 1.5,
+    "unit": "ounces",
+    "isLiquid": true
+  },
+  "ingredient2": {
+    "ingredientName": "Almond Syrup",
+    "volume": 1.5,
+    "unit": "ounces",
+    "isLiquid": true
+  },
+  "ingredient3": {
+    "ingredientName": "Water",
+    "volume": 6,
+    "unit": "ounces",
+    "isLiquid": true
+  },
+  "popularity": 0.2,
+  "difficulty": 0.2,
+  "instructions": [
+    "Pour pastis into glass",
+    "Add almond syrup",
+    "Fill the remaining part of the glass with cold water",
+    "Stir well to mix the ingredients"
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Anise",
+    "Almond",
+    "Licorice"
+  ],
+  "garnish": "None",
+  "alcoholContent": 0.1,
+  "glassType": "Collins glass",
+  "color": "Yellow",
+  "texture": "Liquid",
+  "temperature": "Cold",
+  "servingSize": 1
+}

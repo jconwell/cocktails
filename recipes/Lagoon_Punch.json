@@ -1,0 +1,52 @@
+{
+  "cocktailName": "Lagoon Punch",
+  "ingredients": [
+    {
+      "name": "Blue Curacao",
+      "volume": 1,
+      "unitOfMeasure": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Pineapple Juice",
+      "volume": 1,
+      "unitOfMeasure": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon Juice",
+      "volume": 0.5,
+      "unitOfMeasure": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "White Rum",
+      "volume": 1.5,
+      "unitOfMeasure": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Cherry",
+      "volume": 1,
+      "unitOfMeasure": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.68,
+  "difficulty": 0.42,
+  "instructions": [
+    "Add ice to a shaker.",
+    "Pour in Blue Curacao, Pineapple Juice, Lemon Juice, and White Rum.",
+    "Shake well for 15-20 seconds.",
+    "Pour the mix into a glass.",
+    "Garnish with a Cherry."
+  ],
+  "tasteProfile": ["Fruity", "Sweet", "Sour"],
+  "garnish": "Cherry",
+  "alcoholContent": 40.0,
+  "servingSize": 1,
+  "glassType": "Cocktail glass",
+  "timeToMake": 5,
+  "color": "Blue",
+  "texture": "Smooth"
+}

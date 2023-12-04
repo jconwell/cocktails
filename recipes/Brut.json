@@ -1,0 +1,24 @@
+{
+  "cocktailName": "Brut",
+  "ingredients": [
+    { "name": "Brut champagne", "volume": 4, "unit": "ounces", "isLiquid": true },
+    { "name": "Sugar cube", "volume": 1, "unit": "count", "isLiquid": false },
+    { "name": "Angostura bitters", "volume": 0.125, "unit": "ounces", "isLiquid": true },
+    { "name": "Lemon twist", "volume": 1, "unit": "count", "isLiquid": false }
+  ],
+  "popularityScore": 0.7,
+  "difficultyScore": 0.3,
+  "steps": [
+    "Chill flute in freezer till frosty.",
+    "Drop bitters onto sugar cube, let soak for few seconds.",
+    "Put cube in flute. Top with Brut.",
+    "Garnish with lemon twist."
+  ],
+  "tasteProfile": [ "Sweet", "Bitter", "Fruity"],
+  "garnish": "Lemon Twist",
+  "alcoholContent": 12.0,
+  "color": "Yellow",
+  "serveIn": "Champagne Flute",
+  "preparationTime": 5,
+  "type": "Sparkling"
+}

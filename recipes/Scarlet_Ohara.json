@@ -1,0 +1,44 @@
+{
+  "name": "Scarlet O'hara",
+  "ingredients": [
+    {
+      "ingredient": "Southern Comfort",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredient": "Cranberry Juice",
+      "volume": 5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredient": "Lime wedge",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.2,
+  "instructions": [
+    "Pour Southern Comfort into a glass filled with ice",
+    "Add cranberry juice",
+    "Stir well",
+    "Garnish with the wedge of lime"
+  ],
+  "tasteProfile": [
+    "sweet", 
+    "tangy"
+  ],
+  "garnish": "Lime wedge",
+  "alcoholContent": 0.2,
+  "flaskColor": "red",
+  "servingStyle": "on the rocks",
+  "origin": "American",
+  "idealDrinkTime": "evening",
+  "drinkSize": "regular",
+  "flavorIntensity": "medium",
+  "foodPairings": ["grilled chicken", "prosciutto wrapped melon"]
+}

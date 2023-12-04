@@ -1,0 +1,36 @@
+{
+  "cocktailName": "Fourth Of July",
+  "ingredients": [
+    {
+      "ingredientName": "Grenadine",
+      "volume": 1.0,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Blue Curacao",
+      "volume": 1.0,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Vodka",
+      "volume": 1.0,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.3,
+  "instructions": [
+    "Pour Grenadine into a shot glass.",
+    "Using a spoon, slowly pour Blue Curacao.",
+    "Again using a spoon, slowly pour Vodka."
+  ],
+  "tasteProfile": ["sweet", "fruity"],
+  "garnish": "None",
+  "alcoholContent": 0.4,
+  "glassType": "shot",
+  "serveStyle": "Layered",
+  "temperature": "chilled"
+}

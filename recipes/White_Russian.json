@@ -1,0 +1,42 @@
+{
+  "cocktail_name": "White Russian",
+  "ingredients": [
+    {
+      "name": "Vodka",
+      "volume": 2,
+      "unit": "oz",
+      "is_liquid": true
+    },
+    {
+      "name": "Coffee liqueur",
+      "volume": 1,
+      "unit": "oz",
+      "is_liquid": true
+    },
+    {
+      "name": "Cream",
+      "volume": 1,
+      "unit": "oz",
+      "is_liquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.2,
+  "instructions": [
+    "Pour vodka and coffee liqueur into an Old Fashioned glass filled with ice.",
+    "Top with cream.",
+    "Stir gently until mixed."
+  ],
+  "taste_profile": [
+    "Creamy",
+    "Sweet",
+    "Alcoholic"
+  ],
+  "garnishes": "None",
+  "alcohol_content": 0.22,
+  "glass_type": "Old Fashioned glass",
+  "cocktail_type": "classical",
+  "color": "Brown",
+  "layered": false,
+  "serving_temperature": "Cold"
+}

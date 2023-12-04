@@ -1,0 +1,29 @@
+{
+  "Name": "Mimosa",
+  "Ingredients": [
+    {
+      "IngredientName": "Champagne",
+      "Volume": 2.5,
+      "UnitOfMeasure": "ounces",
+      "IsLiquid": true
+    },
+    {
+      "IngredientName": "Orange Juice",
+      "Volume": 2.5,
+      "UnitOfMeasure": "ounces",
+      "IsLiquid": true
+    }
+  ],
+  "Popularity": 0.7,
+  "Difficulty": 0.2,
+  "Instructions": [
+    "Ensure your champagne and orange juice are chilled.",
+    "Pour the champagne into a flute until it is about halfway full.",
+    "Fill the rest of the flute with orange juice."
+  ],
+  "TasteProfile": ["Sweet", "Citrus", "Bubbly"],
+  "Garnish": "Optional orange slice on rim",
+  "AlcoholContent": 0.2,
+  "Drinkware": "Champagne flute",
+  "ServingTemperature": "Chilled"
+}

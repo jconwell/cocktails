@@ -1,0 +1,35 @@
+{
+  "cocktailName": "Polar Bear",
+  "ingredients": [
+    {
+      "name": "Peppermint schnapps",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Chocolate liqueur",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.4,
+  "difficulty": 0.2,
+  "steps": [
+    "Pour peppermint schnapps into a shot glass.",
+    "Top with chocolate liqueur."
+  ],
+  "tasteProfile": [
+    "sweet",
+    "minty",
+    "chocolatey"
+  ],
+  "garnish": "Mint leaf",
+  "alcoholContent": 0.3,
+  "color": "Dark brown",
+  "glassType": "Shot glass",
+  "iceRequirement": "No ice required",
+  "shakeOrStir": "Stir",
+  "serveMethod": "Neat"
+}

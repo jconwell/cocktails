@@ -1,0 +1,29 @@
+{
+  "name": "Red Over Heels",
+  "ingredients": [
+    {"ingredient_name": "Vodka", "volume": 3.5, "unit_of_measure": "ounces", "is_liquid": true},
+    {"ingredient_name": "Natural pomegranate juice", "volume": 5, "unit_of_measure": "ounces", "is_liquid": true},
+    {"ingredient_name": "Fresh lemon juice", "volume": 1, "unit_of_measure": "ounces", "is_liquid": true},
+    {"ingredient_name": "Simple syrup", "volume": 1, "unit_of_measure": "ounces", "is_liquid": true},
+    {"ingredient_name": "Crushed ice", "volume": 1, "unit_of_measure": "cup", "is_liquid": false}
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.4,
+  "instructions": [
+    "In a cocktail shaker, combine the vodka, pomegranate juice, lemon juice, and simple syrup.",
+    "Add crushed ice.",
+    "Shake well for about 20 seconds to chill the mixture.",
+    "Strain the cocktail into a glass."
+  ],
+  "taste_profile": ["sweet", "sour", "fruity"],
+  "garnishes": "Lemon wheel and pomegranate seeds",
+  "alcohol_content": 40.0,
+  "glassware": "Cocktail Glass",
+  "served": "Straight Up; Without Ice",
+  "drink_type": "Alcoholic",
+  "occasion": ["Spring", "Summer", "Casual"],
+  "theme": "Fruit Cocktails",
+  "preparation_time_minutes": 5,
+  "mixer": "Shaker",
+  "color": "Red"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Yorsh",
+  "ingredients": [
+    {
+      "name": "Vodka",
+      "volume": 1,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Beer",
+      "volume": 12,
+      "unit": "ounce",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.45,
+  "difficulty": 0.1,
+  "instructions": [
+    "Fill the beer glass halfway.",
+    "Pour in one shot of vodka.",
+    "Fill the rest of the glass with beer."
+  ],
+  "tasteProfile": [
+    "bitter",
+    "strong"
+  ],
+  "garnish": "No garnish",
+  "alcoholContent": 0.13,
+  "style": "Shot",
+  "glassType": "Beer Glass",
+  "shakeOrStir": "Stir",
+  "servingTemperature": "cold"
+
+}

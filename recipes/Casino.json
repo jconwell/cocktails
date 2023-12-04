@@ -1,0 +1,52 @@
+{
+  "cocktail_name": "Casino",
+  "ingredients": [
+    {
+      "name": "Old Tom Gin",
+      "volume": 2,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Maraschino Liqueur",
+      "volume": 0.25,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Fresh lemon juice",
+      "volume": 0.25,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Orange bitters",
+      "volume": 2,
+      "unit_of_measure": "dashes",
+      "is_liquid": true
+    },
+    {
+      "name": "Maraschino cherry",
+      "volume": 1,
+      "unit_of_measure": "unit",
+      "is_liquid": false
+    }
+  ],
+  "popularity": 0.65,
+  "difficulty": 0.35,
+  "instructions": [
+    "Combine gin, maraschino liqueur, lemon juice, and bitters in a cocktail shaker.",
+    "Fill shaker with ice, cover, and shake until outside of shaker is very cold, about 20 seconds.",
+    "Strain cocktail through a Hawthorne strainer or a slotted spoon into a chilled martini glass."
+  ],
+  "taste_profile": ["sour", "sweet", "bitter"],
+  "garnishes": "Lemon twist and maraschino cherry",
+  "alcohol_content": 0.27,
+  "cocktail_type": "classic",
+  "glass_type": "martini",
+  "mood": ["classy", "casual"],
+  "time_of_day": ["evening", "night"],
+  "temperature": "cold",
+  "season": ["all"],
+  "pair_with": ["nuts", "cheese"]
+}

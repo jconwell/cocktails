@@ -1,0 +1,42 @@
+{
+  "cocktail": "Caipiroska",
+  "ingredients": [
+    {
+      "name": "Vodka",
+      "volume": 1.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Lime",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    },
+    {
+      "name": "Sugar",
+      "volume": 1,
+      "unit": "tsp",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.8,
+  "difficulty": 0.3,
+  "instructions": [
+    "Muddle lime and sugar in a shaker.",
+    "Fill the shaker with ice cubes.",
+    "Add vodka.",
+    "Shake and strain into a rocks glass filled with crushed ice."
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Citrus",
+    "Strong"
+  ],
+  "garnish": "Lime wheel",
+  "alcoholContent": 15,
+  "recommendedGlass": "Rocks glass",
+  "occasion": ["Summer", "Party"],
+  "classification": ["International", "Rum cocktails"],
+  "color": "Green"
+}

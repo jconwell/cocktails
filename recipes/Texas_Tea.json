@@ -1,0 +1,69 @@
+{
+  "cocktailName": "Texas Tea",
+  "ingredients": [
+    {
+      "name": "Tequila",
+      "volume": 0.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Rum",
+      "volume": 0.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Vodka",
+      "volume": 0.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Gin",
+      "volume": 0.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Bourbon",
+      "volume": 0.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon Juice",
+      "volume": 1,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Cola",
+      "volume": 1.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Ice",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.75,
+  "difficulty": 0.5,
+  "instructions": [
+    "In a shaker, combine tequila, rum, vodka, gin, bourbon, and lemon juice.",
+    "Shake well to mix.",
+    "In a glass filled with ice, pour the mixed liquor.",
+    "Top off with cola.",
+    "Stir to combine."
+  ],
+  "tasteProfile": ["strong", "sour", "sweet"],
+  "garnish": "Lemon Wheel",
+  "alcoholContent": 0.55,
+  "glassType": "Highball Glass",
+  "cocktailType": "Long Drink",
+  "mixMethod": "Shake and Stir",
+  "served": "On the Rocks"
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Papaya Smash",
+  "ingredients": [
+    {
+      "ingredient_name": "Papaya",
+      "volume": 0.5,
+      "unit": "cup",
+      "is_liquid": false
+    },
+    {
+      "ingredient_name": "Fresh Lime Juice",
+      "volume": 1,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Simple Syrup",
+      "volume": 1,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Light Rum",
+      "volume": 2,
+      "unit": "ounces",
+      "is_liquid": true
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.3,
+  "instructions": [
+    "Muddle the papaya in a shaker.",
+    "Add the lime juice, simple syrup and rum.",
+    "Fill the shaker with ice and shake until chilled.",
+    "Strain into a glass filled with ice."
+  ],
+  "taste_profile": [
+    "Sweet",
+    "Tropical",
+    "Citrus"
+  ],
+  "garnish": "Papaya Slice",
+  "alcohol_content": 0.15,
+  "glass_type": "Double Old Fashioned glass",
+  "served": "On the Rocks",
+  "color": "Orange",
+  "season": "Summer",
+  "mixology_technique": "Muddling and Shaking"
+ }

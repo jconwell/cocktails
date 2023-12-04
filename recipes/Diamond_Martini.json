@@ -1,0 +1,44 @@
+{
+  "cocktailName": "Diamond Martini",
+  "ingredients": [
+    {
+      "name": "Vodka",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Vermouth",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon Twist",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.4,
+  "instructions": [
+    "Chill martini glass.",
+    "Pour vodka and vermouth into a mixing glass with ice cubes.",
+    "Stir well.",
+    "Strain in chilled martini glass.",
+    "Garnish with a lemon twist."
+  ],
+  "tasteProfile": [
+    "Strong",
+    "Citrus",
+    "Smooth"
+  ],
+  "garnish": "Lemon Twist",
+  "alcoholContent": 40.0,
+  "color": "Clear",
+  "serveIn": "Martini Glass",
+  "preparationTime": 5,
+  "isClassic": true,
+  "isFruity": false
+}

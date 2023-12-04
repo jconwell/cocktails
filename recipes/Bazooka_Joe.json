@@ -1,0 +1,44 @@
+{
+  "cocktailName": "Bazooka Joe",
+  "ingredients": [
+    {
+      "ingredientName": "Banana Liqueur",
+      "volume": 1,
+      "unitOfMeasure": "Oz",
+      "isLiquid": true,
+      "alcoholContent": 0.15
+    },
+    {
+      "ingredientName": "Blue Curacao",
+      "volume": 1,
+      "unitOfMeasure": "Oz",
+      "isLiquid": true,
+      "alcoholContent": 0.15
+    },
+    {
+      "ingredientName": "Bailey's Irish Cream",
+      "volume": 1,
+      "unitOfMeasure": "Oz",
+      "isLiquid": true,
+      "alcoholContent": 0.17
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.2,
+  "instructions": [
+    "Pour the banana liqueur into a shot glass.",
+    "Carefully layer the Bailey's Irish Cream on top.",
+    "Finally, carefully layer the blue curacao on top."
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Creamy",
+    "Fruity"
+  ],
+  "garnishes": "None",
+  "overallAlcoholContent": 0.47,
+  "color": "Blue",
+  "drinkware": "Shot Glass",
+  "category": "Shot",
+  "servingTemperature": "Cold"
+}

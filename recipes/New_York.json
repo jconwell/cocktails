@@ -1,0 +1,57 @@
+{
+  "cocktailName": "New York",
+  "ingredients": [
+    {
+      "name": "Whiskey",
+      "volume": 2.0,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon Juice",
+      "volume": 1.0,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Sugar Syrup",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Red Wine",
+      "volume": 1.0,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Orange Peel",
+      "volume": 1.0,
+      "unit": "pieces",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.65,
+  "difficulty": 0.3,
+  "instructions": [
+    "Pour the whiskey, lemon juice, and sugar syrup into a shaker with ice cubes",
+    "Shake well",
+    "Strain into a chilled glass",
+    "Float red wine on top",
+    "Garnish with orange peel"
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Sour",
+    "Strong"
+  ],
+  "garnishes": "Orange Peel",
+  "alcoholContent": 0.4,
+  "glassType": "Cocktail Glass",
+  "isShaken": true,
+  "isStirred": false,
+  "isFruity": true,
+  "isCreamy": false,
+  "isClassic": true
+}

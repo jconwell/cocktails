@@ -1,0 +1,42 @@
+{
+	"Cocktail": "Something Blue",
+	"Ingredients": 
+	[
+        {
+            "ingredientName": "Hypnotiq liquor",
+            "ingredientVolume": 1.5,
+            "unitOfMeasure": "oz",
+            "isLiquid": true
+        },
+        {
+            "ingredientName": "White wine",
+            "ingredientVolume": 2,
+            "unitOfMeasure": "oz",
+            "isLiquid": true
+        },
+        {
+            "ingredientName": "Ginger ale",
+            "ingredientVolume": 2,
+            "unitOfMeasure": "oz",
+            "isLiquid": true
+        }
+    ],
+    "Popularity": 0.7,
+    "Difficulty": 0.3,
+    "Instructions": 
+    [
+        "In a shaker filled with ice, mix Hypnotiq and white wine.", 
+        "Strain into a chilled cocktail glass.", 
+        "Top with ginger ale."
+    ],
+    "TasteProfile": 
+    [
+        "Sweet",
+        "Citrus",
+        "Light"
+    ],
+    "Garnish": "Blueberries and a slice of lemon",
+    "AlcoholContent": 0.14,
+    "DrinkType": "Cocktail",
+    "GlassType": "Cocktail glass"
+}

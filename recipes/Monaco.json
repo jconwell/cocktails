@@ -1,0 +1,28 @@
+{
+  "name": "Monaco",
+  "ingredients": [
+    {"ingredientName": "Lemonade", "volume": 7.5, "unit": "ounces", "isLiquid": true},
+    {"ingredientName": "Beer", "volume": 7.5, "unit": "ounces", "isLiquid": true},
+    {"ingredientName": "Grenadine", "volume": 0.5, "unit": "ounces", "isLiquid": true}
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.2,
+  "instructions": [
+    "In a pint glass, pour in the lemonade.",
+    "Pour in equal amount of beer.",
+    "Finish off with grenadine and stir gently."
+  ],
+  "tasteProfile": [
+    "Sweet", 
+    "Tart", 
+    "Bitter"
+  ],
+  "garnish": "Lemon slice",
+  "alcoholContent": 0.05,
+  "color": "Red",
+  "servingGlass": "Pint glass",
+  "category": "Beer cocktail",
+  "style": "Cold",
+  "IBU": 10,
+  "fermentationType": "Top"
+}

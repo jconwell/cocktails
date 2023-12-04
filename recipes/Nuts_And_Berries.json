@@ -1,0 +1,43 @@
+{
+  "name": "Nuts And Berries",
+  "ingredients": [
+    {
+      "name": "Chambord raspberry liqueur",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Frangelico hazelnut liqueur",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    }, 
+    {
+      "name": "Cream",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.2,
+  "instructions": [
+    "Chill your cocktail glass",
+    "Pour Chambord raspberry liqueur into the glass",
+    "Add Frangelico hazelnut liqueur to the glass",
+    "Top with cream"
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Nutty",
+    "Fruity"
+  ],
+  "garnishes": "Raspberries",
+  "alcoholContent": 26.0,
+  "type": "Creamy cocktails",
+  "glass": "Cocktail glass",
+  "postMixingMethod": "Stir",
+  "preparationTimeSeconds": 240,
+  "color": "Purple"
+}

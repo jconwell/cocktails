@@ -1,0 +1,42 @@
+{
+  "CocktailRecipe": {
+    "Name": "Bacardi",
+    "Ingredients": [
+      {
+        "IngredientName": "Lemon Juice",
+        "Volume": 1,
+        "UnitofMeasure": "ounce",
+        "IsLiquid": true
+      },
+      {
+        "IngredientName": "Grenadine",
+        "Volume": 2,
+        "UnitofMeasure": "ounces",
+        "IsLiquid": true
+      },
+      {
+        "IngredientName": "Bacardi Rum",
+        "Volume": 1.5,
+        "UnitofMeasure": "ounces",
+        "IsLiquid": true
+      }
+    ],
+    "Popularity": 0.7,
+    "Difficulty": 0.3,
+    "Instructions": [
+      "Pour all the ingredients into a cocktail shaker filled with ice.",
+      "Shake well.",
+      "Strain into a chilled cocktail glass."
+    ],
+    "TasteProfile": [
+      "Sour",
+      "Sweet"
+    ],
+    "Garnish": "Lemon Twist",
+    "AlcoholContent": 0.4,
+    "Occasion": "Party",
+    "Season": "Summer",
+    "MixMethod": "Shaken",
+    "DrinkWare": "Cocktail Glass"
+  }
+}

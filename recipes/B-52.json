@@ -1,0 +1,42 @@
+{
+  "cocktail_name": "B-52",
+  "recipe": [
+    {
+      "ingredient_name": "Kahlua",
+      "volume": 0.5,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Bailey's Irish cream",
+      "volume": 0.5,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Grand Marnier",
+      "volume": 0.5,
+      "unit": "ounces",
+      "is_liquid": true
+    }
+  ],
+  "popularity": 0.80,
+  "difficulty": 0.30,
+  "instructions": [
+    "Pour the Kahlua into a shot glass.",
+    "Using the back of a spoon, carefully layer the Bailey's Irish Cream on top of the Kahlua.",
+    "Again using the back of a spoon, layer the Grand Marnier on top of the Bailey's.",
+    "Serve"
+  ],
+  "taste_profile": [
+    "sweet",
+    "creamy",
+    "rich",
+    "intense"
+  ],
+  "garnishes": "None",
+  "alcohol_content": 0.22,
+  "glassware": "Shot Glass",
+  "prep_time": 5,
+  "serving_size": 1
+}

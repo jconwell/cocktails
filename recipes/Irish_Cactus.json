@@ -1,0 +1,37 @@
+{
+  "name": "Irish Cactus",
+  "ingredients": [
+    {
+      "name": "Irish Whiskey",
+      "volume": 1.5,
+      "unit": "oz",
+      "is_liquid": true
+    },
+    {
+      "name": "Melon Liqueur",
+      "volume": 1.0,
+      "unit": "oz",
+      "is_liquid": true
+    },
+    {
+      "name": "Lemon Juice",
+      "volume": 0.5,
+      "unit": "oz",
+      "is_liquid": true
+    }
+  ],
+  "popularity": 0.48,
+  "difficulty": 0.17,
+  "instructions": [
+    "Fill a chilled cocktail shaker with ice cubes.",
+    "Add all the ingredients.",
+    "Shake well until chilled.",
+    "Strain into a cocktail glass."
+  ],
+  "taste_profile": ["Tangy", "Sweet", "Fruity"],
+  "garnish": "Lemon Wheel",
+  "alcohol_content": 30.0,
+  "duration": 5.0,
+  "drinking_time": "Anytime",
+  "serving_style": "Cocktail Glass"
+}

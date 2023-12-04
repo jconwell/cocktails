@@ -1,0 +1,47 @@
+{
+  "CocktailName": "Cooperstown",
+  "Ingredients": [
+    {
+      "Name": "Gin",
+      "Volume": 1.5, 
+      "Unit": "ounce",
+      "IsLiquid": true
+    },
+    {
+      "Name": "Dry Vermouth",
+      "Volume": 1.5,
+      "Unit": "ounce",
+      "IsLiquid": true
+    },
+    {
+      "Name": "Green Mint",
+      "Volume": 2,
+      "Unit": "leaves",
+      "IsLiquid": false
+    },
+    {
+      "Name": "Orange Bitters",
+      "Volume": 2,
+      "Unit": "drops",
+      "IsLiquid": true
+    }
+  ],
+  "Popularity": 0.3,
+  "Difficulty": 0.5,
+  "Instructions": [
+    "Combine all ingredients in a mixing glass",
+    "Stir for 30 seconds",
+    "Strain into a chilled glass",
+    "Garnish with a sprig of mint and two drops of orange bitters"
+  ],
+   "TasteProfile": [
+    "Herbaceous",
+    "Bitter",
+    "Citrus"
+  ],
+  "Garnishes": "Mint sprig, Orange bitters",
+  "AlcoholContent": 0.18,
+  "ServingGlass": "Cocktail Glass",
+  "IdealServingTemperature": "Cold",
+  "IdealOccasion": ["Day drink", "Summer"]
+}

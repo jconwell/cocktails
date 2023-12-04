@@ -1,0 +1,52 @@
+{
+  "cocktailName": "Lei Maker",
+  "ingredients": [
+    {
+      "name": "vodka",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "melon liqueur",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "pineapple juice",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "orange juice",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "grenadine",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.3,
+  "instructions": [
+    "Fill a shaker with ice cubes.", 
+    "Add all ingredients.", 
+    "Shake and strain into a highball glass filled with crushed ice.", 
+    "Garnish with an orange slice and a cherry."
+  ],
+  "tasteProfile": ["sweet", "tropical", "fruity"],
+  "garnishes": "orange slice, cherry",
+  "alcoholContent": 0.15,
+  "color": "green",
+  "glassType": "highball glass",
+  "orderedTimes": 2300,
+  "occasion": ["summer", "beach", "pool party"],
+  "mixMethod": "shake",
+  "serveMethod": "on the rocks"
+}

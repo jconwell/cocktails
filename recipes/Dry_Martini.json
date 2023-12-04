@@ -1,0 +1,51 @@
+{
+  "name": "Dry Martini",
+  "ingredients": [
+    {
+      "name": "Gin",
+      "volume": 2.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Dry Vermouth",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon twist",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.4,
+  "instructions": [
+    "Chill martini glass",
+    "Pour gin and vermouth into a cocktail shaker",
+    "Add ice and stir until cold",
+    "Strain mixture into chilled glass",
+    "Garnish with lemon twist"
+  ],
+  "tasteProfile": [
+    "Bitter",
+    "Citrus",
+    "Dry"
+  ],
+  "garnish": "Lemon twist",
+  "alcoholContent": 0.22,
+  "glassType": "Martini glass",
+  "timeToPrepare": 5,
+  "color": "Clear",
+  "occasions": [
+    "After work",
+    "Night out"
+  ],
+  "pairsWellWith": [
+    "Seafood",
+    "Cheese"
+  ],
+  "cocktailType": "Classic"
+}

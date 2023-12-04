@@ -1,0 +1,59 @@
+{
+  "cocktail_name": "Sangrita",
+  "ingredients": [
+    {
+      "name": "tomato juice",
+      "volume": 2,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "orange juice",
+      "volume": 1,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "lime juice",
+      "volume": 1,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "hot sauce",
+      "volume": 2,
+      "unit": "drops",
+      "isLiquid": true
+    },
+    {
+      "name": "salt",
+      "volume": 1,
+      "unit": "pinch",
+      "isLiquid": false
+    },
+    {
+      "name": "tequila",
+      "volume": 1.5,
+      "unit": "oz",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.65,
+  "difficulty": 0.3,
+  "instructions": [
+    "In a shaker, combine tomato juice, orange juice, lime juice, hot sauce and a pinch of salt.",
+    "Shake well to mix.",
+    "Strain into a glass.",
+    "Serve with a shot of tequila on the side."
+  ],
+  "taste_profile": [
+    "spicy",
+    "salty",
+    "citrus"
+  ],
+  "garnish": "Lime wheel and salt rim",
+  "alcohol_content": 0.14,
+  "glass_type": "Shot glass",
+  "cocktail_type": "Shooter",
+  "color": "Red"
+}

@@ -1,0 +1,68 @@
+{
+  "cocktailName": "White Peach Sangria",
+  "ingredients": [
+    {
+      "name": "White Wine",
+      "volume": 16,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true,
+      "ingredientRequired": true
+    },
+    {
+      "name": "Peach Schnapps",
+      "volume": 6,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true,
+      "ingredientRequired": true
+    },
+    {
+      "name": "Sprite",
+      "volume": 8,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true,
+      "ingredientRequired": true
+    },
+    {
+      "name": "Natural Sugar",
+      "volume": 4,
+      "unitOfMeasure": "tablespoons",
+      "isLiquid": false,
+      "ingredientRequired": true
+    },
+    {
+      "name": "Peaches",
+      "volume": 2,
+      "unitOfMeasure": "whole",
+      "isLiquid": false,
+      "ingredientRequired": true
+    },
+    {
+      "name": "White Grapes",
+      "volume": 1,
+      "unitOfMeasure": "cup",
+      "isLiquid": false,
+      "ingredientRequired": false
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.3,
+  "instructions": [
+    "In a large pitcher, combine all ingredients but the Sprite.",
+    "Stir until the sugar is dissolved.",
+    "Refrigerate for at least 2 hours. Before serving, add the Sprite and stir well.",
+    "Serve over ice, making sure each glass gets some fruit."
+  ],
+  "tasteProfile": [
+    "fruity",
+    "sweet",
+    "light",
+    "refreshing"
+  ],
+  "garnish": "Sprig of mint",
+  "alcoholContentByVolume": 0.12,
+  "glassware": "Wine glass",
+  "category": "Punches / Party Drinks",
+  "baseSpirit": "Peach schnapps",
+  "flavor": ["Peach", "Wine", "Grape"],
+  "strength": "Medium"
+}

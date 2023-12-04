@@ -1,0 +1,33 @@
+{
+  "cocktail_name": "Gin Pahit",
+  "ingredients_volume": [
+    {
+      "name": "Gin",
+      "volume": 2.0,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Angostura bitters",
+      "volume": 1.0,
+      "unit_of_measure": "dashes",
+      "is_liquid": true
+    }
+  ],
+  "popularity": 0.35,
+  "difficulty_to_make": 0.2,
+  "instructions": [
+    "Pour gin into a glass.",
+    "Add Angostura bitters.",
+    "Stir well."
+  ],
+  "taste_profile": [
+    "bitter",
+    "alcoholic"
+  ],
+  "garnish": "None",
+  "alcohol_content": 0.22,
+   "strength_category": "High",
+  "color": "Clear",
+  "serving_glass": "Old-fashioned glass"
+}

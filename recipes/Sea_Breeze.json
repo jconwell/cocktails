@@ -1,0 +1,37 @@
+{
+  "name": "Sea Breeze",
+  "ingredients": [
+    {
+      "ingredient_name": "Vodka",
+      "ingredient_volume": 1.5,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Cranberry Juice",
+      "ingredient_volume": 4,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Grapefruit Juice",
+      "ingredient_volume": 1.0,
+      "unit": "ounces",
+      "is_liquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.2,
+  "instructions": [
+    "Fill the glass with ice.",
+    "Pour in vodka.",
+    "Add cranberry juice.",
+    "Add grapefruit juice.",
+    "Stir gently to combine."
+  ],
+  "taste_profile": ["Sour", "Sweet", "Fruity"],
+  "garnish": "Lime Wheel",
+  "alcohol_content": 0.05,
+  "recommended_glassware": "Highball glass",
+  "standard_drink_equivalent": 1.0
+}

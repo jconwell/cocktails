@@ -1,0 +1,60 @@
+{
+  "name": "Cantarito",
+  "ingredients": [
+    {
+      "ingredient_name": "Tequila",
+      "volume": 2,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Freshly squeezed lime juice",
+      "volume": 1,
+      "unit": "ounce",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Freshly squeezed lemon juice",
+      "volume": 1,
+      "unit": "ounce",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Freshly squeezed grapefruit juice",
+      "volume": 2,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Salt",
+      "volume": 1,
+      "unit": "pinch",
+      "is_liquid": false
+    },
+    {
+      "ingredient_name": "Soda water",
+      "volume": 2,
+      "unit": "ounces",
+      "is_liquid": true
+    }
+  ],
+  "popularity_rating": 0.65,
+  "difficulty_rating": 0.35,
+  "instructions": [
+    "Rim glass with salt.",
+    "Add tequila, lime juice, lemon juice, and grapefruit juice to a cocktail shaker.",
+    "Shake well.",
+    "Pour into glass over ice.",
+    "Top off with soda water."
+  ],
+  "taste_profile": [
+    "Sour",
+    "Sweet",
+    "Fruity"
+  ],
+  "garnish": "Lime wheel and grapefruit wheel",
+  "alcohol_content": 0.14,
+  "cocktail_style": "Tequila based cocktail",
+  "best_season_to_drink": "Summer",
+  "glass_type": "Clay pot or Collins glass"
+}

@@ -1,0 +1,48 @@
+{
+  "cocktail_name": "Cherry Blossom-tini",
+  "ingredients": [
+    {
+      "ingredient_name": "Vodka",
+      "volume": 1.5,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Cherry juice",
+      "volume": 1,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Lemon juice",
+      "volume": 0.5,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Simple syrup",
+      "volume": 0.5,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    }
+  ],
+  "popularity_level": 0.45,
+  "difficulty_level": 0.2,
+  "instructions": [
+    "Pour all ingredients into a cocktail shaker filled with ice",
+    "Shake until well chilled",
+    "Strain into a martini glass"
+  ],
+  "taste_profile": [
+    "Sweet",
+    "Sour",
+    "Fruity"
+  ],
+  "garnish": "Cherry",
+  "alcohol_content": 0.17,
+  "color": "Red",
+  "serving_glass": "Martini glass",
+  "prep_time": 5,
+  "time_unit": "minutes",
+  "calories": 125
+}

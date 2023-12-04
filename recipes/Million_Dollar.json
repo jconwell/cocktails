@@ -1,0 +1,55 @@
+{
+  "recipe": {
+    "ingredients": [
+      {
+        "ingredient_name": "Gin",
+        "volume": 2,
+        "unit": "ounces",
+        "is_liquid": true
+      },
+      {
+        "ingredient_name": "Sweet Vermouth",
+        "volume": 1,
+        "unit": "ounce",
+        "is_liquid": true
+      },
+      {
+        "ingredient_name": "Orange Juice",
+        "volume": 1,
+        "unit": "ounce",
+        "is_liquid": true
+      },
+      {
+        "ingredient_name": "Egg White",
+        "volume": 1,
+        "unit": "count",
+        "is_liquid": false
+      },
+      {
+        "ingredient_name": "Grenadine",
+        "volume": 0.5,
+        "unit": "ounces",
+        "is_liquid": true
+      }
+    ],
+    "popularity": 0.3,
+    "difficulty": 0.8,
+    "instructions": [
+      "In a shaker, combine gin, sweet vermouth, orange juice, and egg white.",
+      "Shake without ice to emulsify the egg white.",
+      "Add ice and shake until well chilled.",
+      "Strain into a chilled glass.",
+      "Drizzle grenadine over the top."
+    ],
+    "taste_profile": [
+      "Sweet",
+      "Citrus",
+      "Creamy"
+    ],
+    "garnish": "Cherry and Orange Peel",
+    "alcohol_content": 0.24,
+    "cocktail_type": "Classic",
+    "serving_glass": "Cocktail Glass",
+    "preparation_time": 5
+  }
+}

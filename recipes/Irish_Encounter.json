@@ -1,0 +1,44 @@
+{
+  "name": "Irish Encounter",
+  "ingredients": [
+    {
+      "name": "Irish Whiskey",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Apple Schnapps",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Pomegranate juice",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lime slice",
+      "volume": 1,
+      "unit": "slice",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.3,
+  "instructions": [
+    "Chill your cocktail glass.",
+    "Pour all the ingredients into a shaker with ice cubes.",
+    "Shake well.",
+    "Strain into the chilled cocktail glass.",
+    "Garnish with a lime slice."
+  ],
+  "tasteProfile": ["Sweet", "Tart", "Fruity"],
+  "garnish": "Lime slice",
+  "alcoholContent": 0.25,
+  "cocktailType": "Mixed",
+  "glassType": "Cocktail glass",
+  "servingTemperature": "Cold"
+}

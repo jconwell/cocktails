@@ -1,0 +1,27 @@
+{
+  "name": "Crusta",
+  "ingredients": [
+    {"name": "brandy", "volume": 2, "unit": "oz", "isLiquid": true},
+    {"name": "lemon juice", "volume": 0.5, "unit": "oz", "isLiquid": true},
+    {"name": "maraschino liqueur", "volume": 0.5, "unit": "oz", "isLiquid": true},
+    {"name": "orange bitters", "volume": 2, "unit": "dashes", "isLiquid": true},
+    {"name": "sugar", "volume": 1, "unit": "tsp", "isLiquid": false},
+    {"name": "lemon", "volume": 1, "unit": "peel", "isLiquid": false}
+  ],
+  "popularityScore": 0.65,
+  "difficultyScore": 0.3,
+  "instructions": [
+    "Rub the rim of an old fashioned glass with lemon and dip in sugar to frost.",
+    "Peel a lemon in a spiral fashion, put in the glass, and slightly muddle to release essential oils.",
+    "Add brandy, lemon juice, maraschino liqueur, and orange bitters to a shaker.",
+    "Add ice and shake until chilled.",
+    "Strain into the prepared glass."
+  ],
+  "tasteProfile": ["sour", "sweet", "bitter"],
+  "garnish": "None",
+  "alcoholContent": 0.3,
+  "color": "Golden",
+  "servedIn": "Old fashioned glass",
+  "occasion": ["Evening", "Cocktail Party"],
+  "otherRecommendations": ["Whisky Sour", "Margarita", "Daiquiri"]
+}

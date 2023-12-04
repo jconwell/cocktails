@@ -1,0 +1,40 @@
+{
+  "cocktailName": "Horse's Neck",
+  "ingredients": [
+    {
+      "name": "Bourbon",
+      "volume": 1.5,
+      "unitOfMeasure": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Ginger Ale",
+      "volume": 4,
+      "unitOfMeasure": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon Peel",
+      "volume": 1,
+      "unitOfMeasure": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.2,
+  "instructions": [
+    "Pour bourbon into ice-filled highball glass.",
+    "Fill with ginger ale.",
+    "Curl lemon peel around the inside of the glass and hang over rim."
+  ],
+  "tasteProfile": [
+    "sweet",
+    "bitter",
+    "tangy"
+  ],
+  "garnish": "Lemon Peel",
+  "alcoholContent": 40.0,
+  "mixMethod": "build",
+  "glassType": "highball glass",
+  "served": "on the rocks"
+}

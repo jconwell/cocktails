@@ -1,0 +1,43 @@
+{
+  "name": "Wasabi Martini",
+  "ingredients": [
+    {
+      "ingredientName": "Vodka",
+      "volume": 1.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Dry Vermouth",
+      "volume": 0.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Wasabi Paste",
+      "volume": 1,
+      "unitOfMeasure": "teaspoon",
+      "isLiquid": false
+    },
+    {
+      "ingredientName": "Lime Juice",
+      "volume": 0.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.3,
+  "difficulty": 0.5,
+  "instructions": [
+    "Chill the martini glass.",
+    "In the shaker, combine all ingredients.",
+    "Shake well until contents are mixed and chilled.",
+    "Strain the mixture into the glass."
+  ],
+  "tasteProfile": ["Spicy", "Tangy"],
+  "garnish": "Lime Wheel",
+  "alcoholContent": 0.3,
+  "color": "Green",
+  "servedIn": "Martini Glass",
+  "occasion": ["Dinner Party", "Cocktail Party"]
+}

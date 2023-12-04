@@ -1,0 +1,61 @@
+{
+  "name": "Lady Liberty",
+  
+  "ingredient_1": 
+  {
+    "item": "Rye Whiskey",
+    "volume": 2.0,
+    "unit": "oz",
+    "isLiquid": true
+  },
+
+  "ingredient_2": 
+  {
+    "item": "Sweet Vermouth",
+    "volume": 1.0,
+    "unit": "oz",
+    "isLiquid": true
+  },
+
+  "ingredient_3": 
+  {
+    "item": "Lemon Juice",
+    "volume": 0.5,
+    "unit": "oz",
+    "isLiquid": true
+  },
+
+  "ingredient_4": 
+  {
+    "item": "Green Chartreuse",
+    "volume": 0.5,
+    "unit": "oz",
+    "isLiquid": true
+  },
+
+  "ingredient_5": 
+  {
+    "item": "Sugar cube",
+    "volume": 1,
+    "unit": "count",
+    "isLiquid": false
+  },
+
+  "popularity": 0.7,
+  "difficulty": 0.4,
+  "instructions": 
+  [
+    "Muddle the sugar cube at the bottom of the cocktail shaker.",
+    "Add all the liquid ingredients to the shaker.",
+    "Fill the shaker with ice and shake until chilled.",
+    "Strain the mixture into a chilled cocktail glass."
+  ],
+
+  "taste_profile": ["Bittersweet", "Herbal", "Citrus"],
+  "garnish": "Lemon twist",
+  "alcohol_content": 0.4,
+
+  "glassware_type": "Cocktail glass",
+  "mixing_method": "Shake",
+  "served": "Chilled"
+}

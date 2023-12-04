@@ -1,0 +1,38 @@
+{
+  "cocktailName": "Silver Bullet",
+  "ingredients": [
+    {
+      "name": "Scotch Whisky",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon Juice",
+      "volume": 0.75,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Grenadine",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true,
+      "optional": true
+    }
+  ],
+  "popularity": 0.35,
+  "difficulty": 0.45,
+  "instructions": [
+    "Pour Scotch whisky into an iced shaker",
+    "Add fresh lemon juice",
+    "If desired, add a splash of grenadine to sweeten",
+    "Shake well, and strain into a chilled cocktail glass"
+  ],
+  "tasteProfile": ["Strong", "Sour", "Slightly Sweet"],
+  "garnish": "Cherry",
+  "alcoholContent": 40,
+  "drinkware": "Cocktail Glass",
+  "servingMethod": "Shaken",
+  "cocktailStyle": "Sour"
+}

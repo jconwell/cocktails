@@ -1,0 +1,53 @@
+{
+  "name": "Tickled Pink",
+  "ingredients": [
+    {
+      "name": "Gin",
+      "volume": 1.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Apple Schnapps",
+      "volume": 1.0,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Cranberry Juice",
+      "volume": 2.0,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Pineapple Juice",
+      "volume": 1.0,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Lime",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.2,
+  "difficulty": 0.3,
+  "instructions": [
+    "Pour all ingredients except lime into shaker filled with ice",
+    "Shake well and strain into glass",
+    "Squeeze lime into drink, stir, and serve"
+  ],
+  "tasteProfile": [
+    "sour",
+    "sweet",
+    "fruity"
+  ],
+  "garnish": "lime wedge",
+  "alcoholContent": 0.21,
+  "cocktailType": "mixed",
+  "servingSize": "1 glass",
+  "servingGlassType": "highball glass",
+  "color": "pink"
+}

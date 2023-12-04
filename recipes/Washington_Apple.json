@@ -1,0 +1,40 @@
+{
+  "cocktail": "Washington Apple",
+  "ingredients": [
+    {
+      "name": "Canadian Whisky",
+      "volume": 1.5,
+      "unit": "ounces", 
+      "isLiquid": true
+    },
+    {
+      "name": "Sour Apple Pucker", 
+      "volume": 1.5, 
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Cranberry Juice", 
+      "volume": 3,
+      "unit":  "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.8,
+  "difficulty": 0.2,
+  "instructions": [
+        "Pour whisky, apple pucker, and cranberry juice into a shaker.",
+        "Shake well.",
+        "Strain into a chilled cocktail glass."
+        ],
+  "taste_profile": [
+    "sweet",
+    "fruity",
+    "sour"
+  ],
+  "garnish": "Green Apple Slice",
+  "alcohol_content": 0.28,
+  "cocktailType": "shaken",
+  "glassType": "Cocktail Glass",
+  "servings": 1
+}

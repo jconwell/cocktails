@@ -1,0 +1,39 @@
+{
+  "cocktail": {
+    "name": "Mind Eraser",
+    "ingredients": [
+      {
+        "name": "Vodka",
+        "volume": 1,
+        "unit": "oz",
+        "isLiquid": true
+      },
+      {
+        "name": "Kahlua",
+        "volume": 1,
+        "unit": "oz",
+        "isLiquid": true
+      },
+      {
+        "name": "Soda Water",
+        "volume": 1,
+        "unit": "oz",
+        "isLiquid": true
+      }
+    ],
+    "popularity": 0.65,
+    "difficulty": 0.2,
+    "instructions": [
+      "Fill a glass with ice.",
+      "Pour vodka over the ice.",
+      "Pour Kahlua over the vodka.",
+      "Top with soda water."
+    ],
+    "tasteProfile": ["Sweet", "Bitter"],
+    "garnishes": "No garnish",
+    "alcoholContent": 0.4,
+    "color": "Brown",
+    "glassType": "Rocks Glass",
+    "isShaken": false
+  }
+}

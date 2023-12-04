@@ -1,0 +1,54 @@
+{
+  "cocktailName": "Fluffy Critter",
+  "ingredients": [
+    {
+      "ingredientName": "Vodka",
+      "ingredientVolume": 1.5,
+      "ingredientUnit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Peach schnapps",
+      "ingredientVolume": 1,
+      "ingredientUnit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Cranberry juice",
+      "ingredientVolume": 2,
+      "ingredientUnit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Grenadine",
+      "ingredientVolume": 0.5,
+      "ingredientUnit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Ice cubes",
+      "ingredientVolume": 3,
+      "ingredientUnit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.4,
+  "difficulty": 0.15,
+  "preparationInstructions": [
+    "Pour vodka and peach schnapps into a shaker.",
+    "Add cranberry juice to the shaker.",
+    "Shake well until chilled.",
+    "Strain into a glass full of ice cubes.",
+    "Gently pour the grenadine over the drink. It will sink to the bottom, creating a layered effect."
+  ],
+  "tasteProfile": ["Sweet", "Fruity"],
+  "garnish": "Maraschino cherry",
+  "alcoholContent": 0.25,
+  "glassType": "Highball glass",
+  "serveType" : "Cold",
+  "baseSpirit": "Vodka",
+  "preparationTime" : 5,
+  "colour" : "Red",
+  "texture" : "Smooth",
+  "origin" : "USA"
+}

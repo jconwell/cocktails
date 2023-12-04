@@ -1,0 +1,51 @@
+{
+  "cocktail": {
+    "name": "Takumi's Aviation",
+    "ingredients": [
+      {
+        "name": "Gin",
+        "amount": 2,
+        "unit": "ounces",
+        "isLiquid": true
+      },
+      {
+        "name": "Lemon Juice",
+        "amount": 0.75,
+        "unit": "ounces",
+        "isLiquid": true
+      },
+      {
+        "name": "Maraschino Liqueur",
+        "amount": 0.5,
+        "unit": "ounces",
+        "isLiquid": true
+      },
+      {
+        "name": "Creme de Violette",
+        "amount": 0.25,
+        "unit": "ounces",
+        "isLiquid": true
+      }
+    ],
+    "popularity": 0.65,
+    "difficulty": 0.4,
+    "procedure": [
+      "Combine the ingredients in a shaker with ice.",
+      "Shake well.",
+      "Strain into a chilled cocktail glass."
+    ],
+    "tasteProfile": [
+      "tart",
+      "floral",
+      "sweet"
+    ],
+    "garnish": "Maraschino cherry",
+    "alcoholContent": 0.24,
+    "serveMethod": "Straight Up",
+    "glassType": "Cocktail Glass",
+    "primarySpirit": "Gin",
+    "isClassic": true,
+    "originCountry": "USA",
+    "originYear": 1916
+  }
+}

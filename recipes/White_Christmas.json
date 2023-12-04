@@ -1,0 +1,49 @@
+{
+  "name": "White Christmas",
+  "ingredients": [
+    {
+      "name": "Vodka",
+      "volume": 1,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Eggnog",
+      "volume": 1,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Amaretto",
+      "volume": 1,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Nutmeg",
+      "volume": 1,
+      "unit": "pinch",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.2,
+  "instructions": [
+    "In a shaker filled with ice, combine vodka, eggnog, and amaretto.",
+    "Shake until well chilled, about 20 seconds.",
+    "Strain into a chilled cocktail glass.",
+    "Sprinkle with nutmeg."
+  ],
+  "tasteProfile": [
+    "creamy",
+    "sweet",
+    "spicy"
+  ],
+  "garnish": "Nutmeg sprinkle",
+  "alcoholContent": 0.2,
+  "glassType": "Cocktail glass",
+  "cocktailType": "Shaken",
+  "origin": "North America",
+  "color": "White",
+  "servingTemperature": "Chilled"
+}

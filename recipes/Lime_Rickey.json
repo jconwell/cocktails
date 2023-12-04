@@ -1,0 +1,50 @@
+{
+  "cocktailName": "Lime Rickey",
+  "ingredientList": [
+    {
+      "ingredientName": "Gin",
+      "volume": 2,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Fresh lime juice",
+      "volume": 1,
+      "unitOfMeasure": "ounce",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Simple syrup",
+      "volume": 0.5,
+      "unitOfMeasure": "ounce",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Club soda",
+      "volume": 3,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.4,
+  "steps": [
+    "Fill the glass with ice",
+    "Add gin, fresh lime juice, and simple syrup",
+    "Top off with club soda",
+    "Stir well and garnish with lime wheel"
+  ],
+  "tasteProfile": [
+    "Sweet", 
+    "Tangy", 
+    "Refreshing"
+  ],
+  "garnish": "Lime wheel",
+  "alcoholContent": 0.15,
+  "glassware": "Highball glass",
+  "serveMethod": "On the rocks",
+  "temperature": "Cold",
+  "occasion": ["Summer", "Casual", "Refreshing drink"],
+  "baseSpirit": "Gin",
+  "bartendingSkillRequired": "Beginner"
+}

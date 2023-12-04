@@ -1,0 +1,43 @@
+{
+  "cocktailName": "Jazmin Sour",
+  "ingredients": [
+    {
+      "name": "Gin",
+      "volume": 2.0,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Fresh lemon juice",
+      "volume": 0.75,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Jasmine Syrup",
+      "volume": 0.75,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Egg white",
+      "volume": 1.0,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.3,
+  "instructions": [
+    "In a shaker, combine gin, lemon juice, jasmine syrup, and egg white.",
+    "Shake without ice to combine ingredients and emulsify the egg white.",
+    "Add ice and shake again until well chilled.",
+    "Strain into a chilled glass."
+  ],
+  "tasteProfile": ["Citrus", "Floral", "Sour"],
+  "garnish": "Jasmine flower and Lemon twist",
+  "alcoholContent": 0.2,
+  "recommendedGlass": "Old Fashioned Glass",
+  "color": "Cloudy white",
+  "timeRequired": 5
+}

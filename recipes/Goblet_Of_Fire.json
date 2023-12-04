@@ -1,0 +1,56 @@
+{
+  "name": "Goblet Of Fire",
+  "ingredients": [
+    {
+      "name": "Blue Curacao",
+      "volume": 1,
+      "unitOfMeasure": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Vodka",
+      "volume": 2,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon Juice",
+      "volume": 1,
+      "unitOfMeasure": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Bacardi 151",
+      "volume": 1.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Cinnamon",
+      "volume": 1,
+      "unitOfMeasure": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.65,
+  "difficulty": 0.8,
+  "instructions": [
+    "Mix all ingredients, except Bacardi, in a shaker with ice.",
+    "Pour into a cocktail glass.",
+    "Float Bacardi 151 on top.",
+    "Light Bacardi with a lighter.",
+    "Sprinkle cinnamon into the flame."
+  ],
+  "tasteProfile": ["Sweet", "Acidic", "Strong"],
+  "garnish": "Cinnamon Stick",
+  "alcoholContent": 0.325,
+  "flavourIntensity": 0.8,
+  "sourness": 0.6,
+  "sweetness": 0.4,
+  "bitterness": 0,
+  "spiciness": 0.2,
+  "colour": "Blue",
+  "texture": "Smooth",
+  "temperature": "Cold",
+  "carbonation": false
+}

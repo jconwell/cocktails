@@ -1,0 +1,39 @@
+{
+  "cocktailName": "Rob Roy",
+  "ingredients": [
+    {
+      "name": "Blended Scotch Whisky",
+      "volume": 1.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Sweet Vermouth",
+      "volume": 0.75,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Angostura Bitters",
+      "volume": 2,
+      "unit": "dashes",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.6,
+  "instructions": [
+    "Fill mixing glass with ice cubes.",
+    "Add all ingredients.",
+    "Stir and strain into a cocktail glass.",
+    "Garnish with Maraschino cherry."
+  ],
+  "tasteProfile": ["spicy", "bitter", "sweet"],
+  "garnishes": "Maraschino Cherry",
+  "alcoholContent": 0.26,
+  "category": "Classic Cocktails",
+  "glassware": "Cocktail Glass",
+  "seasonality": ["fall", "winter"],
+  "color": "amber",
+  "texture": "smooth"
+}

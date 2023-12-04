@@ -1,0 +1,48 @@
+{
+  "cocktail_name": "Friar Tuck",
+  "ingredients": [
+    {
+      "ingredient_name": "Benedictine",
+      "volume": 1.25,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Lemon Juice",
+      "volume": 0.5,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Honey Syrup",
+      "volume": 0.5,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Mint Leaves",
+      "volume": 6,
+      "unit": "leaves",
+      "is_liquid": false
+    }
+  ],
+  "popularity_score": 0.6,
+  "difficulty_score": 0.3,
+  "instructions": [
+    "Add all the ingredients into a shaker.",
+    "Shake until well chilled.",
+    "Strain into a cocktail glass."
+  ],
+  "taste_profile": [
+    "Herbaceous",
+    "Sour",
+    "Sweet"
+  ],
+  "garnishes": "Mint sprig",
+  "alcohol_content": 0.15,
+  "color": "Gold",
+  "glass_type": "Cocktail glass",
+  "presentation": "Neat",
+  "serving_temperature": "Cold",
+  "base_spirit": "Benedictine"
+}

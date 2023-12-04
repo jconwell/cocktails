@@ -1,0 +1,40 @@
+{
+  "cocktailName": "Orgasm",
+  "ingredients": [
+    {
+      "name": "Creme de Cacao",
+      "volume": 0.67,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Amaretto",
+      "volume": 0.67,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Bailey’s Irish Cream",
+      "volume": 0.67,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.3,
+  "instructions": [
+    "Pour the creme de cacao into a shot glass.",
+    "Slowly pour the amaretto over the back of a spoon so that it floats on top of the creme de cacao.",
+    "Repeat with the Bailey's Irish Cream."
+  ],
+  "tasteProfile": [
+    "sweet",
+    "creamy",
+    "chocolatey",
+    "nutty"
+  ],
+  "garnish": "None",
+  "alcoholContent": 0.3,
+  "color": "Brown",
+  "servingGlass": "Shot Glass"
+}

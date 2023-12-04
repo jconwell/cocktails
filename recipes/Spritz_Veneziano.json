@@ -1,0 +1,47 @@
+{
+  "cocktail": {
+    "name": "Spritz Veneziano",
+    "ingredients": [
+      {
+        "name": "Prosecco",
+        "volume": 3,
+        "unit": "ounces",
+        "isLiquid": true
+      },
+      {
+        "name": "Aperol",
+        "volume": 2,
+        "unit": "ounces",
+        "isLiquid": true
+      },
+      {
+         "name": "Soda water",
+         "volume": 1,
+         "unit": "ounce",
+         "isLiquid": true
+      }
+    ],
+    "popularity": 0.7,
+    "difficulty": 0.2,
+    "instructions": [
+      "Fill a wine glass half-full with ice.",
+      "Pour the Prosecco, Aperol and soda water over the ice.",
+      "Stir gently to mix.",
+      "Garnish with a slice of orange."
+    ],
+    "tasteProfile": [
+      "Bitter",
+      "Sweet",
+      "Refreshing"
+    ],
+    "garnishes": "Orange slice",
+    "alcoholContent": 0.11,
+    "servingGlass": "Wine glass",
+    "hasCream": false,
+    "hasFruit": true,
+    "hasHerb": false,
+    "isClassicCocktail": true,
+    "requiresMuddling": false,
+    "requiresShaking": false
+  }
+}

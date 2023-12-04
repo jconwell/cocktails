@@ -1,0 +1,43 @@
+{
+  "cocktailName": "Deep Blue Sea Martini",
+  "ingredients": [
+    {
+      "name": "vodka",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "blue curacao",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "sweet and sour mix",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.3,
+  "instructions": [
+    "Chill martini glass.", 
+    "Pour all ingredients in a shaker with ice.", 
+    "Shake well and strain into the chilled martini glass."
+  ],
+  "tasteProfile": [
+    "sweet",
+    "sour",
+    "citrus"
+  ],
+  "garnish": "lime wedge",
+  "alcoholContent": 0.25,
+  "classType": "Martini",
+  "color": "blue",
+  "servingSize": 1,
+  "servingGlass": "Martini Glass",
+  "drinkTemperature": "cold",
+  "prepTime": 5
+}

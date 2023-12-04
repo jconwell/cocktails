@@ -1,0 +1,38 @@
+{
+  "name": "Orange Martini",
+  "ingredients": [
+    {
+      "name": "Vodka",
+      "volume": 1.5,
+      "unit": "Oz",
+      "is_liquid": true
+    },
+    {
+      "name": "Orange Liqueur",
+      "volume": 1,
+      "unit": "Oz",
+      "is_liquid": true
+    },
+    {
+      "name": "Orange Juice",
+      "volume": 1,
+      "unit": "Oz",
+      "is_liquid": true
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.2,
+  "instructions": [
+    "In a mixer with ice, pour all the ingredients",
+    "Shake well",
+    "Strain into a chilled martini glass"
+  ],
+  "taste_profile": [
+    "Sweet",
+    "Citrus"
+  ],
+  "garnish": "Orange Twist",
+  "alcohol_content": 20.0,
+  "glassware": "Martini Glass",
+  "serving_temperature": "Cold"
+}

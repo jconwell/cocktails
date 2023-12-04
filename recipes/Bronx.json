@@ -1,0 +1,48 @@
+{
+  "CocktailName": "Bronx",
+  "Ingredients": [
+    {
+      "name": "Gin",
+      "volume": 1.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Sweet Vermouth",
+      "volume": 0.75,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Dry Vermouth",
+      "volume": 0.75,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Orange Juice",
+      "volume": 1,
+      "unit": "oz",
+      "isLiquid": true
+    }
+  ],
+  "Popularity": 0.65,
+  "Difficulty": 0.5,
+  "Instructions": [
+    "Pour all the ingredients into a shaker with ice cubes.",
+    "Shake well.",
+    "Strain into a chilled cocktail glass."
+  ],
+  "TasteProfile": [
+    "Citrus",
+    "Sweet",
+    "Bitter"
+  ],
+  "Garnishes": "Orange peel twist",
+  "AlcoholContent": 0.2,
+  "Glassware": "Cocktail glass",
+  "Colour": "Orange",
+  "ServingTemp": "Chilled",
+  "PreparationTime": 3.0,
+  "Cost": 1.0
+}

@@ -1,0 +1,44 @@
+{
+  "cocktail": {
+    "name": "Sloe Screwdriver",
+    "ingredients": [
+      {
+        "name": "Vodka",
+        "volume": 1.5,
+        "unit": "oz",
+        "is_liquid": true
+      },
+      {
+        "name": "Sloe Gin",
+        "volume": 0.5,
+        "unit": "oz",
+        "is_liquid": true
+      },
+      {
+        "name": "Orange Juice",
+        "volume": 5,
+        "unit": "oz",
+        "is_liquid": true
+      }
+    ],
+    "popularity": 0.5,
+    "difficulty": 0.2,
+    "instructions": [
+      "Fill a highball glass with ice cubes.",
+      "Add vodka and sloe gin to the glass.",
+      "Top with orange juice.",
+      "Stir well."
+    ],
+    "taste_profile": [
+      "Sweet",
+      "Fruity",
+      "Bitter"
+    ],
+    "garnish": "Orange slice and cherry",
+    "alcohol_content": 0.11,
+    "prep_time_minutes": 3,
+    "glass_type": "Highball glass",
+    "serving_temperature": "Cold",
+    "strength": "Medium"
+  }
+}

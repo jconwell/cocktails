@@ -1,0 +1,52 @@
+{
+  "cocktailName": "Jack O'lantern",
+  "ingredients": [
+    {
+      "name": "Whiskey",
+      "volume": 2.0,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Ginger Ale",
+      "volume": 4.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Pumpkin Puree",
+      "volume": 1,
+      "unitOfMeasure": "spoon",
+      "isLiquid": false
+    },
+    {
+      "name": "Lemon Juice",
+      "volume": 0.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Maple Syrup",
+      "volume": 0.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.4,
+  "instructions": [
+    "In a shaker, combine whiskey, lemon juice, pumpkin purée, and maple syrup.",
+    "Add ice and shake.",
+    "Strain into a ice-filled glass.",
+    "Top with ginger ale."
+  ],
+  "tasteProfile": ["Sweet", "Citrus", "Spicy"],
+  "garnish": "Lemon Wheel",
+  "alcoholContent": 0.14,
+  "glassType": "Highball Glass",
+  "cocktailType": "Short Drink",
+  "servingTemperature": "Cold",
+  "prepTime": 5, 
+  "suitableEvent": ["Halloween", "Autumn Parties"],
+  "color": "Yellow"
+}

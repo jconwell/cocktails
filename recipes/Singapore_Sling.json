@@ -1,0 +1,83 @@
+{
+  "Cocktail": {
+    "name": "Singapore Sling",
+    "ingredients": [
+      {
+        "ingredient_name": "Gin",
+        "quantity": 1.0,
+        "unit": "oz",
+        "isLiquid": true
+      },
+      {
+        "ingredient_name": "Cherry Brandy",
+        "quantity": 0.5,
+        "unit": "oz",
+        "isLiquid": true
+      },
+      {
+        "ingredient_name": "Lime Juice",
+        "quantity": 0.5,
+        "unit": "oz",
+        "isLiquid": true
+      },
+      {
+        "ingredient_name": "Pineapple Juice",
+        "quantity": 2.0,
+        "unit": "oz",
+        "isLiquid": true
+      },
+      {
+        "ingredient_name": "Benedictine",
+        "quantity": 0.25,
+        "unit": "oz",
+        "isLiquid": true
+      },
+      {
+        "ingredient_name": "Grenadine",
+        "quantity": 0.25,
+        "unit": "oz",
+        "isLiquid": true
+      },
+      {
+        "ingredient_name": "Angostura Bitters",
+        "quantity": 1,
+        "unit": "dash",
+        "isLiquid": true
+      },
+      {
+        "ingredient_name": "Club Soda",
+        "quantity": 1.0,
+        "unit": "oz",
+        "isLiquid": true
+      },
+      {
+        "ingredient_name": "Cherry",
+        "quantity": 1,
+        "unit": "count",
+        "isLiquid": false
+      },
+      {
+        "ingredient_name": "Pineapple Slice",
+        "quantity": 1,
+        "unit": "count",
+        "isLiquid": false
+      }
+    ],
+    "popularity": 0.7,
+    "complexity": 0.6,
+    "steps": [
+      "Combine all ingredients, except for club soda, in a shaker filled with ice.",
+      "Shake well.",
+      "Strain into a highball glass.",
+      "Top with the club soda.",
+      "Garnish with a cherry and a slice of pineapple."
+    ],
+    "taste_profile": ["Sweet", "Fruity", "Sour"],
+    "garnishes": "Cherry, Pineapple Slice",
+    "alcohol_content": 0.22,
+    "glass_type": "highball glass",
+    "cocktail_type": "Long drink",
+    "origin": "Singapore",
+    "color": "Red"
+  }
+}

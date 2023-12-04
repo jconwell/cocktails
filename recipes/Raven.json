@@ -1,0 +1,41 @@
+{
+  "cocktailName": "Raven",
+  "ingredients": [
+    {
+      "name": "Vodka",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Blue Curacao",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Cranberry Juice",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.3,
+  "difficulty": 0.2,
+  "instructions": [
+    "Pour vodka into a cocktail shaker with ice",
+    "Add blue curacao",
+    "Add cranberry juice",
+    "Shake well",
+    "Strain into a chilled cocktail glass"
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Tart"
+  ],
+  "garnish": "None",
+  "alcoholContent": 0.4,
+  "flavorIntensity": 0.6,
+  "sweetnessLevel": 0.5,
+  "sournessLevel": 0.1
+}

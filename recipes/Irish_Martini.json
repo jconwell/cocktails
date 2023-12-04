@@ -1,0 +1,42 @@
+{
+  "cocktailName": "Irish Martini",
+  "ingredients": [
+    {
+      "name": "Jameson Irish Whiskey",
+      "volume": 2,
+      "measure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Baileys Irish Cream",
+      "volume": 1,
+      "measure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Creme de Menthe",
+      "volume": 1,
+      "measure": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.5,
+  "difficulty": 0.4,
+  "instructions": [
+    "Combine Jameson, Baileys, and Creme de Menthe in a cocktail shaker with ice",
+    "Shake well until chilled",
+    "Strain into a martini glass"
+  ],
+  "tasteProfile": [
+    "creamy",
+    "minty",
+    "strong"
+  ],
+  "garnish": "mint leaves",
+  "alcoholContent": 0.25,
+  "sweetnessLevel": 0.5,
+  "sournessLevel": 0.0,
+  "bitternessLevel": 0.2,
+  "spicinessLevel": 0.0,
+  "aromaIntensity": 0.4
+}

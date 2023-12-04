@@ -1,0 +1,47 @@
+{
+  "cocktail_name": "Southside",
+  "ingredients": [
+    {
+      "name": "gin",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "lime juice",
+      "volume": 0.75,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "simple syrup",
+      "volume": 0.75,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "mint leaves",
+      "volume": 6,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.68,
+  "difficulty": 0.25,
+  "instructions": [
+    "1. In a cocktail shaker, muddle the mint leaves with the simple syrup.",
+    "2. Add the gin and lime juice.",
+    "3. Fill the shaker with ice, cover, and shake until well chilled.",
+    "4. Strain into a chilled coupe glass."
+  ],
+  "taste_profile": [
+    "herbaceous",
+    "sweet",
+    "citrus"
+  ],
+  "garnishes": "mint leaf",
+  "alcohol_content": 0.2,
+  "cocktail_type": "classic",
+  "serving_glass": "coupe",
+  "mixing_method": "Shaken"
+}

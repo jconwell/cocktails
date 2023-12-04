@@ -1,0 +1,49 @@
+{
+  "cocktailName": "White Carnation",
+  "ingredients": [
+    {
+      "name": "Vodka",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Peach Schnapps",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Orange Juice",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Soda Water",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Heavy Cream",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.5,
+  "difficulty": 0.3,
+  "instructions": [
+    "Pour vodka, peach schnapps and orange juice into a shaker filled with ice.",
+    "Shake well.",
+    "Strain the mixture into a large glass filled with ice.",
+    "Add soda water.",
+    "Top with heavy cream."
+  ],
+  "tasteProfile": ["Sweet", "Creamy", "Citrus"],
+  "garnish": "None",
+  "alcoholContent": 0.12,
+  "glassType": "Highball glass",
+  "cocktailType": "Creamy"
+}

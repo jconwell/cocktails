@@ -1,0 +1,47 @@
+{
+  "name": "Candy Corn",
+  "ingredients": [
+    {
+      "name": "Pineapple vodka",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Banana liqueur",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Cream",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Candy Corn",
+      "volume": 3,
+      "unit": "pieces",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.4,
+  "difficulty": 0.3,
+  "instructions": [
+    "Pour the pineapple vodka, banana liqueur, and cream into a cocktail shaker with ice.",
+    "Shake well.",
+    "Strain into a cocktail glass.",
+    "Garnish with candy corn."
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Fruity",
+    "Creamy"
+  ],
+  "garnish": "Candy Corn",
+  "alcoholContent": 0.4,
+  "color": "Yellow",
+  "glassType": "Cocktail Glass",
+  "isShaken": true
+}

@@ -1,0 +1,39 @@
+{
+  "cocktailName": "French Martini",
+  "ingredients": [
+    {
+      "ingredientName": "Vodka",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Chambord",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName":"Pineapple Juice",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.2,
+  "instructions": [
+    "Fill shaker with ice cubes",
+    "Add all ingredients",
+    "Shake and strain into a chilled cocktail glass"
+  ],
+  "tasteProfile": ["Sweet", "Fruity"],
+  "garnish": "Lemon twist",
+  "alcoholContent": 0.22,
+  "color": "Purple",
+  "glassType": "Cocktail glass",
+  "isCarbonated": false,
+  "isTropical": false,
+  "isCreamy": false,
+  "isFruity": true
+}

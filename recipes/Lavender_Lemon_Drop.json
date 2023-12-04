@@ -1,0 +1,43 @@
+{
+  "cocktailName": "Lavender Lemon Drop",
+  "ingredients": [
+    {
+      "name": "Vodka",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon Juice",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lavender Syrup",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Sugar",
+      "volume": 1,
+      "unit": "teaspoon",
+      "isLiquid": false
+    }],
+  "popularity": 0.76,
+  "difficulty": 0.39,
+  "instructions": [
+    "Rim glass with sugar",
+    "In a shaker, combine vodka, lemon juice, and lavender syrup",
+    "Shake until well mixed",
+    "Pour into glass and serve"
+  ],
+  "tasteProfile": ["Sweet", "Citrus", "Floral"],
+  "garnish": "Lavender Sprig",
+  "alcoholContent": 0.22,
+  "glassType": "Cocktail Glass",
+  "chillRequired": true,
+  "servingSize": 1,
+  "cocktailType": "Modern classics"
+}

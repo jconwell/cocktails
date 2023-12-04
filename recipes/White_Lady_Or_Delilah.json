@@ -1,0 +1,47 @@
+{
+  "CocktailName": "White Lady Or Delilah",
+  "Ingredients": [
+    {
+      "IngredientName": "Gin",
+      "Volume": 2,
+      "UnitOfMeasure": "Ounces",
+      "IsLiquid": true
+    },
+    {
+      "IngredientName": "Cointreau or Triple Sec",
+      "Volume": 0.5,
+      "UnitOfMeasure": "Ounces",
+      "IsLiquid": true
+    },
+    {
+      "IngredientName": "Lemon Juice",
+      "Volume": 0.75,
+      "UnitOfMeasure": "Ounces",
+      "IsLiquid": true
+    },
+    {
+      "IngredientName": "Egg White",
+      "Volume": 1,
+      "UnitOfMeasure": "Count",
+      "IsLiquid": false
+    }
+  ],
+  "Popularity": 0.6,
+  "Difficulty": 0.5,
+  "Instructions": [
+    "Combine all ingredients in a shaker without ice and shake well.",
+    "Add ice to the shaker and shake again until well-chilled.",
+    "Strain into a chilled cocktail glass.",
+    "Garnish with a lemon peel."
+  ],
+  "TasteProfile": [
+    "Sour",
+    "Sweet"
+  ],
+  "Garnish": "Lemon Peel",
+  "AlcoholContent": 0.24,
+  "Glassware": "Cocktail Glass",
+  "ServingTemperature": "Cold",
+  "FlamingCocktail": false,
+  "MuddlingRequired": false
+}

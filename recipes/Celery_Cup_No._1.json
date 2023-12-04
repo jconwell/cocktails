@@ -1,0 +1,60 @@
+{
+  "cocktail_name": "Celery Cup No. 1",
+  "ingredients": [
+    {
+      "ingredient_name": "Pimm's No. 1",
+      "volume": 2,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "lemon juice",
+      "volume": 1,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "simple syrup",
+      "volume": 1,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "celery stalk",
+      "volume": 1,
+      "unit_of_measure": "count",
+      "is_liquid": false
+    },
+    {
+      "ingredient_name": "soda water",
+      "volume": 1,
+      "unit_of_measure": "splashes",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "cucumber",
+      "volume": 3,
+      "unit_of_measure": "slices",
+      "is_liquid": false
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.4,
+  "instructions": [
+    "Muddle the celery and cucumber in the base of a shaker.",
+    "Add other ingredients and shake vigorously.",
+    "Strain into an ice-filled glass.",
+    "Top with a splash of soda water."
+  ],
+  "taste_profile": [
+    "Sweet",
+    "Light",
+    "Refreshing"
+  ],
+  "garnish": "Cucumber slice and celery stalk",
+  "alcohol_content": 0.15,
+  "cocktail_type": "Long drink",
+  "glass_type": "Highball glass",
+  "temperature": "Cold",
+  "IBA_official": false
+}

@@ -1,0 +1,26 @@
+{
+  "cocktailName": "Homecoming Caipirinha",
+  "ingredients": [
+    { "ingredientName": "Cachaca", "amount": 2.0, "unit": "ounces", "isLiquid": true },
+    { "ingredientName": "Granulated Sugar", "amount": 2.0, "unit": "Teadpoons", "isLiquid": false },
+    { "ingredientName": "Lime", "amount": 1.0, "unit": "count", "isLiquid": false }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.3,
+  "instructionSteps": [
+    "Slice the lime into wedges and muddle with sugar in a glass.",
+    "Fill the glass with ice cubes and add cachaca.",
+    "Stir well until the ingredients are well combined."
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Sour",
+    "Strong"
+  ],
+  "garnish": "Lime Wheel",
+  "alcoholContent": 39.0,
+  "glassType": "Old-Fashioned",
+  "cocktailType": "Classic",
+  "color": "Clear",
+  "texture": "Smooth"
+}

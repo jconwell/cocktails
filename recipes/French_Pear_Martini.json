@@ -1,0 +1,49 @@
+{
+    "name": "French Pear Martini",
+    "ingredients": [
+        {
+            "name": "vodka",
+            "volume": 1.5,
+            "unit": "ounces",
+            "isLiquid": true
+        },
+        {
+            "name": "pear nectar",
+            "volume": 1,
+            "unit": "ounces",
+            "isLiquid": true
+        },
+        {
+            "name": "lime juice",
+            "volume": 0.5,
+            "unit": "ounces",
+            "isLiquid": true
+        },
+        {
+            "name": "simple syrup",
+            "volume": 0.5,
+            "unit": "ounces",
+            "isLiquid": true
+        }
+    ],
+    "popularity": 0.7,
+    "difficulty": 0.4,
+    "instructions": [
+        "Combine vodka, pear nectar, lime juice, and simple syrup in a cocktail shaker filled with ice.",
+        "Shake well.",
+        "Strain into a chilled martini glass.",
+        "Serve immediately."
+    ],
+    "tasteProfile": [
+        "sweet",
+        "fruity",
+        "tart"
+    ],
+    "garnish": "lime wheel",
+    "alcoholContent": 13.5,
+    "glassType": "martini",
+    "occasion": ["holiday", "special event"],
+    "servingTemperature": "cold",
+    "color": "light yellow",
+    "mainAlcohol": "vodka"
+}

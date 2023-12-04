@@ -1,0 +1,43 @@
+{
+  "name": "White Martini",
+  "ingredients": [
+    {
+      "name": "Vodka",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Dry Vermouth",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Ice Cubes",
+      "volume": 4,
+      "unit": "cubes",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.2,
+  "instructions": [
+    "Fill a shaker with ice cubes.",
+    "Add vodka and dry vermouth.",
+    "Shake and strain into a chilled martini glass."
+  ],
+  "taste_profile": [
+    "Strong",
+    "Crisp",
+    "Bitter"
+  ],
+  "garnish": "Lemon twist or olive",
+  "alcohol_content": 0.4,
+  "glassware": "Martini Glass",
+  "serving_style": "Straight Up",
+  "origin": "USA",
+  "primary_alcohol": "Vodka",
+  "serving_temperature": "Cold",
+  "color": "Clear"
+}

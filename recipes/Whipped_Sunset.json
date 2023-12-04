@@ -1,0 +1,56 @@
+{
+  "name": "Whipped Sunset",
+  "ingredients": [
+    {
+      "ingredientName": "vodka",
+      "volume": 2.0,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Pineapple Juice",
+      "volume": 4.0,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Orange Juice",
+      "volume": 3.0,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Whipped Cream",
+      "volume": 1,
+      "unit": "ounce",
+      "isLiquid": false
+    },
+    {
+      "ingredientName": "grenadine",
+      "volume": 1.0,
+      "unit": "ounce",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.65,
+  "difficulty": 0.2,
+  "instructions": [
+    "Fill a shaker with ice cubes",
+    "Add vodka, pineapple juice and orange juice",
+    "Shake and strain into a chilled highball glass filled with ice cubes",
+    "Top with whipped cream",
+    "Slowly pour grenadine over the back of a spoon to create a sunset effect"
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Fruity",
+    "Chilled"
+  ],
+  "garnishes": "Orange Slice and Maraschino Cherry",
+  "alcoholContent": 0.14,
+  "servingGlass": "Highball glass",
+  "drinkType": "Cocktail",
+  "isCarbonated": false,
+  "isCreamy": true,
+  "isFruity": true
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Mango Sour",
+  "ingredients": [
+    {
+      "name": "Rum",
+      "volume": 1.5,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Fresh mango juice",
+      "volume": 2,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Fresh lime juice",
+      "volume": 0.5,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Simple syrup",
+      "volume": 0.5,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Ice cubes",
+      "volume": 3,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.4,
+  "instructions": [
+    "Combine rum, mango juice, lime juice, and simple syrup in a shaker.",
+    "Add ice and shake until well-chilled.",
+    "Strain into a chilled glass."
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Sour",
+    "Fruity"
+  ],
+  "garnish": "Mango slice",
+  "alcoholContent": 0.15,
+  "servingSize": "1",
+  "servingUnit": "glass",
+  "cocktailType": "Fruity",
+  "glassType": "Sour glass",
+  "prepTime": "5",
+  "prepUnit": "minutes"
+}

@@ -1,0 +1,51 @@
+{
+  "cocktail_name": "Hawaiian Margarita",
+  "recipe": [
+    {
+      "ingredient_name": "Tequila",
+      "volume": 2,
+      "unit_of_measure": "ounce",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Pineapple Juice",
+      "volume": 1,
+      "unit_of_measure": "ounce",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Lime Juice",
+      "volume": 1,
+      "unit_of_measure": "ounce",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Triple Sec",
+      "volume": 0.75,
+      "unit_of_measure": "ounce",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Granulated Sugar",
+      "volume": 1,
+      "unit_of_measure": "teaspoon",
+      "is_liquid": false
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.3,
+  "instructions": [
+    "Add all ingredients into a shaker with ice and shake until well-chilled.",
+    "Strain into a margarita glass rimmed with salt.",
+    "Add fresh ice to the glass.",
+    "Garnish with a pineapple slice and a cherry."
+  ],
+  "taste_profile": ["Sweet", "Citrus", "Fruity"],
+  "garnish": "Pineapple Slice and Cherry",
+  "alcohol_content": 0.22,
+  "glass_type": "Margarita Glass",
+  "serve_method": "On the Rocks",
+  "origin": "Mexico",
+  "flavor_intensity": 0.8,
+  "color": "Yellow"
+}

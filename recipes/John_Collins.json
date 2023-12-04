@@ -1,0 +1,51 @@
+{
+  "name": "John Collins",
+  "ingredients": [
+    {
+      "name": "lemon juice",
+      "volume": 1,
+      "unitOfMeasure": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "simple syrup",
+      "volume": 1,
+      "unitOfMeasure": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Angostura bitters",
+      "volume": 3,
+      "unitOfMeasure": "dash",
+      "isLiquid": true
+    },
+    {
+      "name": "soda water",
+      "volume": 2,
+      "unitOfMeasure": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "bourbon",
+      "volume": 2,
+      "unitOfMeasure": "ounce",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.3,
+  "instruction": [
+    "In a shaker, combine the bourbon, lemon juice, simple syrup and bitters.",
+    "Fill shaker with ice and shake until well chilled.",
+    "Strain into a tall glass filled with ice cubes.",
+    "Top up with soda water."
+  ],
+  "tasteProfile": ["sweet", "sour", "bitter"],
+  "garnish": "lemon slice and maraschino cherry",
+  "alcoholContent": 0.2,
+  "signatureGlass": "Collins glass",
+  "shakeOrStir": "shake",
+  "servingMethod": "on the rocks",
+  "topWith": "soda water",
+  "blend": "no"
+}

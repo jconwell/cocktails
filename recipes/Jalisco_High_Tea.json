@@ -1,0 +1,48 @@
+{
+  "name": "Jalisco High Tea",
+  "ingredients": [
+    {
+      "name": "Fresh lemon juice",
+      "volume": 0.75,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Honey syrup",
+      "volume": 0.75,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Tequila",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Chilled chamomile tea",
+      "volume": 3,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.3,
+  "instructions": [
+    "Add all the ingredients into a shaker with ice and shake.",
+    "Strain into a highball glass over fresh ice.",
+    "Garnish with a lemon wheel."
+  ],
+  "tasteProfile": [
+    "Citrusy",
+    "Sweet",
+    "Smooth",
+    "Herbal"
+  ],
+  "garnish": "Lemon wheel",
+  "alcoholContent": 0.12,
+  "color": "Light Gold",
+  "drinkware": "Highball glass",
+  "preparationMethod": "Shake and strain",
+  "origin": "Mexico"
+}

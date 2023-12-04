@@ -1,0 +1,73 @@
+{
+  "name": "Long Island Iced Tea",
+  "ingredients": [
+    {
+      "name": "Vodka",
+      "amount": 0.5,
+      "measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Rum",
+      "amount": 0.5,
+      "measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Tequila",
+      "amount": 0.5,
+      "measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Gin",
+      "amount": 0.5,
+      "measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Triple Sec",
+      "amount": 0.5,
+      "measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": 0.75,
+      "measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Gomme Syrup",
+      "amount": 0.25,
+      "measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Coca Cola",
+      "amount": 1.0,
+      "measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Lemon Slice",
+      "amount": 1,
+      "measure": "count",
+      "is_liquid": false
+    }
+  ],
+  "popularity_score": 0.85,
+  "difficulty_score": 0.6,
+  "instructions": [
+    "Fill a shaker with ice cubes.",
+    "Add all ingredients except Coca Cola.",
+    "Shake and strain into a highball glass filled with ice cubes.",
+    "Top off with Coca Cola.",
+    "Garnish with a lemon slice."
+  ],
+  "taste_profile": ["sweet", "sour", "strong"],
+  "garnish": "Lemon Slice",
+  "alcohol_content": 0.22,
+  "cocktail_type": "Classic",
+  "glass_type": "Highball Glass"
+}

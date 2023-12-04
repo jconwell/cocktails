@@ -1,0 +1,51 @@
+{
+  "name": "Brandy Sour",
+  "ingredients": [
+    { 
+      "name": "Brandy",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon juice",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Simple Syrup",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Ice cubes",
+      "volume": 8,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.2,
+  "instructions": [
+    "Place ice cubes into glass",
+    "Pour brandy, lemon juice, and simple syrup over ice",
+    "Stir well to combine",
+    "Add more ice if needed",
+    "Serve immediately"
+  ],
+  "tasteProfile": [
+    "Sour",
+    "Sweet",
+    "Strong"
+  ],
+  "garnishes": "Lemon slice and a cherry",
+  "alcoholContent": 0.4,
+  "glassType": "Old-Fashioned glass",
+  "servingStyle": "On the rocks",
+  "origin": "Cyprus",
+  "IBA_official": false,
+  "added": "1922-07-30",
+  "modified": "2021-09-08"
+}

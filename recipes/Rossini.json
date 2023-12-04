@@ -1,0 +1,37 @@
+{
+  "cocktailName": "Rossini",
+  "ingredients": [
+    {
+      "name": "Strawberry puree",
+      "volume": 1.0,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Prosecco",
+      "volume": 4.0,
+      "unit": "oz",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.8,
+  "difficulty": 0.2,
+  "instructions": [
+    "Chill a champagne flute.",
+    "Add strawberry puree into the champagne flute.",
+    "Carefully add the prosecco into the flute to prevent excessive frothing."
+  ],
+  "tasteProfile": [
+    "sweet",
+    "fruity",
+    "bubbly"
+  ],
+  "garnish": "fresh strawberry",
+  "alcoholContent": 0.12,
+  "servingSize": 1,
+  "color": "rosy",
+  "glassType": "champagne flute",
+  "occasion": ["brunch", "celebration"],
+  "isClassicCocktail": false,
+  "isNonAlcoholOptionAvailable": false
+}

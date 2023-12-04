@@ -1,0 +1,67 @@
+{
+  "name": "Tom And Jerry",
+  "ingredients": [
+    {
+      "name": "Rum",
+      "volume": 1,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Brandy",
+      "volume": 1,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Egg",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    },
+    {
+      "name": "Sugar",
+      "volume": 1,
+      "unit": "tbsp",
+      "isLiquid": false
+    },
+    {
+      "name": "Milk",
+      "volume": 6,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Hot water",
+      "volume": 1,
+      "unit": "cup",
+      "isLiquid": true
+    },
+    {
+      "name": "Nutmeg",
+      "volume": 1,
+      "unit": "pinch",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.5,
+  "instructions": [
+    "Beat the egg yolk and white separately.",
+    "Stir sugar into the egg yolk.",
+    "Slowly mix in rum and brandy to the sugar and yolk mix.",
+    "Fold in the stiffly beaten egg white.",
+    "Pour into a mug and fill with hot milk and water combined together.",
+    "Sprinkle with nutmeg."
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Creamy",
+    "Spicy"
+  ],
+  "garnishes": "Nutmeg on top",
+  "alcoholContent": 0.15,
+  "glassware": "Mug",
+  "timing": "Night",
+  "serveAs": "Warm"
+}

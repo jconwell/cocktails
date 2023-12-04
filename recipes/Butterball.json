@@ -1,0 +1,40 @@
+{
+  "cocktailName": "Butterball",
+  "ingredients": [
+    {
+      "name": "Irish Cream",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Butterscotch Schnapps",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.4,
+  "difficulty": 0.1,
+  "instructions": [
+    "Step 1 - Chill a shot glass",
+    "Step 2 - Pour the Irish Cream into the shot glass",
+    "Step 3 - Add the Butterscotch Schnapps to the shot glass",
+    "Step 4 - Stir gently"
+  ],
+  "tasteProfile": [
+    "sweet",
+    "creamy",
+    "rich"
+  ],
+  "garnish": "None",
+  "alcoholContent": 0.22,
+  "servingGlass": "Shot glass",
+  "colour": "Creamy beige",
+  "texture": "Creamy",
+  "baseSpirit": "Irish Cream",
+  "preparationTime": 3,
+  "origin": "United States",
+  "cocktailType": "Short drink",
+  "flaming": false
+}

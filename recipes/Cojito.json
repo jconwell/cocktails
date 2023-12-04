@@ -1,0 +1,50 @@
+{
+  "Cocktail": "Cojito",
+  "Ingredients": [
+    {
+      "name": "fresh lime juice",
+      "volume": 1,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "fresh mint leaves",
+      "volume": 10,
+      "unit": "count",
+      "isLiquid": false
+    },
+    {
+      "name": "granulated sugar",
+      "volume": 2,
+      "unit": "teaspoon",
+      "isLiquid": false
+    },
+    {
+      "name": "white rum",
+      "volume": 2,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "freshly cracked coconut",
+      "volume": 1.5,
+      "unit": "ounce",
+      "isLiquid": false
+    }
+  ],
+  "Popularity": 0.8,
+  "Difficulty": 0.6,
+  "Instructions": [
+    "Lightly muddle the mint in a shaker.",
+    "Add the rum, lime juice, sugar, and coconut to the shaker.",
+    "Shake well.",
+    "Pour into a glass filled with ice.",
+    "Top off with more crushed ice.",
+    "Garnish with a mint sprig and enjoy."
+  ],
+  "TasteProfile": ["Sweet", "Fruity", "Fresh"],
+  "Garnish": "Mint sprig",
+  "AlcoholContent": 40.0,
+  "CocktailType": "Classic",
+  "Glassware": "Highball glass"
+}

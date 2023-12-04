@@ -1,0 +1,42 @@
+{
+  "cocktail_name": "Grasshopper",
+  "ingredients": [
+    {
+      "name": "Green Creme de Menthe",
+      "volume": 1,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "White Creme de Cacao",
+      "volume": 1,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Light Cream",
+      "volume": 1,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.2,
+  "instructions": [
+    "Pour the ingredients into a shaker filled with ice.",
+    "Shake well.",
+    "Strain the mixture into a chilled cocktail glass."
+  ],
+  "taste_profile": [
+    "Sweet",
+    "Creamy",
+    "Minty"
+  ],
+  "garnish": "Mint Leaf",
+  "alcohol_content": 0.24,
+  "base_alcohol": "Creme de Menthe",
+  "glass_type": "Cocktail Glass",
+  "serving_temperature": "Cold",
+  "prep_time_minutes": 5,
+  "color": "Green"
+}

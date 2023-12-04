@@ -1,0 +1,32 @@
+{
+  "cocktailName": "Kir Royal",
+  "ingredients": [
+    {
+      "name": "Crème de Cassis",
+      "volume": 1,
+      "unitOfMeasure": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Champagne",
+      "volume": 5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.3,
+  "instructions": [
+    "Pour the Crème de Cassis into a champagne flute.",
+    "Top with the Champagne.",
+    "Stir gently to mix."
+  ],
+  "tasteProfile": ["Sweet", "Fruity", "Bubbly"],
+  "garnish": "Lemon twist",
+  "alcoholContent": 0.12,
+  "color": "Purple",
+  "servingGlass": "Champagne flute",
+  "occasion": ["Celebrations", "Festive"],
+  "originCountry": "France",
+  "temperature": "Iced"
+}

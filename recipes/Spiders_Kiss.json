@@ -1,0 +1,59 @@
+{
+  "name": "Spider's Kiss",
+  "ingredients": [
+    {
+      "name": "Midori liqueur",
+      "volume": 1,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon juice",
+      "volume": 1,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Simple syrup",
+      "volume": 1,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Grenadine",
+      "volume": 1,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Ice",
+      "volume": 6,
+      "unit": "cube",
+      "isLiquid": false
+    },
+    {
+      "name": "Black licorice wheels",
+      "volume": 1,
+      "unit": "piece",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.65,
+  "difficulty": 0.4,
+  "steps": [
+    "Muddle the midori, lemon juice and simple syrup in a shaker.",
+    "Pour into glass filled with ice.",
+    "Drizzle grenadine down the side of the glass so it sinks to the bottom.",
+    "Garnish with the black licorice wheels."
+  ],
+  "tasteProfile": ["Sweet", "Fruity"],
+  "garnish": "Black licorice wheels",
+  "alcoholContent": 0.10,
+  "glassType": "Tall glass",
+  "served": "On the rocks",
+  "preparationTime": 5,
+  "recipeYield": 1,
+  "origin": "Unknown",
+  "color": "Green",
+  "texture": "Smooth"
+}

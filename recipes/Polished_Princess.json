@@ -1,0 +1,52 @@
+{
+  "name": "Polished Princess",
+  "ingredients": [
+    {
+      "name": "Vodka",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Cranberry Juice",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lime Juice",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Sugar",
+      "volume": 1,
+      "unit": "teaspoon",
+      "isLiquid": false
+    },
+    {
+      "name": "Cherry",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "method": [
+    "In a shaker, combine the vodka, cranberry juice, lime juice, and sugar.",
+    "Shake until well mixed and the sugar is dissolved.",
+    "Strain into a chilled cocktail glass.",
+    "Garnish with a cherry."
+  ],
+  "popularity": 0.65,
+  "difficulty": 0.4,
+  "tasteProfile": [
+    "Sweet",
+    "Tart",
+    "Fruity"
+  ],
+  "garnish": "Cherry",
+  "alcoholContent": 0.23,
+  "IBA_Official": true,
+  "glassType": "Cocktail Glass"
+}

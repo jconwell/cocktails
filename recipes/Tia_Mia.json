@@ -1,0 +1,56 @@
+{
+  "cocktail_name": "Tia Mia",
+  "ingredients": [
+    {
+      "ingredient_name": "White Rum",
+      "ingredient_volume": 1,
+      "unit_of_measure": "ounce",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Dark Rum",
+      "ingredient_volume": 1,
+      "unit_of_measure": "ounce",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Lime Juice",
+      "ingredient_volume": 0.75,
+      "unit_of_measure": "ounce",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Dry Curacao",
+      "ingredient_volume": 0.5,
+      "unit_of_measure": "ounce",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Orgeat Syrup",
+      "ingredient_volume": 0.5,
+      "unit_of_measure": "ounce",
+      "is_liquid": true
+    }
+  ],
+  "popularity": 0.65,
+  "difficulty": 0.35,
+  "instructions": [
+    "Combine all the ingredients in a cocktail shaker.",
+    "Add ice to the shaker.",
+    "Shake until well mixed.",
+    "Strain into a glass filled with ice.",
+    "Add garnish."
+  ],
+  "taste_profile": [
+    "Sweet",
+    "Citrus",
+    "Nutty"
+  ],
+  "garnish": "Mint sprig and Lime Wheel",
+  "alcohol_content": 0.22,
+  "color": "Amber",
+  "texture": "Smooth",
+  "drinkware": "Rocks glass",
+  "occasion": ["Evening", "Casual"],
+  "flavor_intensity": "Medium"
+}

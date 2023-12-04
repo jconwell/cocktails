@@ -1,0 +1,41 @@
+{
+  "name": "Malecon",
+  "ingredients": [
+    {
+      "name": "Dark Rum",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lime Juice",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Simple Syrup",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.2,
+  "instructions": [
+    "Squeeze fresh limes to get lime juice.",
+    "In a shaker, add dark rum, lime juice, and simple syrup.",
+    "Shake well for about 30 seconds.",
+    "Pour into a glass with ice."
+  ],
+  "tasteProfile": [
+    "Sour",
+    "Sweet",
+    "Strong"
+  ],
+  "garnish": "Lime slice",
+  "alcoholContent": 0.2,
+  "servingGlass": "Old-Fashioned glass",
+  "cocktailType": "Sour",
+  "originCountry": "Panama"
+}

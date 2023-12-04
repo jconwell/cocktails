@@ -1,0 +1,47 @@
+{
+"name": "Passion Pearl",
+"ingredients": [
+    {
+    "name": "Coconut Rum",
+    "volume": 1.5,
+    "unit": "ounces",
+    "isLiquid": true
+    },
+    {
+    "name": "Pineapple Juice",
+    "volume": 2,
+    "unit": "ounces",
+    "isLiquid": true
+    },
+    {
+    "name": "Passion Fruit Juice",
+    "volume": 1,
+    "unit": "ounces",
+    "isLiquid": true
+    },
+    {
+    "name": "Lime",
+    "volume": 1,
+    "unit": "count",
+    "isLiquid": false
+    }
+],
+"popularity": 0.6,
+"difficulty": 0.4,
+"instructions": [
+    "Pour coconut rum into a shaker with ice cubes.",
+    "Add pineapple juice and passion fruit juice.",
+    "Shake well and strain into a chilled cocktail glass.",
+    "Squeeze lime juice over the drink."
+],
+"taste_profile": ["sweet", "tropical", "fruity"],
+"garnishes": "Sprig of Mint",
+"alcohol_content": 0.15,
+"category": "Tropical Drinks",
+"glass_type": "Cocktail Glass",
+"serving_time": "All Day",
+"cocktail_type": "Rum-based",
+"color": "Yellow",
+"origin": "Unknown",
+"event": "Summer Parties"
+}

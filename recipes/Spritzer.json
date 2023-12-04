@@ -1,0 +1,45 @@
+{
+  "cocktail_name": "Spritzer",
+  "ingredients": [
+    {
+      "name": "White Wine",
+      "volume": 3.5,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Soda Water",
+      "volume": 3.5,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Ice cubes",
+      "volume": 5,
+      "unit_of_measure": "count",
+      "is_liquid": false
+    }
+  ],
+  "popularity": 0.75,
+  "difficulty": 0.2,
+  "step_by_step_instructions": [
+    "Fill the glass halfway with ice cubes.",
+    "Pour the white wine over the ice.",
+    "Top off with soda water."
+  ],
+  "taste_profile": [
+    "light",
+    "refreshing",
+    "bubbly"
+  ],
+  "garnish": "Lemon slice",
+  "alcohol_content": 0.12,
+  "glass_type": "Wine glass",
+  "is_cocktail_shaken": false,
+  "is_cocktail_stirred": false,
+  "sip_duration": 3.5, 
+  "serving_temperature": "cold",
+  "is_layered_cocktail": false,
+  "is_cream_based": false,
+  "alcoholic_category": "wine-based"
+}

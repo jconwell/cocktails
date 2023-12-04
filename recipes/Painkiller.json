@@ -1,0 +1,51 @@
+{
+  "name": "Painkiller",
+  "ingredients": [
+    {
+      "ingredient_name": "Rum",
+      "volume": 2,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Pineapple Juice",
+      "volume": 4,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Cream of Coconut",
+      "volume": 1,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Orange Juice",
+      "volume": 1,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Nutmeg",
+      "volume": 1,
+      "unit": "count",
+      "is_liquid": false
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.3,
+  "instructions": [
+    "Pour the rum, pineapple juice, juice of orange, and cream of coconut into a shaker filled with ice.",
+    "Shake well and strain into a glass filled with ice.",
+    "Grate fresh nutmeg on top as garnish."
+  ],
+  "taste_profile": [
+    "sweet",
+    "creamy",
+    "fruity"
+  ],
+  "garnish": "Grated Nutmeg",
+  "alcohol_content": 0.13,
+  "glass_type": "Hurricane Glass",
+  "served": "On the Rocks"
+}

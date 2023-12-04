@@ -1,0 +1,39 @@
+{
+  "name": "Roy Rogers",
+  "ingredients": [
+    {
+      "name": "Cola",
+      "volume": 8,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Grenadine",
+      "volume": 1,
+      "unit": "ounce",
+      "is_liquid": true
+    },
+    {
+      "name": "Maraschino Cherry",
+      "volume": 1,
+      "unit": "count",
+      "is_liquid": false
+    }
+  ],
+  "popularity": 0.65,
+  "difficulty": 0.2,
+  "instructions": [
+    "Pour cola into the glass over ice cubes",
+    "Stir in grenadine",
+    "Garnish with a maraschino cherry"
+  ],
+  "taste_profile": [
+    "sweet",
+    "sour"
+  ],
+  "garnish": "Maraschino Cherry",
+  "alcohol_content": 0.0,
+  "color": "amber",
+  "type": "non-alcoholic",
+  "glass_type": "Highball glass"
+}

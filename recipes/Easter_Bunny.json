@@ -1,0 +1,58 @@
+{
+  "cocktailName": "Easter Bunny",
+  "ingredients": [
+    {
+      "ingredientName": "Vodka",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Chocolate Liqueur",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Cherry Brandy",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Chocolate Syrup",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Cream",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Cherry",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.3,
+  "instructions": [
+    "Mix all ingredients in a shaker with ice.",
+    "Shake well until chilled",
+    "Strain into a cocktail glass"
+  ],
+  "tasteProfile": [
+    "sweet",
+    "creamy"
+  ],
+  "garnish": "Cherry on top",
+  "alcoholContent": 0.2,
+  "glassType": "Cocktail glass",
+  "isClassicCocktail": false,
+  "preferredSeason": "spring",
+  "isServedCold": true
+}

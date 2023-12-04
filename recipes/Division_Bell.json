@@ -1,0 +1,48 @@
+{
+  "name": "Division Bell",
+  "ingredients": [
+    {
+      "name": "Mezcal",
+      "volume": 0.75,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Aperol",
+      "volume": 0.75,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Maraschino liqueur",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Fresh lime juice",
+      "volume": 0.75,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.42,
+  "difficulty": 0.3,
+  "steps": [
+    "Combine all ingredients in a shaker",
+    "Shake vigorously with ice",
+    "Double strain into a chilled cocktail glass",
+    "Garnish with grapefruit twist"
+  ],
+  "tasteProfile": [
+    "Bitter",
+    "Citrus",
+    "Smoky"
+  ],
+  "garnishes": "Grapefruit twist",
+  "alcoholContent": 0.34,
+  "glassType": "Cocktail glass",
+  "prepTime": 3,
+  "mixingMethod": "Shake",
+  "ibasRating": 3.8
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Ghostbuster",
+  "ingredients": [
+    {
+      "ingredient": "Peach Schnapps",
+      "volume": 1.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "ingredient": "Melon Liqueur",
+      "volume": 1.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "ingredient": "Irish Cream",
+      "volume": 0.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.5,
+  "instructions": [
+    "Chill glass with ice and discard",
+    "Pour in the peach schnapps and melon liqueur",
+    "Float the irish cream on top"
+  ],
+  "tasteProfile": [
+    "sweet",
+    "creamy",
+    "fruity"
+  ],
+  "garnish": "None",
+  "alcoholContent": 0.25,
+  "classification": {
+    "type": "cocktail",
+    "flavor": "sweet",
+    "baseSpirit": "schnapps"
+  },
+  "glassware": "shot glass"
+}

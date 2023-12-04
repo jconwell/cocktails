@@ -1,0 +1,53 @@
+{
+   "cocktailName": "Snowshoe Grog",
+   "ingredients": [
+      {
+         "name": "Rum",
+         "volume": 1.5,
+         "unit": "ounces",
+         "isLiquid": true
+      },
+      {
+         "name": "Brandy",
+         "volume": 1.5,
+         "unit": "ounces",
+         "isLiquid": true
+      },
+      {
+         "name": "Lemon Juice",
+         "volume": 1,
+         "unit": "ounces",
+         "isLiquid": true
+      },
+      {
+         "name": "Sugar Syrup",
+         "volume": 0.5,
+         "unit": "ounces",
+         "isLiquid": true
+      },
+      {
+         "name": "Hot Water",
+         "volume": 3,
+         "unit": "ounces",
+         "isLiquid": true
+      }
+   ],
+   "popularity": 0.4,
+   "difficulty": 0.2,
+   "instructions": [
+      "In a saucepan, bring the water to a boil.",
+      "In a mug, combine the rum, brandy, lemon juice, and sugar syrup.",
+      "Pour the hot water into the mug and stir well."
+   ],
+   "tasteProfile": [
+      "sweet",
+      "acidic",
+      "warm"
+   ],
+   "garnish": "Lemon slice and cinnamon stick",
+   "alcoholContent": 0.15,
+   "glassType": "Mug",
+   "weather": "Cold",
+   "timeOfDay": "Evening",
+   "preparationTime": 5
+}

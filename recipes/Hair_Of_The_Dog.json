@@ -1,0 +1,48 @@
+{
+  "name": "Hair Of The Dog",
+  "ingredients": [
+    {
+      "name": "Gin",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon juice",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Honey syrup",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Ginger beer",
+      "volume": 4,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.3,
+  "instructions": [
+    "Fill a shaker with ice cubes",
+    "Add gin, lemon juice, and honey syrup into the shaker",
+    "Shake well",
+    "Strain into a highball glass filled with ice cubes",
+    "Top off with ginger beer"
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Sour",
+    "Spicy"
+  ],
+  "garnish": "Lemon wedge",
+  "alcoholContent": 0.1,
+  "cocktailType": "Long",
+  "glassType": "Highball glass",
+  "isShaken": true
+}

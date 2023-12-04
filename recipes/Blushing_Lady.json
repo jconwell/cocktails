@@ -1,0 +1,55 @@
+{
+  "name": "Blushing Lady",
+  "ingredients": [
+    {
+      "name": "PAMA Pomegranate Liqueur",
+      "volume": 2,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Grapefruit Juice",
+      "volume": 4,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Champagne",
+      "volume": 1,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Grenadine",
+      "volume": 1,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Ice",
+      "volume": 6,
+      "unit": "cube",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.3,
+  "instructions": [
+    "Fill a cocktail shaker with ice.",
+    "Add the PAMA Pomegranate Liqueur, grapefruit juice, and grenadine.",
+    "Shake well.",
+    "Strain into an ice-filled highball glass.",
+    "Top with the Champagne."
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Fruity",
+    "Tart"
+  ],
+  "garnish": "Pomegranate Seeds",
+  "alcoholContent": 0.10,
+  "glassType": "Highball Glass",
+  "cocktailType": "Alcoholic",
+  "primaryAlcohol": "Champagne",
+  "origin": "USA"
+}

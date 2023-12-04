@@ -1,0 +1,54 @@
+{
+  "name": "Fish House Punch",
+  "ingredients": [
+    {
+      "ingredient_name": "Sugar",
+      "volume": 3.5,
+      "unit": "cups",
+      "is_liquid": false
+    },
+    {
+      "ingredient_name": "Water",
+      "volume": 3,
+      "unit": "cups",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Lemon Juice",
+      "volume": 1.5,
+      "unit": "cups",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Dark Rum",
+      "volume": 2.5,
+      "unit": "cups",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Cognac",
+      "volume": 1.5,
+      "unit": "cups",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Peach Brandy",
+      "volume": 1,
+      "unit": "cup",
+      "is_liquid": true
+    }
+  ],
+  "popularity": 0.65,
+  "difficulty": 0.5,
+  "instructions": [
+    "Boil sugar and water until sugar dissolves.",
+    "Add lemon juice, dark rum, cognac, and peach brandy.",
+    "Pour into a punch bowl with ice.",
+    "Stir well and serve."
+  ],
+  "taste_profile": ["Sweet", "Citrus", "Strong"],
+  "garnish": "Lemon slices",
+  "alcohol_content": 0.2,
+  "duration": 20,
+  "serving": 10 // additional fields
+}

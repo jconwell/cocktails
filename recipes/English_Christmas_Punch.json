@@ -1,0 +1,25 @@
+{
+  "name": "English Christmas Punch",
+  "ingredients": [
+    {"ingredient": "Cognac", "volume": 8, "unit": "ounces", "isLiquid": true},
+    {"ingredient": "Jamaican dark rum", "volume": 8, "unit": "ounces", "isLiquid": true},
+    {"ingredient": "Oleo-Saccharum", "volume": 4, "unit": "ounces", "isLiquid": true},
+    {"ingredient": "Lemon juice", "volume": 4, "unit": "ounces", "isLiquid": true},
+    {"ingredient": "Cold water", "volume": 24, "unit": "ounces", "isLiquid": true},
+    {"ingredient": "Nutmeg", "volume": 1, "unit": "pinch", "isLiquid": false}
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.5,
+  "instructions": [
+    "In a punch bowl, combine the Cognac, rum, lemon juice, and Oleo-Saccharum.",
+    "Stir well for at least a minute, to properly mix the Oleo-Saccharum.",
+    "Add a large block of ice, then top with cold water, stirring gently.",
+    "Grate nutmeg over top."
+  ],
+  "tasteProfile": ["Strong", "Sweet", "Sour"],
+  "garnishes": "None",
+  "alcoholContent": 0.2,
+  "suitableSeason": "Winter",
+  "classicCocktail": true,
+  "serveIn": "Punch bowl"
+}

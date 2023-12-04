@@ -1,0 +1,38 @@
+{
+  "cocktail_name": "Boulevard",
+  "ingredient_list": [
+    {
+      "ingredient_name": "Rye Whiskey",
+      "volume": 1.5,
+      "unit_of_measure": "ounce",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Grand Marnier",
+      "volume": 1,
+      "unit_of_measure": "ounce",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Lemon Juice",
+      "volume": 0.25,
+      "unit_of_measure": "ounce",
+      "is_liquid": true
+    }
+  ],
+  "popularity_rating": 0.6,
+  "difficulty_rating": 0.4,
+  "step_by_step_instructions": [
+    "Add all the ingredients into a shaker with ice.",
+    "Shake until well chilled.",
+    "Strain into a cocktail glass."
+  ],
+  "taste_profile": ["citrus", "sweet", "strong"],
+  "garnish": "orange peel",
+  "alcohol_content": 0.4,
+  "additional_characteristics": {
+    "color": "amber",
+    "glass_type": "cocktail glass",
+    "cocktail_type": "classic"
+  }
+}

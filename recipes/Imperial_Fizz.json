@@ -1,0 +1,42 @@
+{
+    "name": "Imperial Fizz",
+    "ingredients": [
+        {
+            "ingredientName": "Bourbon Whiskey",
+            "volume": 1.5,
+            "unit": "ounces",
+            "isLiquid": true
+        },
+        {
+            "ingredientName": "Fresh Lemon Juice",
+            "volume": 1,
+            "unit": "ounces",
+            "isLiquid": true
+        },
+        {
+            "ingredientName": "Superfine Sugar",
+            "volume": 1,
+            "unit": "teaspoon",
+            "isLiquid": false
+        },
+        {
+            "ingredientName": "Club Soda",
+            "volume": 3,
+            "unit": "ounces",
+            "isLiquid": true
+        }
+    ],
+    "popularity": 0.65,
+    "difficulty": 0.3,
+    "instructions": [
+        "Shake the whiskey, lemon juice, and sugar vigorously with ice.",
+        "Strain into a chilled highball glass filled with ice cubes.",
+        "Top with club soda."
+    ],
+    "tasteProfile": ["sweet", "sour", "fizzy"],
+    "garnish": "Lemon slice and a cherry",
+    "alcoholContent": 0.12,
+    "servedIn": "Highball glass",
+    "primaryAlcohol": "Bourbon",
+    "flavor": ["Citrus", "Bright", "Refreshing"]
+}

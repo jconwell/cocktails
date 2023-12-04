@@ -1,0 +1,48 @@
+{
+  "cocktail_name": "Sidecar",
+  "ingredients": [
+    {
+      "name": "Cognac",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Cointreau",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon Juice",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Sugar",
+      "volume": 1,
+      "unit": "tablespoon",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.3,
+  "instructions": [
+    "Rim glass with sugar.",
+    "Shake cognac, Cointreau, and lemon juice with ice in a cocktail shaker.",
+    "Strain into rimmed glass."
+  ],
+  "taste_profile": [
+    {
+      "sweetness": 0.6,
+      "bitterness": 0.2,
+      "sourness": 0.7,
+      "saltiness": 0.1
+    }
+  ],
+  "garnish": "Lemon twist",
+  "alcohol_content": 40,
+  "cooking_time": "5 minutes",
+  "serving_size": 1
+}

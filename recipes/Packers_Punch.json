@@ -1,0 +1,55 @@
+{
+    "name": "Packers Punch",
+    "ingredients": [
+        {
+            "name": "White Rum",
+            "volume": 1.5,
+            "unit": "ounces",
+            "isLiquid": true
+        },
+        {
+            "name": "Pineapple Juice",
+            "volume": 1,
+            "unit": "ounces",
+            "isLiquid": true
+        },
+        {
+            "name": "Coconut Milk",
+            "volume": 1,
+            "unit": "ounces",
+            "isLiquid": true
+        },
+        {
+            "name": "Green Creme de Menthe",
+            "volume": 0.5,
+            "unit": "ounces",
+            "isLiquid": true
+        },
+        {
+            "name": "Cherries",
+            "volume": 1,
+            "unit": "count",
+            "isLiquid": false
+        }
+    ],
+    "popularity": 0.6,
+    "difficulty": 0.3,
+    "instructions": [
+        "Pour white rum, pineapple juice, and coconut milk into a cocktail shaker with ice.",
+        "Shake well until it's thoroughly chilled.",
+        "Strain the mixture into a glass with ice.",
+        "Drizzle Green Creme de Menthe over the top.",
+        "Garnish with cherry on top and enjoy."
+    ],
+    "tasteProfile": [
+        "Sweet",
+        "Creamy",
+        "Minty"
+    ],
+    "garnish": "Cherry",
+    "alcoholContent": 13.5,
+    "color": "Green",
+    "glassware": "Rocks glass",
+    "season": "Summer",
+    "occasion": "Party"
+}

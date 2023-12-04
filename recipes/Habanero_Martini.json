@@ -1,0 +1,43 @@
+{
+  "cocktail_name": "Habanero Martini",
+  "ingredients": [
+    {  
+      "ingredient_name": "Vodka",
+      "ingredient_volume": 2.0,
+      "ingredient_unit": "ounces",
+      "is_liquid": true
+    },
+    {  
+      "ingredient_name": "Habanero Pepper",
+      "ingredient_volume": 1.0,
+      "ingredient_unit": "count",
+      "is_liquid": false
+    },
+    {  
+      "ingredient_name": "Simple Syrup",
+      "ingredient_volume": 0.5,
+      "ingredient_unit": "ounces",
+      "is_liquid": true
+    },
+    {  
+      "ingredient_name": "Lime Juice",
+      "ingredient_volume": 0.5,
+      "ingredient_unit": "ounces",
+      "is_liquid": true
+    }
+  ],
+  "popularity_rating": 0.6,
+  "difficulty_rating": 0.7,
+  "instructions": [
+    "1. Muddle the habanero pepper in the shaker.",
+    "2. Add the vodka, simple syrup and lime juice.",
+    "3. Fill the shaker with ice and shake well.",
+    "4. Strain into a chilled martini glass."
+  ],
+  "taste_profile": ["Spicy", "Sweet", "Citrus"],
+  "garnish": "Habanero slice",
+  "alcohol_content": 20.0,
+  "serving_glass": "Martini glass",
+  "cocktail_style": "Shaken",
+  "originality": 0.8
+}

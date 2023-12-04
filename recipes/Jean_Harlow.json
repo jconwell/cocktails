@@ -1,0 +1,33 @@
+{
+  "cocktailName": "Jean Harlow",
+  "ingredients": [
+    {
+      "ingredientName": "light rum",
+      "volume": 1.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "sweet vermouth",
+      "volume": 1.5,
+      "unit": "oz",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.3,
+  "difficulty": 0.2,
+  "instructions": [
+    "Stir ingredients well with cracked ice",
+    "Strain into a chilled cocktail glass"
+  ],
+  "tasteProfile": [
+    "sweet",
+    "bitter",
+    "strong"
+  ],
+  "garnish": "Maraschino cherry",
+  "alcoholContent": 0.3,
+  "color": "Amber",
+  "glassType": "Cocktail Glass",
+  "timeOfDay": "Evening"
+}

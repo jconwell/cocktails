@@ -1,0 +1,47 @@
+{
+  "cocktail": "The Last Word",
+  "ingredients": [
+    {
+      "name": "Gin",
+      "volume": 0.75,
+      "unit": "ounces",
+      "liquid": true
+    },
+    {
+      "name": "Green Chartreuse",
+      "volume": 0.75,
+      "unit": "ounces",
+      "liquid": true
+    },
+    {
+      "name": "Maraschino Liqueur",
+      "volume": 0.75,
+      "unit": "ounces",
+      "liquid": true
+    },
+    {
+      "name": "Fresh lime juice",
+      "volume": 0.75,
+      "unit": "ounces",
+      "liquid": true
+    }
+  ],
+  "popularity": 0.75,
+  "difficulty": 0.3,
+  "instructions": [
+    "Chill cocktail glass",
+    "Pour all ingredients into a mixing glass",
+    "Add ice and shake for 10-15 seconds",
+    "Strain into the chilled glass"
+  ],
+  "taste_profile": [
+    "Herbaceous",
+    "Citrusy",
+    "Sweet"
+  ],
+  "garnishes": "None",
+  "alcohol_content": 0.8,
+  "glass_type": "Cocktail glass",
+  "ice_requirement": "None",
+  "cocktail_style": "Classic"
+}

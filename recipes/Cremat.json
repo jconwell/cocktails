@@ -1,0 +1,52 @@
+{
+  "name": "Cremat",
+  "ingredients": [
+    {
+      "name": "Rum",
+      "volume": 16,
+      "unit": "Ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Sugar",
+      "volume": 2,
+      "unit": "Tablespoons",
+      "isLiquid": false
+    },
+    {
+      "name": "Lemon peel",
+      "volume": 1,
+      "unit": "Whole",
+      "isLiquid": false
+    },
+    {
+      "name": "Coffee beans",
+      "volume": 20,
+      "unit": "Beans",
+      "isLiquid": false
+    },
+    {
+      "name": "Cinnamon stick",
+      "volume": 1,
+      "unit": "Stick",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.4,
+  "difficulty": 0.6,
+  "instructions": [
+    "Mix the rum, sugar, lemon zest, coffee beans, and cinnamon stick in a pot and cook slowly until the sugar has fully dissolved.",
+    "Ignite the mix carefully and let the alcohol burn for few minutes.",
+    "Extinguish the flame by covering the pot, then let it cool down before serving."
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Bitter",
+    "Aromatic"
+  ],
+  "garnish": "Lemon peel twist, Cinnamon stick",
+  "alcoholContent": 0.4,
+  "drinkware": "Clay pot",
+  "occasion": ["New Year's Eve", "Winter party"],
+  "timeOfDay": ["Evening", "Night"]
+}

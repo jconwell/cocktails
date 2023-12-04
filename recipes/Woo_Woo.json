@@ -1,0 +1,42 @@
+{
+  "name": "Woo Woo",
+  "ingredients": [
+    {
+      "name": "Vodka",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Peach Schnapps",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Cranberry Juice",
+      "volume": 3,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.8,
+  "difficulty": 0.2,
+  "instructions": [
+    "Fill a highball glass with ice cubes.",
+    "Pour vodka and peach schnapps into the glass.",
+    "Top off with cranberry juice.",
+    "Stir well."
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Fruity"
+  ],
+  "garnishes": "Lime Slice",
+  "alcoholContent": 0.23,
+  "flavourIntensity": 0.65,
+  "refreshmentLevel": 0.7,
+  "sweetnessLevel": 0.8,
+  "sournessLevel": 0.2,
+  "bitternessLevel": 0.1
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Licorice Stick",
+    "ingredients": [
+        {
+            "name": "Black Sambuca",
+            "volume": 2,
+            "unit": "ounces",
+            "isLiquid": true
+        },
+        {
+            "name": "White Sambuca",
+            "volume": 2,
+            "unit": "ounces",
+            "isLiquid": true
+        }
+    ],
+    "popularity": 0.6,
+    "difficulty": 0.3,
+    "instructions": [
+        "Pour equal parts of Black Sambuca and White Sambuca into a cocktail shaker filled with ice.",
+        "Shake well for 10-15 seconds.",
+        "Strain into a chilled cocktail glass."
+    ],
+    "tasteProfile": [
+        "Sweet",
+        "Anise",
+        "Herbal"
+    ],
+    "garnishes": "Licorice stick",
+    "alcoholContent": 40.0,
+    "prep_time": 5,
+    "glassType": "Cocktail Glass",
+    "isCocktail": false
+}

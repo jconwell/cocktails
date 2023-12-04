@@ -1,0 +1,40 @@
+{
+  "cocktailName": "Pink Gin",
+  "ingredients": [
+    {
+      "name": "Gin",
+      "volume": 2.0,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Angostura Bitters",
+      "volume": 4,
+      "unit": "dashes",
+      "isLiquid": true
+    }
+  ],
+  "popularityIndex": 0.6,
+  "difficultyLevel": 0.3,
+  "instructions": [
+    "Chill a martini glass",
+    "Pour the bitters into the glass and coat the inside of the glass",
+    "Pour out the excess bitters",
+    "Add the gin into the glass"
+  ],
+  "tasteProfile": [
+    "Bitter",
+    "Citrus"
+  ],
+  "garnish": "Lemon twist",
+  "alcoholContent": 0.6,
+  "servingStyle": "Straight Up",
+  "glassType": "Martini",
+  "idealSeason": [
+    "Winter",
+    "Autumn"
+  ],
+  "occasion": [
+    "Before Dinner"
+  ]
+}

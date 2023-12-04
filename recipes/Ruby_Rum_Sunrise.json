@@ -1,0 +1,55 @@
+{
+  "cocktailName": "Ruby Rum Sunrise",
+  "ingredients": [
+    {
+      "name": "White Rum",
+      "volume": 1.5,
+      "unitMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Freshly Squeezed Orange Juice",
+      "volume": 3,
+      "unitMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Grenadine Syrup",
+      "volume": 0.5,
+      "unitMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Maraschino Cherry",
+      "volume": 1,
+      "unitMeasure": "count",
+      "isLiquid": false
+    },
+    {
+      "name": "Ice Cubes",
+      "volume": 2,
+      "unitMeasure": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.4,
+  "instructions": [
+    "In a shaker, combine rum and orange juice.",
+    "Fill a highball glass with ice cubes.",
+    "Pour the mixture over the ice.",
+    "Slowly pour grenadine over the mixture.",
+    "Stir gently to create the sunrise effect.",
+    "Garnish with a Maraschino cherry."
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Citrus",
+    "Fruity"
+  ],
+  "garnishes": "Maraschino Cherry",
+  "alcoholContent": 0.2,
+  "glassType": "Highball Glass",
+  "timeToMake": 5,
+  "cost": 3
+}

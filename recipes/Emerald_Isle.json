@@ -1,0 +1,43 @@
+{
+    "name": "Emerald Isle",
+    "ingredients": [
+        {
+            "name": "Gin",
+            "volume": 3,
+            "unit": "ounces",
+            "isLiquid": true
+        },
+        {
+            "name": "Green Crème de Menthe",
+            "volume": 1,
+            "unit": "ounce",
+            "isLiquid": true
+        },
+        {
+            "name": "Angostura bitters",
+            "volume": 2,
+            "unit": "drops",
+            "isLiquid": true
+        }
+    ],
+    "popularity": 0.3,
+    "difficulty": 0.4,
+    "instructions": [
+        "Pour the gin, crème de menthe and a couple of drops of bitters into a shaker.",
+        "Shake well until well chilled.",
+        "Strain the mixture into a chilled cocktail glass."
+    ],
+    "tasteProfile": [
+        "Sweet",
+        "Minty",
+        "Strong"
+    ],
+    "garnish": "Lime twist",
+    "alcoholContent": 0.25,
+    "color": "Green",
+    "glassType": "Cocktail Glass",
+    "occasions": [
+        "Saint Patrick's Day",
+        "Summer Parties"
+    ]
+}

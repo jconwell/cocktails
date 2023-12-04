@@ -1,0 +1,43 @@
+{
+  "name": "Rabo-de-galo",
+  "ingredients": [
+    {
+      "name": "Cachaça",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Vermouth",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.4,
+  "instructions": [
+    "Pour the Cachaça into a mixing glass with ice cubes",
+    "Add the Vermouth",
+    "Stir well",
+    "Strain into a chilled cocktail glass"
+  ],
+  "tasteProfile": [
+    "boozy",
+    "strong",
+    "sweet",
+    "herbaceous"
+  ],
+  "garnishes": "Lemon twist",
+  "alcoholContent": 0.4,
+  "glassType": "cocktail glass",
+  "classification": "classic",
+  "origin": "Brazil",
+  "color": "amber",
+  "IBA_Official": false,
+  "flavorProfile": [
+    "fruit",
+    "citrus",
+    "sour"
+  ]
+}

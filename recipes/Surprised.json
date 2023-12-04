@@ -1,0 +1,47 @@
+{
+  "cocktail_name": "Surprised",
+  "ingredients": [
+    {
+      "name": "Gin",
+      "volume": 1.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon Juice",
+      "volume": 0.75,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Simple Syrup",
+      "volume": 0.50,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Raspberry",
+      "volume": 6,
+      "unit": "cubes",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.3,
+  "instructions": [
+    "Muddle the raspberries and simple syrup in a shaker.",
+    "Add the Gin and lemon juice.",
+    "Shake with ice and strain into a chilled glass."
+  ],
+  "taste_profile": [
+    "Sweet",
+    "Tart",
+    "Fruity"
+  ],
+  "garnish": "Lemon Twist",
+  "alcohol_content": 0.14,
+  "preparation_time": 6,
+  "texture": "Smooth",
+  "color": "Purple",
+  "glassware": "Cocktail Glass"
+}

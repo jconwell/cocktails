@@ -1,0 +1,48 @@
+{
+  "name": "Beachcomber",
+  "ingredients": [
+    {
+      "name": "Light Rum",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Maraschino Liqueur",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Grapefruit Juice",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lime Juice",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.55,
+  "difficulty": 0.3,
+  "instructions": [
+    "Combine all ingredients in a shaker with ice.",
+    "Shake well.",
+    "Strain into a chilled cocktail glass."
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Citrus",
+    "Fruity"
+  ],
+  "garnish": "Maraschino cherry",
+  "alcoholContent": 0.2,
+  "glassType": "Cocktail glass",
+  "cocktailType": "Classic",
+  "color": "Pink",
+  "texture": "Smooth",
+  "strength": "Medium"
+}

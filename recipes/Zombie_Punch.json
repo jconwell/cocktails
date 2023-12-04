@@ -1,0 +1,65 @@
+{
+  "name": "Zombie Punch",
+  "ingredients": [
+    {
+      "ingredient_name": "Light rum",
+      "ingredient_volume": 1.5,
+      "ingredient_unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Dark rum",
+      "ingredient_volume": 1.5,
+      "ingredient_unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Apricot brandy",
+      "ingredient_volume": 1,
+      "ingredient_unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Lime juice",
+      "ingredient_volume": 1,
+      "ingredient_unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Pineapple juice",
+      "ingredient_volume": 1,
+      "ingredient_unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Sugar",
+      "ingredient_volume": 1,
+      "ingredient_unit": "teaspoon",
+      "is_liquid": false
+    },
+    {
+      "ingredient_name": "Mint",
+      "ingredient_volume": 1,
+      "ingredient_unit": "stalk",
+      "is_liquid": false
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.6,
+  "instructions": [
+    "Shake all ingredients (except mint) with ice and strain into a tall glass.",
+    "Garnish with mint leaves."
+  ],
+  "alcohol_content": 0.24,
+  "garnish": "Mint leaves",
+  "taste_profile": [
+    "sweet",
+    "sour",
+    "strong"
+  ],
+  "glass_type": "highball glass",
+  "cocktail_type": "long drink",
+  "color": "golden",
+  "occasion": "beach party",
+  "region": "Caribbean"
+}

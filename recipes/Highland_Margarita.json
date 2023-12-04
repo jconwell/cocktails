@@ -1,0 +1,53 @@
+{
+  "name": "Highland Margarita",
+  "ingredients": [
+    {
+      "name": "Blended Scotch Whisky",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lime Juice",
+      "volume": 1,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Simple Syrup",
+      "volume": 0.5,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Triple Sec",
+      "volume": 0.5,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Salt",
+      "volume": 1,
+      "unit": "pinch",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.5,
+  "difficulty": 0.3,
+  "instructions": [
+    "In a shaker, combine scotch whisky, lime juice, simple syrup, and triple sec.",
+    "Shake well until mixed and chill.",
+    "Rub a lime slice around the rim of the glass and dip in salt.",
+    "Strain the cocktail into the glass and serve."
+  ],
+  "tasteProfile": [
+    "sour",
+    "sweet",
+    "salty"
+  ],
+  "garnish": "lime slice",
+  "alcoholContent": 40,
+  "glassware": "standard margarita glass",
+  "isRefreshing": true,
+  "dominantFlavor": "scotch whisky"
+}

@@ -1,0 +1,38 @@
+{
+  "cocktail": {
+    "name": "Black And Blue",
+    "ingredients": [
+      {
+        "ingredient": "Blue Curacao",
+        "volume": 1.0,
+        "unit": "oz",
+        "isLiquid": true
+      },
+      {
+        "ingredient": "Black Vodka",
+        "volume": 1.0,
+        "unit": "oz",
+        "isLiquid": true
+      }
+    ],
+    "popularity": 0.6,
+    "difficulty": 0.3,
+    "instructions": [
+      "Pour vodka into a mixing glass filled with ice.",
+      "Stir until chilled.",
+      "Strain into a chilled cocktail glass.",
+      "Pour blue curacao on top."
+    ],
+    "tasteProfile": ["sweet", "refreshing"],
+    "garnish": "Lemon twist",
+    "alcoholContent": 0.40,
+    "color": "Blue",
+    "serveIn": "Cocktail glass",
+    "type": "Alcoholic",
+    "category": "Cocktail",
+    "isTraditionallyServedWithFood": false,
+    "inceptionDate": "1980s",
+    "originCountry": "United States",
+    "glasswareRequirement": "Cocktail"
+  }
+}

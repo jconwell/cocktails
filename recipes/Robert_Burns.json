@@ -1,0 +1,45 @@
+{
+  "cocktailName": "Robert Burns",
+  "ingredients": [
+    {
+      "name": "Scotch Whisky",
+      "volume": 2.0,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Sweet Vermouth",
+      "volume": 0.75,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Absinthe",
+      "volume": 1.0,
+      "unit": "dashes",
+      "isLiquid": true
+    },
+    {
+      "name": "Bitters",
+      "volume": 1.0,
+      "unit": "dashes",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.4,
+  "instructions": [
+    "Stir the Scotch, vermouth, absinthe and bitters well with cracked ice",
+    "Strain into in a chilled cocktail glass."
+  ],
+  "tasteProfile": [
+    "Complex",
+    "Bitter",
+    "Herbaceous"
+  ],
+  "garnishes": "Lemon peel",
+  "alcoholContent": 0.33,
+  "glassware": "Cocktail Glass",
+  "category": "Classic",
+  "IBAOfficial": false
+}

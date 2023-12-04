@@ -1,0 +1,44 @@
+{
+  "cocktailName": "Orchard Catch Cooler",
+  "ingredients": [
+    {
+      "name": "apple juice",
+      "volume": 1.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "lemon juice",
+      "volume": 0.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "ginger ale",
+      "volume": 2.0,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "apple slices",
+      "volume": 2,
+      "unitOfMeasure": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.3,
+  "instructions": [
+    "Pour the apple juice and lemon juice into a shaker with ice.",
+    "Shake well to mix.",
+    "Strain the mixture into a glass filled with ice.",
+    "Top up the glass with ginger ale.",
+    "Garnish with apple slices."
+  ],
+  "tasteProfile": ["sweet", "refreshing", "fruity"],
+  "garnishes": "apple slices",
+  "alcoholContent": 0.0,
+  "glassType": "Highball Glass",
+  "isCarbonated": true,
+  "isFruity": true
+}

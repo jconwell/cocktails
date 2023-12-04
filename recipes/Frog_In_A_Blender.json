@@ -1,0 +1,42 @@
+{
+  "name": "Frog In A Blender",
+  "ingredients": [
+    {
+      "name": "Vodka",
+      "volume": 1.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Cranberry Juice",
+      "volume": 3,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Ice cubes",
+      "volume": 6,
+      "unitOfMeasure": "cubes",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.5,
+  "difficulty": 0.2,
+  "instructions": [
+    "Place vodka in a highball glass.",
+    "Fill glass with ice cubes.",
+    "Top up with cranberry juice.",
+    "Stir well."
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Tart",
+    "Strong"
+  ],
+  "garnish": "None",
+  "alcoholContent": 0.4,
+  "preparationTime": 3,
+  "cost": 4,
+  "color": "Red",
+  "glassType": "Highball glass"
+}

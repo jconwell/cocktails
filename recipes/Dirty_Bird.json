@@ -1,0 +1,50 @@
+{
+  "cocktailName": "Dirty Bird",
+  "ingredients": [
+    {
+      "name": "Vodka",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Grapefruit Juice",
+      "volume": 3,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Cranberry Juice",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularityRate": 0.63,
+  "difficultyLevel": 0.3,
+  "instructions": [
+    {
+      "step1": "Put ice in the shaker.",
+      "step2": "Pour vodka over ice.",
+      "step3": "Add grapefruit and cranberry juices.",
+      "step4": "Shake well.",
+      "step5": "Strain into a cocktail glass."
+    }
+  ],
+  "tasteProfile": [
+    {
+      "sweetness": 0.7,
+      "sour": 0.5,
+      "bitter": 0.2,
+      "salty": 0.1,
+      "umami": 0.0
+    }
+  ],
+  "garnish": "Lime Slice",
+  "alcoholContent": 0.19,
+  "glassType": "Cocktail Glass",
+  "serveAs": "Cold",
+  "primaryAlcohol": "Vodka",
+  "cocktailType": "Modern Classics",
+  "IBAOfficialCocktail": false
+}

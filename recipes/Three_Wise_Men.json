@@ -1,0 +1,41 @@
+{
+  "cocktailName": "Three Wise Men",
+  "ingredients": [
+    {
+      "ingredientName": "Johnnie Walker Scotch whisky",
+      "volume": 1,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Jim Beam Bourbon Whiskey",
+      "volume": 1,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Jack Daniels Whiskey",
+      "volume": 1,
+      "unit": "oz",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.45,
+  "difficulty": 0.15,
+  "instructions": [
+    "Pour 1 oz of Johnnie Walker Scotch whisky into shot glass.",
+    "Add 1 oz of Jim Beam Bourbon Whiskey.",
+    "Top off with 1 oz of Jack Daniels Whiskey."
+  ],
+  "tasteProfile": [
+    "Strong",
+    "Intense",
+    "Spicy"
+  ],
+  "garnish": "None",
+  "alcoholContent": 0.40,
+  "cocktailType": "Shots",
+  "drinkware": "Shot Glass",
+  "occasion": ["Party", "Events"],
+  "color": "Amber"
+}

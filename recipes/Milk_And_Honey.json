@@ -1,0 +1,48 @@
+{
+  "Name": "Milk And Honey",
+  "Ingredients": [
+    {
+      "IngredientName": "Bourbon",
+      "Volume": 2.0,
+      "UnitOfMeasure": "ounces",
+      "IsLiquid": true
+    },
+    {
+      "IngredientName": "Honey Syrup",
+      "Volume": 0.75,
+      "UnitOfMeasure": "ounces",
+      "IsLiquid": true
+    },
+    {
+      "IngredientName": "Lemon juice",
+      "Volume": 0.5,
+      "UnitOfMeasure": "ounces",
+      "IsLiquid": true
+    }
+  ],
+  "Popularity": 0.7,
+  "Difficulty": 0.3,
+  "Instructions": [
+    {
+      "StepOne": "In a cocktail shaker, combine bourbon, honey syrup, and lemon juice.",
+      "StepTwo": "Add ice and shake until well chilled.",
+      "StepThree": "Strain into a chilled glass."
+    }
+  ],
+  "TasteProfile": [
+    "Sweet",
+    "Smooth",
+    "Citrusy"
+  ],
+  "Garnish": "Lemon twist",
+  "AlcoholContent": 0.22,
+  "Origin": "New York",
+  "GlassType": "Old-fashioned",
+  "IceRequirement": "Crushed",
+  "Presentation": "Neat",
+  "PreferredTime": "After dinner",
+  "BaseSpirit": "Bourbon",
+  "Preparation": "Shaken",
+  "DrinkColor": "Golden",
+  "IBAOfficial": false
+}

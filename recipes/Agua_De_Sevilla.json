@@ -1,0 +1,57 @@
+{
+  "cocktail_name": "Agua De Sevilla",
+  "ingredients": [
+    {
+      "name": "whiskey",
+      "volume": 1,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "cava",
+      "volume": 1,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "pineapple",
+      "volume": 2,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "cream",
+      "volume": 1,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "peach liqueur",
+      "volume": 1,
+      "unit": "ounces",
+      "is_liquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.5,
+  "instructions": [
+    "Mix whiskey, cava, pineapple juice and cream in a shaker with ice.",
+    "Add the peach liqueur.",
+    "Shake well until mixed and chilled.",
+    "Strain into a cocktail glass."
+  ],
+  "taste_profile": [
+    "sweet",
+    "fruity"
+  ],
+  "garnishes": "Pineapple slice and a cherry",
+  "alcohol_content": 0.14,
+  "colour": "Yellow",
+  "texture": "Smooth",
+  "glass_type": "Cocktail glass",
+  "occasion": "Celebration",
+  "prep_time_in_minutes": 5,
+  "cocktail_type": "Classic",
+  "flavour_intensity": 0.7,
+  "sweetness_level": 0.8
+}

@@ -1,0 +1,44 @@
+{
+  "cocktailName": "Hemingway Special",
+  "ingredients": [
+    {
+      "name": "White rum",
+      "volume": 2,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Grapefruit juice",
+      "volume": 1.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Maraschino liqueur",
+      "volume": 0.75,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lime juice",
+      "volume": 0.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.3,
+  "instructions": [
+    "Fill a shaker with ice cubes",
+    "Add the rum, grapefruit juice, maraschino liqueur and lime juice",
+    "Shake well",
+    "Strain into a chilled cocktail glass"
+  ],
+  "tasteProfile": ["Tart", "Sweet"],
+  "garnish": "Grapefruit slice and cherry",
+  "alcoholContent": 0.22,
+  "color": "Pink",
+  "serveware": "Cocktail Glass",
+  "prepTime": 5,
+  "isClassic": true
+}

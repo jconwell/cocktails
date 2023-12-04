@@ -1,0 +1,43 @@
+{
+  "cocktailName": "Portbuka",
+  "ingredients": [
+    {
+      "name": "Bourbon",
+      "volume": 2.0,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Port wine",
+      "volume": 1.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon juice",
+      "volume": 1.0,
+      "unit": "oz",
+      "isLiquid": true
+    }
+  ],
+  "popularityIndex": 0.7,
+  "difficultyIndex": 0.3,
+  "instructions": [
+    "Pour the bourbon, port wine, and lemon juice into a shaker with ice.",
+    "Shake well for about 10 seconds.",
+    "Strain the mixture into a cocktail glass."
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Sour",
+    "Strong"
+  ],
+  "garnishes": "Lemon slice",
+  "alcoholContent": 0.24,
+  "flavorNotes": [
+    "Fruity",
+    "Astringent"
+  ],
+  "color": "Red",
+  "servingGlass": "Cocktail Glass"
+}

@@ -1,0 +1,37 @@
+{
+  "cocktailName": "Angel Face",
+  "ingredients": [
+    {
+      "ingredientName": "Gin",
+      "volume": 1.0,
+      "unitMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Apricot Brandy",
+      "volume": 1.0,
+      "unitMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Apple Brandy or Calvados",
+      "volume": 1.0,
+      "unitMeasure": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.6,
+  "difficultyLevel": 0.3,
+  "instructions": [
+    "Add all ingredients into a shaker with ice",
+    "Shake well",
+    "strain into a cocktail glass"
+  ],
+  "tasteProfile": ["fruity", "sweet", "alcoholic"],
+  "garnish": "No garnish",
+  "alcoholContent": 0.7,
+  "color": "Clear",
+  "glassware": "Cocktail Glass",
+  "timing": "All Day",
+  "cocktailType": "Classic"
+}

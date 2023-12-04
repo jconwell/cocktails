@@ -1,0 +1,40 @@
+{
+  "cocktailName": "Churchill",
+  "ingredients": [
+    {
+      "ingredientName": "Scotch whisky",
+      "volume": 1.5,
+      "unitMeasurement": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Lime juice",
+      "volume": 0.5,
+      "unitMeasurement": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Sugar Syrup",
+      "volume": 0.5,
+      "unitMeasurement": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularityScore": 0.6,
+  "difficultyScore": 0.3,
+  "preparationSteps": [
+    "Pour the Scotch whisky into a shaker filled with ice.",
+    "Add the lime juice and sugar syrup.",
+    "Shake well.",
+    "Strain into a chilled cocktail glass."
+  ],
+  "tasteProfile": [
+    "Strong",
+    "Citrus",
+    "Sweet"
+  ],
+  "garnish": "Lime slice",
+  "alcoholContent": 0.4,
+  "seasonality": "All",
+  "glassType": "Cocktail glass"
+}

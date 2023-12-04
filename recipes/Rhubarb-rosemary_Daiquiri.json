@@ -1,0 +1,45 @@
+{
+  "cocktail_name": "Rhubarb-rosemary Daiquiri",
+  "ingredients": [
+    {
+      "ingredient_name": "Rhubarb syrup",
+      "volume": 0.75,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredient_name": "Rosemary",
+      "volume": 1,
+      "unit": "sprig",
+      "isLiquid": false
+    },
+    {
+      "ingredient_name": "White rum",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredient_name": "Fresh lime juice",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity_index": 0.6,
+  "difficulty_index": 0.4,
+  "instructions": [
+    "Muddle a sprig of rosemary in a shaker.",
+    "Add rhubarb syrup, white rum, and lime juice.",
+    "Shake with ice and strain into a glass."
+  ],
+  "taste_profile": [
+    "sour",
+    "tangy",
+    "herbaceous"
+  ],
+  "garnish": "Rosemary sprig",
+  "alcohol_content": 0.2,
+  "serving_glass": "Cocktail glass",
+  "shake_or_stir": "Shake"
+}

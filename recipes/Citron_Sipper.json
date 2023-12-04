@@ -1,0 +1,44 @@
+{
+  "Cocktail": "Citron Sipper",
+  "Ingredients": [
+    {
+      "Name": "Vodka",
+      "Volume": 2,
+      "Unit": "ounces",
+      "IsLiquid": true
+    },
+    {
+      "Name": "Lemon Juice",
+      "Volume": 1,
+      "Unit": "ounce",
+      "IsLiquid": true
+    },
+    {
+      "Name": "Simple Syrup",
+      "Volume": 0.5,
+      "Unit": "ounce",
+      "IsLiquid": true
+    },
+    {
+      "Name": "Lemon Peel",
+      "Volume": 1,
+      "Unit": "piece",
+      "IsLiquid": false
+    }
+  ],
+  "Popularity": 0.7,
+  "Difficulty": 0.2,
+  "Instruction": [
+    "In a shaker, combine vodka, lemon juice, and simple syrup.",
+    "Shake well until the mix is chilled.",
+    "Strain the mix into a glass.",
+    "Garnish with lemon peel."
+  ],
+  "TasteProfile": ["Sour", "Sweet", "Citrus"],
+  "Garnishes": "Lemon Peel",
+  "AlcoholContent": 0.2,
+  "ServeIn": "Cocktail Glass",
+  "ServeMethod": "Directly in the glass",
+  "ServeTemperature": "Cold",
+  "PreparationTime": 5
+}

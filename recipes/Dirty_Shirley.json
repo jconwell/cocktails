@@ -1,0 +1,57 @@
+
+{
+  "name": "Dirty Shirley",
+  "ingredients": [
+    {
+      "ingredientName": "Vodka",
+      "volume": 1.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Grenadine",
+      "volume": 0.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Sprite",
+      "volume": 5,
+      "unit": "oz",
+      "isLiquid": true
+    }, 
+    {
+      "ingredientName": "Ice cubes",
+      "volume": 5,
+      "unit": "count",
+      "isLiquid": false
+    }, 
+    {
+      "ingredientName": "Maraschino cherry",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularityIndex": 0.6,
+  "difficultyIndex": 0.2,
+  "instructions": [
+    "Pour vodka and grenadine into a glass over ice.",
+    "Top with sprite.",
+    "Stir gently until mixed.",
+    "Garnish with a maraschino cherry."
+  ],
+  "tasteProfile": [
+    "sweet",
+    "fruity",
+    "tart",
+    "refreshing"
+  ],
+  "garnish": "Maraschino cherry",
+  "alcoholContent": 8.5,
+  "glassType": "Highball glass",
+  "cocktailType": "Long drink",
+  "flavourIntensity": 0.6,
+  "aromaProfile": ["sweet", "fruity"],
+  "color": "pink"
+}

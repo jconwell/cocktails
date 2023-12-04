@@ -1,0 +1,45 @@
+{
+  "name": "Ward 8",
+  "ingredients": [
+    {
+      "name": "Rye whiskey",
+      "volume": 2.0,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Lemon juice",
+      "volume": 0.5,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Orange juice",
+      "volume": 0.5,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Grenadine",
+      "volume": 0.5,
+      "unit": "ounces",
+      "is_liquid": true
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.4,
+  "instructions": [
+    "Pour all the ingredients into a shaker with ice cubes.",
+    "Shake well.",
+    "Strain into a chilled cocktail glass."
+  ],
+  "taste_profile": ["sweet", "tart", "fruity"],
+  "garnish": "cherry",
+  "alcohol_content": 0.4,
+  "glass_type": "chilled cocktail glass",
+  "preparation_time": 3.0,
+  "serving_size": "one serving",
+  "style": "Classic",
+  "country_of_origin": "USA",
+  "color": "reddish-pink"
+}

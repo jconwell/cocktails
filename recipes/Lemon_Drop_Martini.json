@@ -1,0 +1,44 @@
+{
+  "name": "Lemon Drop Martini",
+  "ingredients": [
+    {
+      "name": "Vodka",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon Juice",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Simple Syrup",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Ice cubes",
+      "volume": 6,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.75,
+  "difficulty": 0.3,
+  "instructions": [
+    "In a shaker add ice cubes, vodka, lemon juice and simple syrup.",
+    "Shake well for 10-15 seconds.",
+    "Strain into a chilled martini glass"
+  ],
+  "tasteProfile": ["sour", "sweet", "strong"],
+  "garnish": "Lemon wheel",
+  "alcoholContent": 0.2,
+  "glassware": "Martini glass",
+  "cocktailType": "Classic",
+  "color": "Yellow",
+  "isShaken": true,
+  "hasFruit": false  
+}

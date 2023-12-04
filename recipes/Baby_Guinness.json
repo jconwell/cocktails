@@ -1,0 +1,40 @@
+{
+  "cocktailName": "Baby Guinness",
+  "ingredients": [
+    {
+      "ingredientName": "Kahlua",
+      "ingredientVolume": 0.667,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Bailey's Irish Cream",
+      "ingredientVolume": 0.333,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.65,
+  "difficulty": 0.2,
+  "instructions": [
+    "Pour the Kahlua into a shot glass until it's three-quarters full.", 
+    "Slowly pour the Bailey's Irish Cream over the back of a spoon held just above the surface of the Kahlua. The Bailey's should float on top, creating two distinct layers."
+  ],
+  "tasteProfile": [
+    "sweet",
+    "creamy",
+    "coffee"
+  ],
+  "garnish": "None",
+  "alcoholContent": 0.333,
+  "isServedIn": "Shot Glass",
+  "isShaken": false,
+  "isStirred": false,
+  "isLayered": true,
+  "isBlended": false,
+  "glassware": "Shot glass",
+  "timeOfConsumption": [
+    "Post-dinner",
+    "Parties"
+  ]
+}

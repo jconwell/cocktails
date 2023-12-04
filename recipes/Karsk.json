@@ -1,0 +1,49 @@
+{
+  "cocktailName": "Karsk",
+  "ingredients": [
+    {
+      "name": "Vodka",
+      "volume": 1.0,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "coffee",
+      "volume": 1.0,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.4,
+  "difficulty": 0.2,
+  "instructions": [
+    {
+      "step": "Pour 1.0 ounce of vodka into a glass."
+    },
+    {
+      "step": "Pour 1.0 ounce of coffee into the same glass."
+    },
+    {
+      "step": "Stir the components until they are blended."
+    }
+  ],
+  "tasteProfile": [
+    {
+      "note": "Strong"
+    },
+    {
+      "note": "Bitter"
+    }
+  ],
+  "garnishes": "None",
+  "alcoholContent": 0.4,
+  "glassType": "Rocks Glass",
+  "cocktailType": "Cold",
+  "originCountry": "Norway",
+  "color": "Brown",
+  "texture": "Smooth",
+  "aroma": "Coffee",
+  "sweetnessLevel": 0.1,
+  "sournessLevel": 0.0,
+  "bitternessLevel": 0.8
+}

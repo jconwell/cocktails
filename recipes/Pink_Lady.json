@@ -1,0 +1,50 @@
+{
+  "cocktail": "Pink Lady",
+  "ingredients": [
+    {
+      "name": "Gin",
+      "volume": 1.5,
+      "unit": "oz",
+      "is_liquid": true
+    },
+    {
+      "name": "Grenadine",
+      "volume": 0.5,
+      "unit": "oz",
+      "is_liquid": true
+    },
+    {
+      "name": "Cream",
+      "volume": 1,
+      "unit": "oz",
+      "is_liquid": true
+    },
+    {
+      "name": "Egg white",
+      "volume": 1,
+      "unit": "count",
+      "is_liquid": false
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.5,
+  "instructions": [
+    "Shake all the ingredients with ice",
+    "Strain into a cocktail glass"
+  ],
+  "taste_profile": [
+    "sweet",
+    "creamy",
+    "tart"
+  ],
+  "garnish": "Maraschino cherry",
+  "alcohol_content": 0.23,
+  "glassware": "Cocktail glass",
+  "cocktail_type": "Classic",
+  "origin": "United States",
+  "occasions": [
+    "Dinner",
+    "Party",
+    "Cocktail Hour"
+  ]
+}

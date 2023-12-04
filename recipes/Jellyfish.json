@@ -1,0 +1,46 @@
+{
+  "cocktailName": "Jellyfish",
+  "ingredients": [
+    {
+      "name": "Creme de Cacao",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Amaretto",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Irish Cream",
+      "volume": 0.75,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Grenadine",
+      "volume": 0.75,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.4,
+  "instructions": [
+    "Build in a rocks glass in the following order: creme de cacao, Amaretto, Irish cream.",
+    "Pour grenadine over top to create a jellyfish-like effect."
+  ],
+  "tasteProfile": [
+    "sweet",
+    "creamy",
+    "chocolaty"
+  ],
+  "garnishes": "None",
+  "alcoholContent": 0.12,
+  "glassType": "Rocks glass",
+  "isShaken": false,
+  "isStirred": false,
+  "servingTemperature": "cold"
+}

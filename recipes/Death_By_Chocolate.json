@@ -1,0 +1,48 @@
+{
+    "cocktailName": "Death By Chocolate",
+    "ingredients": [
+        {
+            "name": "Vodka",
+            "volume": 1,
+            "unitOfMeasure": "ounce",
+            "isLiquid": true
+        },
+        {
+            "name": "Creme de Cacao",
+            "volume": 0.5,
+            "unitOfMeasure": "ounce",
+            "isLiquid": true
+        },
+        {
+            "name": "Chocolate Liqueur",
+            "volume": 1,
+            "unitOfMeasure": "ounce",
+            "isLiquid": true
+        },
+        {
+            "name": "Vanilla Ice Cream",
+            "volume": 2,
+            "unitOfMeasure": "scoops",
+            "isLiquid": false
+        }
+    ],
+    "popularityScore": 0.6,
+    "difficultyScore": 0.4,
+    "instructions": [
+        "Blend all the ingredients in a blender until smooth",
+        "Pour into a chilled glass",
+        "Garnish with grated chocolate"
+    ],
+    "flavorProfile": [
+        "Sweet", 
+        "Creamy", 
+        "Chocolate", 
+        "Alcoholic"
+    ],
+    "garnish": "Grated Chocolate",
+    "alcoholContent": 0.15,
+    "color": "Brown",
+    "servedIn": "Hurricane Glass",
+    "strength": "Medium",
+    "idealTemperature": "Cold"
+}

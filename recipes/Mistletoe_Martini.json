@@ -1,0 +1,50 @@
+{
+  "cocktailName": "Mistletoe Martini",
+  "ingredients": [
+    {
+      "name": "Vodka",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lime juice",
+      "volume": 1,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Cranberry juice",
+      "volume": 1,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Triple sec",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Fresh cranberries",
+      "volume": 3,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.3,
+  "instructions": [
+    "In a shaker, combine all ingredients with ice.",
+    "Shake well until the outside of the shaker becomes frosty.",
+    "Strain into a chilled martini glass.",
+    "Garnish with fresh cranberries."
+  ],
+  "tasteProfile": ["Sweet", "Tangy", "Bright", "Crisp"],
+  "garnishes": "Fresh cranberries",
+  "alcoholContent": 0.18,
+  "servingGlass": "Martini Glass",
+  "extraChillingTime": false,
+  "numServing": 1,
+  "recipeOrigin": "Modern creations"
+}

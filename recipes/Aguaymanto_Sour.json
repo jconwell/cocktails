@@ -1,0 +1,46 @@
+{
+  "cocktailName": "Aguaymanto Sour",
+  "ingredients": [
+    {
+      "name": "Pisco",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Aguaymanto juice",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Simple Syrup",
+      "volume": 0.75,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Egg white",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.55,
+  "difficulty": 0.42,
+  "instructions": [
+    "In a cocktail shaker, combine the Pisco, aguaymanto juice, simple syrup, and egg white.",
+    "Shake well until frothy.",
+    "Strain into a chilled cocktail glass."
+  ],
+  "tasteProfile": [
+    "tart",
+    "sweet",
+    "bitter"
+  ],
+  "garnish": "Aguaymanto Berry",
+  "alcoholContent": 0.22,
+  "color": "yellow",
+  "texture": "frothy",
+  "recommendedGlassware": "cocktail glass"
+}

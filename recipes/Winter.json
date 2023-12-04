@@ -1,0 +1,48 @@
+{
+  "cocktailName": "Winter",
+  "ingredients": [
+    {
+      "name": "gin",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "lemon juice",
+      "volume": 0.75,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "sugar syrup",
+      "volume": 0.75,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "cranberry juice",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.3,
+  "instructions": [
+    "Pour the gin into a cocktail shaker filled with ice.",
+    "Add the lemon juice, sugar syrup, and cranberry juice.",
+    "Shake well until the outside of the shaker becomes frosted.",
+    "Strain into a chilled cocktail glass."
+  ],
+  "tasteProfile": [
+    "sweet",
+    "sour",
+    "fruity"
+  ],
+  "garnish": "lemon slice",
+  "alcoholContent": 0.25,
+  "timeToPrepare": 5,
+  "glassType": "cocktail glass",
+  "isShaken": true,
+  "isStirred": false
+}

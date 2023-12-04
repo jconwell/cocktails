@@ -1,0 +1,38 @@
+{
+  "cocktailName": "Game Set Match",
+  "ingredients": [
+    {
+      "name": "Green Chartreuse",
+      "volume": 1,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "St. Germain",
+      "volume": 1,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Lime",
+      "volume": 1,
+      "unit": "item",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.3,
+  "instructions": [
+    "Pour Green Chartreuse into a shaker.",
+    "Add St. Germain.",
+    "Squeeze lime into the shaker.",
+    "Shake and strain into a chilled cocktail glass."
+  ],
+  "tasteProfile": ["sweet", "herbaceous", "citrus"],
+  "garnishes": "lime wheel",
+  "alcoholContent": 0.4,
+  "glassware": "Cocktail Glass",
+  "spiritBase": "Liqueur",
+  "color": "Green",
+  "texture": "Smooth"
+}

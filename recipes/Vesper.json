@@ -1,0 +1,48 @@
+{
+  "cocktail_name": "Vesper",
+  "ingredients": [
+    {
+      "name": "Gin",
+      "volume": 3,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Vodka",
+      "volume": 1,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Lillet Blanc",
+      "volume": 0.5,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Lemon peel",
+      "volume": 1,
+      "unit": "peel",
+      "is_liquid": false
+    }
+  ],
+  "popularity": 0.75,
+  "difficulty": 0.35,
+  "instructions": [
+    "Pour all the liquid ingredients into a mixing glass with ice cubes.",
+    "Stir well.",
+    "Strain into a chilled cocktail glass.",
+    "Garnish with a large-size lemon peel."
+  ],
+  "taste_profile": [
+    "bitter",
+    "herbaceous",
+    "lemony",
+    "alcoholic"
+  ],
+  "garnish": "lemon peel",
+  "alcohol_content": 40.0,
+  "cocktail_category": "classics",
+  "is_shaken": false,
+  "glassware":"cocktail glass"
+}

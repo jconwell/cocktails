@@ -1,0 +1,32 @@
+{
+  "cocktail": "Rum And Coke",
+  "ingredients": [
+    {
+      "name": "Rum",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Coca-Cola",
+      "volume": 4.5,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.8,
+  "difficulty": 0.2,
+  "instructions": [
+    "Fill a glass with ice cubes.",
+    "Pour the rum over the ice.",
+    "Top with Coca-Cola.",
+    "Stir lightly to combine."
+  ],
+  "tasteProfile": ["sweet", "bubbly", "strong"],
+  "garnishes": "Lime wedge",
+  "alcoholContent": 0.2,
+  "color": "Brown",
+  "glassType": "Highball glass",
+  "isShaken": false,
+  "served": "On the rocks"
+}

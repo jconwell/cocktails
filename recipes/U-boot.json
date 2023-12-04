@@ -1,0 +1,30 @@
+{
+    "cocktailName": "U-boot",
+    "ingredients": [
+        {
+            "name": "Beer",
+            "volume": 16,
+            "unit": "ounces",
+            "isLiquid": true
+        },
+        {
+            "name": "Vodka",
+            "volume": 2,
+            "unit": "ounces",
+            "isLiquid": true
+        }
+    ],
+    "popularityScore": 0.5,
+    "difficultyScore": 0.3,
+    "instructions": [
+        "Pour 16 ounces of beer into a pint glass.",
+        "Fill a shot glass with 2 ounces of vodka.",
+        "Drop the shot glass into the pint glass of beer."
+    ],
+    "tasteProfile": ["Bitter", "Strong"],
+    "garnish": "No Garnish",
+    "alcoholContent": 0.15,
+    "cocktailType": "Boilermaker",
+    "servingGlass": "Pint",
+    "color": "Yellow"
+}

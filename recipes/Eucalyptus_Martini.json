@@ -1,0 +1,47 @@
+{
+  "name": "Eucalyptus Martini",
+  "ingredients": [
+    { 
+      "ingredient_name": "Vodka", 
+      "volume": 1.5, 
+      "unit": "ounces", 
+      "is_liquid": true 
+    },
+    {
+      "ingredient_name": "Eucalyptus Syrup", 
+      "volume": 1,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Lemon Juice",
+      "volume": 0.75,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Egg White",
+      "volume": 1,
+      "unit": "ounces",
+      "is_liquid": true
+    } 
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.3, 
+  "steps": [
+    "Combine vodka, eucalyptus syrup, lemon juice, and egg white in a shaker", 
+    "Shake without ice to emulsify", 
+    "Add ice and shake again", 
+    "Strain into a chilled martini glass", 
+    "Garnish with eucalyptus leaf"
+  ],
+  "taste_profile": ["Sweet", "Sour", "Citrus", "Floral"],
+  "garnish": "Eucalyptus Leaf",
+  "alcohol_content": 0.2,
+  "glass_type": "Martini Glass",
+  "is_citrus_drink": true,
+  "is_sour_drink": true,
+  "is_classic": false,
+  "time_to_prepare_in_min": 5,
+  "ambience": ["Chill", "Relax"]
+}

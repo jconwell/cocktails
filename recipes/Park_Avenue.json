@@ -1,0 +1,59 @@
+{
+  "cocktail": {
+    "name": "Park Avenue",
+    "ingredients": [
+      {
+        "name": "Bourbon Whiskey",
+        "volume": 1.5,
+        "unit": "ounces",
+        "liquid": true
+      },
+      {
+        "name": "Sweet Red Vermouth",
+        "volume": 0.75,
+        "unit": "ounces",
+        "liquid": true
+      },
+      {
+        "name": "Pineapple Juice",
+        "volume": 0.75,
+        "unit": "ounces",
+        "liquid": true
+      },
+      {
+        "name": "Orange Curacao",
+        "volume": 0.5,
+        "unit": "ounces",
+        "liquid": true
+      },
+      {
+        "name": "Grenadine",
+        "volume": 0.25,
+        "unit": "ounces",
+        "liquid": true
+      },
+      {
+        "name": "Lemon",
+        "volume": 1,
+        "unit": "count",
+        "liquid": false
+      }
+    ],
+    "popularity": 0.6,
+    "difficulty": 0.7,
+    "instructions": [
+      "In a mixing glass filled with ice cubes, combine all the ingredients.",
+      "Stir well.",
+      "Strain into a chilled cocktail glass.",
+    ],
+    "taste_profile": [
+      "sweet",
+      "fruity",
+      "citrus"
+    ],
+    "garnish": "Lemon twist",
+    "alcohol_content": 0.21,
+    "cocktail_type": "classic",
+    "glass_type": "cocktail"
+  }
+}

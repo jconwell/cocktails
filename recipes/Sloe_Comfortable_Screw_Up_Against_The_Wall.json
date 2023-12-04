@@ -1,0 +1,54 @@
+{
+    "cocktailName": "Sloe Comfortable Screw Up Against The Wall",
+    "ingredients": [
+        {
+            "ingredientName": "Sloe Gin",
+            "volume": 1,
+            "unitOfMeasure": "ounces",
+            "isLiquid": true
+        },
+        {
+            "ingredientName": "Southern Comfort",
+            "volume": 1,
+            "unitOfMeasure": "ounces",
+            "isLiquid": true
+        },
+        {
+            "ingredientName": "Vodka",
+            "volume": 1,
+            "unitOfMeasure": "ounces",
+            "isLiquid": true
+        },
+        {
+            "ingredientName": "Orange Juice",
+            "volume": 2,
+            "unitOfMeasure": "ounces",
+            "isLiquid": true
+        },
+        {
+            "ingredientName": "Galliano",
+            "volume": 0.5,
+            "unitOfMeasure": "ounces",
+            "isLiquid": true
+        }
+    ],
+    "popularity": 0.65,
+    "difficulty": 0.55,
+    "instructions": [
+        "Pour the sloe gin, Southern Comfort and vodka into a shaker with ice.",
+        "Shake well.",
+        "Strain into a highball glass filled with ice.",
+        "Top up with orange juice.",
+        "Float the Galliano on top.",
+        "Stir gently before serving."
+    ],
+    "tasteProfile": ["Sweet", "Fruity", "Alcoholic"],
+    "garnishes": "Cherry and Orange Wheel",
+    "alcoholContent": 0.86,
+    "glassware": "Highball Glass",
+    "creationYear": 1980,
+    "creatorLocation": "United States",
+    "category": "Longdrink",
+    "style": "Classic",
+    "servingTemperature": "Cold"
+}

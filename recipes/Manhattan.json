@@ -1,0 +1,41 @@
+{
+  "name": "Manhattan",
+  "ingredients": [
+    {
+      "name": "Rye Whiskey",
+      "volume": 2.0,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Sweet Red Vermouth",
+      "volume": 0.75,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Angostura Bitters",
+      "volume": 2.0,
+      "unit": "dashes",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.85,
+  "difficulty": 0.2,
+  "instructions": [
+    "Stir the rye, vermouth, and bitters well with cracked ice.",
+    "Strain into a chilled cocktail glass."
+  ],
+  "taste_profile": ["strong", "bitter", "sweet"],
+  "garnish": "One Maraschino Cherry",
+  "alcohol_content": 0.3,
+  "flavour_intensity": 0.6,
+  "ideal_serving_temperature": "cold",
+  "ideal_serving_glass": "cocktail",
+  "nutritional_information": {
+    "calories": 186,
+    "carbs": 4.1,
+    "sugar": 1.5,
+    "protein": 0.1
+  }
+}

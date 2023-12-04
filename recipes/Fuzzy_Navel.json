@@ -1,0 +1,31 @@
+{
+    "name": "Fuzzy Navel",
+    "ingredients": [
+        {
+            "name": "Peach schnapps",
+            "volume": 1.5,
+            "unit": "ounces",
+            "isLiquid": true
+        },
+        {
+            "name": "Orange juice",
+            "volume": 4,
+            "unit": "ounces",
+            "isLiquid": true
+        }
+    ],
+    "popularity": 0.6,
+    "difficulty": 0.1,
+    "instructions": [
+        "Pour the peach schnapps into a chilled glass.",
+        "Top with orange juice.",
+        "Stir well."
+    ],
+    "taste_profile": ["Sweet", "Fruity"],
+    "garnishes": "Orange Slice",
+    "alcohol_content": 0.12,
+    "glassware": "Highball Glass",
+    "serving_style": "On Ice",
+    "recipe_created_by": "Expert Bartender",
+    "notes": "Fuzzy Navel is a simple, sweet cocktail with a fruity flavor, great for beginners."
+}

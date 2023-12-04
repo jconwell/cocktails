@@ -1,0 +1,37 @@
+{
+  "name": "Absinthe",
+  "ingredients": [
+    {
+      "ingredient_name": "Absinthe",
+      "volume": 1.5,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Water",
+      "volume": 2.5,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Sugar cube",
+      "volume": 1,
+      "unit_of_measure": "cube",
+      "is_liquid": false
+    }
+  ],
+  "popularity": 0.3,
+  "difficulty": 0.2,
+  "instructions": [
+    "Pour absinthe into a glass.",
+    "Place a sugar cube on a absinthe spoon over the glass and slowly drip water over the sugar until it's dissolved."
+  ],
+  "taste_profile": ["bitter", "sweet"],
+  "garnish": "Lemon twist",
+  "alcohol_content": 0.56,
+  "glass_type": "Old-fashioned glass",
+  "ideal_serving_temperature": "Chilled",
+  "preparation_time": 5,
+  "origin": "Switzerland",
+  "category": "Spirits"
+}

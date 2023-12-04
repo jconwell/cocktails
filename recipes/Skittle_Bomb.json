@@ -1,0 +1,37 @@
+{
+  "name": "Skittle Bomb",
+  "ingredients": [
+    {
+      "name": "Cointreau",
+      "volume": 1,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Red Bull",
+      "volume": 6,
+      "unit": "ounce",
+      "isLiquid": true
+    }
+  ],
+  "popularityRating": 0.7,
+  "difficultyRating": 0.2,
+  "instructions": [
+    "Pour Cointreau into a shot glass.",
+    "Serve Red Bull in a separate glass.",
+    "Drop the shot glass of Cointreau into the glass of Red Bull and consume immediately."
+  ],
+  "tasteProfile": [
+    "sweet",
+    "bitter"
+  ],
+  "garnish": "None",
+  "alcoholContent": 0.08,
+  "color": "Orange",
+  "glassType": "Shot glass and Old-fashioned glass",
+  "occasion": [
+    "Party",
+    "Casual"
+  ],
+  "type": "Shooter"
+}

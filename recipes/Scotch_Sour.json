@@ -1,0 +1,48 @@
+{
+  "cocktailName": "Scotch Sour",
+  "ingredients": [
+    {
+      "ingredientName": "Scotch",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Lemon Juice",
+      "volume": 0.75,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Simple Syrup",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Egg White",
+      "volume": 1,
+      "unit": "ounce",
+      "isLiquid": false
+    },
+    {
+      "ingredientName": "Angostura Bitters",
+      "volume": 2,
+      "unit": "dashes",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.4,
+  "instructions": [
+    "Combine all ingredients in a cocktail shaker without ice and shake well.",
+    "Add ice and shake again.",
+    "Strain into an old fashioned glass.",
+    "Garnish with a cherry."
+  ],
+  "tasteProfile": ["Sour", "Bitter", "Sweet"],
+  "garnish": "Cherry",
+  "alcoholContent": 0.15,
+  "color": "Yellow",
+  "glassType": "Old fashioned glass"
+}

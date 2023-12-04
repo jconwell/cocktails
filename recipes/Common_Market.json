@@ -1,0 +1,49 @@
+{
+    "CocktailName": "Common Market",
+    "Ingredients": [
+        {
+            "IngredientName": "Gin",
+            "Volume": 2.0,
+            "UnitOfMeasure": "ounces",
+            "IsLiquid": true
+        },
+        {
+            "IngredientName": "Lemon Juice",
+            "Volume": 1.0,
+            "UnitOfMeasure": "ounces",
+            "IsLiquid": true
+        },
+        {
+            "IngredientName": "Maple Syrup",
+            "Volume": 0.5,
+            "UnitOfMeasure": "ounces",
+            "IsLiquid": true
+        },
+        {
+            "IngredientName": "Egg White",
+            "Volume": 1.0,
+            "UnitOfMeasure": "ounces",
+            "IsLiquid": false
+        }
+    ],
+    "Popularity": 0.6,
+    "Difficulty": 0.4,
+    "Instructions": [
+        "Combine ingredients in a cocktail shaker.",
+        "Shake without ice to emulsify the egg white.",
+        "Add ice and shake again until well chilled.",
+        "Strain into a glass and garnish."
+    ],
+    "TasteProfile": [
+        "Citrus",
+        "Sweet",
+        "Smooth"
+    ],
+    "Garnish": "Lemon Twist",
+    "AlcoholContent": 0.15,
+    "CocktailType": "Sour",
+    "CocktailRegion": "British",
+    "Color": "Light Yellow",
+    "Temperature": "Chilled",
+    "Glassware": "Old Fashioned Glass"
+}

@@ -1,0 +1,43 @@
+{
+  "cocktailName": "John Daly",
+  "ingredients": [
+    {
+      "name": "Vodka",
+      "volume": 1.5,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Iced tea",
+      "volume": 4,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemonade",
+      "volume": 4,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon wheel",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.5,
+  "difficulty": 0.2,
+  "instructions": [
+    "In a tall glass filled with ice, add the vodka.",
+    "Top with iced tea and lemonade.",
+    "Garnish with a lemon wheel."
+  ],
+  "tasteProfile": ["Bitter", "Sweet", "Tart"],
+  "garnishes": "Lemon wheel",
+  "alcoholContent": 0.10,
+  "color": "#e6ce10",
+  "glassType": "Highball glass",
+  "occasion": ["Summer", "Casual"],
+  "baseSpirit": "Vodka"
+}

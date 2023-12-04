@@ -1,0 +1,38 @@
+{
+    "name": "Mezcal Negroni",
+    "ingredients": [
+        {
+            "name": "Mezcal",
+            "volume": 1,
+            "unit": "ounce",
+            "isLiquid": true
+        },
+        {
+            "name": "Campari",
+            "volume": 1,
+            "unit": "ounce",
+            "isLiquid": true
+        },
+        {
+            "name": "Sweet Vermouth",
+            "volume": 1,
+            "unit": "ounce",
+            "isLiquid": true
+        }
+    ],
+    "popularity": 0.7,
+    "difficulty": 0.4,
+    "instructions": [
+        "Pour all ingredients into a mixing glass with ice.",
+        "Stir well for about 20 seconds.",
+        "Strain into a chilled cocktail glass over large ice cube.",
+        "Garnish with an orange peel."
+    ],
+    "tasteProfile": ["smoky", "bitter", "sweet", "warm"],
+    "garnish": "Orange peel",
+    "alcoholContent": 0.24,
+    "cocktailType": "Aperitif",
+    "glassType": "Old-Fashioned glass",
+    "idealServingTemperature": "Chilled",
+    "baseSpirit": "Mezcal"
+}

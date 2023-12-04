@@ -1,0 +1,49 @@
+{
+  "cocktailName": "Diplomat",
+  "ingredients": [
+    {
+      "name": "Vermouth Rosso",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Vermouth Extra Dry",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Maraschino Liqueur",
+      "volume": 0.25,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Angostura bitters",
+      "volume": 2,
+      "unit": "dashes",
+      "isLiquid": true
+    },
+    {
+      "name": "Cherry",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.4,
+  "instructions": [
+    "In a mixing glass, add all liquid ingredients.",
+    "Stir with ice and strain into a chilled cocktail glass.",
+    "Garnish with a cherry on a skewer."
+  ],
+  "tasteProfile": ["sweet", "aromatic", "smooth"],
+  "garnish": "Cherry on a skewer",
+  "alcoholContent": 0.18,
+  "servingSize": 1,
+  "glassType": "cocktail glass",
+  "style": "short drink",
+  "color": "amber"
+}

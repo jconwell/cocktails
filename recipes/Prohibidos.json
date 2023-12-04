@@ -1,0 +1,55 @@
+{
+  "name": "Prohibidos",
+  "ingredients": [
+    {
+      "name": "Reposado tequila",
+      "volume": 1.5,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Aperol",
+      "volume": 0.75,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Lime juice",
+      "volume": 0.75,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Simple syrup",
+      "volume": 0.5,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Forbidden fruit liqueur",
+      "volume": 0.75,
+      "unit": "ounces",
+      "is_liquid": true
+    }
+  ],
+  "popularity": 0.4,
+  "difficulty": 0.6,
+  "instructions": [
+    "Combine all ingredients in a cocktail shaker",
+    "Add ice and shake until well-chilled",
+    "Strain into a chilled coupe",
+    "Garnish with a lime wheel"
+  ],
+  "taste_profile": ["bitter", "sweet", "citrus"],
+  "garnishes": "lime wheel",
+  "alcohol_content": 25.0,
+  "glassware": "coupe",
+  "occasion": ["night time", "social gathering"],
+  "appearance": {
+    "color": "orange",
+    "opacity": "transparent",
+    "texture": "liquid"
+  },
+  "aroma": ["citrus", "sweet", "malty"],
+  "mouth_feel": ["smooth", "light"]
+}

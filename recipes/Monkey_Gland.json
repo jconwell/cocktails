@@ -1,0 +1,46 @@
+{
+  "name": "Monkey Gland",
+  "ingredients": [
+    {
+      "ingredientName": "Gin",
+      "volume": 2,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Orange Juice",
+      "volume": 1,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Grenadine",
+      "volume": 1,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Absinthe",
+      "volume": 0.25,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.3,
+  "instructions": [
+    "Rinse a chilled glass with the absinthe and dump out.",
+    "Add the rest of the ingredients into a shaker with ice and shake.",
+    "Double-strain into the prepared glass."
+  ],
+  "tasteProfile": [
+    "intense", 
+    "sweet", 
+    "fresh"
+  ],
+  "garnishes": "Cherry on top",
+  "alcoholContent": 0.27,
+  "glassware": "Cocktail Glass",
+  "cocktailType": "Classic",
+  "color": "Orange"
+}

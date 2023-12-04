@@ -1,0 +1,47 @@
+{
+  "name": "Bourbon Lancer",
+  "ingredients": [
+    {
+      "ingredient": "Bourbon",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredient": "Bitters",
+      "volume": 2,
+      "unit": "dashes",
+      "isLiquid": true
+    },
+    {
+      "ingredient": "Sugar Cube",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    },
+    {
+      "ingredient": "Water",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.3,
+  "instructions": [
+    "In a glass, saturate the sugar cube with the bitters and a splash of water.",
+    "Muddle until the sugar has dissolved.",
+    "Fill the glass with ice cubes and add bourbon.",
+    "Stir well and garnish with an orange slice and a cocktail cherry."
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Bitter"
+  ],
+  "garnishes": "Orange Slice, Cherry",
+  "alcoholContent": 0.4,
+  "cocktailType": "Whiskey",
+  "glassType": "Old-Fashioned Glass",
+  "mood": ["Casual", "Relaxation"],
+  "event": ["Party", "After Dinner"]
+}

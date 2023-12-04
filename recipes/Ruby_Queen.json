@@ -1,0 +1,60 @@
+{
+  "cocktail": {
+    "name": "Ruby Queen",
+    "ingredients": [
+      {
+        "name": "Bourbon",
+        "volume": 2.0,
+        "unit": "ounces",
+        "isLiquid": true
+      },
+      {
+        "name": "Cranberry juice",
+        "volume": 1.0,
+        "unit": "ounces",
+        "isLiquid": true
+      },
+      {
+        "name": "Lime juice",
+        "volume": 0.5,
+        "unit": "ounces",
+        "isLiquid": true
+      },
+      {
+        "name": "Simple syrup",
+        "volume": 0.5,
+        "unit": "ounces",
+        "isLiquid": true
+      },
+      {
+        "name": "Fresh cranberries",
+        "volume": 4,
+        "unit": "count",
+        "isLiquid": false
+      }
+    ],
+     "popularity": 0.6,
+     "difficulty": 0.3,
+     "instructions": [
+       "In a shaker, muddle the cranberries.",
+       "Add the bourbon, cranberry juice, lime juice, and simple syrup.",
+       "Fill with ice, and shake until chilled.",
+       "Strain into a cocktail glass."
+     ],
+     "tasteProfile": [
+       "Sweet",
+       "Fruity",
+       "Tart"
+     ],
+     "garnish": "Fresh cranberries",
+     "alcoholContent": 0.24,
+     "color": "Red",
+     "glassType": "Cocktail glass",
+     "occasion": [
+       "Fall",
+       "Winter",
+       "Celebrations"
+     ],
+     "mixMethod": "Shake"
+  }
+}

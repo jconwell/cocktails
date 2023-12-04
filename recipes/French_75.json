@@ -1,0 +1,42 @@
+{
+  "name": "French 75",
+  "ingredients": [
+    {
+      "ingredient_name": "Gin",
+      "volume": 2,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Lemon juice",
+      "volume": 0.75,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Sugar syrup",
+      "volume": 0.75,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Champagne",
+      "volume": 3,
+      "unit": "ounces",
+      "is_liquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.4,
+  "instructions": [
+    "Combine gin, lemon juice, and sugar syrup in a cocktail shaker. Fill shaker with ice, cover, and shake until chilled.",
+    "Strain into a large flute.",
+    "Top with Champagne."
+  ],
+  "taste_profile": ["citrus", "sweet", "smooth"],
+  "garnish": "Lemon twist",
+  "alcohol_content": 0.22,
+  "drinkware": "Champagne flute",
+  "occasion": ["special events", "celebrations"],
+  "cocktail_family": "Sparkling"
+}

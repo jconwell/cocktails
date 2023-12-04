@@ -1,0 +1,40 @@
+{
+  "name": "Inside Scoop",
+  "ingredients": [
+    {
+      "name": "Whiskey",
+      "volume": 2,
+      "unit_of_measure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Vanilla Ice Cream",
+      "volume": 2,
+      "unit_of_measure": "scoops",
+      "isLiquid": false
+    },
+    {
+      "name": "Maple Syrup",
+      "volume": 1,
+      "unit_of_measure": "ounce",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.5,
+  "difficulty": 0.2,
+  "instructions": [
+    "Scoop ice cream into a large glass.",
+    "Pour whiskey over the ice cream.",
+    "Drizzle with maple syrup.",
+    "Serve with a spoon and straw."
+  ],
+  "taste_profile": [
+    "Sweet",
+    "Creamy",
+    "Smooth"
+  ],
+  "garnish": "Grated Nutmeg",
+  "alcohol_content": 0.4,
+  "origin": "American",
+  "type": "Dessert Cocktail"
+}

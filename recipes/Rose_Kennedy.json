@@ -1,0 +1,42 @@
+{
+  "name": "Rose Kennedy",
+  "ingredients": [
+    {
+      "name": "Vodka",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Cranberry Juice",
+      "volume": 3,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Club Soda",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lime",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.4,
+  "difficulty": 0.2,
+  "instructions": [
+    "In a chilled collins glass filled with ice cubes, pour the vodka, cranberry juice and club soda.",
+    "Garnish with a lime wheel."
+  ],
+  "tasteProfile": ["tart", "bubbly", "refreshing"],
+  "garnish": "Lime wheel",
+  "alcoholContent": 0.14,
+  "glassType": "Collins glass",
+  "isClassic": false,
+  "foodPairing": ["Light appetizers", "Seafood dishes"],
+  "color": "Pink"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Savoy Affair",
+  "ingredients": [
+    {
+      "name": "Brandy",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Creme de Cassis",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon Juice",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Champagne",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.3,
+  "instructions": [
+    "Pour brandy, creme de cassis, and lemon juice into a cocktail shaker filled with ice cubes",
+    "Shake well",
+    "Strain into a champagne glass",
+    "Top with champagne"
+  ],
+  "tasteProfile": [
+    {
+      "bitter": false,
+      "sweet": true,
+      "sour": true,
+      "spicy": false,
+      "fruity": true
+    }
+  ],
+  "garnish": "Lemon twist",
+  "alcoholContent": 0.32,
+  "cocktailType": "Brandy",
+  "glassType": "Champagne glass",
+  "preparationTime" : 5
+}

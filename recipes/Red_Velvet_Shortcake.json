@@ -1,0 +1,42 @@
+{
+  "cocktailName": "Red Velvet Shortcake",
+  "ingredients": [
+    {
+      "ingredientName": "Vanilla Vodka",
+      "volume": 1.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Strawberry Daiquiri Mix",
+      "volume": 1,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Cranberry Juice",
+      "volume": 1,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Red Velvet Cake Rim Sugar",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.65,
+  "difficulty": 0.4,
+  "instructions": [
+    "Rim the glass with red velvet cake rim sugar",
+    "In a shaker, combine vanilla vodka, strawberry daiquiri mix, and cranberry juice",
+    "Shake well and strain into the rimmed glass"
+  ],
+  "tasteProfile": ["sweet", "fruity"],
+  "garnish": "Lime wedge",
+  "alcoholContent": 0.15,
+  "colour": "red",
+  "servingTemperature": "cold",
+  "glassware": "martini glass"
+}

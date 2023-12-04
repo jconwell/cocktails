@@ -1,0 +1,45 @@
+{
+  "cocktailName": "Negroni",
+  "ingredients": [
+    {
+      "name": "Gin",
+      "volume": 1,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Campari",
+      "volume": 1,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Sweet Vermouth",
+      "volume": 1,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Orange Slice",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularityRating": 0.65,
+  "difficultyRating": 0.25,
+  "instructions": [
+    "Pour gin, Campari and sweet vermouth into a cocktail shaker.",
+    "Add ice and stir until well-chilled.",
+    "Strain into a rocks glass filled with large ice cubes.",
+    "Garnish with an orange slice."
+  ],
+  "tasteProfile": ["Bitter", "Sweet", "Citrusy"],
+  "garnish": "Orange Slice",
+  "alcoholContent": 0.3,
+  "servingGlass": "Rocks Glass",
+  "timeToMake": 5,
+  "totalVolume": 3,
+  "cocktailType": "Aperitif",
+  "cocktailFamily": "Negroni"
+}

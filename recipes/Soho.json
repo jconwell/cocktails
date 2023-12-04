@@ -1,0 +1,42 @@
+{
+  "name": "Soho Martini",
+  "popularity": 0.6,
+  "difficulty": 0.4,
+  "alcohol_content": 0.25,
+  "ingredients": [
+    {
+      "name": "Vodka",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lychee Liqueur",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon Juice",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lychee for garnish",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "instructions": [
+    "Combine vodka, lychee liqueur, and lemon juice in a cocktail shaker.",
+    "Fill shaker with ice and shake until well chilled.",
+    "Strain into a martini glass and garnish with a lychee."
+  ],
+  "taste_profile": ["Sweet", "Fruity"],
+  "garnishes": "Lychee",
+  "serve_in": "Martini Glass",
+  "preparation_time_minutes": 5,
+  "origin": "United States"
+}

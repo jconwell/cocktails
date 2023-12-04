@@ -1,0 +1,57 @@
+{
+  "cocktailName": "Shiso Mojito",
+  "ingredients": [
+    {
+      "name": "White Rum",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Shiso Leaves",
+      "volume": 10,
+      "unit": "count",
+      "isLiquid": false
+    },
+    {
+      "name": "Simple Syrup",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lime Juice",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.3,
+  "instructions": [
+    "In a shaker, muddle the shiso leaves with the simple syrup.",
+    "Add the rum and lime juice.",
+    "Fill with ice and shake well.",
+    "Strain into a glass and top with soda water."
+  ],
+  "tasteProfile": [
+    "Fresh",
+    "Citrus",
+    "Slightly Sweet",
+    "Herbaceous"
+  ],
+  "garnish": "Sprig of Mint",
+  "alcoholContent": 0.2,
+  "drinkware": "Highball glass",
+  "servingType": "Single",
+  "isShaken": true,
+  "isStirred": false,
+  "isDoubleStrain": false,
+  "isLayered": false,
+  "baseSpirit": "Rum",
+  "flavorBase": "Herb",
+  "primaryAlcoholVolume": 2,
+  "additionalAlcoholVolume": 0,
+  "baseIngredientVolume": 12,
+  "additionalIngredientVolume": 2
+}

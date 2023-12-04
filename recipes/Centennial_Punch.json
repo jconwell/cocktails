@@ -1,0 +1,25 @@
+{
+  "name": "Centennial Punch",
+  "ingredients": [
+    {"name": "Rye whiskey", "volume": 8, "unit": "ounces", "isLiquid": true},
+    {"name": "Lemon juice", "volume": 8, "unit": "ounces", "isLiquid": true},
+    {"name": "Simple syrup", "volume": 8, "unit": "ounces", "isLiquid": true},
+    {"name": "Champagne", "volume": 24, "unit": "ounces", "isLiquid": true},
+    {"name": "Lemon slices", "volume": 8, "unit": "count", "isLiquid": false},
+    {"name": "Fresh raspberries", "volume": 16, "unit": "count", "isLiquid": false}
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.4,
+  "instructions": [
+    "In a punch bowl, stir together the rye, lemon juice, and simple syrup.", 
+    "Add a large block of ice.", 
+    "Just before serving, add the champagne and stir gently.",
+    "Garnish with raspberries and lemon slices."
+  ],
+  "tasteProfile": ["sweet", "tart", "bubbly", "fruity"],
+  "garnishes": "Raspberries and lemon slices",
+  "alcoholContent": 0.15,
+  "glassware": "Punch Bowl",
+  "occasion": ["Celebration", "Party", "Holidays"],
+  "pairings": ["Appetizers", "Fruit platter", "Party snacks"]
+}

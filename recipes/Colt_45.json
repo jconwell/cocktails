@@ -1,0 +1,40 @@
+{
+  "name": "Colt 45",
+  "ingredients": [
+    {
+      "name": "Bourbon",
+      "volume": 2,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Brandy",
+      "volume": 1,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Crème de Menthe",
+      "volume": 0.5,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    }
+  ],
+  "popularity": 0.5,
+  "difficulty": 0.3,
+  "instructions": [
+    "Pour the bourbon into a shaker along with the brandy.",
+    "Add the crème de menthe.",
+    "Shake well and strain into a chilled cocktail glass."
+  ],
+  "taste_profile": [
+    "Smooth",
+    "Slightly Sweet",
+    "Hint of Mint"
+  ],
+  "garnish": "None",
+  "alcohol_content": 0.35,
+  "color": "Light Brown",
+  "glass_type": "Cocktail Glass",
+  "last_updated": "2021-09-23"
+}

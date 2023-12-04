@@ -1,0 +1,53 @@
+{
+  "CocktailName": "El Diablo",
+  "Ingredients": [
+    {
+      "Name": "Blanco Tequila",
+      "Volume": 2,
+      "UnitOfMeasure": "ounces",
+      "IsLiquid": true
+    },
+    {
+      "Name": "Crème de cassis",
+      "Volume": 1,
+      "UnitOfMeasure": "ounces",
+      "IsLiquid": true
+    },
+    {
+      "Name": "Lime Juice",
+      "Volume": 1,
+      "UnitOfMeasure": "ounces",
+      "IsLiquid": true
+    },
+    {
+      "Name": "Ginger Beer",
+      "Volume": 2,
+      "UnitOfMeasure": "ounces",
+      "IsLiquid": true
+    }
+  ],
+  "Popularity": 0.7,
+  "Difficulty": 0.3,
+  "Instructions": [
+    "Pour the tequila, lime juice and crème de cassis into a shaker.",
+    "Shake well until the outside of shaker is frosted.",
+    "Strain into large glass filled with ice.",
+    "Top up with ginger beer.",
+    "Stir gently to combine."
+  ],
+  "TasteProfile": [
+    "Sweet",
+    "Sour",
+    "Spicy"
+  ],
+  "Garnishes": "Lime wheel and blackberry",
+  "AlcoholContent": 0.14,
+  "GlassType": "Highball glass",
+  "Served": "On the rocks",
+  "FlavorProfile": [
+    "Fruity",
+    "Bitter",
+    "Sweet"
+  ],
+  "Color": "Dark Red"
+}

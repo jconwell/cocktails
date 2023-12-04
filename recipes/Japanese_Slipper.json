@@ -1,0 +1,41 @@
+{
+  "cocktailName": "Japanese Slipper",
+  "ingredients": [
+    {
+      "name": "Midori",
+      "volume": 1,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Cointreau",
+      "volume": 1,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon Juice",
+      "volume": 1,
+      "unit": "oz",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.3,
+  "instructions": [
+    "Fill a shaker with ice cubes.",
+    "Add all ingredients.",
+    "Shake and strain into a cocktail glass."
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Citrus",
+    "Tropical"
+  ],
+  "garnish": "Cherry",
+  "alcoholContent": 0.4,
+  "glassType": "Cocktail Glass",
+  "timeToPrepare": 5,
+  "origin": "Australia",
+  "color": "Green"
+}

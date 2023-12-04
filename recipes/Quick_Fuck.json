@@ -1,0 +1,44 @@
+{
+  "cocktailRecipe": {
+    "name": "Quick Fuck",
+    "ingredients": [
+      {
+        "name": "Kahlua",
+        "volume": 0.33,
+        "unitOfMeasure": "oz",
+        "isLiquid": true
+      },
+      {
+        "name": "Midori Melon Liqueur",
+        "volume": 0.33,
+        "unitOfMeasure": "oz",
+        "isLiquid": true
+      },
+      {
+        "name": "Baileys Irish Cream",
+        "volume": 0.33,
+        "unitOfMeasure": "oz",
+        "isLiquid": true
+      }
+    ],
+    "popularity": 0.63,
+    "difficulty": 0.34,
+    "instructions": [
+      "Pour the Kahlua into a shot glass",
+      "Pour the Midori Melon Liqueur on top, being careful to layer it",
+      "Finally, layer the Baileys Irish Cream on top"
+    ],
+    "tasteProfile": [
+      "Sweet",
+      "Creamy",
+      "Fruity"
+    ],
+    "garnish": "None",
+    "alcoholContent": 0.28,
+    "servingGlass": "Shot glass",
+    "preparationTime": 3,
+    "tasteIntensity": 0.5,
+    "refreshment": 0.5,
+    "pairWithFood": false
+  }
+}

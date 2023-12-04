@@ -1,0 +1,50 @@
+{
+  "cocktailName": "Habanero Blood Orange Margarita",
+  "ingredients": [
+    {
+      "name": "Tequila",
+      "volume": 3,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Blood Orange Juice",
+      "volume": 3,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lime Juice",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Habanero Syrup",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Ice Cubes",
+      "volume": 4,
+      "unit": "Count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.6,
+  "difficultyToMake": 0.7,
+  "instructions": [
+    "Pour tequila, blood orange juice, lime juice, and habanero syrup into a shaker.",
+    "Add ice cubes.",
+    "Shake until well mixed and chilled.",
+    "Strain into a glass."
+  ],
+  "tasteProfile": ["Sweet", "Tangy", "Spicy"],
+  "garnishes": "Blood Orange Slice, Habanero Slice",
+  "alcoholContent": 0.4,
+  "glassType": "Margarita glass",
+  "drinkType": "Cocktail",
+  "regionOfOrigin": "Mexico",
+  "colour": "Dark Orange"
+}

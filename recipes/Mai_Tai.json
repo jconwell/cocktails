@@ -1,0 +1,59 @@
+{
+  "cocktailName": "Mai Tai",
+  "ingredients": [
+    {
+      "name": "White Rum",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Dark Rum",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Orange Curaçao",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lime juice",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Orgeat Syrup",
+      "volume": 0.75,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Mint",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.8,
+  "difficulty": 0.4,
+  "instructions": [
+    "Combine all ingredients, except for the dark rum, in a shaker with ice.",
+    "Shake thoroughly until well chilled.",
+    "Strain into a glass filled with crushed ice.",
+    "Float the dark rum on top.",
+    "Garnish with a sprig of mint."
+  ],
+  "tasteProfile": [
+    "sweet",
+    "citrus",
+    "nutty"
+  ],
+  "garnish": "Mint sprig",
+  "alcoholContent": 0.4,
+  "color": "brown",
+  "glassware": "Double Old Fashioned glass"
+}

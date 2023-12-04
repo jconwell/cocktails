@@ -1,0 +1,62 @@
+{
+  "cocktailName": "Flaming Volcano",
+  "ingredients": [
+    {
+      "name": "Rum",
+      "volume": 2,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Brandy",
+      "volume": 1,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Pineapple juice",
+      "volume": 6,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Grenadine",
+      "volume": 0.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon juice",
+      "volume": 1,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Ice",
+      "volume": 1,
+      "unitOfMeasure": "cups",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.8,
+  "difficulty": 0.6,
+  "instructions": [
+    "Fill a blender with ice.",
+    "Add the rum, brandy, pineapple juice, grenadine, and lemon juice.",
+    "Blend until smooth.",
+    "Pour into a tall glass or tiki mug.",
+    "Add a cocktail cherry and other fruits on top."
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Tropical",
+    "Boozy"
+  ],
+  "garnish": "Pineapple and cherry on top",
+  "alcoholContent": 0.1,
+  "glassType": "Tiki mug",
+  "classicCocktail": false,
+  "color": "Red",
+  "cocktailType": "Frozen",
+  "flamingBeverage": true
+}

@@ -1,0 +1,48 @@
+{
+  "cocktail_name": "For The Record",
+  "ingredients": [
+    {
+      "ingredient_name": "Mezcal",
+      "ingredient_volume": 2.0,
+      "ingredient_unit": "oz",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Lime juice",
+      "ingredient_volume": 1.0,
+      "ingredient_unit": "oz",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Ginger syrup",
+      "ingredient_volume": 0.75,
+      "ingredient_unit": "oz",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Angostura bitters",
+      "ingredient_volume": 1.0,
+      "ingredient_unit": "dash",
+      "is_liquid": true
+    }
+  ],
+  "popularity": 0.65,
+  "difficulty": 0.45,
+  "preparation_steps": [
+    "Pour mezcal into a shaker.",
+    "Add lime juice and ginger syrup.",
+    "Drop in Angostura bitters.",
+    "Shake well with ice and strain into a glass."
+  ],
+  "taste_profile": [
+    "smoky",
+    "citrusy",
+    "spicy"
+  ],
+  "garnish": "Slice of ginger",
+  "alcohol_content": 0.35,
+  "beverage_type": "cocktail",
+  "serving_temperature": "cold",
+  "glass_type": "lowball glass",
+  "is_blended": false
+}

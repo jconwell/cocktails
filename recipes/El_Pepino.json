@@ -1,0 +1,55 @@
+{
+  "cocktail": {
+    "name": "El Pepino",
+    "ingredients": [
+      {
+        "name": "Simple syrup",
+        "volume": 0.75,
+        "unit": "ounces",
+        "isLiquid": true
+      },
+      {
+        "name": "Fresh lime juice",
+        "volume": 1,
+        "unit": "ounces",
+        "isLiquid": true
+      },
+      {
+        "name": "Premium tequila",
+        "volume": 1.5,
+        "unit": "ounces",
+        "isLiquid": true
+      },
+      {
+        "name": "Cucumber wheels",
+        "volume": 3,
+        "unit": "count",
+        "isLiquid": false
+      },
+      {
+        "name": "Cilantro sprigs",
+        "volume": 1,
+        "unit": "count",
+        "isLiquid": false
+      }
+    ],
+    "popularity": 0.75,
+    "difficulty": 0.5,
+    "steps": [
+      "Muddle cucumber wheels and cilantro sprigs with simple syrup at the bottom of a mixing glass.",
+      "Add fresh lime juice and tequila.",
+      "Fill with ice and shake vigorously.",
+      "Strain into a chilled cocktail glass."
+    ],
+    "tasteProfile": ["Fresh", "Crisp", "Citrus"],
+    "garnish": "Cucumber wheel, cilantro sprig",
+    "alcoholContent": 0.4,
+    "cocktailClass": "Modern Classics",
+    "baseSpirit": "Tequila",
+    "preparationMethod": "Shaken",
+    "glassType": "Cocktail Glass",
+    "served": "Straight Up",
+    "strength": "Medium",
+    "color": "Green"
+  }
+}

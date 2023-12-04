@@ -1,0 +1,36 @@
+{
+  "cocktail_name": "Jack Rose",
+  "ingredients": [
+    {
+      "ingredient_name": "Lemon juice",
+      "volume": 1,
+      "unit_of_measure": "oz",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Grenadine",
+      "volume": 0.5,
+      "unit_of_measure": "oz",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Applejack",
+      "volume": 2,
+      "unit_of_measure": "oz",
+      "is_liquid": true
+    }
+  ],
+  "popularity_modifier": 0.6,
+  "difficulty_modifier": 0.3,
+  "instructions": [
+    "Add all ingredients into a shaker with ice.",
+    "Shake until well chilled.",
+    "Strain into a cocktail glass."
+  ],
+  "taste_profile": ["Sweet", "Citrus", "Fruity"],
+  "garnish": "Lemon twist",
+  "alcohol_content": 0.27,
+  "cocktail_style": "Classic",
+  "recommended_glassware": "Cocktail glass",
+  "season_recommendation": ["Fall", "Winter"]
+}

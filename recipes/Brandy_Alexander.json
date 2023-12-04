@@ -1,0 +1,40 @@
+{
+  "CocktailName": "Brandy Alexander",
+  "Ingredients": [
+    {
+      "Name": "Brandy",
+      "Volume": 1.0,
+      "Unit": "oz",
+      "IsLiquid": true
+    },
+    {
+      "Name": "Dark crème de cacao",
+      "Volume": 1.0,
+      "Unit": "oz",
+      "IsLiquid": true
+    },
+    {
+      "Name": "Cream",
+      "Volume": 1.0,
+      "Unit": "oz",
+      "IsLiquid": true
+    }
+  ],
+  "Popularity": 0.5,
+  "Difficulty": 0.3,
+  "Instructions": [
+    "Shake all ingredients with ice",
+    "Strain into a chilled cocktail glass"
+  ],
+  "TasteProfile": [
+    "Sweet",
+    "Creamy",
+    "Smooth"
+  ],
+  "Garnish": "Grated Nutmeg",
+  "AlcoholContent": 0.24,
+  "DrinkType": "Dessert cocktail",
+  "GlassType": "Cocktail glass",
+  "RecommendedSeason": "Winter",
+  "ServeTemperature": "Cold"
+}

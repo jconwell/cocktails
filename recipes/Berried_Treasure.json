@@ -1,0 +1,45 @@
+{
+    "name": "Berried Treasure",
+    "ingredients": [
+        {
+            "name": "Grey Goose vodka",
+            "volume": 1.5,
+            "unit": "ounces",
+            "isLiquid": true
+        },
+        {
+            "name": "Lemon juice",
+            "volume": 0.5,
+            "unit": "ounces",
+            "isLiquid": true
+        },
+        {
+            "name": "Simple syrup",
+            "volume": 0.5,
+            "unit": "ounces",
+            "isLiquid": true
+        },
+        {
+            "name": "Fresh raspberries",
+            "volume": 5,
+            "unit": "count",
+            "isLiquid": false
+        }
+    ],
+    "popularity": 0.7,
+    "difficulty": 0.3,
+    "instructions": [
+        "Muddle raspberries and simple syrup in the bottom of a cocktail shaker.",
+        "Add vodka and lemon juice.",
+        "Fill shaker with ice and shake until well chilled.",
+        "Strain into a rocks glass filled with ice."
+    ],
+    "tasteProfile": ["Sweet", "Tart", "Fruity"],
+    "garnish": "Lemon wheel and raspberry on a skewer",
+    "alcoholContent": 0.18,
+    "color": "Red",
+    "serveIn": "Rocks glass",
+    "strength": "Medium",
+    "type": "Fruity Cocktail",
+    "occasion": ["Summer", "Party", "Casual"]
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Lotus Blossom",
+  "ingredients": [
+    {
+      "name": "Gin",
+      "volume": 2.0,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lychee Liquor",
+      "volume": 1.0,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lime Juice",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Simple Syrup",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lychees",
+      "volume": 1.0,
+      "unit": "count",
+      "isLiquid": false
+    },
+    {
+      "name": "Ice cubes",
+      "volume": 5.0,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.4,
+  "instructions": [
+    "In a drink mixer combine Gin, Lychee liquor, Lime juice, Simple syrup and Ice cubes.",
+    "Shake until chilled.",
+    "Strain into a glass.",
+    "Add Lychees."
+  ],
+  "tasteProfile": ["Sweet", "Tart", "Spirited", "Fruity"],
+  "garnish": "Lychees on top",
+  "alcoholContent": 17.0,
+  "glassType": "cocktail glass",
+  "serve": "Cold",
+  "cocktailType": "Refreshing"
+}

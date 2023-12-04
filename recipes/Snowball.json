@@ -1,0 +1,42 @@
+{
+  "name": "Snowball",
+  "ingredients": [
+    {
+      "name": "Advocaat",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lime Juice",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemonade",
+      "volume": 5,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.55,
+  "difficulty": 0.2,
+  "instructions": [
+    "Pour the advocaat and lime juice into a shaker with ice cubes.",
+    "Shake well.",
+    "Strain into a large cocktail glass.",
+    "Top up with lemonade."
+  ],
+  "tasteProfile": [
+    "Creamy",
+    "Sweet",
+    "Citrus"
+  ],
+  "garnishes": "Lime slice",
+  "alcoholContent": 0.1,
+  "color": "Yellow",
+  "glassType": "Hurricane glass",
+  "isCarbonated": true,
+  "isCreamy": false
+}

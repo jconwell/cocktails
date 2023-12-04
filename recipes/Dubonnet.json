@@ -1,0 +1,40 @@
+{
+    "name": "Dubonnet Cocktail",
+    "ingredients": [
+        {
+            "name": "Dubonnet rouge",
+            "volume": 1.5,
+            "unit": "ounces",
+            "isLiquid": true
+        },
+        {
+            "name": "Gin",
+            "volume": 1.5,
+            "unit": "ounces",
+            "isLiquid": true
+        }
+    ],
+    "popularity": 0.5,
+    "difficulty": 0.3,
+    "instructions": [
+        "Stir gin and Dubonnet with ice in a mixing glass.",
+        "Strain into a cocktail glass.",
+        "Garnish with a twist of orange peel."
+    ],
+    "tasteProfile": [
+        "Bittersweet",
+        "Fruity",
+        "Herbaceous"
+    ],
+    "garnish": "Orange peel",
+    "alcoholContent": 0.24,
+    "color": "Red",
+    "glassType": "Cocktail glass",
+    "served": "Cold",
+    "drinkType": "Alcoholic",
+    "isCarbonated": false,
+    "occasion": [
+        "Evening",
+        "Dinner"
+    ]
+}

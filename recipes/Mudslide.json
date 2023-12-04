@@ -1,0 +1,53 @@
+{
+  "cocktailName": "Mudslide",
+  "ingredients": [
+    {
+      "name": "Vodka",
+      "volume": 1.0,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Coffee Liqueur",
+      "volume": 1.0,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Irish Cream Liqueur",
+      "volume": 1.0,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Cream",
+      "volume": 1.0,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Ice cubes",
+      "volume": 2,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.2,
+  "instructions": [
+    "Pour vodka, coffee liqueur and Irish cream liqueur into a shaker filled with ice.",
+    "Shake well until combined.",
+    "Strain into a glass filled with more ice.",
+    "Top with cream."
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Creamy",
+    "Strong"
+  ],
+  "garnish": "Chocolate syrup",
+  "alcoholContent": 0.2,
+  "color": "Dark Brown",  
+  "timeRequiredInMin": 5.0,
+  "glassware": "Rocks Glass"
+}

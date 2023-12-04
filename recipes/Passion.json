@@ -1,0 +1,39 @@
+
+{
+  "name": "Passion",
+  "Ingredients": [
+    {
+      "name": "vodka",
+      "volume": 1.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "passion fruit syrup",
+      "volume": 1,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "lemon juice",
+      "volume": 0.5,
+      "unit": "oz",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.3,
+  "Instructions": [
+    "Pour the vodka into a shaker with ice",
+    "Add the passion fruit syrup and lemon juice",
+    "Shake well",
+    "Strain into a chilled cocktail glass"
+  ],
+  "TasteProfile": ["sweet", "sour", "fruity", "tart"],
+  "garnish": "slice of passion fruit",
+  "alcoholContent": 17.0,
+  "Served": "Straight up; without ice",
+  "Drinkware": "Cocktail glass",
+  "Category": "Alcoholic cocktail",
+  "IBA Official Cocktail": false
+}

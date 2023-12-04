@@ -1,0 +1,62 @@
+
+{
+  "cocktailName": "Bloody Mary",
+  "ingredients": [
+    {
+      "name": "Vodka",
+      "quantity": 2.0,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Tomato Juice",
+      "quantity": 4.0,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Worcestershire Sauce",
+      "quantity": 0.5,
+      "unit": "teaspoon",
+      "isLiquid": true
+    },
+    {
+      "name": "Celery Salt",
+      "quantity": 1,
+      "unit": "pinch",
+      "isLiquid": false
+    },
+    {
+      "name": "Hot Sauce",
+      "quantity": 0.25,
+      "unit": "teaspoon",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon Juice",
+      "quantity": 1.0,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Pepper",
+      "quantity": 1,
+      "unit": "pinch",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.67,
+  "difficulty": 0.45,
+  "instructions": [
+    "Rub the rim of a highball glass with a lemon wedge and dip into celery salt.",
+    "Fill the glass with ice cubes.",
+    "In a shaker, combine vodka, tomato juice, Worcestershire sauce, hot sauce, lemon juice, and pepper.",
+    "Shake well and strain into the glass over the ice.",
+    "Stir well and garnish."
+  ],
+  "tasteProfile": ["spicy", "savory", "sour"],
+  "garnish": "Celery stalk and lemon wheel",
+  "alcoholContent": 0.1,
+  "color": "Red",
+  "glassType": "highball"
+}

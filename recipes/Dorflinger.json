@@ -1,0 +1,39 @@
+{
+  "Cocktail_Name": "Dorflinger",
+  "Ingredients": [
+    {
+      "Ingredient_Name": "Absinthe",
+      "Volume": 0.5,
+      "Unit": "oz",
+      "Is_Liquid": true
+    },
+    {
+      "Ingredient_Name": "Chilled Water",
+      "Volume": 1,
+      "Unit": "oz",
+      "Is_Liquid": true
+    },
+    {
+      "Ingredient_Name": "Superfine Sugar",
+      "Volume": 1,
+      "Unit": "tsp",
+      "Is_Liquid": false
+    }
+  ],
+  "Popularity": 0.3,
+  "Difficulty": 0.2,
+  "Instructions": [
+    "In a mixing glass, combine absinthe, superfine sugar and chilled water.",
+    "Stir until the sugar is fully dissolved.",
+    "Strain into a chilled cocktail glass."
+  ],
+  "Taste_Profile": [
+    "Sweet",
+    "Herbaceous",
+    "Strong"
+  ],
+  "Garnishes": "None",
+  "Alcohol_Content": 0.40,
+  "Serving_Glass": "Cocktail Glass",
+  "Preparation_Time": 5
+}

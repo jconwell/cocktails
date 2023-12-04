@@ -1,0 +1,28 @@
+{
+  "cocktailName": "Kiwi Martini",
+  "ingredients": [
+    { "name": "Vodka", "volume": 2.0, "unit": "ounces", "isLiquid": true },
+    { "name": "Kiwi", "volume": 1.0, "unit": "count", "isLiquid": false },
+    { "name": "Simple Syrup", "volume": 0.5, "unit": "ounces", "isLiquid": true },
+    { "name": "Lime Juice", "volume": 0.5, "unit": "ounces", "isLiquid": true }
+  ],
+  "popularity": 0.65,
+  "difficulty": 0.3,
+  "instructions": [
+    "Peel the kiwi and muddle it in a shaker.",
+    "Add the vodka, simple syrup, and lime juice into the shaker.",
+    "Shake well until mixed and chilled.",
+    "Strain the mixture into a martini glass."
+  ],
+  "tasteProfile": [
+    "sweet",
+    "fruity",
+    "acidic"
+  ],
+  "garnish": "Kiwi slice",
+  "alcoholContent": 0.2,
+  "glassType": "Martini Glass",
+  "isClassic": false,
+  "cocktailType": "Modern Classics",
+  "color": "green"
+}

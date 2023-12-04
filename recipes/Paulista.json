@@ -1,0 +1,39 @@
+{
+  "name": "Paulista",
+  "ingredients": [
+    {
+      "name": "cachaca",
+      "volume": 2,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "lime",
+      "volume": 0.5,
+      "unit": "whole",
+      "isLiquid": false
+    },
+    {
+      "name": "sugar",
+      "volume": 1,
+      "unit": "tsp",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.2,
+  "steps": [
+    "Cut lime into wedges.",
+    "Muddle lime and sugar in the bottom of a glass.",
+    "Fill the glass with ice cubes.",
+    "Add cachaca.",
+    "Stir well."
+  ],
+  "tasteProfile": ["citrus", "sweet", "strong"],
+  "garnish": "lime wheel",
+  "alcoholContent": 0.38,
+  "glassType": "Old Fashioned glass",
+  "color": "Green",
+  "carbonation": false,
+  "servingTemperature": "Cold"
+}

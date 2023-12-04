@@ -1,0 +1,38 @@
+{
+  "name": "Ruby Negroni", 
+  "ingredients": [
+    {
+      "name": "Gin",
+      "volume": 1,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Campari",
+      "volume": 1,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Ruby Port",
+      "volume": 1,
+      "unit": "ounce",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.6,
+  "instructions": [
+    "Pour the gin, Campari, and ruby port into a mixing glass with ice.",
+    "Stir the mixture until well chilled.",
+    "Strain into a chilled cocktail glass.",
+    "Garnish with a lemon twist and serve."
+  ],
+  "tasteProfile": ["bitter", "fruity", "strong"],
+  "garnishes": "Lemon twist",
+  "alcoholContent": 0.22,
+  "color": "Ruby red",
+  "servingGlass":"Cocktail glass",
+  "occasion": "Evening drinks",
+  "mood": "Relaxed"
+}

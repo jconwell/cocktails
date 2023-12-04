@@ -1,0 +1,43 @@
+{
+  "cocktailName": "Perroquet",
+  "ingredients": [
+    {
+      "name": "Pastis",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Mint Syrup",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Water",
+      "volume": 5,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.5,
+  "difficulty": 0.2,
+  "instructions": [
+    "Pour pastis into a glass",
+    "Add mint syrup",
+    "Top up with water",
+    "Stir well until mixed"
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Minty",
+    "Refreshing"
+  ],
+  "garnish": "Mint leaves",
+  "alcoholContent": 0.16,
+  "color": "Green",
+  "texture": "Smooth",
+  "servingGlass": "Highball glass",
+  "servingTemperature": "Cold",
+  "mixMethod": "Stirred"
+}

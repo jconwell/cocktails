@@ -1,0 +1,42 @@
+{
+  "cocktailName": "Thanksgiving",
+  "ingredients": [
+    {
+      "name": "Cranberry Juice",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Apple Cider",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Bourbon",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Cinnamon Stick",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.7,
+  "complexity": 0.2,
+  "methods": [
+    "Pour the apple cider and cranberry juice into a glass.",
+    "Add bourbon.",
+    "Stir well.",
+    "Garnish with cinnamon stick."
+  ],
+  "tasteProfile": ["Sweet", "Fruity", "Spicy"],
+  "garnish": "Cinnamon Stick",
+  "alcoholContent": 0.1,
+  "drinkTypes": ["Seasonal", "Celebration"],
+  "servingTemperature": "Cold"
+}

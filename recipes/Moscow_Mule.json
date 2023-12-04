@@ -1,0 +1,45 @@
+{
+  "name": "Moscow Mule",
+  "ingredients": [
+    {
+      "name": "Vodka",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lime juice",
+      "volume": 1,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Ginger beer",
+      "volume": 4,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lime wedge",
+      "volume": 1,
+      "unit": "piece",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.8,
+  "difficulty": 0.2,
+  "instructions": [
+    "Pour the vodka and lime juice into a Moscow Mule mug.",
+    "Fill the mug with ice cubes.",
+    "Top with ginger beer.",
+    "Stir briefly to combine.",
+    "Garnish with a lime wedge."
+  ],
+  "tasteProfile": ["sweet", "tangy", "bubbly"],
+  "garnishes": "Lime wedge",
+  "alcoholContent": 0.07,
+  "glassware": "Copper Mule Mug",
+  "category": "Classic",
+  "color": "light yellow",
+  "texture": "effervescent"
+}

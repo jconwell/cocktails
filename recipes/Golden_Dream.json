@@ -1,0 +1,53 @@
+{
+  "name": "Golden Dream",
+  "ingredients": [
+    {
+      "name": "Galliano",
+      "volume": 1.0,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Triple Sec",
+      "volume": 1.0,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Fresh Cream",
+      "volume": 1.0,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Freshly Squeezed Orange Juice",
+      "volume": 1.0,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.65,
+  "difficulty": 0.3,
+  "instructions": [
+    "Chill cocktail glass with ice and water.",
+    "Pour all ingredients into a shaker filled with ice.",
+    "Shake well.",
+    "Empty the cocktail glass.",
+    "Strain the mix into the glass."
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Sour",
+    "Creamy",
+    "Citrus"
+  ],
+  "garnish": "None",
+  "alcoholContent": 0.21,
+  "otherCharacteristics": {
+    "drinkType": "After Dinner",
+    "glassType": "Cocktail glass",
+    "servingTemperature": "Cold",
+    "color": "Yellow",
+    "strength": "Moderate"
+  }
+}

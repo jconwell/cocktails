@@ -1,0 +1,43 @@
+{
+  "cocktailName": "Nightcap",
+  "ingredients": [
+    {
+      "name": "Brandy",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Triple sec",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon Juice",
+      "volume": 0.25,
+      "unit": "ounces",
+      "isLiquid": true
+    },  
+    {
+      "name": "Ice Cubes",
+      "volume": 3,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.35,
+  "instructions": [
+    "Pour the brandy, triple sec, and lemon juice into a cocktail shaker.",
+    "Add the ice cubes.",
+    "Shake well for about 20 seconds.",
+    "Strain the cocktail into a glass."
+  ],
+  "tasteProfile": ["Sour", "Sweet", "Strong"],
+  "garnish": "Lemon Peel",
+  "alcoholContent": 40.0,
+  "servingMethod": "In cocktail glass",
+  "isShaken": true,
+  "isStirred": false
+}

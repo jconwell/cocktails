@@ -1,0 +1,48 @@
+{
+  "cocktail_name": "Great Pumpkin",
+  "ingredients": [
+    {
+      "name": "Pumpkin puree",
+      "volume": 1,
+      "unit": "ounce",
+      "is_liquid": false
+    },
+    {
+      "name": "Dark rum",
+      "volume": 2,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Maple syrup",
+      "volume": 1,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Whole egg",
+      "volume": 1,
+      "unit": "count",
+      "is_liquid": false
+    }
+  ],
+  "popularity": 0.5,
+  "difficulty": 0.6,
+  "instructions": [
+    "In a cocktail shaker, combine the pumpkin puree, dark rum, maple syrup and egg.",
+    "Shake vigorously for about 15 seconds.",
+    "Strain into a chilled cocktail glass."
+  ],
+  "taste_profile": [
+    "Sweet",
+    "Creamy",
+    "Seasonal"
+  ],
+  "garnish": "Grated nutmeg",
+  "alcohol_content": 24.0,
+  "color": "Orange",
+  "served_in": "Cocktail glass",
+  "primary_alcohol": "Rum",
+  "category": "Seasonal Cocktail",
+  "occasion": ["Fall", "Thanksgiving", "Halloween", "Winter"]
+}

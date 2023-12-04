@@ -1,0 +1,23 @@
+{
+  "cocktail_name": "Bocce Ball",
+  "ingredients": [
+    {"name": "Vodka", "volume": 1.25, "unit_of_measure": "ounces", "is_liquid": true},
+    {"name": "Amaretto", "volume": 0.75, "unit_of_measure": "ounces", "is_liquid": true},
+    {"name": "Orange Juice", "volume": 4.0, "unit_of_measure": "ounces", "is_liquid": true},
+    {"name": "Soda Water", "volume": 1.0, "unit_of_measure": "ounces", "is_liquid": true}
+  ],
+  "popularity_score": 0.6,
+  "difficulty_score": 0.2,
+  "instructions": [
+    "Combine the vodka, amaretto and orange juice in a shaker with ice.", 
+    "Shake well.", 
+    "Strain into a glass filled with ice.", 
+    "Top off with soda water."
+  ],
+  "taste_profile": ["Sweet", "Sour", "Bitter"],
+  "garnishes": "Orange Slice",
+  "alcohol_content": 0.6,
+  "glass_type": "Highball Glass",
+  "serve_as": "Cold",
+  "cocktail_type": "Mixed Drink"
+}

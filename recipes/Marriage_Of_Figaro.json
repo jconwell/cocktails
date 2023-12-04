@@ -1,0 +1,56 @@
+{
+  "name": "Marriage Of Figaro",
+  "ingredients": [
+    {
+      "ingredient_name": "Irish Whiskey",
+      "amount": 1.5,
+      "measurement_unit": "ounces",
+      "is_liquid": true
+    },
+   {
+      "ingredient_name": "Sweet red vermouth",
+      "amount": 0.5,
+      "measurement_unit": "ounces",
+      "is_liquid": true
+    },
+   {
+      "ingredient_name": "Fig jam",
+      "amount": 1,
+      "measurement_unit": "spoon",
+      "is_liquid": false
+    },
+    {
+      "ingredient_name": "Lemon juice",
+      "amount": 0.75,
+      "measurement_unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Egg white",
+      "amount": 1,
+      "measurement_unit": "ounce",
+      "is_liquid": false
+    }
+  ],
+  "popularity": 0.5,
+  "difficulty": 0.6,
+  "instructions": [
+    "In a shaker, combine all the ingredients",
+    "Shake without ice to emulsify the egg white",
+    "Add ice and shake again until well-chilled",
+    "Double strain into a chilled martini glass",
+    "Garnish with fig slice and serve"
+  ],
+  "taste_profile": [
+    "sweet",
+    "fruity",
+    "tart"
+  ],
+  "garnish": "Fig slice",
+  "alcohol_content": 0.2,
+  "style": "Classic",
+  "texture": "Creamy and frothy",
+  "serving_glass": "Martini Glass",
+  "temperature": "Chilled",
+  "color": "Light Yellow"
+}

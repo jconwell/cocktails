@@ -1,0 +1,57 @@
+{
+  "cocktailName": "Lavender Martini",
+  "ingredients": [
+    {
+      "name": "Gin",
+      "volume": 2,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Dry Vermouth",
+      "volume": 0.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Lavender Syrup",
+      "volume": 1,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon Juice",
+      "volume": 0.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Lavender Buds",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.4,
+  "instructions": [
+    "Chill martini glass in the freezer.",
+    "In a cocktail shaker, combine Gin, Dry Vermouth, Lavender Syrup and Lemon Juice.",
+    "Fill the shaker with ice, cover and shake vigorously.",
+    "Strain the mixture into the chilled martini glass.",
+    "Garnish with a lavender bud."
+  ],
+  "tasteProfile": [
+    "Herbaceous",
+    "Floral",
+    "Citrus",
+    "Sweet",
+    "Strong"
+  ],
+  "garnish": "Lavender Buds",
+  "alcoholContent": 26,
+  "cocktailType": "Martini",
+  "glassType": "Martini Glass",
+  "season": "All",
+  "origin": "Modern Classic"
+}

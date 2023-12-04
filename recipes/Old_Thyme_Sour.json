@@ -1,0 +1,49 @@
+{
+  "cocktailName": "Old Thyme Sour",
+  "ingredients": [
+    {
+      "name": "Bourbon",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Fresh lemon juice",
+      "volume": 1,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Thyme simple syrup",
+      "volume": 1,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Egg white",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.6,
+  "instructions": [
+    "In a shaker, combine bourbon, lemon juice, thyme simple syrup and egg white.",
+    "Shake without ice to emulsify the egg white.",
+    "Add ice to the shaker and shake again until well chilled.",
+    "Strain into a rocks glass over a large ice cube.",
+    "Garnish with a sprig of thyme."
+  ],
+  "tasteProfile": [
+    "sour",
+    "herbal",
+    "smooth"
+  ],
+  "garnish": "sprig of thyme",
+  "alcoholContent": 0.4,
+  "glassware": "Rocks glass",
+  "servingStyle": "On the rocks",
+  "origin": "Modern Classic",
+  "color": "Amber"
+}

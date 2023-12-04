@@ -1,0 +1,37 @@
+{
+  "name": "Highball",
+  "ingredients": [
+    {
+      "name": "Whiskey",
+      "volume": 2,
+      "unit": "ounces",
+      "liquid": true
+    },
+    {
+      "name": "Ginger ale",
+      "volume": 6,
+      "unit": "ounces",
+      "liquid": true
+    },
+    {
+      "name": "Ice cubes",
+      "volume": 5,
+      "unit": "count",
+      "liquid": false
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.2,
+  "instructions": [
+    "Fill a highball glass with ice cubes",
+    "Pour the whiskey over the ice",
+    "Top off with ginger ale",
+    "Stir gently"
+  ],
+  "taste_profile": ["Spicy", "Bubbly", "Refreshing"],
+  "garnish": "Lemon wedge",
+  "alcohol_content": 40.0,
+  "color": "Golden",
+  "drinkware": "Highball glass",
+  "serve": "On the rocks"
+}

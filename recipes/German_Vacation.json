@@ -1,0 +1,25 @@
+{
+  "name": "German Vacation",
+  "ingredients": [
+    {"name": "Peppermint schnapps", "volume": 1.5, "unit": "oz", "isLiquid": true},
+    {"name": "Apricot brandy", "volume": 0.5, "unit": "oz", "isLiquid": true},
+    {"name": "Pineapple juice", "volume": 1, "unit": "oz", "isLiquid": true},
+    {"name": "Orange juice", "volume": 1, "unit": "oz", "isLiquid": true},
+    {"name": "Cream of coconut", "volume": 0.5, "unit": "oz", "isLiquid": true}
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.3,
+  "instructions": [
+    "Add ice cubes to the shaker.",
+    "Pour Peppermint schnapps, Apricot brandy, Pineapple juice, Orange juice and Cream of coconut into the shaker.",
+    "Shake well until well chilled.",
+    "Strain into a highball glass filled with ice cubes.",
+    "Serve"
+  ],
+  "tasteProfile": ["Sweet", "Creamy", "Refreshing"],
+  "garnish": "Slice of orange and a cocktail cherry",
+  "alcoholContent": 0.15,
+  "glassType": "highball",
+  "color": "Yellow",
+  "texture": "Smooth"
+}

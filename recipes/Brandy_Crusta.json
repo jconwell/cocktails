@@ -1,0 +1,60 @@
+{
+    "name": "Brandy Crusta",
+    "ingredients": [
+        {
+            "ingredient_name": "brandy",
+            "ingredient_volume": 2,
+            "unit_of_measure": "ounce",
+            "isLiquid": true
+        },
+        {
+            "ingredient_name": "lemon juice",
+            "ingredient_volume": 0.5,
+            "unit_of_measure": "ounce",
+            "isLiquid": true
+        },
+        {
+            "ingredient_name": "orange liqueur",
+            "ingredient_volume": 0.5,
+            "unit_of_measure": "ounce",
+            "isLiquid": true
+        },
+        {
+            "ingredient_name": "maraschino liqueur",
+            "ingredient_volume": 0.25,
+            "unit_of_measure": "ounce",
+            "isLiquid": true
+        },
+        {
+            "ingredient_name": "sugar",
+            "ingredient_volume": 1,
+            "unit_of_measure": "teaspoon",
+            "isLiquid": false
+        },
+        {
+            "ingredient_name": "soda water",
+            "ingredient_volume": 2,
+            "unit_of_measure": "ounces",
+            "isLiquid": true
+        },
+        {
+            "ingredient_name": "lemon peel",
+            "ingredient_volume": 1,
+            "unit_of_measure": "piece",
+            "isLiquid": false
+        }
+    ],
+    "popularity": 0.65,
+    "difficulty": 0.3,
+    "preparation": [
+        "Rim the glass with sugar",
+        "In a shaker, combine brandy, lemon juice, orange liqueur, maraschino liqueur, and sugar",
+        "Fill shaker with ice and shake well",
+        "Strain into the glass",
+        "Top with soda water",
+        "Garnish with a lemon peel"
+    ],
+    "taste_profile": ["sweet", "citrus", "alcoholic"],
+    "garnish": "lemon peel",
+    "alcohol_content": 0.22
+}

@@ -1,0 +1,50 @@
+{
+  "cocktail_name": "Airmail",
+  "ingredients": [
+    {
+      "ingredient_name": "Rum",
+      "volume": 1.5,
+      "unit_of_measure": "ounces",
+      "is_liquid": true,
+      "proportion_of_whole": 0.375
+    },
+    {
+      "ingredient_name": "Honey syrup",
+      "volume": 0.5,
+      "unit_of_measure": "ounces",
+      "is_liquid": true,
+      "proportion_of_whole": 0.125
+    },
+    {
+      "ingredient_name": "Lime Juice",
+      "volume": 0.5,
+      "unit_of_measure": "ounces",
+      "is_liquid": true,
+      "proportion_of_whole": 0.125
+    },
+    {
+      "ingredient_name": "Champagne",
+      "volume": 1.5,
+      "unit_of_measure": "ounces",
+      "is_liquid": true,
+      "proportion_of_whole": 0.375
+    }
+  ],
+  "popularity": 0.65,
+  "difficulty": 0.3,
+  "instructions": [
+    "Shake all ingredients except champagne with ice",
+    "Strain into a chilled flute",
+    "Top with champagne"
+  ],
+  "taste_profile": [
+    "Sweet",
+    "Citrus",
+    "Bubbly"
+  ],
+  "garnish": "None",
+  "alcohol_content": 0.11,
+  "color": "Gold",
+  "drinkware": "Flute",
+  "occasion": "Special celebrations"
+}

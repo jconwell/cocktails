@@ -1,0 +1,42 @@
+{
+  "cocktail": {
+    "name": "Cherry Lane",
+    "ingredients": [
+      {
+        "ingredient_name": "vodka",
+        "ingredient_volume": 1.5,
+        "unit_of_measure": "ounces",
+        "is_liquid": true
+      },
+      {
+        "ingredient_name": "cherry juice",
+        "ingredient_volume": 2,
+        "unit_of_measure": "ounces",
+        "is_liquid": true
+      },
+      {
+        "ingredient_name": "lime",
+        "ingredient_volume": 0.5,
+        "unit_of_measure": "count",
+        "is_liquid": false
+      }
+    ],
+    "popularity": 0.6,
+    "difficulty": 0.2,
+    "instructions": [
+      "Pour vodka and cherry juice into a shaker with ice.",
+      "Shake well.",
+      "Pour into a cocktail glass.",
+      "Squeeze lime over drink."
+    ],
+    "taste_profile": [
+      "sweet",
+      "sour",
+      "fruitiful"
+    ],
+    "garnish": "Cherry on top",
+    "alcohol_content": 0.15,
+    "type_of_glass": "Cocktail glass",
+    "ideal_serving_temperature": "Chilled"
+  }
+}

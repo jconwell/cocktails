@@ -1,0 +1,40 @@
+{
+  "name": "Champagne Cocktail",
+  "ingredients": [
+    {
+      "name": "Sugar Cube",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    },
+    {
+      "name": "Angostura bitters",
+      "volume": 2,
+      "unit": "drops",
+      "isLiquid": true
+    },
+    {
+      "name": "Champagne",
+      "volume": 5.0,
+      "unit": "oz",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.2,
+  "instructions": [
+    "Soak a sugar cube in bitters and drop into a champagne flute.",
+    "Top with Champagne and stir."
+  ],
+  "tasteProfile": [
+    "sweet", 
+    "bitter", 
+    "strong"
+  ],
+  "garnish": "Lemon twist",
+  "alcoholContent": 0.12,
+  "glassType": "Champagne Flute",
+  "occasion": ["celebration", "events"],
+  "color": "Golden",
+  "temperature": "Chilled"
+}

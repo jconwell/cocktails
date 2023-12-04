@@ -1,0 +1,57 @@
+{
+  "name": "Harlem Mugger",
+  "ingredients": [
+    {
+      "name": "Rye Whiskey",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon Juice",
+      "volume": 0.75,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Maple Syrup",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Egg White",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.62,
+  "difficulty": 0.71,
+  "instructions": [
+    "Combine all ingredients in a shaker without ice",
+    "Shake well to combine and emulsify egg white",
+    "Add ice and shake again until well chilled",
+    "Strain into a chilled glass"
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Sour",
+    "Rich"
+  ],
+  "garnish": "Lemon Twist and Cherry",
+  "alcoholContent": 0.20,
+  "flavorNotes": [
+    "Whiskey",
+    "Lemon",
+    "Maple"
+  ],
+  "cocktailType": "Sour",
+  "glassType": "Cocktail Glass",
+  "mixMethod": "Shaken",
+  "colour": "Creamy White",
+  "texture": "Smooth and Foamy",
+  "temperature": "Cold",
+  "seasonality": "Year-Round",
+  "origin": "New York"
+}

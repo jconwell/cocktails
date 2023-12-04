@@ -1,0 +1,42 @@
+{
+  "Name": "Vampire's Kiss",
+  "Ingredients": [
+    {
+      "name": "Vodka",
+      "volume": 2.0,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Cherry brandy",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Red Wine",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Raspberries",
+      "volume": 5,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.3,
+  "Instructions": [
+    "Muddle the raspberries at the bottom of a cocktail shaker",
+    "Add vodka, cherry brandy, and red wine",
+    "Shake well with ice and strain into a large cocktail glass"
+  ],
+  "TasteProfile": ["Sweet", "Tart", "Fruity"],
+  "Garnish": "Fresh raspberries on top",
+  "AlcoholContent": 22.0,
+  "Style": "Fruit Cocktail",
+  "Presentation": "Served in a large cocktail glass",
+  "GlassType": "Cocktail Glass"
+}

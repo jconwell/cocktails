@@ -1,0 +1,48 @@
+{
+  "cocktailName": "May Day",
+  "ingredients":[
+      {
+        "ingredientName": "Vodka",
+        "volume": 1.5,
+        "unit": "ounces",
+        "isLiquid": true
+      },
+      {
+        "ingredientName": "Lemon Juice",
+        "volume": 0.5,
+        "unit": "ounces",
+        "isLiquid": true
+      },
+      {
+        "ingredientName": "Simple Syrup",
+        "volume": 0.75,
+        "unit": "ounces",
+        "isLiquid": true
+      },
+      {
+        "ingredientName": "Cranberry Juice",
+        "volume": 2,
+        "unit": "ounces",
+        "isLiquid": true
+      }
+    ],
+  "popularity": 0.7,
+  "difficulty": 0.2,
+  "instructions": [
+      "Add all ingredients into shaker filled with ice.",
+      "Shake until well chilled.",
+      "Strain into a chilled cocktail glass.",
+      "Garnish with a lemon twist if desired."
+    ],
+  "tasteProfile": [
+      "Sweet",
+      "Tart",
+      "Fruity"
+    ],
+  "garnish": "Lemon twist",
+  "alcoholContent": 0.15,
+  "glassware": "Cocktail Glass",
+  "servingTemperature": "Cold",
+  "timeToMake": 5,
+  "originCountry": "USA"
+}

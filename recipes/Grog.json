@@ -1,0 +1,45 @@
+{
+  "Name": "Grog",
+  "Ingredients": [
+    {
+      "IngredientName": "Rum",
+      "Volume": 2.0,
+      "UnitOfMeasure": "ounces",
+      "IsLiquid": true,
+    },
+    {
+      "IngredientName": "Water",
+      "Volume": 4.0,
+      "UnitOfMeasure": "ounces",
+      "IsLiquid": true,
+    },
+    {
+      "IngredientName": "Lime Juice",
+      "Volume": 1.0,
+      "UnitOfMeasure": "ounces",
+      "IsLiquid": true,
+    },
+    {
+      "IngredientName": "Brown Sugar",
+      "Volume": 1.0,
+      "UnitOfMeasure": "teaspoons",
+      "IsLiquid": false,
+    }
+  ],
+  "Popularity": 0.2,
+  "Difficulty": 0.2,
+  "Instructions": [
+    "Squeeze lime into a glass.",
+    "Add brown sugar and stir until it dissolves.",
+    "Pour rum into the glass.",
+    "Fill the glass with water.",
+    "Stir until fully mixed."
+  ],
+  "TasteProfile": ["Sour", "Sweet"],
+  "Garnishes": "Lime wedge",
+  "AlcoholContent": 0.2,
+  "Drinkware": "Rocks glass",
+  "IdealTemperature": "Chilled",
+  "CocktailType": "Rum based cocktail",
+  "Color": "Light Brown"
+}

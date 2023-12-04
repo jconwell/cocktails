@@ -1,0 +1,53 @@
+{
+  "name": "Añejo Highball",
+  "ingredients": [
+    {
+      "name": "Aged rum",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lime",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    },
+    {
+      "name": "Ginger Beer",
+      "volume": 3,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Angostura Bitters",
+      "volume": 0.02,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Orange Curacao",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.3,
+  "instructions": [
+    "Fill a highball glass with ice",
+    "Add rum",
+    "Squeeze a lime wedge into the glass and drop it in",
+    "Top with Ginger Beer",
+    "Add a few dashes of Angostura Bitters",
+    "Stir with a bar spoon",
+    "Top with a splash of Orange Curacao"
+  ],
+  "taste_profile": ["sweet", "sour", "strong", "refreshing"],
+  "garnishes": "Lime Wheel",
+  "alcohol_content": 0.12,
+  "glassware": "Highball Glass",
+  "serving_style": "On the Rocks",
+  "time_to_prepare_in_minutes": 5,
+  "recommended_season": "Summer"
+}

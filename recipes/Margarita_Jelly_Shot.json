@@ -1,0 +1,50 @@
+{
+  "cocktailName": "Margarita Jelly Shot",
+  "ingredients": [
+    {
+      "name": "Tequila",
+      "volume": 0.33,
+      "unit": "Cups",
+      "isLiquid": true
+    },
+    {
+      "name": "Lime Juice",
+      "volume": 0.33,
+      "unit": "Cups",
+      "isLiquid": true
+    },
+    {
+      "name": "Orange Liqueur",
+      "volume": 0.33,
+      "unit": "Cups",
+      "isLiquid": true
+    },
+    {
+      "name": "Jello",
+      "volume": 6,
+      "unit": "Ounces",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.9,
+  "difficulty": 0.4,
+  "instructions": [
+    "In a saucepan, add lime juice and sprinkle with jello. Let it sit for few minutes.",
+    "Heat over low heat, stirring constantly, until the jello is dissolved (about 5 minutes).",
+    "Stir in the tequila and orange liqueur.",
+    "Pour the mixture into shot glasses or small cups.",
+    "Refrigerate until firm (2 hours or overnight)."
+  ],
+  "tasteProfile": [
+    "Bitter",
+    "Sweet",
+    "Tangy"
+  ],
+  "garnish": "Salt rim and lime slice",
+  "alcoholContent": 0.14,
+  "origin": "Mexico",
+  "glassware": "Shot glass",
+  "style": "Party",
+  "occasion": ["Summer", "Party"],
+  "color": "Green"
+}

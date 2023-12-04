@@ -1,0 +1,39 @@
+{
+  "cocktailName": "Agua De Valencia",
+  "Ingredients": [
+      {"ingredientName": "Vodka",
+      "volume": 1.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true},
+
+      {"ingredientName": "Gin",
+      "volume": 1.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true},
+
+      {"ingredientName": "Orange Juice",
+      "volume": 8,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true},
+
+     {"ingredientName": "Champagne",
+      "volume": 8,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true}
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.3,
+  "Instructions": [
+      "Pour vodka, gin, and orange juice into a shaker filled with ice cubes.",
+      "Shake well for about 20 seconds.",
+      "Strain it into a large wine glass filled with ice cubes.",
+      "Top with champagne and gently stir to combine."
+  ],
+  "tasteProfile": ["sweet", "citrus", "bubbly"],
+  "garnish": "Orange slice",
+  "alcoholContent": 24.0,
+  "cocktailType": "Mixed",
+  "glassType": "Wine glass",
+  "cocktailStrength": "Strong",
+  "servingSize": "single"
+}

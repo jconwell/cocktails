@@ -1,0 +1,47 @@
+{
+  "cocktailName": "Cape Codder",
+  "ingredients": [
+    {
+      "ingredientName": "Vodka",
+      "volume": 1.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Cranberry juice",
+      "volume": 4.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Lime",
+      "volume": 0.5,
+      "unitOfMeasure": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.2,
+  "instructions": [
+    "Fill a highball glass with ice cubes",
+    "Add vodka",
+    "Top up with cranberry juice",
+    "Stir well",
+    "Garnish with lime wedge"
+  ],
+  "tasteProfile": [
+    "Tart",
+    "Sweet"
+  ],
+  "garnish": "Lime wedge",
+  "alcoholContent": 0.4,
+  "presentation": {
+    "glassType": "Highball glass",
+    "ice": "Ice cubes",
+    "garnishPlacement": "On the rim"
+  },
+  "recommendedOccasions": [
+    "Beach parties",
+    "Casual evenings"
+  ]
+}

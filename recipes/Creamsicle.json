@@ -1,0 +1,61 @@
+{
+  "name": "Creamsicle",
+  "ingredients": [
+    {
+      "name": "Vodka",
+      "volume": 1.5,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Triple Sec",
+      "volume": 0.75,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Orange Juice",
+      "volume": 3.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Half and Half",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.3,
+  "instructions": [
+    "Fill a shaker with ice cubes",
+    "Add all ingredients",
+    "Shake and strain into a highball glass filled with ice cubes"
+  ],
+  "taste_profile": [
+    "Sweet",
+    "Creamy",
+    "Citrus"
+  ],
+  "garnish": "Orange slice",
+  "alcohol_content": 0.12,
+  "presentation": {
+    "glass_type": "Highball glass",
+    "ice": true,
+    "color": "Orange",
+    "layered": false
+  },
+  "origins": {
+    "country": "USA",
+    "decade": "1950s"
+  },
+  "served_at": [
+    "Parties",
+    "After dinner"
+  ],
+  "season": [
+    "Spring",
+    "Summer"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "cocktailName": "Tomate",
+  "ingredients": [
+    {
+      "ingredientName": "Tequila",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Tomato juice",
+      "volume": 4,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Lemon juice",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Salt",
+      "volume": 1,
+      "unit": "pinch",
+      "isLiquid": false
+    },
+    {
+      "ingredientName": "Pepper",
+      "volume": 1,
+      "unit": "pinch",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.5,
+  "difficulty": 0.3,
+  "instructions": [
+    "Add tequila to the glass.",
+    "Add tomato juice.",
+    "Add lemon juice.",
+    "Stir well.",
+    "Add salt and pepper to taste.",
+    "Serve immediately."
+  ],
+  "tasteProfile": ["Spicy", "Salty", "Sour"],
+  "garnish": "Lemon Slice",
+  "alcoholContent": 0.2,
+  "color": "Red",
+  "texture": "Smooth",
+  "glassType": "Highball",
+  "preparationTime": 5
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Buck's Fizz",
+  "ingredients": [
+    {
+      "ingredientName": "Orange Juice",
+      "volume": 2.0,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Champagne",
+      "volume": 1.0,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularityRating": 0.7,
+  "difficultyRating": 0.2,
+  "instructions": [
+    "Pour the orange juice into a large glass.",
+    "Top up the glass with champagne.",
+    "Gently stir until well mixed."
+  ],
+  "tasteProfile": [
+    "Fruity", 
+    "Bubbly", 
+    "Sweet"
+  ],
+  "garnish": "Orange slice",
+  "alcoholContent": 12.0,
+  "drinkware": "Champagne flute",
+  "serve": "Chilled",
+  "cocktailStyle": "Classic",
+  "topProperties": [
+    {
+      "propertyName": "Color",
+      "propertyDescription": "Orange"
+    },
+    {
+      "propertyName": "Texture",
+      "propertyDescription": "Bubbly"
+    }
+  ]
+}

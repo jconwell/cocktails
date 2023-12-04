@@ -1,0 +1,44 @@
+{
+  "name": "Millionaire",
+  "ingredients": [
+    {
+      "name": "Rum",
+      "volume": 2,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Apricot Brandy",
+      "volume": 0.75,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Lime juice",
+      "volume": 0.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Grenadine",
+      "volume": 0.25,
+      "unit": "oz",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.2,
+  "instructions": [
+    "Shake all ingredients with ice",
+    "strain into a chilled cocktail glass."
+  ],
+  "tasteProfile": [
+    "sweet",
+    "sharp",
+    "fruity"
+  ],
+  "garnishes": "Lime wheel",
+  "alcoholContent": 0.28,
+  "glassType": "cocktail glass",
+  "servingTemperature": "chilled"
+}

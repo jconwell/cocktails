@@ -1,0 +1,45 @@
+{
+  "cocktail_name": "Mulled Wine",
+  "ingredients": [
+    { 
+      "ingredient_name": "Red Wine",
+      "volume": 25.36,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Orange",
+      "volume": 1,
+      "unit_of_measure": "count",
+      "is_liquid": false
+    },
+    { 
+      "ingredient_name": "Sugar",
+      "volume": 4,
+      "unit_of_measure": "ounces",
+      "is_liquid": false
+    }, 
+    { 
+      "ingredient_name": "Spices",
+      "volume": 1,
+      "unit_of_measure": "pack",
+      "is_liquid": false
+    }
+  ],
+  "popularity": 0.65,
+  "difficulty": 0.2,
+  "instructions": [
+    "In a saucepan, combine all ingredients.",
+    "Simmer over low heat for 10 minutes.",
+    "Strain out the solids, and serve hot."
+  ],
+  "taste_profile": [
+    "sweet",
+    "spicy"
+  ],
+  "garnish": "Cinnamon Stick",
+  "alcohol_content": 0.12,
+  "color": "red",
+  "glassware": "Mug",
+  "serving_temperature": "Hot"
+}

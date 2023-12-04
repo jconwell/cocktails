@@ -1,0 +1,47 @@
+{
+  "name": "Mr. Bali Hai",
+  "ingredients": [
+    {
+      "ingredientName": "Pineapple juice",
+      "volume": 1.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Coffee brandy",
+      "volume": 1,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Light rum",
+      "volume": 1,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Lemon wedge",
+      "volume": 1,
+      "unitOfMeasure": "count",
+      "isLiquid": false
+    }
+  ],
+  "cocktailPopularity": 0.7,
+  "cocktailDifficulty": 0.3,
+  "instructions": [
+    "Use shaker and fill with ingredients.",
+    "Shake until well mixed.",
+    "Pour mixture into glass with crushed ice.",
+    "Garnish with lemon wedge."
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Sour",
+    "Strong"
+  ],
+  "garnishes": "Lemon wedge",
+  "alcoholContent": 0.2,
+  "cocktailType": "Tiki drink",
+  "glassType": "Tumbler",
+  "serve": "On the rocks"
+}

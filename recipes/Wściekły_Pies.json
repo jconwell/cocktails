@@ -1,0 +1,36 @@
+{
+  "name": "Wściekły Pies",
+  "ingredients": [
+    {
+      "name": "Vodka",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Raspberry syrup",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Tabasco Sauce",
+      "volume": 0.03,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.3,
+  "instructions": [
+    "Pour the vodka into a shot glass.",
+    "Add the raspberry syrup.",
+    "Top off with a few drops of Tabasco sauce."
+  ],
+  "taste_profile": ["sweet", "spicy"],
+  "garnishes": "None",
+  "alcohol_content": 40,
+  "color": "Red",
+  "glass_type": "shot",
+  "served": "Straight up without ice"
+}

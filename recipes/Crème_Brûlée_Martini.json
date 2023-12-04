@@ -1,0 +1,57 @@
+{
+  "name": "Crème Brûlée Martini",
+  "ingredients": [
+    {
+      "ingredient_name": "Vanilla vodka",
+      "volume": 1.5,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "ingredient_name": "Irish cream liqueur",
+      "volume": 1.5,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "ingredient_name": "caramel syrup",
+      "volume": 1,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "ingredient_name": "vanilla ice cream",
+      "volume": 1,
+      "unit": "scoop",
+      "isLiquid": false
+    },
+    {
+      "ingredient_name": "ice",
+      "volume": 1,
+      "unit": "cup",
+      "isLiquid": false
+    },
+    {
+      "ingredient_name": "nutmeg",
+      "volume": 0.1,
+      "unit": "ounce",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.7,
+  "instructions": [
+    "In a blender, combine the ice, vanilla vodka, Irish cream liqueur, caramel syrup and vanilla ice cream.",
+    "Blend until smooth.",
+    "Pour mixture into a chilled martini glass.",
+    "Sprinkle the nutmeg on top as garnish."
+  ],
+  "taste_profile": ["Sweet", "Creamy", "Smooth"],
+  "garnish": "Sprinkle of nutmeg",
+  "alcohol_content": 0.4,
+  "glass_type": "Martini glass",
+  "cocktail_type": "Frozen",
+  "recommended_time_of_serving": "Post dinner",
+  "origin_country": "France",
+  "color": "Beige"
+}

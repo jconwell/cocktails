@@ -1,0 +1,45 @@
+{
+    "name": "New Yorker",
+    "ingredients": [
+        {
+            "name": "whisky",
+            "volume": 2,
+            "unit": "oz",
+            "isLiquid": true
+        },
+        {
+            "name": "lemon juice",
+            "volume": 0.5,
+            "unit": "oz",
+            "isLiquid": true
+        },
+        {
+            "name": "sugar syrup",
+            "volume": 0.5,
+            "unit": "oz",
+            "isLiquid": true
+        },
+        {
+            "name": "grenadine",
+            "volume": 0.5,
+            "unit": "oz",
+            "isLiquid": true
+        }
+    ],
+    "popularity": 0.6,
+    "difficulty": 0.4,
+    "instructions": [
+        "In a shaker, combine whisky, lemon juice, sugar syrup, and grenadine.",
+        "Shake well.",
+        "Strain into a chilled cocktail glass."
+    ],
+    "tasteProfile": [
+        "sweet",
+        "fruity"
+    ],
+    "garnish": "lemon twist",
+    "alcoholContent": 0.2,
+    "servingSize": "single serving",
+    "sweetnessLevel": 0.6,
+    "sournessLevel": 0.4
+}

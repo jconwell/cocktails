@@ -1,0 +1,51 @@
+{
+    "cocktail_name": "Trojan Horse",
+    "ingredients": [
+        {
+            "name": "Vodka",
+            "volume": 1.5,
+            "unit": "ounces",
+            "isLiquid": true
+        },
+        {
+            "name": "Lemon juice",
+            "volume": 1,
+            "unit": "ounces",
+            "isLiquid": true
+        },
+        {
+            "name": "Honey",
+            "volume": 1,
+            "unit": "ounces",
+            "isLiquid": true
+        },
+        {
+            "name": "Chilled Champagne",
+            "volume": 3,
+            "unit": "ounces",
+            "isLiquid": true
+        }
+    ],
+    "popularity": 0.7,
+    "difficulty": 0.3,
+    "instructions": [
+        "In a shaker, combine vodka, lemon juice, and honey...",
+        "Shake well until the honey is completely dissolved...",
+        "Strain the mix into a chilled champagne flute...",
+        "Top it off with champagne..."
+    ],
+    "taste_profile": [
+        "Citrusy",
+        "Sweet",
+        "Bubbly",
+        "Refreshing"
+    ],
+    "garnish": "Lemon Twist",
+    "alcohol_content": 0.25,
+    "primary_flavor": "Citrus",
+    "glassware": "Champagne Flute",
+    "cocktail_type": "Highball",
+    "occasions": ["Summer", "Party", "Celebration"],
+    "color": "Clear",
+    "temperature": "Chilled"
+}

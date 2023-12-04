@@ -1,0 +1,34 @@
+{
+  "cocktailName": "Incredible Hulk",
+  "ingredients": [
+    {
+      "name": "Cognac (Hennessy)",
+      "volume": 2,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Hpnotiq",
+      "volume": 2,
+      "unit": "oz",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.45,
+  "difficulty": 0.15,
+  "instructions": [
+    "Take a glass and fill it with ice cubes.",
+    "Pour the cognac over the ice.",
+    "Pour the Hpnotiq into the glass.",
+    "Stir the mixture thoroughly until it turns a Hulk-like green colour."
+  ],
+  "tasteProfile": [
+    "sweet",
+    "fruity",
+    "strong"
+  ],
+  "garnish": "None",
+  "alcoholContent": 0.34,
+  "glassware": "Highball glass",
+  "served": "On the rocks"
+}

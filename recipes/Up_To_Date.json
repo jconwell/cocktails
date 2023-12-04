@@ -1,0 +1,37 @@
+{
+  "name": "Up To Date",
+  "ingredients": [
+    {
+      "ingredientName": "Rye Whiskey",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Grand Marnier",
+      "volume": 1.0,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Angostura Bitters",
+      "volume": 1.0,
+      "unit": "dashes",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.3,
+  "difficulty": 0.4,
+  "instructions": [
+    "Pour all ingredients into a mixing glass and fill 2/3 full with ice.",
+    "Stir for about 30 seconds, strain into a chilled cocktail glass."
+  ],
+  "tasteProfile": ["sour", "bitter", "strong", "warm"],
+  "garnishments": "Lemon twist",
+  "alcoholContent": 0.4,
+  "drinkware": "Cocktail Glass",
+  "preparationStyle": "Stirred",
+  "origin": "New York, United States",
+  "timeOfYear": "Anytime",
+  "primaryAlcohol": "Rye Whiskey"
+}

@@ -1,0 +1,39 @@
+{
+  "cocktailName": "Irish Slammer",
+  "ingredients": [
+    {
+      "ingredientName": "Irish Whiskey",
+      "volume": 1.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Irish Stout",
+      "volume": 1,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Irish Cream",
+      "volume": 0.75,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.3,
+  "steps": [
+    "Pour the whiskey and Irish cream into a shot glass, with the cream on the bottom.",
+    "Pour the stout into a pint glass.",
+    "Drop the shot glass into the pint glass and drink immediately."
+  ],
+  "tasteProfile": ["strong", "creamy", "smooth"],
+  "garnishes": "None",
+  "alcoholContent": 0.25,
+  "color": "dark brown",
+  "glassType": "Shot and Pint glass",
+  "isChilled": false,
+  "isLayered": true,
+  "isShaken": false,
+  "isStirred": false
+}

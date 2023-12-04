@@ -1,0 +1,38 @@
+{
+  "CocktailName": "Calimocho Or Kalimotxo",
+  "Ingredients": [
+    {
+      "IngredientName": "Red Wine",
+      "Volume": 4,
+      "UnitOfMeasure": "ounces",
+      "IsLiquid": true
+    },
+    {
+      "IngredientName": "Cola",
+      "Volume": 4,
+      "UnitOfMeasure": "ounces",
+      "IsLiquid": true
+    },
+    {
+      "IngredientName": "Lemons",
+      "Volume": 1,
+      "UnitOfMeasure": "slice",
+      "IsLiquid": false
+    }
+  ],
+  "Popularity": 0.6,
+  "Difficulty": 0.1,
+  "Instructions": [
+    "Fill the glass halfway with ice cubes.",
+    "Pour the wine into the glass, filling it to the halfway point.",
+    "Fill the rest of the glass with cola.",
+    "Stir slowly to combine.",
+    "Serve with a slice of lemon."
+  ],
+  "TasteProfile": ["Sweet", "Acidic", "Carbonated"],
+  "Garnish": "Lemon Slice",
+  "AlcoholContent": 0.12,
+  "OriginalCountry": "Spain",
+  "Glassware": "Highball glass",
+  "ServingTemperature": "Chilled"
+}

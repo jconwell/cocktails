@@ -1,0 +1,51 @@
+{
+  "cocktail": {
+    "name": "Suffering Bastard",
+    "ingredients": [
+      {
+        "ingredientName": "Gin",
+        "volume": 1,
+        "unit": "oz",
+        "isLiquid": true
+      },
+      {
+        "ingredientName": "Bourbon",
+        "volume": 1,
+        "unit": "oz",
+        "isLiquid": true
+      },
+      {
+        "ingredientName": "Fresh Lime Juice",
+        "volume": 1,
+        "unit": "oz",
+        "isLiquid": true
+      },
+      {
+        "ingredientName": "Angostura Bitters",
+        "volume": 2,
+        "unit": "dashes",
+        "isLiquid": true
+      },
+      {
+        "ingredientName": "Ginger Ale",
+        "volume": 4,
+        "unit": "oz",
+        "isLiquid": true
+      }
+    ],
+    "popularity": 0.6,
+    "difficulty": 0.4,
+    "instructions": [
+      "Fill a shaker with ice.",
+      "Add gin, bourbon, lime juice, and bitters.",
+      "Shake until well-chilled.",
+      "Strain into a large glass filled with ice.",
+      "Top off with ginger ale."
+    ],
+    "tasteProfile": ["Strong", "Bitter", "Fruity"],
+    "garnish": "Sprig of mint",
+    "alcoholContent": 0.32,
+    "glassware": "Hurricane Glass",
+    "duration": 5
+  }
+}

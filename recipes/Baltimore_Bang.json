@@ -1,0 +1,55 @@
+{
+  "cocktailName": "Baltimore Bang",
+  "ingredients": [
+    {
+      "ingredientName": "Southern Comfort",
+      "volume": 1.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Amaretto",
+      "volume": 1.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Lime Juice",
+      "volume": 1.0,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Pineapple Juice",
+      "volume": 1.0,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Club Soda",
+      "volume": 1.0,
+      "unit": "oz",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.2,
+  "instructions": [
+    "Pour Southern Comfort, Amaretto, lime juice and pineapple juice into a shaker with ice",
+    "Shake well",
+    "Strain into a glass filled with ice",
+    "Top with club soda"
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Citrus",
+    "Refreshing"
+  ],
+  "garnishes": "Lime wheel",
+  "alcoholContent": 0.19,
+  "glassType": "Highball glass",
+  "servingTemperature": "Cold",
+  "cocktailType": "Mixed drink",
+  "color": "Amber",
+  "occasion": ["Summer", "Casual", "Party"]
+}

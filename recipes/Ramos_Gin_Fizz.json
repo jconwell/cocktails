@@ -1,0 +1,72 @@
+{
+  "name": "Ramos Gin Fizz",
+  "ingredients": [
+    {
+      "name": "Gin",
+      "volume": 2,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Fresh Lemon Juice",
+      "volume": 0.5,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Fresh Lime Juice",
+      "volume": 0.5,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Heavy Cream",
+      "volume": 1,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Egg White",
+      "volume": 1,
+      "unit_of_measure": "count",
+      "is_liquid": false
+    },
+    {
+      "name": "Simple Syrup",
+      "volume": 1,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Orange Flower Water",
+      "volume": 0.03,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Vanilla Extract",
+      "volume": 0.03,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Club Soda",
+      "volume": 1,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.7,
+  "preparation_steps": [
+    "In a shaker, combine gin, lemon juice, lime juice, heavy cream, egg white, simple syrup, orange flower water, and vanilla extract.",
+    "Dry shake (without ice) vigorously for about a minute.",
+    "Add ice to the shaker and shake again until well chilled.",
+    "Strain the mixture into a glass, and top off with club soda."
+  ],
+  "taste_profile": ["Sweet", "Creamy", "Citrus"],
+  "garnish": "None",
+  "alcohol_content": 0.12,
+  "serving_glass": "Highball Glass",
+  "serving_temperature": "Cold"
+}

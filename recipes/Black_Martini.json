@@ -1,0 +1,49 @@
+{
+  "name": "Black Martini",
+  "ingredients": [
+    {
+      "ingredientName": "Vodka",
+      "ingredientVolume": 2,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Blackberry Brandy",
+      "ingredientVolume": 1,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Lemon Juice",
+      "ingredientVolume": 0.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Blackberries",
+      "ingredientVolume": 2,
+      "unitOfMeasure": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.3,
+  "instructions": [
+    "Chill martini glasses in freezer for at least 20 minutes prior to serving.",
+    "Place vodka, blackberry brandy, and lemon juice in a cocktail shaker with ice. Shake vigorously.",
+    "Pour contents into chilled martini glasses. Top with fresh blackberries."
+  ],
+  "tasteProfile": [
+    "sweet",
+    "sour",
+    "fruity"
+  ],
+  "garnish": "blackberry on top",
+  "alcoholContent": 0.26,
+  "servingTemperature": "Cold",
+  "cocktailType": "Classic",
+  "glassware": "Martini Glass",
+  "color": "Black",
+  "preparationTimeInMinutes": 5,
+  "servingSize": 1
+}

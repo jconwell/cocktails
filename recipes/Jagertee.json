@@ -1,0 +1,57 @@
+{
+  "cocktailName": "Jagertee",
+  "ingredients": [
+    {
+      "ingredientName": "Rum",
+      "ingredientVolume": 1,
+      "unitOfMeasure": "oz",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Black tea",
+      "ingredientVolume": 12,
+      "unitOfMeasure": "oz",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Lemon juice",
+      "ingredientVolume": 0.5,
+      "unitOfMeasure": "oz",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Cloves",
+      "ingredientVolume": 3,
+      "unitOfMeasure": "count",
+      "isLiquid": false
+    },
+    {
+      "ingredientName": "Sugar",
+      "ingredientVolume": 2,
+      "unitOfMeasure": "tsp",
+      "isLiquid": false
+    },
+    {
+      "ingredientName": "Cinnamon stick",
+      "ingredientVolume": 1,
+      "unitOfMeasure": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.3,
+  "difficulty": 0.4,
+  "instructions": [
+    "In a pot, heat the rum, black tea, lemon juice, cloves, sugar, and cinnamon stick",
+    "Simmer over low heat for 5 minutes",
+    "Strain the drink into a mug"
+  ],
+  "tasteProfile": [
+    "Warm",
+    "Spiced",
+    "Sweet"
+  ],
+  "garnishes": "Lemon Slice",
+  "alcoholContent": 0.14,
+  "glassType": "Mug",
+  "servingTemperature": "Hot"
+}

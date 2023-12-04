@@ -1,0 +1,39 @@
+{
+"name": "Gunpowder Gimlet",
+"ingredients": [
+    {
+        "ingredient_name": "Gin",
+        "quantity": 2.0,
+        "unit_of_measure": "oz",
+        "is_liquid": true
+    }, 
+    {
+        "ingredient_name": "Lime Juice",
+        "quantity": 1.0,
+        "unit_of_measure": "oz",
+        "is_liquid": true
+    }, 
+    {
+        "ingredient_name": "Gunpowder Green Tea Syrup",
+        "quantity": 1.0,
+        "unit_of_measure": "oz",
+        "is_liquid": true
+    }],
+"popularity": 0.7,
+"difficulty": 0.5,
+"instructions": [
+    "Add all the ingredients into a shaker with ice",
+    "Shake until well-chilled ",
+    "Fine-strain into a chilled cocktail glass",
+    "Garnish with a lime wheel"],
+"taste_profile": [
+    "sour",
+    "sweet",
+    "bitter"],
+"garnish": "lime wheel",
+"alcohol_content": 0.24,
+"glass_type": "cocktail glass",
+"serving_temperature": "chilled",
+"origin": "USA",
+"occasions": ["evening drinks", "cocktail parties"]
+}

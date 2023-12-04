@@ -1,0 +1,48 @@
+{
+  "Cocktail": "Tea Tini",
+  "Ingredients": [
+    {
+      "name": "Vodka",
+      "volume": 1.0,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon Juice",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Simple Syrup",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Tea Leaves",
+      "volume": 1.0,
+      "unit": "tablespoons",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.3,
+  "Steps": [
+    "Steep tea leaves in hot water for 3-5 minutes.",
+    "Shake vodka, lemon juice, and simple syrup with ice.",
+    "Strain into a pre-chilled martini glass.",
+    "Top with the freshly brewed tea.",
+    "Stir gently until well combined."
+  ],
+  "TasteProfile": [
+    "Bitter",
+    "Sour",
+    "Sweet"
+  ],
+  "garnish": "Lemon Twist",
+  "alcoholContent": 0.2,
+  "Glassware": "Martini Glass",
+  "RefrigerationRequired": false,
+  "ServeCold": true
+}

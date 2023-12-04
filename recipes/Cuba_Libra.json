@@ -1,0 +1,46 @@
+{
+  "name": "Cuba Libra",
+  "ingredients": [
+    {
+      "name": "White Rum",
+      "volume": 2,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Coca-Cola",
+      "volume": 4.5,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Lime",
+      "volume": 0.5,
+      "unit_of_measure": "ounces",
+      "is_liquid": false
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.2,
+  "instructions": [
+    "Squeeze the lime into a glass.",
+    "Add ice cubes to the glass.",
+    "Pour the white rum over the ice.",
+    "Top with Coca-Cola."
+  ],
+  "taste_profile": [
+    "sweet",
+    "citrus",
+    "sparkling"
+  ],
+  "garnish": "Lime wedge",
+  "alcohol_content": 0.14,
+  "colour": "dark",
+  "glass_type": "highball glass",
+  "cocktail_type": "long drink",
+  "occasions": [
+    "party",
+    "summer"
+  ],
+  "strength": "light"
+}

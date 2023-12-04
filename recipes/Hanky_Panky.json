@@ -1,0 +1,50 @@
+{
+  "cocktailName": "Hanky Panky",
+  "ingredients": [
+    {
+      "ingredientName": "Gin",
+      "volume": 1.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Sweet Vermouth",
+      "volume": 1.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Fernet-Branca",
+      "volume": 0.25,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Orange Twist",
+      "volume": 1,
+      "unitOfMeasure": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.4,
+  "difficulty": 0.3,
+  "instructionSteps": [
+    "Fill the mixing glass with ice cubes",
+    "Add all the liquid ingredients",
+    "Stir for 30 seconds until well chilled",
+    "Strain into a chilled cocktail glass",
+    "Garnish with the orange twist"
+  ],
+  "tasteProfile": [
+    "bitter", "sweet", "fresh"
+  ],
+  "garnish": "Orange Twist",
+  "alcoholContent": 0.35,
+  "glassType": "cocktail glass",
+  "cocktailType": "classic",
+  "baseSpirit": "Gin",
+  "served": "straight up",
+  "prepMethod": "Stirred",
+  "locationOfOrigin": "England",
+  "color": "Amber"
+}

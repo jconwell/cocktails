@@ -1,0 +1,44 @@
+{
+  "cocktail": "Seven And Seven",
+  "ingredients": [
+    {
+      "name": "Seagram's Seven Crown Whiskey",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "7 Up",
+      "volume": 6,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon",
+      "volume": 1,
+      "unit": "wedge",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.8,
+  "difficulty": 0.2,
+  "instructions": [
+    "Fill a highball glass with ice cubes.",
+    "Measure and pour the whiskey into the glass.",
+    "Top up with 7 Up.",
+    "Garnish with a lemon wedge."
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Bitter",
+    "Fruity"
+  ],
+  "garnishes": "lemon wedge",
+  "alcoholContent": 0.15,
+  "glassType": "highball glass",
+  "serveTiming": "All day",
+  "origin": "United States",
+  "flavor": "Sweet, Fresh",
+  "color": "Yellow",
+  "texture": "Smooth"
+}

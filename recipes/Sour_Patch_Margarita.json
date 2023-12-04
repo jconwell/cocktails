@@ -1,0 +1,54 @@
+{
+  "name": "Sour Patch Margarita",
+  "ingredients": [
+    {
+      "name": "Tequila",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Triple Sec",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lime Juice",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Simple Syrup",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Sour Patch Candies",
+      "volume": 4,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.3,
+  "instructions": [
+    "Muddle the Sour Patch candies in a cocktail shaker",
+    "Add Tequila, Triple Sec, Lime Juice, and Simple Syrup",
+    "Shake well",
+    "Strain into a margarita glass"
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Sour",
+    "Citrus"
+  ],
+  "garnishes": "Sour Patch Candy",
+  "alcoholContent": 0.22,
+  "cocktailType": "Acidic & Sweet",
+  "glassware": "Margarita Glass",
+  "mixMethod": "Shaking",
+  "suitableOccasion": "Party"
+}

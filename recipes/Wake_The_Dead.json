@@ -1,0 +1,27 @@
+{
+  "cocktailName": "Wake The Dead",
+  "ingredients": [
+    { "name": "Patrón Silver Tequila", "volume": 0.75, "unit": "oz", "isLiquid": true },
+    { "name": "Patrón XO Cafe", "volume": 0.75, "unit": "oz", "isLiquid": true },
+    { "name": "Espresso shot", "volume": 1, "unit": "shot", "isLiquid": true }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.3,
+  "instructions": [
+    "Chill the cocktail glass to prepare for serving.",
+    "Brew the espresso shot.",
+    "Combine the Patrón Silver Tequila and Patrón XO Cafe in a shaker filled with ice.",
+    "Shake the mixture until cold then pour in the freshly brewed espresso shot.",
+    "Shake again and then strain into a cocktail glass."
+  ],
+  "tasteProfile": ["potent", "bitter", "rich"],
+  "garnishes": "Three coffee beans",
+  "alcoholContent": 0.35,
+  "glassType": "cocktail glass",
+  "cocktailType": "modern classics",
+  "color": "black",
+  "servingStyle": "straight up",
+  "tasteStrength": 0.9,
+  "refreshmentLevel": 0.3,
+  "averageRating": 4.2
+}

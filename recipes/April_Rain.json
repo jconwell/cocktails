@@ -1,0 +1,41 @@
+{
+  "Cocktail Name": "April Rain",
+  "Ingredients": [
+    {
+      "Name": "Vodka",
+      "Volume": 1.5,
+      "Unit": "oz",
+      "IsLiquid": true
+    },
+    {
+      "Name": "Lime Juice",
+      "Volume": 0.5,
+      "Unit": "oz",
+      "IsLiquid": true
+    },
+    {
+      "Name": "Dry Vermouth",
+      "Volume": 0.75,
+      "Unit": "oz",
+      "IsLiquid": true
+    }
+  ],
+  "Popularity": 0.6,
+  "Difficulty": 0.4,
+  "Instructions": [
+    "Shake vodka, dry vermouth and lime juice over ice in a shaker.",
+    "Strain into a martini glass.",
+    "Garnish with a lime wheel."
+  ],
+  "TasteProfile": [
+    "Citrus",
+    "Fresh",
+    "Aromatic"
+  ],
+  "Garnish": "Lime wheel",
+  "AlcoholContent": 0.22,
+  "GlassType": "Martini Glass",
+  "ServingSize": 1,
+  "ServingTemperature": "Cold",
+  "OriginCountry": "USA"
+}

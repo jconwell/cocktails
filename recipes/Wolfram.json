@@ -1,0 +1,55 @@
+{
+  "name": "Wolfram",
+  "ingredients": [
+    {
+      "name": "Rum",
+      "volume": 1.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Lime Juice",
+      "volume": 0.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Pineapple Juice",
+      "volume": 1,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Coconut Cream",
+      "volume": 1,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Strawberry",
+      "volume": 2,
+      "unit": "unit",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.3,
+  "instructions": [
+    "Add all ingredients to a blender with ice.",
+    "Blend until smooth.",
+    "Pour mixture into a tall glass.",
+    "Garnish with a fresh strawberry."
+  ],
+  "tasteProfile": [
+    "sweet",
+    "fruity",
+    "tropical"
+  ],
+  "garnishes": "fresh strawberry",
+  "alcoholContent": 0.13,
+  "glassware": "Tall glass",
+  "serve": "Cold",
+  "cocktailType": "Frozen",
+  "flavorBalance": "sweet-acidic",
+  "dominantFlavor": "Strawberry"
+}

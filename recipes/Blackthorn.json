@@ -1,0 +1,43 @@
+{
+  "cocktailName": "Blackthorn",
+  "ingredients": [
+    {
+      "name": "Dry gin",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Sweet vermouth",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Angostura bitters",
+      "volume": 2,
+      "unit": "dashes",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.4,
+  "difficulty": 0.3,
+  "instructions": [
+    "Stir the ingredients with ice in a mixing glass.",
+    "Strain into a chilled cocktail glass.",
+    "Garnish with a lemon twist."
+  ],
+  "tasteProfile": [
+    "Bitter",
+    "Sweet",
+    "Strong"
+  ],
+  "garnish": "Lemon twist",
+  "alcoholContent": 0.22,
+  "glassware": "Cocktail glass",
+  "served": "Straight up; without ice",
+  "preparationMethod": "Stirred",
+  "origin": "Ireland",
+  "color": "Red",
+  "IBAOfficial": false
+}

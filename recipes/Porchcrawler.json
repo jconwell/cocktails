@@ -1,0 +1,36 @@
+{
+  "cocktail": "Porchcrawler",
+  "ingredients": [
+    {
+      "ingredientName": "Beer",
+      "volume": 12,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Vodka",
+      "volume": 1.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Lemonade",
+      "volume": 12,
+      "unit": "oz",
+      "isLiquid": true
+    }
+  ],
+  "popularityScore": 0.7,
+  "difficultyScore": 0.2,
+  "instructions": [
+    "In a large pitcher, combine the beer, vodka and lemonade.",
+    "Stir gently until well mixed.",
+    "Pour into glasses filled with ice."
+  ],
+  "tasteProfile": ["sour", "sweet", "fruity", "alcoholic"],
+  "garnish": "lemon slice",
+  "alcoholContent": 0.12,
+  "glassType": "Highball glass",
+  "drinkServedAs": "Cold",
+  "occasionRecommended": ["Spring", "Summer", "Outdoor Parties"]
+}

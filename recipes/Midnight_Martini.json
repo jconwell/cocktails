@@ -1,0 +1,50 @@
+{
+  "recipe": {
+    "name": "Midnight Martini",
+    "ingredients": [
+      {
+        "name": "Vodka",
+        "quantity": 2.0,
+        "unit": "ounces",
+        "isLiquid": true
+      },
+      {
+        "name": "Kahlua",
+        "quantity": 1.0,
+        "unit": "ounces",
+        "isLiquid": true
+      },
+      {
+        "name": "Chilled Espresso",
+        "quantity": 1.0,
+        "unit": "ounces",
+        "isLiquid": true
+      }
+    ],
+    "popularity": 0.7,
+    "difficulty": 0.4,
+    "instructions": [
+      "Pour vodka into mixing glass with ice",
+      "Add Kahlua",
+      "Add chilled espresso",
+      "Stir the mixture",
+      "Strain into a martini glass"
+    ],
+    "tasteProfile": [
+      "bitter",
+      "creamy",
+      "intense"
+    ],
+    "garnish": "Coffee Beans",
+    "alcoholContent": 0.24,
+    "glassType": "Martini Glass",
+    "serveIn": "Cocktail - Chilled",
+    "flavourIntensity": 0.7,
+    "sweetness": 0.3,
+    "bitterness": 0.65,
+    "sourness": 0.2,
+    "aroma": [
+      "coffee"
+    ]
+  }
+}

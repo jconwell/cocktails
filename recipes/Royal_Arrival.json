@@ -1,0 +1,44 @@
+{
+    "cocktail_name": "Royal Arrival",
+    "ingredients": [
+        {
+            "ingredient_name": "Irish Whiskey",
+            "volume": 1.5,
+            "unit": "ounce",
+            "is_liquid": true
+        },
+        {
+            "ingredient_name": "Maple Syrup",
+            "volume": 0.25,
+            "unit": "ounce",
+            "is_liquid": true
+        },
+        {
+            "ingredient_name": "Lemon Juice",
+            "volume": 0.25,
+            "unit": "ounce",
+            "is_liquid": true
+        },
+        {
+            "ingredient_name": "Blood Orange Juice",
+            "volume": 0.5,
+            "unit": "ounce",
+            "is_liquid": true
+        }
+    ],
+    "population_rating": 0.65,
+    "difficulty_rating": 0.3,
+    "instructions": [
+        "Pour Irish whiskey into a stirring glass.",
+        "Add maple syrup, lemon juice, and blood orange juice.",
+        "Stir all the ingredients together.",
+        "Pour mix into a chilled glass.",
+        "Enjoy!"
+    ],
+    "taste_profile": ["Tart", "Sweet", "Citrusy"],
+    "garnish": "Blood Orange Slice",
+    "alcohol_content": 0.16,
+    "flavor_intensity": 0.6,
+    "color": "Reddish",
+    "glass_type": "Old-Fashioned Glass"
+}

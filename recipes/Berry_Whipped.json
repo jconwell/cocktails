@@ -1,0 +1,32 @@
+{
+  "cocktailName": "Berry Whipped",
+  "ingredients": [{
+        "ingredientName": "Cranberry Vodka",
+        "quantity": 1.5,
+        "unitOfMeasure": "ounces",
+        "isLiquid": true
+    },
+    {
+        "ingredientName": "Whipped Cream Vodka",
+        "quantity": 1,
+        "unitOfMeasure": "ounces",
+        "isLiquid": true
+    },
+    {
+        "ingredientName": "Strawberry Puree",
+        "quantity": 2,
+        "unitOfMeasure": "ounces",
+        "isLiquid": true
+    }],
+  "popularityIndex": 0.7,
+  "difficultyIndex": 0.3,
+  "instructionSteps": ["Pour Cranberry Vodka and Whipped Cream Vodka into a shaker.", "Add Strawberry Puree.", "Shake well.", "Strain into a chilled glass."],
+  "tasteProfile": ["sweet", "fruity", "creamy"],
+  "garnish": "whipped cream on top",
+  "alcoholContent": 20,
+  "seasonality": ["Spring", "Summer"],
+  "servedIn": "Highball glass",
+  "color": "pink",
+  "texture": "smooth",
+  "cocktailType": "refreshing"
+}

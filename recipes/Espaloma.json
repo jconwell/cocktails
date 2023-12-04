@@ -1,0 +1,52 @@
+{
+  "cocktailName": "Espaloma",
+  "ingredients": [
+    {
+      "ingredientName": "Espolòn Reposado Tequila",
+      "volumeOfIngredient": 2,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Grapefruit Juice",
+      "volumeOfIngredient": 1.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Lime Juice",
+      "volumeOfIngredient": 1,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Simple Syrup",
+      "volumeOfIngredient": 0.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Salt",
+      "volumeOfIngredient": 1,
+      "unitOfMeasure": "pinch",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.8,
+  "difficulty": 0.2,
+  "instructions": [
+    "Rim a glass with salt.",
+    "Add all ingredients into a shaker with ice and shake.",
+    "Strain into the glass over fresh ice."
+  ],
+  "tasteProfile": [
+    "Salty",
+    "Sour",
+    "Sweet"
+  ],
+  "garnishes": "Lime wheel and grapefruit wheel",
+  "alcoholContent": 0.2,
+  "glassware": "Rocks glass",
+  "serve": "Over ice",
+  "typeOfDrink": "Cocktail"
+}

@@ -1,0 +1,44 @@
+{
+  "cocktailName": "Daisy",
+  "ingredients": [
+    {
+      "name": "Bourbon",
+      "volume": 2.0,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon juice",
+      "volume": 1.0,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Simple syrup",
+      "volume": 1.0,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Grenadine",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularityScore": 0.6,
+  "difficultyScore": 0.3,
+  "instructions": [
+    "In a cocktail shaker, combine bourbon, lemon juice, simple syrup and grenadine.",
+    "Shake well to mix all ingredients.",
+    "Strain the mixture into a glass.",
+    "Serve chilled."
+  ],
+  "tasteProfile": ["Sweet", "Citrus", "Tart"],
+  "garnishes": "Lemon slice and cherry",
+  "alcoholContent": 0.4,
+  "servingGlass": "Highball glass",
+  "cocktailStyle": "Classic",
+  "occasion": ["Evening", "Summer"],
+  "color": "Red"
+}

@@ -1,0 +1,40 @@
+{
+  "cocktailName": "Derby",
+  "ingredients": [
+    {
+      "name": "Gin",
+      "volume": 1.5,
+      "units": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Peach Bitters",
+      "volume": 2,
+      "units": "dashes",
+      "isLiquid": true
+    },
+    {
+      "name": "Mint Leaves",
+      "volume": 6,
+      "units": "leaves",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.4,
+  "difficulty": 0.3,
+  "steps": [
+    "Pour Gin into a shaker filled with ice",
+    "Add bitters",
+    "Shake well",
+    "Strain into a chilled cocktail glass",
+    "Garnish with mint leaves"
+  ],
+  "tasteProfile": ["Bitter", "Herbaceous", "Strong"],
+  "garnish": "Mint Sprig",
+  "alcoholContent": 0.2,
+  "color": "clear",
+  "servingGlass": "Cocktail Glass",
+  "preparationTime": 5,
+  "presentation": {"garnishPosition": "Top", "ice": "None"},
+  "IbaOfficial": true
+}

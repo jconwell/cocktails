@@ -1,0 +1,53 @@
+{
+  "name": "Death Flip",
+  "ingredients": [
+    {
+      "name": "Blanco Tequila",
+      "volume": 1,
+      "unit_of_measure": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Yellow Chartreuse",
+      "volume": 0.66,
+      "unit_of_measure": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Campari",
+      "volume": 1,
+      "unit_of_measure": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Whole Egg",
+      "volume": 1,
+      "unit_of_measure": "count",
+      "isLiquid": false
+    },
+    {
+      "name": "Simple Syrup",
+      "volume": 0.5,
+      "unit_of_measure": "ounce",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.2,
+  "difficulty": 0.8,
+  "instructions": [
+    "Shake all ingredients with ice in a cocktail shaker.",
+    "Strain the mixture into a glass.",
+    "Garnish with a grated nutmeg."
+  ],
+  "tasteProfile": [
+    "Bitter",
+    "Sweet"
+  ],
+  "garnish": "Grated Nutmeg",
+  "alcoholContent": 0.329,
+  "sweetnessLevel": 0.6,
+  "bitternessLevel": 0.5,
+  "sournessLevel": 0.2,
+  "spicinessLevel": 0.1,
+  "coolnessLevel": 0
+}

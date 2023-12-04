@@ -1,0 +1,40 @@
+{
+  "cocktail": "My Fair Lady",
+  "ingredients": [
+    {
+      "name": "gin",
+      "volume": 1,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "apricot brandy",
+      "volume": 1,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "orange juice",
+      "volume": 1,
+      "unit": "ounce",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.3,
+  "difficulty": 0.3,
+  "instructions": [
+    "Chill cocktail glass",
+    "Combine all ingredients in a shaker with ice",
+    "Shake for 15-20 seconds",
+    "Strain into the cocktail glass"
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Fruity",
+    "Mildly tart"
+  ],
+  "garnish": "Orange slice",
+  "alcoholContent": 0.3,
+  "recommendedSeason": "Summer",
+  "recommendedOccasion": "Cocktail parties"
+}

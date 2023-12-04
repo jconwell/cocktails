@@ -1,0 +1,71 @@
+{
+  "Cocktail": "Planter's Punch",
+  "Ingredients": [
+    {
+      "IngredientName": "Dark Rum",
+      "Volume": 3.0,
+      "UnitOfMeasure": "ounces",
+      "IsLiquid": true
+    },
+    {
+      "IngredientName": "Orange Juice",
+      "Volume": 2.0,
+      "UnitOfMeasure": "ounces",
+      "IsLiquid": true
+    },
+    {
+      "IngredientName": "Pineapple Juice",
+      "Volume": 2.0,
+      "UnitOfMeasure": "ounces",
+      "IsLiquid": true
+    },
+    {
+      "IngredientName": "Lemon Juice",
+      "Volume": 1.0,
+      "UnitOfMeasure": "ounce",
+      "IsLiquid": true
+    },
+    {
+      "IngredientName": "Grenadine",
+      "Volume": 0.5,
+      "UnitOfMeasure": "ounce",
+      "IsLiquid": true
+    },
+    {
+      "IngredientName": "Sugar Syrup",
+      "Volume": 1.0,
+      "UnitOfMeasure": "ounce",
+      "IsLiquid": true
+    },
+    {
+      "IngredientName": "Angostura Bitters",
+      "Volume": 0.5,
+      "UnitOfMeasure": "ounce",
+      "IsLiquid": true
+    },
+    {
+      "IngredientName": "Maraschino Cherry",
+      "Volume": 1,
+      "UnitOfMeasure": "count",
+      "IsLiquid": false
+    }
+  ],
+  "Popularity": 0.8,
+  "Difficulty": 0.5,
+  "Instructions": [
+    "Fill a shaker with ice", 
+    "Pour all the ingredients in the shaker", 
+    "Shake well and strain into a highball glass",
+    "Garnish with a maraschino cherry"
+  ],
+  "TasteProfile": ["Sweet", "Fruity", "Sour"],
+  "Garnishes": "Maraschino Cherry",
+  "AlcoholContent": 0.175,
+  "CocktailColor": {
+    "Red": 0.5,
+    "Orange": 0.3,
+    "Yellow": 0.1,
+    "Green": 0.1
+  },
+  "GlassType": "Highball glass"
+}

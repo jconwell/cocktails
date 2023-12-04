@@ -1,0 +1,54 @@
+{
+  "cocktail": "Embassy",
+  "ingredients": [
+    {
+      "name": "Brandy",
+      "volume": 1.5,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Rum",
+      "volume": 1.5,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Curaçao",
+      "volume": 0.75,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Lime juice",
+      "volume": 0.5,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Grenadine",
+      "volume": 0.25,
+      "unit": "ounce",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.5,
+  "instructions": [
+    "Shake with ice",
+    "Strain into a cocktail glass"
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Sour",
+    "Strong",
+    "Fruity"
+  ],
+  "garnish": "Lime Slice",
+  "alcoholContent": 0.3,
+  "cocktailFamily": "Sour",
+  "glassware": "Cocktail Glass",
+  "preparationMethod": "Shaken",
+  "primaryAlcohol": "Brandy",
+  "secondaryAlcohol": "Rum"
+}

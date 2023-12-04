@@ -1,0 +1,41 @@
+{
+    "cocktail_name": "Chimayó",
+    "ingredients": [
+        {
+            "name": "Tequila",
+            "volume": 1.5,
+            "unit": "ounces",
+            "is_liquid": true
+        },
+        {
+            "name": "Apple Juice",
+            "volume": 1.5,
+            "unit": "ounces",
+            "is_liquid": true
+        },
+        {
+            "name": "Lime Juice",
+            "volume": 0.5,
+            "unit": "ounces",
+            "is_liquid": true
+        },
+        {
+            "name": "Crème de Cassis",
+            "volume": 0.25,
+            "unit": "ounces",
+            "is_liquid": true
+        }
+    ],
+    "popularity": 0.6,
+    "difficulty": 0.3,
+    "instructions": [
+        "Mix the tequila, apple juice, and lime juice.",
+        "Stir in the crème de cassis.",
+        "Serve in a chilled cocktail glass."
+    ],
+    "taste_profile": ["fruity", "sweet", "tangy"],
+    "garnish": "None",
+    "alcohol_content": 0.2,
+    "glass_type": "cocktail glass",
+    "cool_level": 0.5
+}

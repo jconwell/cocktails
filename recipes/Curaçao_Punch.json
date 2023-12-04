@@ -1,0 +1,52 @@
+{
+  "cocktailName": "Curaçao Punch",
+  "ingredients": [
+    {
+      "name": "Rum",
+      "volume": 1,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Orange Curaçao",
+      "volume": 1,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon juice",
+      "volume": 0.5,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Raspberry syrup",
+      "volume": 0.5,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Pineapple slice",
+      "volume": 1,
+      "unit": "piece",
+      "isLiquid": false
+    }
+  ],
+  "popularityScore": 0.7,
+  "difficultyScore": 0.6,
+  "instructions": [
+    "Shake all the liquid ingredients together with ice",
+    "Strain into a glass filled with crushed ice",
+    "Garnish with a pineapple slice"
+  ],
+  "tasteProfile": ["Sweet", "Fruity", "Sour"],
+  "garnish": "Pineapple slice",
+  "alcoholContent": 0.14,
+  "glassType": "Cocktail glass",
+  "isClassic": false,
+  "primarySpirit": "Rum",
+  "cocktailType": "Punch",
+  "isMixed": true,
+  "color": "Orange",
+  "servingSize": 1
+}

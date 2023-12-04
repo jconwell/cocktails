@@ -1,0 +1,44 @@
+{
+  "cocktail_name": "Firefly",
+  "ingredients": [
+    {
+      "ingredient": "Gin",
+      "volume": 2,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient": "Ginger ale",
+      "volume": 4,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient": "Raspberries",
+      "volume": 3,
+      "unit": "count",
+      "is_liquid": false
+    }
+  ],
+  "popularity": 0.75,
+  "difficulty": 0.3,
+  "instructions": [
+    "Muddle the raspberries in the bottom of a shaker.",
+    "Add the gin and shake well.",
+    "Strain into a chilled glass.",
+    "Top off with ginger ale."
+  ],
+  "taste_profile": ["Sweet", "Tangy"],
+  "garnish": "Raspberry on skewer",
+  "alcohol_content": 0.24,
+  "glass_type": "Highball Glass",
+  "serving_style": "On the Rocks",
+  "origin": "United States",
+  "prep_time_minutes": 5,
+  "color": "Pink",
+  "cocktail_type": "Long Drink",
+  "base_spirit": "Gin",
+  "flavor": ["Fruity", "Effervescent"],
+  "occasion": ["Summer", "Party", "Casual"],
+  "note": "The Firefly is a fruity gin cocktail with a splash of ginger ale that's perfect for summer."
+}

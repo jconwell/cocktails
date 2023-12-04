@@ -1,0 +1,63 @@
+{
+  "name": "Golden Doublet",
+  "ingredients": [
+    {
+      "ingredientName": "Orange Juice",
+      "volume": 1.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Cognac",
+      "volume": 0.75,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Brandy",
+      "volume": 0.75,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Ginger Ale",
+      "volume": 2,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Ice cubes",
+      "volume": 4,
+      "unitOfMeasure": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.3,
+  "instructions": [
+    "Fill a shaker with ice cubes",
+    "Add orange juice, cognac and brandy",
+    "Shake well",
+    "Fill a glass with ice cubes",
+    "Pour the mix into the glass",
+    "Top up with ginger ale",
+    "Stir gently"
+  ],
+  "tasteProfile": [
+    "Fruity",
+    "Warm",
+    "Refreshing"
+  ],
+  "garnishes": "An orange slice and cherry",
+  "alcoholContent": 25.4,
+  "glassware": "Highball glass",
+  "cocktailType": "Long drinks",
+  "occasion": [
+    "Summer",
+    "Casual"
+  ],
+  "flavour": "Sweet",
+  "origin": "France",
+  "color": "Golden",
+  "serve": "Cold"
+}

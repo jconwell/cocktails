@@ -1,0 +1,53 @@
+{
+  "cocktail_name": "Blow My Skull",
+  "ingredients": [
+    {
+      "name": "Brandy",
+      "volume": 1.5,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Lime Juice",
+      "volume": 0.75,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Jamaica Rum",
+      "volume": 1.5,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Absinthe",
+      "volume": 0.75,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Orgeat Syrup",
+      "volume": 0.25,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Water",
+      "volume": 0.25,
+      "unit": "ounces",
+      "is_liquid": true
+    }
+  ],
+  "popularity": 0.2,
+  "difficulty": 0.9,
+  "how_to_make": [
+    "Add all the ingredients to a shaker with ice and hard shake.",
+    "Double strain into a chilled coupe glass."
+  ],
+  "taste_profile": ["Strong", "Bitter", "Herbaceous"],
+  "garnishes": "Lime Wedge",
+  "alcohol_content": 0.34,
+  "glass_type": "coupe",
+  "cocktail_type": "Classic",
+  "mix_method": "shaken"
+}

@@ -1,0 +1,36 @@
+{
+  "cocktailName": "Arnold Palmer",
+  "ingredients": [
+    {
+      "ingredientName": "Iced Tea",
+      "volume": 4,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Lemonade",
+      "volume": 4,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.2,
+  "instructions": [
+    "Fill a glass half full with 4 ounces of iced tea.",
+    "Top off the glass with 4 ounces of lemonade."
+  ],
+  "tasteProfile": [
+    "Sweet", "Tangy"
+  ],
+  "garnish": "Lemon slice",
+  "alcoholContent": 0,
+  "temperature": {
+    "isCold": true,
+    "isHot": false
+  },
+  "timeToPrepare": 2,
+  "colour": "brown",
+  "isCarbonated": false,
+  "glassware": "Collins glass"
+}

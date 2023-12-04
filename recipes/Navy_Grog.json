@@ -1,0 +1,62 @@
+{
+  "cocktailName": "Navy Grog",
+  "ingredients": [
+    {
+      "ingredientName": "White rum",
+      "volume": 1,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Dark rum",
+      "volume": 1,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Lime juice",
+      "volume": 0.5,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Grapefruit juice",
+      "volume": 0.5,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Honey syrup",
+      "volume": 0.75,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Club soda",
+      "volume": 1,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Ice",
+      "volume": 1,
+      "unit": "cup",
+      "isLiquid": false
+    }
+  ],
+  "popularityScore": 0.6,
+  "difficultyScore": 0.5,
+  "instructions": [
+    "In a shaker, combine white rum, dark rum, lime juice, grapefruit juice, and honey syrup.",
+    "Shake well until all ingredients are blended.",
+    "Fill a glass with ice.",
+    "Pour the shaker contents over the ice.",
+    "Top off with club soda and stir gently."
+  ],
+  "tasteProfile": ["Sweet", "Citrusy", "Rum"],
+  "garnish": "Lime Wheel and Mint sprig",
+  "alcoholContent": 0.25,
+  "glassware": "Highball glass",
+  "PreparationTime": 5,
+  "SkillLevel": "Intermediate"
+}

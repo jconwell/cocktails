@@ -1,0 +1,36 @@
+{
+  "cocktail_name": "Poinsettia",
+  "ingredients": [
+    {
+      "ingredient_name": "Cointreau",
+      "volume": 0.5,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Cranberry Juice",
+      "volume": 1,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Champagne",
+      "volume": 2.5,
+      "unit": "ounces",
+      "is_liquid": true
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.1,
+  "instructions": [
+    "Pour Cointreau and cranberry juice into a chilled champagne flute",
+    "Top with Champagne",
+    "Stir gently"
+  ],
+  "taste_profile": ["sweet", "bitter", "sour", "salty", "umami"],
+  "garnish": "Optional: Orange twist or cranberries",
+  "alcohol_content": 0.18,
+  "serving_glass": "Champagne Flute",
+  "time_to_make": 5,
+  "temperature_serving": "cold"
+}

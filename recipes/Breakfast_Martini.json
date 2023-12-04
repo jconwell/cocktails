@@ -1,0 +1,49 @@
+{
+  "name": "Breakfast Martini",
+  "ingredients": [
+    {
+      "ingredient_name": "Gin",
+      "volume": 1.5,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Lemon Juice",
+      "volume": 0.75,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Cointreau",
+      "volume": 0.5,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Orange Marmalade",
+      "volume": 1,
+      "unit_of_measure": "teaspoon",
+      "is_liquid": false
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.4,
+  "instructions": [
+    "Put ice into a cocktail shaker",
+    "Pour in the gin, lemon juice, Cointreau, and marmalade",
+    "Shake well",
+    "Strain the mix into a chilled martini glass"
+  ],
+  "taste_profile": [
+    "Sour",
+    "Sweet",
+    "Citrus",
+    "Bitter"
+  ],
+  "garnish": "Orange twist",
+  "alcohol_content": 0.25,
+  "difficulty_level": "Easy",
+  "glassware": "Martini Glass",
+  "mix_method": "Shaking",
+  "serve": "Straight up; without ice"
+}

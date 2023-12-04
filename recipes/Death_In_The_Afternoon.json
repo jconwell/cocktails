@@ -1,0 +1,36 @@
+{
+  "cocktail_name": "Death In The Afternoon",
+  "ingredients": [
+    {
+      "ingredient_name": "Champagne",
+      "ingredient_volume": 5,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Absinthe",
+      "ingredient_volume": 1,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    }
+  ],
+  "popularity": 0.3,
+  "difficulty": 0.1,
+  "instructions": [
+    "Pour absinthe into a champagne flute",
+    "Top with cold champagne until it clouds"
+  ],
+  "taste_profile": ["Bitter", "Sweet", "Strong"],
+  "garnishes": "Lemon Twist",
+  "alcohol_content": 0.22,
+  "creative_aspect": {
+    "original_creator": "Ernest Hemingway",
+    "origin": "France",
+    "year_of_creation": 1935
+  },
+  "serving_details": {
+    "serve_in": "Champagne flute",
+    "temperature": "Cold"
+  },
+  "pairings": ["Appetizers", "Seafood"]
+}

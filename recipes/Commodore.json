@@ -1,0 +1,44 @@
+{
+  "name": "Commodore",
+  "ingredients": [
+    {
+      "name": "Bourbon",
+      "volume": 1.5,
+      "unit": "oz",
+      "is_liquid": true
+    },
+    {
+      "name": "Creme De Cacao",
+      "volume": 1.0,
+      "unit": "oz",
+      "is_liquid": true
+    },
+    {
+      "name": "Lemon Juice",
+      "volume": 0.5,
+      "unit": "oz",
+      "is_liquid": true
+    }
+  ],
+  "popularity": 0.45,
+  "difficulty": 0.3,
+  "instructions": [
+    "Combine bourbon, creme de cacao, and lemon juice in a shaker.",
+    "Fill the shaker with ice and shake vigorously.",
+    "Strain into a chilled cocktail glass."
+  ],
+  "taste_profile": [
+    "sweet",
+    "tart",
+    "smooth"
+  ],
+  "garnish": "Lemon twist",
+  "alcohol_content": 0.25,
+  "style": "Classic",
+  "glass_type": "Cocktail glass",
+  "color": "Amber",
+  "texture": "Smooth",
+  "temperature": "Cold",
+  "occasion": "Evening drink",
+  "origin": "United States"
+}

@@ -1,0 +1,34 @@
+{
+    "name": "Black Nail",
+    "ingredients": [
+        {
+            "name": "Irish whiskey",
+            "volume": 1.5,
+            "unit": "oz",
+            "is_liquid": true
+        },
+        {
+            "name": "Italian bitter liqueur",
+            "volume": 0.75,
+            "unit": "oz",
+            "is_liquid": true
+        }
+    ],
+    "popularity": 0.6,
+    "difficulty": 0.2,
+    "instructions": [
+        "Pour the Irish whiskey into a chilled glass.",
+        "Add the Italian bitter liqueur.",
+        "Stir gently until well mixed."
+    ],
+    "taste_profile": [
+        "bitter",
+        "smooth",
+        "strong"
+    ],
+    "garnish": "Lemon twist",
+    "alcohol_content": 0.32,
+    "glass_type": "Old fashioned glass",
+    "preparation_time": 3,
+    "color": "dark"
+}

@@ -1,0 +1,42 @@
+{
+    "name": "Wedding Cake",
+    "ingredients": [
+        {
+            "name": "Vanilla Vodka",
+            "volume": 1.5,
+            "unit": "ounces",
+            "isLiquid": true
+        },
+        {
+            "name": "Pineapple Juice",
+            "volume": 2,
+            "unit": "ounces",
+            "isLiquid": true
+        },
+        {
+            "name": "Cream of Coconut",
+            "volume": 1,
+            "unit": "ounces",
+            "isLiquid": true
+        },
+        {
+            "name":"Grenadine","volume":0.5,
+            "unit":"ounces",
+            "isLiquid":true
+        }
+    ],
+    "popularity": 0.5,
+    "difficulty": 0.2,
+    "instructions": [
+        "Shake all ingredients in a cocktail shaker with ice",
+        "Strain the mix into a chilled glass",
+        "Garnish with a cherry before serving"
+    ],
+    "tasteProfile": ["sweet", "creamy", "fruity"],
+    "garnish": "Maraschino cherry",
+    "alcoholContent": 0.15,
+    "glassType": "Cocktail Glass",
+    "timeToPrepare": 5,
+    "servingSize": 1,
+    "cocktailType": "Dessert Cocktail"
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Red Pepper Sangrita Margarita",
+  "ingredients": [
+    {
+      "name": "tequila",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "red bell pepper juice",
+      "volume": 3,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "fresh lime juice",
+      "volume": 1,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "agave syrup",
+      "volume": 1,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "jalapenos",
+      "volume": 2,
+      "unit": "count",
+      "isLiquid": false
+    },
+    {
+      "name": "salt",
+      "volume": 1,
+      "unit": "pinch",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.8,
+  "difficulty": 0.6,
+  "instructions": [
+    "In a shaker, muddle the jalapenos with the agave syrup and salt.",
+    "Add the red bell pepper juice, lime juice, and tequila.",
+    "Fill the shaker with ice and shake well.",
+    "Strain into a chilled, salt-rimmed coupe.",
+    "Garnish with lime wheel and serve."
+  ],
+  "tasteProfile": ["spicy", "sweet", "tangy"],
+  "garnish": "lime wheel",
+  "alcoholContent": 0.4,
+  "servingSize": 1,
+  "preparationTime": 10,
+  "typeOfGlassware": "coupe",
+  "isClassicCocktail": false,
+  "ageRestriction": 21
+}

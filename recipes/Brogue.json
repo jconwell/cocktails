@@ -1,0 +1,65 @@
+
+{
+  "name": "Brogue",
+  "ingredients": [
+    {
+      "name": "Cognac",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Green Chartreuse",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon Juice",
+      "volume": 0.75,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Simple Syrup",
+      "volume": 0.75,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Egg White",
+      "volume": 1,
+      "unit": "egg",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.5,
+  "difficulty": 0.7,
+  "instructions": [
+    "Pour all ingredients into shaker filled with ice.",
+    "Shake well for at least 20 seconds to get 'froth' from egg white.",
+    "Strain into an old-fashioned glass."
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Tangy",
+    "Creamy"
+  ],
+  "garnish": "Lemon twist",
+  "alcoholContent": 20.7,
+  "glassType": "Old-Fashioned Glass",
+  "cocktailType": "Shaken",
+  "isClassic": false,
+  "isTropical": false,
+  "flavorProfile": [
+    "Citrus",
+    "Herbal",
+    "Sweet"
+  ],
+  "occasion": [
+    "Night out",
+    "Relaxation",
+    "Celebration"
+  ],
+  "color": "Pale Yellow"
+}

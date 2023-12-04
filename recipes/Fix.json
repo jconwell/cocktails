@@ -1,0 +1,48 @@
+{
+  "name": "Fix",
+  "ingredients": [
+    {
+      "name": "Brandy",
+      "volume": 2.0,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon Juice",
+      "volume": 0.75,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Rich syrup(2:1)",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Crushed ice",
+      "volume": 1.0,
+      "unit": "Cup",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.45,
+  "difficulty": 0.35,
+  "instructions": [
+    "Pour all ingredients into the shaker",
+    "Shake well for 30 seconds and strain into a glass",
+    "Garnish with lemon slice and a cherry"
+  ],
+  "tasteProfile": [
+    "sweet",
+    "sour",
+    "refreshing"
+  ],
+  "garnish": "Lemon slice and a cherry",
+  "alcoholContent": 0.30,
+  "glassware": "Cocktail glass",
+  "typeOfCocktail": "Classic",
+  "origin": "United States",
+  "color": "Pale yellow",
+  "baseFlavor": "Brandy"
+}

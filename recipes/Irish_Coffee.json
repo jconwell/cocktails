@@ -1,0 +1,45 @@
+{
+  "cocktailName": "Irish Coffee",
+  "ingredients": [
+    {
+      "name": "Hot Coffee",
+      "volume": 4.0,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Irish Whiskey",
+      "volume": 1.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Sugar",
+      "volume": 1.0,
+      "unitOfMeasure": "tablespoons",
+      "isLiquid": false
+    },
+    {
+      "name": "Whipped Cream",
+      "volume": 1.0,
+      "unitOfMeasure": "dollop",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.2,
+  "instructions": [
+    "Preheat a clear stemmed glass with very hot water. Empty the water, and add 2 teaspoons of the sugar. Add the coffee and stir.",
+    "Add the Irish Whiskey for flavor and stir again. Top with a collar of the whipped lightly whipped cream by pouring gently over the back of a spoon."
+  ],
+  "tasteProfile": [
+    "Warm", 
+    "Sweet", 
+    "Creamy"
+  ],
+  "garnish": "Grated Nutmeg (optional)",
+  "alcoholContent": 0.09,
+  "servedIn": "Stemmed Glass",
+  "drinkType": "Warm",
+  "origin": "Irish"
+}

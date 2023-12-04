@@ -1,0 +1,51 @@
+{
+"name": "Rosé Berry Bliss",
+"ingredients": [
+  {
+    "name": "Rosé wine",
+    "volume": 4.0,
+    "unitOfMeasure": "ounces",
+    "isLiquid": true
+  },
+  {
+    "name": "Mixed berries",
+    "volume": 0.5,
+    "unitOfMeasure": "cups",
+    "isLiquid": false
+  },
+  {
+    "name": "Lemon juice",
+    "volume": 1.0,
+    "unitOfMeasure": "ounces",
+    "isLiquid": true
+  },
+  {
+    "name": "Simple syrup",
+    "volume": 1.0,
+    "unitOfMeasure": "ounces",
+    "isLiquid": true
+  },
+  {
+    "name": "Ice cubes",
+    "volume": 6.0,
+    "unitOfMeasure": "count",
+    "isLiquid": false
+  }
+],
+"popularity": 0.75,
+"difficulty": 0.3,
+"instructions": [
+  "In a shaker, combine the berries, lemon juice, and simple syrup.",
+  "Muddle the ingredients until fully combined.",
+  "Add the Rosé wine and ice cubes.",
+  "Shake well.",
+  "Strain the cocktail into a glass and serve immediately."
+],
+"tasteProfile": ["fruity", "refreshing", "slightly sweet", "tangy"],
+"garnish": "Mixed berries on top",
+"alcoholContent": 0.12,
+"servingGlass": "Wine glass",
+"color": "Pink",
+"texture": "Smooth with fruit bits",
+"temperature": "Cold"
+}

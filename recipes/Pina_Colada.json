@@ -1,0 +1,47 @@
+{
+  "cocktailName": "Pina Colada",
+  "ingredients": [
+    {
+      "name": "White Rum",
+      "volume": 2,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Pineapple Juice",
+      "volume": 5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Coconut Cream",
+      "volume": 2,
+      "unit": "oz",
+      "isLiquid": false
+    },
+    {
+      "name": "Crushed Ice",
+      "volume": 1,
+      "unit": "cup",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.3,
+  "instructions": [
+    "Blend all the ingredients with ice in a electric blender.",
+    "Pour into a large glass.",
+    "Garnish with pineapple slice and a cocktail cherry."
+  ],
+  "tasteProfile": ["Sweet", "Creamy", "Fruity"],
+  "garnish": "Pineapple slice and a cocktail cherry",
+  "alcoholContent": 13.3,
+  "glassType": "Hurricane glass",
+  "ice": "Crushed",
+  "preparationMethod": "Blended",
+  "drinkType": "Creamy",
+  "occasion": ["Summer", "Beach", "Party"],
+  "primaryAlcohol": "Rum",
+  "flavor": ["Pineapple", "Coconut", "Rum"],
+  "color": "Creamy White"
+}

@@ -1,0 +1,41 @@
+{
+  "cocktail_name": "Piscola",
+  "ingredients": [
+    {
+      "name": "Pisco",
+      "volume": 3,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Cola",
+      "volume": 9,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Ice cubes",
+      "volume": 3,
+      "unit": "count",
+      "is_liquid": false
+    }
+  ],
+  "popularity": 0.5,
+  "difficulty": 0.2,
+  "instructions": [
+    "Fill a highball glass with ice cubes.",
+    "Add the pisco.",
+    "Top with cola."
+  ],
+  "taste_profile": [
+    "Sweet",
+    "Fruity",
+    "Refreshing"
+  ],
+  "garnishes": "Lemon slice",
+  "alcohol_content": 0.2,
+  "origin": "South America",
+  "glass_type": "Highball glass",
+  "cocktail_type": "Highball",
+  "serve_as": "Cold"
+}

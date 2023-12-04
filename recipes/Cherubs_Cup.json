@@ -1,0 +1,55 @@
+{
+  "cocktailName": "Cherub's Cup",
+  "ingredients": [
+    {
+      "name": "Strawberry vodka",
+      "volume": 1.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Elderflower liqueur",
+      "volume": 0.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    },
+    {
+      "name": "Cream de Cassis liqueur",
+      "volume": 0.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Pomegranate juice",
+      "volume": 0.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Brut rosé",
+      "volume": 2,
+      "unit": "oz",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.3,
+  "difficulty": 0.4,
+  "instructions": [
+    "In a shaker, muddle the strawberries.",
+    "Add the vodka, Elderflower liqueur, lemon juice, and creme de Cassis, shake until well-chilled.",
+    "Strain into an ice-filled glass, top with Brut rosé.",
+    "Lightly stir to combine."
+  ],
+  "tasteProfile": ["sweet", "fruity", "tangy"],
+  "garnish": "Strawberry",
+  "alcoholContent": 30.0,
+  "glassware": "Tall glass",
+  "isMocktail": false,
+  "color": "Red"
+}

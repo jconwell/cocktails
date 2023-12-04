@@ -1,0 +1,43 @@
+{
+  "cocktailName": "Macuá",
+  "ingredients": [
+    {
+      "name": "white rum",
+      "volume": 2,
+      "unit": "ounces",
+      "liquid": true
+    },
+    {
+      "name": "guava juice",
+      "volume": 2,
+      "unit": "ounces",
+      "liquid": true
+    },
+    {
+      "name": "lemon juice",
+      "volume": 1,
+      "unit": "ounce",
+      "liquid": true
+    },
+    {
+      "name": "simple syrup",
+      "volume": 0.5,
+      "unit": "ounces",
+      "liquid": true
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.3,
+  "instructions": [
+    "Add all ingredients in a cocktail shaker filled with ice.",
+    "Shake until well-chilled.",
+    "Strain into an ice-filled rocks glass."
+  ],
+  "tasteProfile": ["Sweet", "Tropical", "Citrus"],
+  "garnish": "Lemon wheel",
+  "alcoholContent": 0.2,
+  "cocktailType": "Refreshing",
+  "servingGlass": "rocks glass",
+  "color": "pink",
+  "preparationTime": 5
+}

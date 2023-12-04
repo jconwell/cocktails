@@ -1,0 +1,44 @@
+{
+  "name": "Massey",
+  "ingredients": [
+    {
+      "name": "bourbon",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "simple syrup",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "lemon juice",
+      "volume": 0.75,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "blackberries",
+      "volume": 4,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.3,
+  "steps": [
+    "Muddle the blackberries in a shaker",
+    "Add the bourbon, simple syrup, and lemon juice",
+    "Fill the shaker with ice and shake well",
+    "Strain into a glass and top with more ice"
+  ],
+  "tasteProfile": ["sweet", "tart", "fruity", "boozy"],
+  "garnish": "blackberries",
+  "alcoholContent": 0.2,
+  "glassType": "rocks glass",
+  "iceType": "cubed",
+  "shakingMethod": "shake with ice and strain",
+  "ingredientComplexity": 4
+}

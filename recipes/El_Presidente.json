@@ -1,0 +1,47 @@
+{
+  "name": "El Presidente",
+  "ingredients": [
+    {
+      "ingredient_name": "White Rum",
+      "volume": 1.5,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Orange Curacao",
+      "volume": 1,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Dry Vermouth",
+      "volume": 1,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Grenadine",
+      "volume": 1,
+      "unit": "dash",
+      "is_liquid": true
+    }
+  ],
+  "popularity_rating": 0.5,
+  "difficulty_rating": 0.3,
+  "instructions": [
+    "Stir all ingredients with ice.",
+    "Strain into a chilled cocktail glass. "
+  ],
+  "taste_profile": [
+    "sweet",
+    "fruity",
+    "bitter"
+  ],
+  "garnish": "Cherry",
+  "alcohol_content": 22.0,
+  "cocktail_style": "classic",
+  "glass_type": "cocktail glass",
+  "serving_temperature": "cold",
+  "presentation_color": "light amber",
+  "complementary_flavors": ["citrus", "spiced"]
+}

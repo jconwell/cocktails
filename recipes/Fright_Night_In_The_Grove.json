@@ -1,0 +1,51 @@
+{
+  "cocktailName": "Fright Night In The Grove",
+  "ingredients": [
+    {
+      "name": "Pomelo juice",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Ginger beer",
+      "volume": 0.75,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Rum",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Pumkin puree",
+      "volume": 2,
+      "unit": "tablespoons",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.4,
+  "instructions": [
+    "Add rum, pomelo juice, and pumpkin puree into a shaker loaded with ice.",
+    "Shake until well mixed.",
+    "Strain the mix into a cocktail glass.",
+    "Top the mix with ginger beer.",
+    "Gently stir until all the ingredients are well-combined."
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Citrus",
+    "Spicy"
+  ],
+  "garnish": "Sprinkle of cinnamon, pomelo slice",
+  "alcoholContent": 0.15,
+  "color": "Orange",
+  "type": "Longdrink",
+  "glassType": "Cocktail glass",
+  "served": "Cold",
+  "preparationTime": 5,
+  "cost": "Medium"
+}

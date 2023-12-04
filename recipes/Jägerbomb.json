@@ -1,0 +1,32 @@
+{
+    "cocktailName": "Jägerbomb",
+    "ingredients": [
+        {
+            "name": "Jägermeister",
+            "volume": 1.5,
+            "unit": "ounces",
+            "isLiquid": true
+        },
+        {
+            "name": "energy drink",
+            "volume": 8.5,
+            "unit": "ounces",
+            "isLiquid": true
+        }
+    ],
+    "popularity": 0.7,
+    "difficulty": 0.2,
+    "instructions": [
+        "Pour the Jägermeister into a shot glass.",
+        "Pour the energy drink into a highball or pint glass.",
+        "Drop the shot glass of Jägermeister into the energy drink."
+    ],
+    "tasteProfile": ["Sweet", "Bitter", "Strong"],
+    "garnish": "None",
+    "alcoholContent": 0.07,
+    "cocktailType": "Shot",
+    "glassType": "Shot Glass",
+    "occasion": ["Party","Casual"],
+    "color": "Dark Brown",
+    "regionOfOrigin": "Germany"
+}

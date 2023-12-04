@@ -1,0 +1,42 @@
+{
+  "cocktailName": "Tuscan Pear",
+  "ingredients": [
+    {
+      "ingredient": "Pear Vodka",
+      "volume": 1.5,
+      "unit": "Oz",
+      "isLiquid": true
+    },
+    {
+      "ingredient": "Limoncello",
+      "volume": 0.75,
+      "unit": "Oz",
+      "isLiquid": true
+    },
+    {
+      "ingredient": "Pear",
+      "volume": 1,
+      "unit": "Count",
+      "isLiquid": false
+    },
+    {
+      "ingredient": "Prosecco",
+      "volume": 2,
+      "unit": "Oz",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.3,
+  "instructions": [
+    "In a blender combine pear and pear vodka until smooth.",
+    "Strain the mixture into a cocktail glass.",
+    "Add limoncello.",
+    "Top with prosecco."
+  ],
+  "tasteProfile": ["sweet", "fruity", "bubbly"],
+  "garnish": "Pear slice",
+  "alcoholContent": 20.5,
+  "cocktailType": "fruity",
+  "glassType": "Martini glass"
+}

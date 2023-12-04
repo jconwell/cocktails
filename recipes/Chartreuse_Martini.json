@@ -1,0 +1,45 @@
+{
+  "cocktailName": "Chartreuse Martini",
+  "ingredients": [
+    {
+      "name": "Dry Gin",
+      "volume": 1.5,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Green Chartreuse",
+      "volume": 1,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Dry Vermouth",
+      "volume": 0.5,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon Twist",
+      "volume": 1,
+      "unit": "garnish",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.4,
+  "steps": [
+    "Fill a mixing glass with ice cubes.",
+    "Add all ingredients except the lemon twist.",
+    "Stir and strain into a chilled cocktail glass.",
+    "Twist a slice of lemon peel over the drink to extract the oils but do not drop it in.",
+    "Serve."
+
+  ],
+  "tasteProfile": ["citrus", "herbal", "sweet", "strong"],
+  "garnishes": "Lemon Twist",
+  "alcoholContent": 0.4,
+  "cocktailStyle": "classic",
+  "glassType": "cocktail glass",
+  "servingTemperature": "cold"
+}

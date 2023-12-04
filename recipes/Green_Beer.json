@@ -1,0 +1,38 @@
+{
+  "cocktailName": "Green Beer",
+  "ingredients": [
+    {
+      "name": "Beer",
+      "volume": 16,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Green food coloring",
+      "volume": 0.0625,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.5,
+  "difficulty": 0.2,
+  "instructions": [
+    "Pour beer into a glass, leaving some space at the top",
+    "Start with two drops of food coloring, adding more if necessary. Stir gently with a straw or long spoon to incorporate"
+  ],
+  "tasteProfile": [
+    "Malty",
+    "Slightly bitter",
+    "Sweet"
+  ],
+  "garnishes": "None",
+  "alcoholContent": 0.06,
+  "isSeasonal": true,
+  "season": "Spring",
+  "occasions": [
+    "St. Patrick's Day"
+  ],
+  "isSignatureDrink": false,
+  "originCountry": "USA",
+  "glassType": "Pint Glass"
+}

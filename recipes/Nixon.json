@@ -1,0 +1,41 @@
+{
+  "name": "Nixon",
+  "ingredients": [
+     {
+        "ingredient_name": "Bourbon",
+        "ingredient_volume": 1.5,
+        "ingredient_unit": "ounce",
+        "ingredient_type": true,
+        "alcohol_percentage": 0.45
+     },
+     {
+        "ingredient_name": "Lemon Juice",
+        "ingredient_volume": 0.5,
+        "ingredient_unit": "ounce",
+        "ingredient_type": true,
+        "alcohol_percentage": 0.00
+     },
+     {
+        "ingredient_name": "Simple Syrup",
+        "ingredient_volume": 0.5,
+        "ingredient_unit": "ounce",
+        "ingredient_type": true,
+        "alcohol_percentage": 0.00
+     }
+  ],
+  "popularity_rating": 0.45,
+  "difficulty_rating": 0.25,
+  "method": [
+    "Pour all the ingredients into a shaker with ice.",
+    "Shake well until the outside of the shaker becomes frosted.",
+    "Strain into a chilled cocktail glass."
+  ],
+  "taste_profile": ["bitter", "sweet", "sour"],
+  "garnishes": "Lemon twist",
+  "total_alcohol_content": 0.45,
+  "servings": 1,
+  "recipe_category": "Classic",
+  "flavor_tags": ["lemony", "sweet", "bourbon"],
+  "cocktail_type": "Alcoholic",
+  "serving_glass": "Cocktail glass"
+}

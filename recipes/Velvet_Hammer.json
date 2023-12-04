@@ -1,0 +1,42 @@
+{
+  "name": "Velvet Hammer",
+  "ingredients": [
+    { 
+      "ingredientName": "Cognac",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true  
+    },
+    {
+      "ingredientName": "Coffee liqueur",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Cream",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.2,
+  "instructions": [
+    "Pour Cognac and Coffee liqueur into a shaker filled with ice.",
+    "Shake well.",
+    "Strain into an old-fashioned glass filled with crushed ice.",
+    "Top up the glass with cream.",
+    "Stir gently before serving."
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Creamy"
+  ],
+  "garnishes": "Cherry",
+  "alcoholContent": 0.3,
+  "color": "Brown",
+  "glassType": "Old-fashioned glass",
+  "isFruity": false,
+  "flavorIntensity": 0.6
+}

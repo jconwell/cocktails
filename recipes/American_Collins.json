@@ -1,0 +1,45 @@
+{
+  "cocktail_name": "American Collins",
+  "ingredients": [
+    {
+      "ingredient_name": "Vodka",
+      "volume": 2,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Lemon Juice",
+      "volume": 1,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Simple Syrup",
+      "volume": 1,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Soda Water",
+      "volume": 3,
+      "unit": "ounces",
+      "is_liquid": true
+    }],
+  "popularity_score": 0.7,
+  "difficulty_score": 0.3,
+  "instructions": [
+    "Pour vodka, lemon juice, and simple syrup into a shaker with ice cubes",
+    "Shake well",
+    "Strain into a large glass filled with ice",
+    "Top with soda water"],
+  "taste_profile": ["tart", "sweet", "refreshing"],
+  "garnish": "Lemon slice and cherry",
+  "alcohol_content": 0.2,
+  "glass_type": "Collins glass",
+  "preparation_time": 5,
+  "serving_size": 1,
+  "cocktail_color": "Clear",
+  "cocktail_type": "Long Drinks",
+  "origin": "United States",
+  "mood": ["Casual", "Summer"]
+}

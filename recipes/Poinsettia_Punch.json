@@ -1,0 +1,45 @@
+{
+  "name": "Poinsettia Punch",
+  "ingredients": [
+    {
+      "ingredientName": "Champagne",
+      "amount": 3.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Cranberry Juice",
+      "amount": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Orange liqueur",
+      "amount": 1,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Raspberries",
+      "amount": 6,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularityRating": 0.8,
+  "complexityRating": 0.3,
+  "instructions": [
+    "Combine champagne, cranberry juice and orange liqueur in a large punch bowl",
+    "Add raspberries"
+  ],
+  "tasteProfile": ["sweet", "tart", "fruity"],
+  "garnish": "Orange twist and a few whole cranberries",
+  "alcoholContent": 0.12,
+  "color": "Pink",
+  "servingGlass": "Punch Bowl",
+  "originCountry": "USA",
+  "occasion": ["Holiday"],
+  "season": ["Winter"],
+  "style": ["Punch"],
+  "otherCharacteristic": ["Bubbly"]
+}

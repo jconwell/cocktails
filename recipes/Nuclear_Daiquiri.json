@@ -1,0 +1,43 @@
+{
+  "cocktailName": "Nuclear Daiquiri",
+  "ingredients": [
+    {
+      "name": "White rum",
+      "volume": 1,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Green Chartreuse",
+      "volume": 0.75,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Lime juice",
+      "volume": 0.75,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Absinthe",
+      "volume": 0.25,
+      "unit": "oz",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.4,
+  "difficulty": 0.65,
+  "instructions": [
+   "Pour all ingredients into a shaker with ice cubes",
+   "Shake well",
+   "Strain in a cocktail glass"
+  ],
+  "tasteProfile": ["Strong", "Herbaceous", "Sour"],
+  "garnish": "Lime wheel",
+  "alcoholContent": 0.4,
+  "servingGlass": "Cocktail glass",
+  "cocktailType": "After Dinner Cocktail",
+  "color": "Green",
+  "locationOfOrigin": "Scotland"
+}

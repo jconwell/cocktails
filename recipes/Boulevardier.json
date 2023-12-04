@@ -1,0 +1,39 @@
+{
+  "name": "Boulevardier",
+  "ingredients": [
+    {
+      "name": "Bourbon",
+      "volume": 1.5,
+      "unitOfMeasure": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Campari",
+      "volume": 1,
+      "unitOfMeasure": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Sweet Vermouth",
+      "volume": 1,
+      "unitOfMeasure": "oz",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.2,
+  "instructions": [
+    "Pour all ingredients into a mixing glass with ice cubes",
+    "Stir well",
+    "Strain into in chilled cocktail glass",
+    "Garnish with orange peel"
+  ],
+  "tasteProfile": ["Bitter", "Sweet", "Strong"],
+  "garnish": "Orange peel",
+  "alcoholContent": 0.25,
+  "glassType": "Cocktail Glass",
+  "isShaken": false,
+  "isStirred": true,
+  "color": "Red",
+  "served": "Neat"
+}

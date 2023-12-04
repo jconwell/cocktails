@@ -1,0 +1,46 @@
+{
+  "cocktailName": "Beam Me Up Scotty",
+  "ingredients": [
+    {
+      "name": "Coffee liqueur",
+      "volume": 1.0,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Creme de Banane",
+      "volume": 1.0,
+      "unit": "ounces",
+      "isLiquid": true
+    }, 
+    {
+      "name": "Irish Cream",
+      "volume": 1.0,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.3,
+  "instructions": [
+    "Pour Coffee liqueur into shot glass.",
+    "Pour Creme de Banane on top.",
+    "Lastly, pour Irish Cream on top.",
+    "Serve without a mix."
+  ],
+  "tasteProfile": [
+    "sweet",
+    "creamy",
+    "coffee flavored"
+  ],
+  "garnish": "None",
+  "alcoholContent": 0.25,
+  "glassType": {
+    "name": "Shot Glass",
+    "volume": 1.5,
+    "unit": "ounces",
+    "isLiquid": true
+  },
+  "isShaken": false,
+  "isStirred": false
+}

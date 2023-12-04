@@ -1,0 +1,48 @@
+{
+  "name": "Espresso Martini",
+  "ingredients": [
+    {
+      "ingredientName": "Vodka",
+      "ingredientVolume": 2,
+      "ingredientUnit": "oz",
+      "ingredientIsLiquid": true
+    },
+    {
+      "ingredientName": "Coffee Liqueur",
+      "ingredientVolume": 0.5,
+      "ingredientUnit": "oz",
+      "ingredientIsLiquid": true
+    },
+    {
+      "ingredientName": "Freshly Brewed Espresso",
+      "ingredientVolume": 1,
+      "ingredientUnit": "oz",
+      "ingredientIsLiquid": true
+    },{
+      "ingredientName": "Sugar syrup",
+      "ingredientVolume": 0.5,
+      "ingredientUnit": "oz",
+      "ingredientIsLiquid": true
+    }
+  ],
+  "popularity": 0.85,
+  "difficulty": 0.3,
+  "instructions": [
+    "Mix vodka, coffee liqueur, freshly brewed espresso, and sugar syrup in a shaker with ice",
+    "Shake until well chilled",
+    "Strain into a martini glass"
+  ],
+  "tasteProfile": [
+    "Bitter",
+    "Sweet"
+  ],
+  "garnish": "Coffee beans",
+  "alcoholContent": 0.24,
+  "additionalCharacteristics": {
+    "glassType": "Martini glass",
+    "cocktailColor": "Dark",
+    "shakeOrStir": "Shake",
+    "cocktailType": "Modern classics",
+    "servingTemperature": "Cold"
+  }
+}

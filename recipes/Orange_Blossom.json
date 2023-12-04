@@ -1,0 +1,38 @@
+{
+  "cocktail": "Orange Blossom",
+  "ingredients": [
+    {
+      "name": "Gin",
+      "quantity": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Orange Juice",
+      "quantity": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Simple Syrup",
+      "quantity": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.3,
+  "steps": [
+    "Fill a cocktail shaker with ice",
+    "Add gin, orange juice and simple syrup",
+    "Shake until well chilled",
+    "Strain into a chilled coupe glass"
+  ],
+  "taste_profile": ["Sweet", "Citrus"],
+  "garnishes": "Orange Wheel",
+  "alcohol_content": 0.2,
+  "color": "Orange",
+  "glass_type": "Coupe",
+  "serveMethod": "Strain",
+  "additional_tools": ["Cocktail shaker", "Strainer"]
+}

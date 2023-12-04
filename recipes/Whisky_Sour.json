@@ -1,0 +1,39 @@
+{
+  "name": "Whisk(e)y Sour",
+  "ingredients": [
+    {
+      "name": "Bourbon whiskey",
+      "volume": 2.0,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon juice",
+      "volume": 1.0,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Simple syrup",
+      "volume": 0.75,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.3,
+  "instructions": [
+    "Fill shaker with ice cubes.",
+    "Add all ingredients.",
+    "Shake and strain into a rocks glass.",
+    "Garnish with cherry and orange slice."
+  ],
+  "tasteProfile": ["Sweet", "Sour"],
+  "garnishes": "Cherry and orange slice",
+  "alcoholContent": 0.40,
+  "glassType": "Rocks glass",
+  "shakenOrStirred": "Shaken",
+  "servingTemperature": "Cold",
+  "IBAOfficial": true,
+  "flavorNotes": ["citrus", "sweet", "woodsey-bourbon"]
+}

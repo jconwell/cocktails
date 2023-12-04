@@ -1,0 +1,45 @@
+{
+  "cocktailName": "20th Century",
+  "ingredients": [
+    {
+      "ingredientName": "Gin",
+      "volume": 1.5,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Lemon Juice",
+      "volume": 0.75,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Creme De Cacao",
+      "volume": 0.75,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Lillet Blanc",
+      "volume": 0.75,
+      "unit": "ounce",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.4,
+  "instructions": [
+    "Combine the gin, lemon juice, creme de cacao, and Lillet Blanc in a cocktail shaker.",
+    "Fill the shaker with ice and shake until well chilled.",
+    "Strain the contents of the shaker into a chilled cocktail glass."
+  ],
+  "tasteProfile": [
+    "Sour",
+    "Sweet",
+    "Fruity"
+  ],
+  "garnish": "Lemon twist",
+  "alcoholContent": 0.24,
+  "color": "Pale Yellow",
+  "glassType": "Cocktail Glass"
+}

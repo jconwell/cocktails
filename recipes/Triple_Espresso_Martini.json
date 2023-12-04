@@ -1,0 +1,40 @@
+{
+  "name": "Triple Espresso Martini",
+  "ingredients": [
+    {
+      "name": "Vodka",
+      "volume": 2.0,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Coffee Liqueur",
+      "volume": 1.0,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Espresso",
+      "volume": 1.0,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.4,
+  "instructions": [
+   "Add all ingredients into a shaker with ice.",
+   "Shake well for 10-15 seconds.",
+   "Strain into a chilled martini glass."
+  ],
+  "tasteProfile": [
+    "Strong",
+    "Bitter",
+    "Sweet"
+  ],
+  "garnish": "Coffee beans",
+  "alcoholContent": 0.25,
+  "bestSeasonToDrink": "All Seasons",
+  "idealGlassware": "Martini Glass",
+  "color": "Dark Brown"
+}

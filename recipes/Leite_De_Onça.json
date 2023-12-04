@@ -1,0 +1,42 @@
+{
+  "cocktailName": "Leite De Onça",
+  "ingredients": [
+    {
+      "ingredientName": "Cachaça",
+      "quantity": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Condensed Milk",
+      "quantity": 1,
+      "unit": "ounces",
+      "isLiquid": false
+    },
+    {
+      "ingredientName": "Cocoa Liqueur",
+      "quantity": 0.5,
+      "unit": "ounces", 
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.3,
+  "difficulty": 0.1,
+  "instructions": [
+    "Pour cachaça into a shaker.",
+    "Add condensed milk and cocoa liqueur.",
+    "Shake well until mixed properly.",
+    "Pour into a glass and serve."
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Strong",
+    "Creamy"
+  ],
+  "garnish": "Cocoa Powder Top",
+  "alcoholContent": 0.22,
+  "glassType": "Old-fashioned glass",
+  "shakenOrStirred": "Shaken",
+  "served": "On the rocks",
+  "flaming": false
+}

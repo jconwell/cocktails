@@ -1,0 +1,39 @@
+{
+  "cocktail_name": "Diki-diki",
+  "ingredients": [
+    {
+      "ingredient_name": "Apple Brandy",
+      "ingredient_volume": 1,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Grapefruit Juice",
+      "ingredient_volume": 1,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Swedish Punsch",
+      "ingredient_volume": 1,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    }
+  ],
+  "popularity_score": 0.5,
+  "difficulty_score": 0.4,
+  "instructions": [
+    "Shake all ingredients with ice and strain into a cocktail glass."
+  ],
+  "taste_profile": ["Citrus", "Fruity", "Sweet"],
+  "garnish": "None",
+  "alcohol_content": 0.27,
+  "serving_glass": "Cocktail glass",
+  "prep_time": 5,
+  "type_of_cocktail": "Classic",
+  "origin_country": "Sweden",
+  "flavor_intensity": 0.7,
+  "sweetness_level": 0.6,
+  "bitterness_level": 0.2,
+  "sourness_level": 0.5
+}

@@ -1,0 +1,33 @@
+{
+  "cocktail_name": "Snowshoe",
+  "ingredients": [
+    {
+      "ingredient_name": "Wild Turkey Bourbon Whiskey",
+      "volume": 2,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Peppermint schnapps",
+      "volume": 1,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    }
+  ],
+  "popularity": 0.45,
+  "difficulty": 0.2, 
+  "instructions": [
+    "Fill a mixing glass with ice cubes.",
+    "Add both Wild Turkey Bourbon Whiskey and peppermint schnapps.",
+    "Stir well.",
+    "Strain into a chilled cocktail glass."
+  ],
+  "taste_profile": ["sweet", "minty", "strong"],
+  "garnish": "Mint leaf",
+  "alcohol_content": 0.37,
+  "cocktail_type": "After Dinner",
+  "glass_type": "Cocktail glass",
+  "occasions": ["Winter season", "After dinner"],
+  "color": "Golden",
+  "texture": "Smooth"
+}

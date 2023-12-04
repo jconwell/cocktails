@@ -1,0 +1,42 @@
+{
+  "cocktailName": "Bishop",
+  "ingredients": [
+    {
+      "ingredientName": "Rum",
+      "volume": 2.0,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Red Wine",
+      "volume": 1.0,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Lemon Juice",
+      "volume": 0.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Simple Syrup",
+      "volume": 0.5,
+      "unit": "oz",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.3,
+  "instructions": [
+    "In a shaker, combine all ingredients with ice.",
+    "Shake well for about 15 seconds until combined and chilled.",
+    "Strain into a glass filled with ice.",
+    "Garnish with a lemon slice and serve immediately."
+  ],
+  "tasteProfile": ["Sweet", "Sour", "Strong"],
+  "garnish": "Lemon Slice",
+  "alcoholContent": 0.22,
+  "glassType": "Cocktail Glass",
+  "IceNeeded": true
+}

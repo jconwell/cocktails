@@ -1,0 +1,53 @@
+{
+  "cocktailName": "Nevada",
+  "ingredients": [
+    {
+      "name": "Grapefruit Juice",
+      "volume": 1.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Gold Rum",
+      "volume": 2.0,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lime Juice",
+      "volume": 0.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Sugar Syrup",
+      "volume": 0.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Angostura Bitters",
+      "volume": 0.1,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "cocktailPopularity": 0.6,
+  "cocktailDifficulty": 0.4,
+  "instructions": [
+    "Pour all ingredients into a shaker with ice cubes",
+    "Shake well",
+    "Fine strain into a chilled cocktail glass"
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Sour",
+    "Bitter"
+  ],
+  "garnishes": "Lime peel",
+  "alcoholContent": 0.10,
+  "glassType": "Cocktail Glass",
+  "cocktailStyle": "Short drink",
+  "mixMethod": "Shaken",
+  "serveMethod": "Neat"
+}

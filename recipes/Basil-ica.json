@@ -1,0 +1,48 @@
+{
+  "cocktailName": "Basil-ica",
+  "ingredients": [
+    {
+      "ingredientName": "Gin",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Fresh Lime Juice",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Simple Syrup",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Basil Leaves",
+      "volume": 6,
+      "unit": "counts",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.3,
+  "instructions": [
+    "Muddle the fresh basil leaves in a shaker.",
+    "Add the gin, fresh lime juice and simple syrup into the shaker.",
+    "Fill the shaker with ice and shake until well-chilled.",
+    "Strain it into a glass.",
+    "Add garnish."
+  ],
+  "tasteProfile": [
+    "herbaceous",
+    "citrus",
+    "sweet"
+  ],
+  "garnish": "basil sprig",
+  "alcoholContent": 0.24,
+  "drinkingTime": "evening",
+  "mixMethod": "shake",
+  "glassType": "coupe"
+}

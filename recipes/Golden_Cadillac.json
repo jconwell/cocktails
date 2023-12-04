@@ -1,0 +1,41 @@
+{
+  "name": "Golden Cadillac",
+  "ingredients": [
+    {
+      "name": "Galliano",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Creme de Cacao White",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Cream",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.45,
+  "difficulty": 0.25,
+  "instructions": [
+    "Pour the Galliano, creme de cacao and cream into a cocktail shaker filled with ice.",
+    "Shake well.",
+    "Strain into a chilled cocktail glass."
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Creamy"
+  ],
+  "garnish": "None",
+  "alcoholContent": 0.33,
+  "glassType": "Cocktail glass",
+  "isRefreshing": false,
+  "isSeasonal": false,
+  "classicCocktail": false,
+  "mainAlcohol": "Galliano"
+}

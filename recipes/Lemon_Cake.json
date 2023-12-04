@@ -1,0 +1,55 @@
+{
+  "name": "Lemon Cake",
+  "ingredients": [
+    {
+      "name": "Vodka",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon Juice",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Simple Syrup",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Triple Sec",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon Zest",
+      "volume": 1,
+      "unit": "garnish",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.4,
+  "steps": [
+    "Chill a martini glass",
+    "Fill a shaker with ice",
+    "Add the vodka, lemon juice, simple syrup and Triple Sec to the shaker",
+    "Shake well and strain it into the chilled martini glass",
+    "Garnish with lemon zest"
+  ],
+  "tasteProfile": [
+    "sweet",
+    "sour"
+  ],
+  "garnish": "Lemon Zest",
+  "alcoholContent": 0.24,
+  "prepTime": 5.0,
+  "servingSize": 1,
+  "glassType": "Martini Glass",
+  "occasion": ["Party", "Cocktail Hours"],
+  "origin": "America"
+}

@@ -1,0 +1,39 @@
+
+{
+    "name": "Root Beer Float",
+    "ingredients": 
+    [
+        {
+            "ingredient_name": "Root Beer",
+            "volume": 10,
+            "unit": "ounces",
+            "is_liquid": true
+        },
+        {
+            "ingredient_name": "Vanilla Ice Cream",
+            "volume": 2,
+            "unit": "scoops",
+            "is_liquid": false
+        }
+    ],
+    "popularity": 0.6,
+    "difficulty": 0.1,
+    "instructions": 
+    [
+        "Pour the root beer into a tall glass",
+        "Add two scoops of vanilla ice cream",
+        "Serve with a straw and a long spoon"
+    ],
+    "taste_profile": 
+    [
+        "creamy", 
+        "sweet", 
+        "carbonated"
+    ],
+    "garnish": "None",
+    "alcohol_content": 0,
+    "drinkware": "Highball glass",
+    "method": "Build",
+    "muddle": false,
+    "shake": false
+}

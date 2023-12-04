@@ -1,0 +1,35 @@
+{
+  "cocktailName": "Godmother",
+  "ingredients": [
+    {
+      "ingredientName": "Vodka",
+      "ingredientVolume": 1.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Amaretto",
+      "ingredientVolume": 1.0,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.5,
+  "difficulty": 0.3,
+  "instructions": [
+    "Fill a mixing glass with ice cubes",
+    "Add all ingredients",
+    "Stir and strain into a chilled cocktail glass"
+  ],
+  "tasteProfile": [
+    "sweet",
+    "strong",
+    "nutty"
+  ],
+  "garnish": "None",
+  "alcoholContent": 0.37,
+  "lightingRequired": false,
+  "suggestedGlass": "Cocktail glass",
+  "color": "amber",
+  "served": "straight up"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Tamagozake",
+  "ingredients": [
+    {
+      "name": "Sake",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Egg",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    },
+    {
+      "name": "Honey",
+      "volume": 1,
+      "unit": "tablespoon",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.3,
+  "difficulty": 0.2,
+  "garnish": "None",
+  "alcohol_content": 0.16,
+  "instructions": [
+    "Beat the egg in a saucepan.",
+    "Add honey and mix well.",
+    "Pour sake in the pan, heat over low flame. Stir the mixture while heating.",
+    "Stop the flame before the mixture begins to boil, and dissolve the honey completely.",
+    "Let the tamagozake cool for a little while, then it's ready to drink."
+  ],
+  "tasteProfile": [
+    "Sweet", 
+    "Mild"
+  ],
+  "appearance": {
+    "color": "Yellow",
+    "opaqueness": "Opaque"
+  },
+  "glassType": "Cup",
+  "occasion": [
+    "Evening",
+    "Night",
+    "Relaxation"
+  ]
+}

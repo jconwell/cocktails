@@ -1,0 +1,40 @@
+{
+  "name": "Hairy Navel",
+  "ingredients": [
+    {
+      "ingredient_name": "Vodka", 
+      "volume": 1.5,
+      "unit_of_measure": "oz",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Peach schnapps",
+      "volume": 1.5,
+      "unit_of_measure": "oz",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Orange juice",
+      "volume": 5.0,
+      "unit_of_measure": "oz",
+      "is_liquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.1,
+  "instructions": [
+    "Fill a highball glass with ice cubes.",
+    "Pour vodka and peach schnapps into the glass.",
+    "Fill up with orange juice.",
+    "Stir the mix with a spoon.",
+    "Garnish with an orange slice."
+  ],
+  "taste_profile": ["Sweet", "Fruity"],
+  "garnish": "Orange slice",
+  "alcohol_content": 0.14,
+  "glass_type": "Highball glass",
+  "is_shaken": false,
+  "is_stirred": true,
+  "base_liquor": "Vodka",
+  "served": "On the rocks; poured over ice"
+}

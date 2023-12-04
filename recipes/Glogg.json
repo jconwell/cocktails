@@ -1,0 +1,65 @@
+{
+  "cocktailName": "Glogg",
+  "ingredients": [
+    {
+      "name": "Port Wine",
+      "volume": 10,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Brandy",
+      "volume": 15,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Sugar",
+      "volume": 10,
+      "unitOfMeasure": "ounces",
+      "isLiquid": false
+    },
+    {
+      "name": "Cloves",
+      "volume": 10,
+      "unitOfMeasure": "count",
+      "isLiquid": false
+    },
+    {
+      "name": "Cinnamon",
+      "volume": 3,
+      "unitOfMeasure": "count",
+      "isLiquid": false
+    },
+    {
+      "name": "Cardamom pods",
+      "volume": 10,
+      "unitOfMeasure": "count",
+      "isLiquid": false
+    },
+    {
+      "name": "Raisins",
+      "volume": 3,
+      "unitOfMeasure": "ounce",
+      "isLiquid": false
+    },
+    {
+      "name": "Almonds",
+      "volume": 3,
+      "unitOfMeasure": "ounce",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.75,
+  "difficulty": 0.65,
+  "instructions": [
+    "In a large pot mix all the ingredients and let it simmer for 30 minutes.", 
+    "Strain the mixture and serve hot."
+  ],
+  "tasteProfile": ["sweet", "spicy", "fruity"],
+  "garnish": "Orange peel and cinnamon sticks",
+  "alcoholContent": 15.0,
+  "flavourIntensity": 3,
+  "aromaProfile": ["spicy", "fruity"],
+  "occasions": ["winter", "holiday"]
+}

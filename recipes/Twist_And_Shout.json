@@ -1,0 +1,45 @@
+{
+    "name": "Twist And Shout",
+    "ingredients": [
+        {
+            "ingredientName": "Vodka",
+            "volume": 1.5,
+            "unit": "ounces",
+            "isLiquid": true
+        },
+        {
+            "ingredientName": "Blue Curaçao",
+            "volume": 0.75,
+            "unit": "ounces",
+            "isLiquid": true
+        },
+        {
+            "ingredientName": "Lime Juice",
+            "volume": 0.5,
+            "unit": "ounces",
+            "isLiquid": true
+        },
+        {
+            "ingredientName": "Pineapple Juice",
+            "volume": 2,
+            "unit": "ounces",
+            "isLiquid": true
+        }
+    ],
+    "popularity": 0.6,
+    "difficulty": 0.2,
+    "instructions": [
+        "Fill a shaker with ice cubes.",
+        "Add all the ingredients.",
+        "Shake and strain into a chilled highball glass filled with ice cubes."
+    ],
+    "tasteProfile": [
+        "Sweet",
+        "Sour"
+    ],
+    "garnish": "Pineapple Wedge and Cherry",
+    "alcoholContent": 0.10,
+    "color": "Blue",
+    "temperature": "Cold",
+    "glassType": "Highball glass"
+}

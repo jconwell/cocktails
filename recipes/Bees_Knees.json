@@ -1,0 +1,45 @@
+{
+  "cocktailName": "Bee's Knees",
+  "ingredients": [
+    {
+      "name": "Gin",
+      "volume": 2,
+      "unitOfMeasurement": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Fresh lemon juice",
+      "volume": 0.75,
+      "unitOfMeasurement": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Honey syrup",
+      "volume": 0.5,
+      "unitOfMeasurement": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.2,
+  "instructions": [
+    "Combine gin, lemon juice, and honey syrup in a cocktail shaker.",
+    "Fill shaker with ice and shake until well chilled.",
+    "Strain cocktail through a Hawthorne strainer or a slotted spoon into a chilled coupe glass."
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Citrus",
+    "Floral"
+  ],
+  "garnish": "Lemon twist",
+  "alcoholContent": 0.22,
+  "category": "Classic",
+  "origin": "Prohibition era",
+  "glassType": "Coupe Glass",
+  "idealServingTemperature": "Cold",
+  "idealConsumptionTime": "Evening",
+  "color": "Yellow",
+  "texture": "Smooth",
+  "aroma": "Citrus"
+}

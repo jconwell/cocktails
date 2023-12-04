@@ -1,0 +1,51 @@
+{
+  "cocktail_name": "Queens",
+  "ingredients": [
+    {
+      "ingredient_name": "Gin",
+      "volume": 1.5,
+      "unit_of_measure": " ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Dry vermouth",
+      "volume": 1.5,
+      "unit_of_measure": " ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Pineapple juice",
+      "volume": 1,
+      "unit_of_measure": " ounces",
+      "is_liquid": true
+    }
+  ],
+  "popularity_score": 0.6,
+  "difficulty_score": 0.4,
+  "instructions": [
+    "Shake well with cracked ice",
+    "Strain into a chilled cocktail glass"
+  ],
+  "flavor_profiles": [
+    "fruity",
+    "strong",
+    "tangy"
+  ],
+  "garnish": "Pineapple slice",
+  "alcohol_content": 0.22,
+  "serve_in": "Cocktail Glass",
+  "shake_stir": "Shake",
+  "served": "Cold",
+  "made_in": "Cocktail Shaker",
+  "origin_country": "United States",
+  "related_cocktails": ["Martini", "Negroni"],
+  "cocktail_type": "Alcoholic",
+  "serve_time": "Anytime",
+  "taste_intensity": 0.75,
+  "sweetness": 0.4,
+  "bitterness": 0.2,
+  "sourness": 0.1,
+  "saltiness": 0,
+  "occasion": ["Party", "Hangout", "Casual"],
+  "mood": ["Celebratory", "Relaxed"]
+}

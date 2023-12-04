@@ -1,0 +1,33 @@
+{
+  "name": "Whiskey And Coke",
+  "ingredients": [
+    {
+      "name": "Whiskey",
+      "volume": 2,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Coke",
+      "volume": 4,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    }
+  ],
+  "popularity": 0.9,
+  "difficulty": 0.2,
+  "instructions": [
+    "Pour the whiskey into a highball glass.",
+    "Fill the glass with ice cubes.",
+    "Top with coke.",
+    "Stir gently."
+  ],
+  "taste_profile": [
+    "sweet", "bitter"
+  ],
+  "garnish": "Lemon twist",
+  "alcohol_content": 0.4,
+  "color": "brown",
+  "glassware": "highball glass",
+  "served": "On the rocks"
+}

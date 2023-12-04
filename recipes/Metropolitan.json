@@ -1,0 +1,49 @@
+{
+  "cocktailName": "Metropolitan",
+  "ingredients": [
+    {
+      "ingredientName": "Bourbon",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Sweet vermouth",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Simple Syrup",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Angostura Bitters",
+      "volume": 2,
+      "unit": "dashes",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.4,
+  "instructions": [
+    "Combine bourbon, vermouth, simple syrup, and bitters in a mix glass filled with ice.",
+    "Stir until well chilled.",
+    "Strain into a chilled coupe glass."
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Strong",
+    "Smooth"
+  ],
+  "garnish": "Cherry",
+  "alcoholContent": 35.0,
+  "cocktailType": "Classic",
+  "colour": "Amber",
+  "texture": "Smooth",
+  "served": "Without ice",
+  "glassType": "Coupe",
+  "timeToMake": 5
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Biltmore",
+  "popularity": 0.5,
+  "difficulty": 0.4,
+  "ingredients": [
+    {
+      "ingredient_name": "Bourbon",
+      "volume": 2.0,
+      "unit": "ounces",
+      "liquid": true
+    },
+    {
+      "ingredient_name": "Sherry",
+      "volume": 1.0,
+      "unit": "ounces",
+      "liquid": true
+    },
+    {
+      "ingredient_name": "Pineapple juice",
+      "volume": 1.0,
+      "unit": "ounces",
+      "liquid": true
+    },
+    {
+      "ingredient_name": "Lime juice",
+      "volume": 0.5,
+      "unit": "ounces",
+      "liquid": true
+    }
+  ],
+  "instructions": [
+    "Shake all ingredients with ice",
+    "Strain into a cocktail glass"
+  ],
+  "taste_profile": ["Sweet", "Acidic"],
+  "garnish": "Cherry",
+  "alcohol_content": 0.2,
+  "color": "Golden",
+  "serving_glass": "Cocktail glass",
+  "preparation_time": 5.0
+}

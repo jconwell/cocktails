@@ -1,0 +1,47 @@
+{
+  "name": "Dirty Martini",
+  "ingredients": [
+    {
+      "name": "Vodka",
+      "volume": 2.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Olive Brine",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Dry Vermouth",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Olive",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.4,
+  "instruction": [
+    "Pour vodka, olive brine and dry vermouth into a shaker filled with ice.",
+    "Shake well.",
+    "Strain into a chilled martini glass.",
+    "Garnish with an olive."
+  ],
+  "tasteProfile": ["Salty", "Sour", "Strong"],
+  "garnish": "Olive",
+  "alcoholContent": 0.35,
+  "color": "Clear",
+  "glassType": "Martini Glass",
+  "isClassic": true,
+  "isRefreshing": false,
+  "isTropical": false,
+  "originCountry": "USA",
+  "creationYear": 1940
+}

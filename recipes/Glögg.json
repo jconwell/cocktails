@@ -1,0 +1,55 @@
+{
+  "cocktail_name": "Glögg",
+  "ingredients": [
+    {
+      "name": "Red wine",
+      "volume": 1,
+      "unit": "bottle",
+      "is_liquid": true
+    },
+    {
+      "name": "Rum",
+      "volume": 5,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Sugar",
+      "volume": 0.75,
+      "unit": "cups",
+      "is_liquid": false
+    },
+    {
+      "name": "Clove-studded Oranges",
+      "volume": 1,
+      "unit": "count",
+      "is_liquid": false
+    },
+    {
+      "name": "Cinnamon sticks",
+      "volume": 8,
+      "unit": "count",
+      "is_liquid": false
+    },
+    {
+      "name": "Cardamom pods",
+      "volume": 10,
+      "unit": "count",
+      "is_liquid": false
+    }
+  ],
+  "popularity_score": 0.4,
+  "difficulty_score": 0.7,
+  "instructions": [
+    "Combine the wine, sugar, and spices in a large pot.",
+    "Heat gently until hot, but do not let it boil.",
+    "Add the rum and ignite it.",
+    "Allow the flames to burn for 4-5 minutes.",
+    "Serve while hot, sprinkle with freshly ground nutmeg."
+  ],
+  "taste_profile": ["Sweet", "Spiced", "Strong"],
+  "garnishes": "Freshly ground nutmeg",
+  "alcohol_content": 0.15,
+  "classic_cocktail": false,
+  "color": "Red"
+}

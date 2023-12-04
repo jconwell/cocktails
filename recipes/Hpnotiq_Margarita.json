@@ -1,0 +1,43 @@
+{
+  "name": "Hpnotiq Margarita",
+  "ingredients": [
+    {
+      "ingredient_name": "Hpnotiq Liqueur",
+      "quantity": 1,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Tequila",
+      "quantity": 1,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Lime Juice",
+      "quantity": 1,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Pineapple Juice",
+      "quantity": 1,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.2,
+  "instructions": [
+    "In a shaker, combine the Hpnotiq, tequila, lime juice and pineapple juice.",
+    "Shake well.",
+    "Strain the mixture into a margarita glass.",
+    "Serve immediately."
+  ],
+  "taste_profile": ["sweet", "tangy"],
+  "garnish": "Lime Wedge",
+  "alcohol_content": 0.22,
+  "primary_alcohol": "Tequila, Hpnotiq Liqueur",
+  "mixing_method": "Shake and Strain",
+  "glass_type": "Margarita Glass"
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Tequini",
+  "ingredients": [
+    {
+      "name": "Tequila",
+      "volume": 2,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Dry Vermouth",
+      "volume": 1,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Lemon Twist",
+      "volume": 1,
+      "unit_of_measure": "spritz",
+      "is_liquid": false
+    }
+  ],
+  "popularity": 0.4,
+  "difficulty": 0.3,
+  "instructions": [
+    "In a mixing glass filled with ice, combine tequila and vermouth.",
+    "Stir well.",
+    "Strain into a chilled cocktail glass.",
+    "Garnish with a twist of lemon."
+  ],
+  "taste_profile": ["Citrus", "Savory", "Slightly Sweet"],
+  "garnish": "Lemon Twist",
+  "alcohol_content": 0.37,
+  "glassware": "Cocktail Glass",
+  "served": "Straight Up Without Ice",
+  "IBA_official": false,
+  "imagery": "Resembles classic Manhattan but with a tequila hint"
+}

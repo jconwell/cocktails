@@ -1,0 +1,53 @@
+{
+"name": "Hot Buttered Rum",
+"ingredients": [
+    {
+        "name": "Dark rum",
+        "volume": 2.0,
+        "unit": "ounces",
+        "is_liquid": true
+    },
+    {
+        "name": "Unsalted butter",
+        "volume": 1,
+        "unit": "tablespoon",
+        "is_liquid": false
+    },
+    {
+        "name": "Brown sugar",
+        "volume": 1,
+        "unit": "tablespoon",
+        "is_liquid": false
+    },
+    {
+        "name": "Cinnamon stick",
+        "volume": 1,
+        "unit": "piece",
+        "is_liquid": false
+    },
+    {
+        "name": "Hot water",
+        "volume": 4.0,
+        "unit": "ounces",
+        "is_liquid": true
+    }
+],
+"popularity": 0.7,
+"difficulty": 0.3,
+"instructions": [
+    "In a small saucepan, combine the butter, sugar, and cinnamon stick over medium heat.",
+    "Once the butter has melted and the sugar has dissolved, add the dark rum.",
+    "Continue to stir the mixture until it is well combined.",
+    "Remove the cinnamon stick and pour the mixture into a heat-proof glass or mug.",
+    "Top off with hot water, stirring until the mixture is smooth."
+],
+"taste_profile": ["Sweet", "Warming", "Spicy"],
+"garnishes": "Cinnamon stick, Nutmeg",
+"alcohol_content": 0.25,
+"pairings": ["Cold weather", "Dessert"],
+"presentation": "Mug",
+"ideal_serving_temperature": "Hot",
+"base_spirit": "Rum",
+"prep_time": 5.0,
+"glass_type": "Mug"
+}

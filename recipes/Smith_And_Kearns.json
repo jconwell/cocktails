@@ -1,0 +1,36 @@
+{
+  "name": "Smith And Kearns",
+  "ingredients": [
+    {
+      "name": "cream",
+      "volume": 1,
+      "unit": "ounce",
+      "is_liquid": true
+    },
+    {
+      "name": "Kahlua",
+      "volume": 1,
+      "unit": "ounce",
+      "is_liquid": true
+    },
+    {
+      "name": "soda water",
+      "volume": 2,
+      "unit": "ounce",
+      "is_liquid": true
+    }
+  ],
+  "popularity": 0.5,
+  "difficulty": 0.3,
+  "instructions": [
+    "Pour all ingredients into shaker filled with ice.",
+    "Shake well.",
+    "Strain into a chilled cocktail glass."
+  ],
+  "taste_profile": ["sweet", "creamy"],
+  "garnish": "none",
+  "alcohol_content": 0.14,
+  "colour": "dark brown",
+  "texture": "smooth",
+  "serve_in": "cocktail glass"
+}

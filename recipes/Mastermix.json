@@ -1,0 +1,50 @@
+{
+  "cocktailName": "Mastermix",
+  "ingredients": [
+    {
+      "name": "Vodka",
+      "volume": 1.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Orange Juice",
+      "volume": 2,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Cranberry Juice",
+      "volume": 1,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Pineapple Slice",
+      "volume": 1,
+      "unit": "slice",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.68,
+  "difficulty": 0.2,
+  "instructions": [
+    "Add ice to the glass.",
+    "Pour vodka over the ice.",
+    "Add orange juice followed by cranberry juice.",
+    "Stir the mix.",
+    "Garnish with a pineapple slice."
+  ],
+  "tasteProfile": [
+    "fruity",
+    "sweet",
+    "refreshing"
+  ],
+  "garnish": "Pineapple Slice",
+  "alcoholContent": 0.14,
+  "flavourIntensity": 0.7,
+  "sweetness": 0.8,
+  "sourness": 0.1,
+  "bitterness": 0.05,
+  "drinkware": "Highball Glass"
+}

@@ -1,0 +1,56 @@
+{
+    "CocktailName": "Corpse Reviver No.2",
+    "Ingredients": [
+        {
+            "Name": "Lemon Juice",
+            "Volume": 0.75,
+            "Unit": "oz",
+            "IsLiquid": true
+        },
+        {
+            "Name": "Lillet Blanc",
+            "Volume": 0.75,
+            "Unit": "oz",
+            "IsLiquid": true
+        },
+        {
+            "Name": "Cointreau",
+            "Volume": 0.75,
+            "Unit": "oz",
+            "IsLiquid": true
+        },
+        {
+            "Name": "Gin",
+            "Volume": 0.75,
+            "Unit": "oz",
+            "IsLiquid": true
+        },
+        {
+            "Name": "Absinthe",
+            "Volume": 1,
+            "Unit": "dash",
+            "IsLiquid": true
+        }
+    ],
+    "Popularity": 0.6,
+    "Difficulty": 0.7,
+    "Instructions": [
+        "Add all the ingredients into a shaker with ice and shake.",
+        "Strain into a chilled cocktail glass.",
+        "Garnish with a cherry."
+    ],
+    "TasteProfile": [
+        "Citrus",
+        "Strong",
+        "Creamy"
+    ],
+    "Garnishes": "Cherry",
+    "AlcoholContent": 0.26,
+    "Flavor": "Strong",
+    "PairsWith": [
+        "Seafood",
+        "Spicy foods"
+    ],
+    "Type": "Classic",
+    "ServingTemperature": "Cold"
+}

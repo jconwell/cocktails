@@ -1,0 +1,32 @@
+{
+  "name": "Red Russian",
+  "ingredients": [
+    {
+      "ingredient_name": "Vodka",
+      "volume": 1.5,
+      "unit": "oz",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Cherry Brandy",
+      "volume": 1,
+      "unit": "oz",
+      "is_liquid": true
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.3,
+  "instructions": [
+    "Pour vodka into a glass over ice cubes",
+    "Add cherry brandy",
+    "Stir well"
+  ],
+  "taste_profile": ["Sweet", "Fruity", "Slight bitterness"],
+  "garnishes": "Cherry on top",
+  "alcohol_content": 40.0,
+  "color": "Red",
+  "serving_glass": "Old-fashioned glass",
+  "cocktail_type": "Short drink",
+  "flavor_intensity": 0.6,
+  "aroma": ["Cherry", "Slight alcohol"]
+}

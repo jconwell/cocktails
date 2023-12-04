@@ -1,0 +1,52 @@
+{
+  "name": "Floating On Cloud 9",
+  "ingredients": [ 
+    {
+      "ingredient_name": "Vodka",
+      "quantity": 1.5,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Blue Curacao",
+      "quantity": 1,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Pineapple Juice",
+      "quantity": 3,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Cream of Coconut",
+      "quantity": 1,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Ice Cubes",
+      "quantity": 1,
+      "unit": "cup",
+      "is_liquid": false
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.4,
+  "instructions": [
+    "In a blender, combine vodka, blue curacao, pineapple juice, cream of coconut, and ice",
+    "Blend until smooth",
+    "Pour mixture into a chilled glass"
+  ],
+  "taste_profile": [
+    "Sweet",
+    "Creamy",
+    "Fruity"
+  ],
+  "garnishes": "Pineapple slice and cherry",
+  "alcohol_content": 0.11,
+  "glass_type": "Hurricane Glass",
+  "shake_or_stir": "Blender",
+  "serve": "Chilled"
+}

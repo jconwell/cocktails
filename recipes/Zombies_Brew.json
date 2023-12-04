@@ -1,0 +1,58 @@
+{
+  "cocktailName": "Zombie's Brew",
+  "ingredients": [
+    {
+      "name": "spiced rum",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "dark rum",
+      "volume": 1.0,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "lime juice",
+      "volume": 0.75,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "pineapple juice",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "grenadine",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularityScore": 0.7,
+  "difficultyScore": 0.4,
+  "method": [
+    "Pour all the ingredients into a shaker with ice.",
+    "Shake well.",
+    "Strain into a highball glass filled with ice."
+  ],
+  "tasteProfile": [
+    "sweet",
+    "sour",
+    "fruity"
+  ],
+  "garnish": "cherry and pineapple slice",
+  "alcoholContent": 0.2,
+  "color": "red",
+  "texture": "smooth",
+  "idealServingTemperature": "cold",
+  "glassType": "highball",
+  "origin": "USA",
+  "eraOfCreation": "1930s",
+  "primaryAlcohol": "rum",
+  "IBAOfficial": false,
+  "flavorIntensity": 0.75
+}

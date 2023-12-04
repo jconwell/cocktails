@@ -1,0 +1,45 @@
+{
+   "name":"Lychee Martini",
+   "ingredients":[
+      { 
+         "ingredient_name":"Vodka",
+         "volume":2,
+         "unit_of_measure":"oz",
+         "is_liquid":true
+      }, 
+      { 
+         "ingredient_name":"Lychee Juice",
+         "volume":1,
+         "unit_of_measure":"oz",
+         "is_liquid":true
+      },
+      {
+         "ingredient_name":"Verouth",
+         "volume":0.5,
+         "unit_of_measure":"oz",
+         "is_liquid":true
+      },
+      {
+         "ingredient_name":"Lychee, to garnish",
+         "volume":1,
+         "unit_of_measure":"count",
+         "is_liquid":false
+      }
+   ],
+   "popularity_rating":0.7,
+   "difficulty_rating":0.3,
+   "instructions":[
+      "Fill a mixer with all ingredients",
+      "Cover and shake hard",
+      "Strain into a chilled martini glass",
+      "Garnish with a lychee",
+      "Serve and enjoy"
+   ],
+   "taste_profile":[
+      "Sweet",
+      "Fruity",
+      "Refreshing"
+   ],
+   "garnish":"Lychee",
+   "alcohol_content":0.25
+}

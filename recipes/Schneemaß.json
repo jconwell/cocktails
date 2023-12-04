@@ -1,0 +1,39 @@
+{
+  "name": "Schneemaß",
+  "ingredients": [
+      {
+        "name": "Wheat Beer",
+        "volume": 16.9,
+        "unit": "ounces",
+        "isLiquid": true
+      },
+      {
+        "name": "Lemonade",
+        "volume":16.9,
+        "unit": "ounces",
+        "isLiquid": true
+      },
+      {
+        "name": "Lemon Wedge",
+        "volume": 1,
+        "unit": "count",
+        "isLiquid": false
+      }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.2,
+  "instructions": [
+    "Place the lemon wedge on the rim of the beer mug.",
+    "Pour the wheat beer in the mug until it's half full.",
+    "Fill the rest of the mug with lemonade."
+  ],
+  "tasteProfile": ["Fruity", "Sweet", "Bitter"],
+  "garnish": "Lemon Wedge",
+  "alcoholContent": 0.05,
+  "glassware": "Beer Mug",
+  "occasion": ["Casual", "Outdoor"],
+  "temperature": "Cold",
+  "duration": 5,
+  "color":"Yellow",
+  "origin": "Germany"
+}

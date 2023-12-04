@@ -1,0 +1,25 @@
+{
+  "name": "Vertigo",
+  "ingredients": [
+    {"name": "Vodka", "volume": 1.5, "unit": "ounces", "isLiquid": true},
+    {"name": "Blue Curacao", "volume": 0.75, "unit": "ounces", "isLiquid": true},
+    {"name": "Lime Juice", "volume": 0.5, "unit": "ounces", "isLiquid": true},
+    {"name": "Cranberry Juice", "volume": 1.0, "unit": "ounces", "isLiquid": true}
+  ],
+  "popularity": 0.65,
+  "difficulty": 0.3,
+  "steps": [
+    "Pour the vodka into a highball glass filled with ice cubes.",
+    "Add blue curacao.",
+    "Add lime juice.",
+    "Top with cranberry juice.",
+    "Stir well before serving."
+  ],
+  "tasteProfile": ["Sweet", "Citrus", "Refreshing"],
+  "garnish": "Lime Wheel",
+  "alcoholPercentage": 0.2,
+  "glassType": "Highball glass",
+  "occasion": ["Summer", "Party"],
+  "style": "Classic",
+  "preparationTime": 5
+}

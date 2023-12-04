@@ -1,0 +1,52 @@
+{
+  "cocktailName": "Paloma",
+  "ingredients": [
+    {
+      "name": "Tequila",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Grapefruit Juice",
+      "volume": 3,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lime Juice",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Sugar",
+      "volume": 1,
+      "unit": "teaspoon",
+      "isLiquid": false
+    },
+    {
+      "name": "Club Soda",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.8,
+  "difficulty": 0.3,
+  "steps": [
+    "Rub rim of glass with lime wedge and dip in sugar to coat.",
+    "Combine tequila, grapefruit juice, lime juice and sugar in glass and stir until sugar is dissolved.",
+    "Top off with club soda."
+  ],
+  "tasteProfile": [
+    "Tangy",
+    "Sweet",
+    "Bitter"
+  ],
+  "garnish": "Salt Rim and Lime Wheel",
+  "alcoholContent": 0.14,
+  "glassType": "Tall glass",
+  "served": "On the Rocks",
+  "typeOfDrink": "Cocktail"
+}

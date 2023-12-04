@@ -1,0 +1,54 @@
+{
+  "cocktail": {
+    "name": "Pimm's Cup",
+    "ingredients": [
+      {
+        "ingredient_name": "Pimm's No. 1",
+        "volume": 2,
+        "unit_of_measure": "ounces",
+        "is_liquid": true
+      },
+      {
+        "ingredient_name": "Lemonade",
+        "volume": 4,
+        "unit_of_measure": "ounces",
+        "is_liquid": true
+      },
+      {
+        "ingredient_name": "Mint",
+        "volume": 3,
+        "unit_of_measure": "leaves",
+        "is_liquid": false
+      },
+      {
+        "ingredient_name": "Cucumber",
+        "volume": 2,
+        "unit_of_measure": "slices",
+        "is_liquid": false
+      },
+      {
+        "ingredient_name": "Strawberries",
+        "volume": 2,
+        "unit_of_measure": "slices",
+        "is_liquid": false
+      }
+    ],
+    "popularity_rating": 0.7,
+    "difficulty_rating": 0.2,
+    "instructions": [
+      "Fill a glass with ice",
+      "Pour in Pimm's No. 1",
+      "Top up with lemonade",
+      "Stir gently",
+      "Garnish with a sprig of mint, cucumber slices and strawberry slices"
+    ],
+    "taste_profile": ["Sweet", "Refreshing", "Fruity"],
+    "garnish": "Mint, cucumber, strawberries",
+    "alcohol_content": 0.25,
+    "serving_size": "1 glass",
+    "serving_temperature": "cold",
+    "drink_type": "cocktail",
+    "origin": "England",
+    "occasion_suitable_for": ["Day drinking", "Summer party", "Picnic"]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Creole",
+  "ingredients": [
+    {
+      "name": "Rye Whiskey",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Sweet Vermouth",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Bénédictine D.O.M.",
+      "volume": 1,
+      "unit": "teaspoon",
+      "isLiquid": true
+    },
+    {
+      "name": "Grenadine",
+      "volume": 1,
+      "unit": "teaspoon",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon Twist",
+      "volume": 1,
+      "unit": "piece",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.4,
+  "difficulty": 0.3,
+  "instructions": [
+    "In a mixing glass filled with ice, combine the whiskey, sweet vermouth, Bénédictine, and grenadine.",
+    "Stir well until chilled, about 30 seconds.",
+    "Strain the cocktail into a chilled glass.",
+    "Twist the lemon peel over the drink to extract the oils, then add the twist to the cocktail as garnish."
+  ],
+  "tasteProfile": ["sweet", "bitter", "fruity"],
+  "garnish": "Lemon Twist",
+  "alcoholContent": 0.22,
+  "glassware": "Cocktail Glass",
+  "served": "Neat",
+  "timing": "Any Time",
+  "occasion": ["After Dinner", "Night Cap"],
+  "mood": ["Classic", "Sophisticated"]
+}

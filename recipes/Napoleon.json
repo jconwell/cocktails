@@ -1,0 +1,42 @@
+{
+  "cocktail_name": "Napoleon",
+  "ingredients": [
+    {
+      "name": "Cognac",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Grand Marnier",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Grenadine",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.4,
+  "instructions": [
+    "In a shaker, put all the ingredients",
+    "Shake well with ice",
+    "Strain into a cocktail glass"
+  ],
+  "taste_profile": [
+    "Sweet",
+    "Strong",
+    "Bitter"
+  ],
+  "garnish": "Cherry or Orange slice",
+  "alcohol_content": 0.34,
+  "cocktail_color": "Red",
+  "glass_type": "Cocktail glass",
+  "cocktail_style": "Classic",
+  "ideal_serving_temperature": "Cold",
+  "primary_alcohol": "Cognac"
+}

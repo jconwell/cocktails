@@ -1,0 +1,35 @@
+{
+  "name": "Tinto De Verano",
+  "ingredients": [
+    {
+      "name": "Red Wine",
+      "volume": 4.0,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon Soda or Sprite",
+      "volume": 4.0,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.1,
+  "instructions": [
+    "Fill a wine glass or tumbler with ice",
+    "Add red wine",
+    "Top up with soda",
+    "Stir to mix"
+  ],
+  "tasteProfile": [
+    "Sweet", "Fruity", "Light", "Effervescent"
+  ],
+  "garnish": "Lemon slice",
+  "alcoholContent": 0.12,
+  "glassType": "Wine Glass",
+  "occasions": [
+    "Summer", "Casual", "Party"
+  ],
+  "cocktailType": "Wine"
+}

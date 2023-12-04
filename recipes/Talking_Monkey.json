@@ -1,0 +1,53 @@
+{
+  "CocktailName": "Talking Monkey",
+  "Ingredients": [
+    {
+      "Name": "Coconut Rum",
+      "Volume": 1,
+      "Unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "Name": "Banana Liqueur",
+      "Volume": 1,
+      "Unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "Name": "Grenadine",
+      "Volume": 0.5,
+      "Unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "Name": "Pineapple Juice",
+      "Volume": 2,
+      "Unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "Name": "Banana (Garnish)",
+      "Volume": 1,
+      "Unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "Popularity": 0.65,
+  "Difficulty": 0.2,
+  "Instructions": [
+    "In a shaker, combine the rum and banana liqueur.",
+    "Add the grenadine and pineapple juice.",
+    "Shake well and strain into a cocktail glass.",
+    "Garnish with banana and serve."
+  ],
+  "TasteProfile": [
+    "Sweet",
+    "Tropical",
+    "Fruity"
+  ],
+  "Garnishes": "Banana",
+  "AlcoholContent": 0.25,
+  "ServingSize": 1,
+  "ServingType": "Cocktail Glass",
+  "PreparationTime": 5
+}

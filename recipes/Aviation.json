@@ -1,0 +1,49 @@
+{
+  "name": "Aviation",
+  "ingredients": [
+    {
+      "name": "Gin",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Maraschino Liqueur",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Crème de Violette",
+      "volume": 0.25,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon Juice",
+      "volume": 0.75,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.3,
+  "instructions": [
+    "Add all ingredients into a shaker with ice cubes.",
+    "Shake well.",
+    "Strain into a chilled cocktail glass."
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Acidic",
+    "Floral"
+  ],
+  "garnishes": "Cherry",
+  "alcoholContent": 0.24,
+  "presentation": {
+    "glassType": "Cocktail Glass",
+    "iced": false,
+    "garnishedWith": "Cherries",
+    "color": "Pale Blue"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "cocktailName": "Pearl Harbor",
+  "ingredients": [
+    {
+      "name": "Vodka",
+      "volume": 2,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Pineapple Juice",
+      "volume": 3,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Melon Liquor",
+      "volume": 1,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Pineapple Spear",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    },
+    {
+      "name": "Maraschino Cherry",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.3,
+  "instructions": [
+    "Pour vodka into an ice-filled glass.",
+    "Add pineapple juice.",
+    "Drizzle melon liquor on top; it will sink to bottom.",
+    "Stir gently to create a 'green clouds' effect.",
+    "Garnish with a pineapple spear and a maraschino cherry."
+  ],
+  "tasteProfile": ["Sweet", "Fruity"],
+  "garnishes": "Pineapple spear, Maraschino cherry",
+  "alcoholContent": 0.15,
+  "color": "Green",
+  "servingGlass": "Highball glass",
+  "baseSpirit": "Vodka"
+}

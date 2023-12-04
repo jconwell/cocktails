@@ -1,0 +1,59 @@
+{
+  "cocktailName": "Orange Margarita",
+  "ingredients": [
+    {
+      "name": "Tequila",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true,
+      "alcoholContent": 0.4
+    },
+    {
+      "name": "Orange Liqueur",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true,
+      "alcoholContent": 0.2
+    },
+    {
+      "name": "Fresh Orange Juice",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true,
+      "alcoholContent": 0
+    },
+    {
+      "name": "Lime Juice",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true,
+      "alcoholContent": 0
+    },
+    {
+      "name": "Orange Wheel",
+      "count": 1,
+      "unit": "unit",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.3,
+  "instructions": [
+    "Pour all the liquid ingredients into a cocktail shaker with ice.",
+    "Shake well until chilled.",
+    "Strain the mixture into a margarita glass.",
+    "Garnish with the orange wheel."
+  ],
+  "tasteProfile": [
+    "Citrusy",
+    "Slight Sweetness",
+    "Alcoholic"
+  ],
+  "garnish": "Orange Wheel",
+  "totalAlcoholContent": 0.6,
+  "glassType": "Margarita glass",
+  "cocktailType": "Cocktail",
+  "isShaken": true,
+  "isStirred": false,
+  "hasIce": true
+}

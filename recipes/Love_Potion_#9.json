@@ -1,0 +1,52 @@
+{
+  "name": "Love Potion #9",
+  "ingredients": [
+    {
+      "name": "Vodka",
+      "volume": 1.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Peach Schnapps",
+      "volume": 0.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Cranberry juice",
+      "volume": 2,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Pineapple juice",
+      "volume": 2,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Strawberry",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.2,
+  "instructions": [
+    "In a shaker filled with ice, combine vodka, peach schnapps, cranberry juice and pineapple juice",
+    "Shake well",
+    "Strain into a glass",
+    "Garnish with a strawberry"
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Fruity",
+    "Tangy"
+  ],
+  "garnish": "Strawberry",
+  "alcoholContent": 0.15,
+  "glassType": "Cocktail glass",
+  "iceNeeded": true
+}

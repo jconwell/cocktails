@@ -1,0 +1,42 @@
+{
+    "name": "Thanksgiving Cider",
+    "ingredients": [
+        {
+            "ingredient_name": "Apple Cider",
+            "volume": 5.0,
+            "unit_of_measure": "ounces",
+            "is_liquid": true
+        },
+        {
+            "ingredient_name": "Rye Whiskey",
+            "volume": 2.0,
+            "unit_of_measure": "ounces",
+            "is_liquid": true
+        },
+        {
+            "ingredient_name": "Maple Syrup",
+            "volume": 1.0,
+            "unit_of_measure": "ounces",
+            "is_liquid": true
+        },
+        {
+            "ingredient_name": "Cinnamon Stick",
+            "volume": 1,
+            "unit_of_measure": "count",
+            "is_liquid": false
+        }
+    ],
+    "popularity": 0.7,
+    "difficulty": 0.2,
+    "instructions": [
+        "Combine the cider, whiskey, and maple syrup to a shaker with ice",
+        "Shake until well chilled",
+        "Strain into a glass over ice",
+        "Garnish with a cinnamon stick"
+    ],
+    "taste_profile": ["Sweet", "Spicy", "Apple", "Cinnamon"],
+    "garnish": "Cinnamon Stick",
+    "alcohol_content": 0.2,
+    "glass_type": "Old-fashioned Glass",
+    "drink_type": "Winter cocktail"
+}

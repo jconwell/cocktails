@@ -1,0 +1,45 @@
+{
+  "cocktailName": "Honeymoon",
+  "ingredients": [
+    {
+      "ingredientName": "Apple Brandy",
+      "volume": 2,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Benedictine",
+      "volume": 0.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Orange Curacao",
+      "volume": 0.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Lemon juice",
+      "volume": 0.75,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.4,
+  "instructions": [
+    "Shake all ingredients with ice",
+    "Strain into a cocktail glass"
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Citrus",
+    "Herbal"
+  ],
+  "garnish": "None",
+  "alcoholContent": 0.24,
+  "glassType": "Cocktail glass",
+  "servingTemperature": "Cold",
+  "preparationTime": 5
+}

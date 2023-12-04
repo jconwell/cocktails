@@ -1,0 +1,31 @@
+{
+  "cocktailName": "Prairie Fire",
+  "ingredients": [
+    {
+      "name": "Tequila",
+      "volume": 1.5,
+      "unitOfMeasurement": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Tabasco sauce",
+      "volume": 0.5,
+      "unitOfMeasurement": "ounce",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.3,
+  "difficulty": 0.2,
+  "instructions": [
+    "Pour tequila into a shot glass.",
+    "Top off with tabasco sauce."
+  ],
+  "tasteProfile": ["Spicy", "Sharp"],
+  "garnish": "None",
+  "alcoholContent": 0.4,
+  "color": "Red",
+  "serveType": "Shot",
+  "flame": false,
+  "ice": false,
+  "serveTemperature": "Room Temperature"
+}

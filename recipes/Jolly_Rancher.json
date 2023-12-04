@@ -1,0 +1,40 @@
+{
+  "cocktail": "Jolly Rancher",
+  "ingredients": [
+    {
+      "name": "Green Apple Vodka",
+      "volume": 1,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Peach Schnapps",
+      "volume": 0.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Cranberry Juice",
+      "volume": 4,
+      "unit": "oz",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.2,
+  "instructions": [
+    "Combine ingredients in shaker filled with ice.",
+    "Shake well.",
+    "Strain into a highball glass filled with ice."
+  ],
+  "tasteProfile": [
+    "sweet",
+    "sour"
+  ],
+  "garnish": "Apple Slice",
+  "alcoholContent": 0.15,
+  "aroma": "fruity",
+  "color": "red",
+  "texture": "smooth",
+  "glassType": "highball"
+}

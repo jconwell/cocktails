@@ -1,0 +1,50 @@
+{
+  "name": "Mound Bar",
+  "ingredients": [
+    {
+      "ingredient_name": "Irish cream liqueur",
+      "volume": 1.5,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Amaretto",
+      "volume": 0.5,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Light cream",
+      "volume": 1.5,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Coconut flake",
+      "volume": 1,
+      "unit_of_measure": "tablespoon",
+      "is_liquid": false
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.2,
+  "instructions": [
+    "Mix the Irish cream liqueur, amaretto, and light cream in a shaker with ice.",
+    "Shake well until it's well combined and chilled.",
+    "Strain the cocktail into a rocks glass filled with ice cubes.",
+    "Garnish with a sprinkle of coconut flakes on top."
+  ],
+  "taste_profile": [
+    "sweet",
+    "creamy",
+    "nutty"
+  ],
+  "garnish": "Coconut flake sprinkle on top",
+  "alcohol_content": 0.14,
+  "serving_glass": "Rocks glass",
+  "recommended_time": "Evening",
+  "is_shaken": true,
+  "is_stirred": false,
+  "is_strained": true,
+  "is_built": false
+}

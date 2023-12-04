@@ -1,0 +1,48 @@
+{
+    "cocktail": {
+        "name": "English Rose",
+        "ingredients": [
+            {
+                "name": "Gin",
+                "volume": 1.5,
+                "unit": "ounces",
+                "liquid": true
+            },
+            {
+                "name": "Apricot Brandy",
+                "volume": 1,
+                "unit": "ounces",
+                "liquid": true
+            },
+            {
+                "name": "Lemon Juice",
+                "volume": 0.75,
+                "unit": "ounces",
+                "liquid": true
+            },
+            {
+                "name": "Grenadine",
+                "volume": 0.5,
+                "unit": "ounces",
+                "liquid": true
+            }
+        ],
+        "popularity": 0.6,
+        "difficulty": 0.3,
+        "instructions": [
+            "Pour all the ingredients into a cocktail shaker with ice cubes.",
+            "Shake well.",
+            "Strain into a chilled cocktail glass."
+        ],
+        "tasteProfile": [
+            "Sweet",
+            "Sour",
+            "Fruity"
+        ],
+        "garnishes": "Cherry",
+        "alcoholContent": 25.5,
+        "idealGlass": "Cocktail glass",
+        "color": "Red",
+        "serve": "Straight up; without ice"
+    }
+}

@@ -1,0 +1,37 @@
+{
+  "cocktailName": "Caipirinha",
+  "ingredients": [
+    {
+      "name": "Cachaça",
+      "volume": 2,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Sugar",
+      "volume": 2,
+      "unitOfMeasure": "teaspoon",
+      "isLiquid": false
+    },
+    {
+      "name": "Lime",
+      "volume": 1,
+      "unitOfMeasure": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.3,
+  "instructions": [
+    "In the glass: Muddle the lime and sugar together.",
+    "Add the cachaca into the glass filled with ice.",
+    "Stir to blend the flavours."
+  ],
+  "tasteProfile": ["Sweet","Sour"],
+  "garnish": "Lime wedge",
+  "alcoholContent": 39.0,
+  "cocktailType": "Traditional",
+  "originCountry": "Brazil",
+  "isFrozen": false,
+  "glassType": "Old fashioned"
+}

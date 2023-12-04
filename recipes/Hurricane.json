@@ -1,0 +1,66 @@
+{
+  "name": "Hurricane",
+  "ingredients": [
+    {
+      "ingredient_name": "Light rum",
+      "amount": 2,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Dark rum",
+      "amount": 2,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Passion fruit juice",
+      "amount": 2,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Orange juice",
+      "amount": 1,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Lime juice",
+      "amount": 1,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Simple syrup",
+      "amount": 1,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Grenadine",
+      "amount": 1,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Ice",
+      "amount": 1,
+      "unit": "cup",
+      "is_liquid": false
+    }
+  ],
+  "popularity": 0.75,
+  "difficulty": 0.3,
+  "instructions": [
+    "Shake all ingredients in a cocktail shaker with ice.",
+    "Strain into a Hurricane glass filled with ice.",
+    "Garnish with a cherry and an orange slice."
+  ],
+  "taste_profile": ["Sweet", "Fruity", "Citrus"],
+  "garnish": "Cherry and orange slice",
+  "alcohol_content": 0.20,
+  "color": "Red",
+  "serving": "Single",
+  "glassware": "Hurricane glass"
+}

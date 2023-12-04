@@ -1,0 +1,65 @@
+{
+  "name": "Claret Cup",
+  "ingredients": [
+    {
+      "ingredientName": "Claret",
+      "volume": 12,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Cucumber",
+      "volume": 1,
+      "unit": "slice",
+      "isLiquid": false
+    },
+    {
+      "ingredientName": "Orange",
+      "volume": 1,
+      "unit": "slice",
+      "isLiquid": false
+    },
+    {
+      "ingredientName": "Lemon",
+      "volume": 1,
+      "unit": "slice",
+      "isLiquid": false
+    },
+    {
+      "ingredientName": "Sugar",
+      "volume": 2,
+      "unit": "spoons",
+      "isLiquid": false
+    },
+    {
+      "ingredientName": "Brandy",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Soda Water",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.3,
+  "instructions": [
+      "Mix Claret, sugar and brandy in a glass.",
+      "Add slices of cucumber, orange and lemon.",
+      "Top with soda water and stir gently."
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Sour",
+    "Fruity",
+    "Light"
+  ],
+  "garnish": "Lemon peel",
+  "alcoholContent": 0.12,
+  "cocktailType": "wine-based",
+  "origin": "England",
+  "glassware": "Pitcher"
+}

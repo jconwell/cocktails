@@ -1,0 +1,35 @@
+{
+  "cocktail_name": "Greyhound",
+  "ingredients": [
+    {
+      "ingredient_name": "Vodka",
+      "volume": 1.5,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Grapefruit juice",
+      "volume": 5,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.2,
+  "instructions": [
+    "Pour the vodka into a highball glass filled with ice cubes.",
+    "Top with grapefruit juice.",
+    "Stir well."
+  ],
+  "taste_profile": [
+    "Bitter",
+    "Tart"
+  ],
+  "garnish": "Lime slice",
+  "alcohol_content": 0.07,
+  "is_classic": true,
+  "cocktail_color": "Pink",
+  "ideal_serving_temperature": "Cold",
+  "base_spirit": "Vodka",
+  "glassware": "Highball glass"
+}

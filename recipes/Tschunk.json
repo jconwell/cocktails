@@ -1,0 +1,47 @@
+{
+  "name": "Tschunk",
+  "ingredients": [
+    {
+      "name": "Dark rum",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Club soda",
+      "volume": 6,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Sugar",
+      "volume": 1,
+      "unit": "teaspoon",
+      "isLiquid": false
+    },
+    {
+      "name": "Lime",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.3,
+  "difficulty": 0.2,
+  "instructions": [
+    "Muddle the lime and sugar in a glass",
+    "Add rum",
+    "Top with club soda",
+    "Stir well before serving"
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Sour",
+    "Bitter"
+  ],
+  "garnish": "Lime wedge",
+  "alcoholContent": 0.14,
+  "flavorIntensity": 0.5,
+  "sweetnessLevel": 0.8,
+  "acidityLevel": 0.6
+}

@@ -1,0 +1,46 @@
+{
+  "cocktailName": "Knickerbocker",
+  "ingredients": [
+    {
+      "ingredientName": "Rum",
+      "volume": 2,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Raspberry syrup",
+      "volume": 0.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Orange Curacao",
+      "volume": 0.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Lemon juice",
+      "volume": 0.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.65,
+  "difficulty": 0.35,
+  "instructions": [
+    "Pour all ingredients into a shaker with ice.",
+    "Shake well until chilled.",
+    "Strain into a chilled cocktail glass.",
+    "Garnish with a slice of lemon and fresh berries."
+  ],
+  "tasteProfile": ["Sweet", "Citrus", "Fruity"],
+  "garnishes": "Slice of lemon and fresh berries",
+  "alcoholContent": 0.24,
+  "glassType": "Cocktail Glass",
+  "cocktailType": "Classic",
+  "occasion": ["Casual", "Summer"],
+  "mood": ["Refreshed"],
+  "flavourIntensity": 0.7,
+  "sweetness": 0.6
+}

@@ -1,0 +1,56 @@
+{
+    "cocktailName": "Key Lime Pie Martini",
+    "ingredients": [
+        {
+            "ingredientName": "Vanilla Vodka",
+            "ingredientVolume": 1.5,
+            "ingredientUnit": "oz",
+            "isLiquid": true
+        },
+        {
+            "ingredientName": "Key lime cream liqueur",
+            "ingredientVolume": 1,
+            "ingredientUnit": "oz",
+            "isLiquid": true
+        },
+        {
+            "ingredientName": "Pineapple Juice",
+            "ingredientVolume": 0.5,
+            "ingredientUnit": "oz",
+            "isLiquid": true
+        },
+        {
+            "ingredientName": "Cream of coconut",
+            "ingredientVolume": 0.25,
+            "ingredientUnit": "oz",
+            "isLiquid": false
+        },
+        {
+            "ingredientName": "Lime",
+            "ingredientVolume": 1,
+            "ingredientUnit": "count",
+            "isLiquid": false
+        }
+    ],
+    "popularity": 0.7,
+    "difficulty": 0.3,
+    "instructions": [
+        "In cocktail shaker filled with ice add vanilla vodka",
+        "Add key lime cream liqueur",
+        "Add pineapple juice",
+        "Add cream of coconut",
+        "Shake until the shaker becomes frosty and most of the ice has melted",
+        "Strain mixture into martini glass",
+        "Garnish with a slice of lime"
+    ],
+    "tasteProfile": [
+        "Sweet",
+        "Tangy",
+        "Creamy"
+    ],
+    "garnish": "Slice of lime",
+    "alcoholContent": 0.2,
+    "color": "Creamy white",
+    "serveIn": "Martini Glass",
+    "serveMethod": "Neat"
+}

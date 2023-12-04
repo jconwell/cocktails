@@ -1,0 +1,43 @@
+{
+  "cocktail": {
+    "name": "Perfect Martini",
+    "ingredients": [
+      {
+        "ingredient_name": "Gin",
+        "volume": 2,
+        "unit_of_measure": "ounces",
+        "is_liquid": true
+      },
+      {
+        "ingredient_name": "Dry Vermouth",
+        "volume": 0.5,
+        "unit_of_measure": "ounces",
+        "is_liquid": true
+      },
+      {
+        "ingredient_name": "Olive",
+        "volume": 1,
+        "unit_of_measure": "count",
+        "is_liquid": false
+      }
+    ],
+    "popularity": 0.85,
+    "difficulty": 0.3,
+    "instructions": [
+      "Stir gin and vermouth with ice in a mixing glass.",
+      "Strain into a chilled martini glass.",
+      "Garnish with an olive."
+    ],
+    "taste_profile": [
+      "dry",
+      "bitter",
+      "salty"
+    ],
+    "garnish": "Olive",
+    "alcohol_content": 0.22,
+    "glass_type": "Martini Glass",
+    "served": "Chilled",
+    "color": "Clear",
+    "texture": "Smooth"
+  }
+}

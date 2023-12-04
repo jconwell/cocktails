@@ -1,0 +1,48 @@
+{
+    "cocktail": "Catalina Margarita",
+    "ingredients": [
+        {
+            "name": "Tequila",
+            "volume": 2.0,
+            "unit": "oz",
+            "isLiquid": true
+        },
+        {
+            "name": "Peach Schnapps",
+            "volume": 1.0,
+            "unit": "oz",
+            "isLiquid": true
+        },
+        {
+            "name": "Blue Curacao",
+            "volume": 1.0,
+            "unit": "oz",
+            "isLiquid": true
+        },
+        {
+            "name": "Lime juice",
+            "volume": 1.0,
+            "unit": "oz",
+            "isLiquid": true
+        }
+    ],
+    "popularity": 0.7,
+    "difficulty": 0.4,
+    "instructions": [
+        "Rim the margarita glass with salt.", 
+        "Shake all the ingredients with ice.", 
+        "Strain into the glass.", 
+        "Serve."
+    ],
+    "tasteProfile": [
+        "salty", 
+        "citrus", 
+        "sweet"
+    ],
+    "garnish": "Lime wheel and salt rim",
+    "alcoholContent": 0.4,
+    "glassType": "Margarita glass",
+    "served": "Cold",
+    "preparationTime": 5.0,
+    "color": "Blue"
+}

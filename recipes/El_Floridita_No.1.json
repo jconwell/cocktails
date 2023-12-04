@@ -1,0 +1,50 @@
+{
+  "cocktail_name": "El Floridita No.1",
+  "ingredients": [
+    {
+      "name": "White rum",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lime juice",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Grenadine syrup",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Maraschino liqueur",
+      "volume": 0.25,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.3,
+  "difficulty": 0.15,
+  "instructions": [
+    "Pour rum, lime juice, grenadine syrup, and maraschino liqueur into a shaker filled with crushed ice.",
+    "Shake well for 10-15 seconds.",
+    "Strain into a pre-chilled cocktail glass."
+  ],
+  "taste_profile": [
+    "Sweet",
+    "Acidic",
+    "Fruity"
+  ],
+  "garnish": "Maraschino cherry",
+  "alcohol_content": 0.25,
+  "serving_glass": "Cocktail glass",
+  "occasion": [
+    "After Dinner",
+    "Summer"
+  ],
+  "origin": "Cuba",
+  "color": "Red"
+}

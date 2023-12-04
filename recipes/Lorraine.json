@@ -1,0 +1,44 @@
+{
+  "cocktailName": "Lorraine",
+  "ingredients": [
+    {
+      "name": "Gin",
+      "volume": 1.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Dry Vermouth",
+      "volume": 1.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Benedictine",
+      "volume": 0.75,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.5,
+  "instructions": [
+    "Measure the ingredients.",
+    "Pour all the ingredients into a mixing glass with ice.",
+    "Stir until chilled.",
+    "Strain into a cocktail glass."
+  ],
+  "tasteProfile": [
+    "Strong",
+    "Bitter",
+    "Herbaceous"
+  ],
+  "garnishes": "Lemon Twist",
+  "alcoholContent": 0.28,
+  "glassType": "Cocktail Glass",
+  "cocktailType": "Classic",
+  "timeOfDay": "Evening",
+  "occasion": ["Dinner", "Celebration"],
+  "flavorProfile": ["Herbaceous", "Citrus"],
+  "color": "Light Yellow"
+}

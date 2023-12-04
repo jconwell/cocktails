@@ -1,0 +1,45 @@
+{
+  "name": "Porto Flip",
+  "ingredients": [
+    {
+      "ingredient_name": "Brandy",
+      "quantity": 1.5,
+      "unit": "oz",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Port",
+      "quantity": 1.5,
+      "unit": "oz",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Egg Yolk",
+      "quantity": 1,
+      "unit": "count",
+      "is_liquid": false
+    }
+  ],
+  "popularity_index": 0.4,
+  "complexity_index": 0.65,
+  "instructions": [
+    "Pour brandy into a shaker with ice cubes",
+    "Add port",
+    "Add egg yolk",
+    "Shake well",
+    "Strain into a chilled cocktail glass"
+  ],
+  "taste_profile": ["Sweet", "Rich", "Creamy"],
+  "garnish": "Nutmeg",
+  "alcohol_content": 0.25,
+
+  "additional_info": {
+    "color": "Brown",
+    "historical_background": "Created in 19th century England",
+    "base_liquor": "Brandy",
+    "serve_temperature": "Chilled",
+    "glassware": "Cocktail Glass",
+    "occasion": ["Winter", "Dinner Party"],
+    "style": "Classic"
+  }
+}

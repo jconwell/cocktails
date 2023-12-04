@@ -1,0 +1,51 @@
+{
+  "cocktailName": "Kensington Court Special",
+  "ingredients": [
+    {
+      "name": "Gin",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Fresh Lemon Juice",
+      "volume": 0.75,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Apricot Brandy",
+      "volume": 0.75,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Pineapple Juice",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.2,
+  "instructions": [
+    "Combine all ingredients in a shaker with ice.",
+    "Shake well until chilled.",
+    "Strain into a chilled cocktail glass."
+  ],
+  "tasteProfile": [
+    "sweet",
+    "fruity",
+    "citrus"
+  ],
+  "garnish": "Pineapple slice and a cherry",
+  "alcoholContent": 0.2,
+  "cocktailType": "Citrus",
+  "glassType": "Cocktail Glass",
+  "isLayered": false,
+  "isShaken": true,
+  "isStirred": false,
+  "isBuilt": false,
+  "servingSize": 1,
+  "flavourIntensity": 0.8
+}

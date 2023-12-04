@@ -1,0 +1,62 @@
+{
+  "cocktail_name": "Rooster",
+  "ingredients": [
+    {
+      "name": "Hennessy cognac",
+      "volume": 1.5,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Grand Marnier",
+      "volume": 1.0,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Lemon juice",
+      "volume": 0.5,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Orange juice",
+      "volume": 1.0,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Simple syrup",
+      "volume": 0.5,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Ice cubes",
+      "volume": 4,
+      "unit": "cubes",
+      "is_liquid": false
+    }
+  ],
+  "popularity": 0.68,
+  "difficulty": 0.42,
+  "instructions": [
+    "Fill a cocktail shaker with ice",
+    "Add all ingredients",
+    "Shake well",
+    "Strain into a chilled cocktail glass"
+  ],
+  "taste_profile": [
+    "sweet",
+    "citrus",
+    "fruity"
+  ],
+  "garnish": "orange slice",
+  "alcohol_content": 40.0,
+  "color": "amber",
+  "glass_type": "cocktail glass",
+  "occasions": [
+    "night out",
+    "casual drink"
+  ]
+}

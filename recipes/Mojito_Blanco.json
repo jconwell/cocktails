@@ -1,0 +1,30 @@
+{
+  "cocktail_name": "Mojito Blanco",
+  "ingredients": [
+    {"name": "white rum", "volume": 2, "unit_of_measure": "ounces", "is_liquid": true},
+    {"name": "fresh lime juice", "volume": 1, "unit_of_measure": "ounce", "is_liquid": true},
+    {"name": "simple syrup", "volume": 1, "unit_of_measure": "ounce", "is_liquid": true},
+    {"name": "fresh mint leaves", "volume": 10, "unit_of_measure": "count", "is_liquid": false},
+    {"name": "soda water", "volume": 2, "unit_of_measure": "ounces", "is_liquid": true}
+  ],
+  "popularity_score": 0.8,
+  "difficulty_score": 0.2,
+  "instructions": [
+    "In a shaker, muddle the mint leaves and simple syrup.",
+    "Add the rum and lime juice.",
+    "Fill the shaker with ice and shake well.",
+    "Strain into a glass filled with ice.",
+    "Top with the soda water.",
+    "Stir gently and garnish."
+  ],
+  "taste_profile": ["sweet", "citrus", "fresh", "cooling"],
+  "garnish": "mint spring and lime wheel",
+  "alcohol_content": 0.14,
+  "glass_type": "highball glass",
+  "occasion": ["summer", "casual", "party"],
+  "mix_method": "shake",
+  "color": "light green",
+  "flavor_intensity": "medium",
+  "preparation_time_in_seconds": 180,
+  "serving_temperature": "cold"
+}

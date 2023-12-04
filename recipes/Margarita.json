@@ -1,0 +1,51 @@
+{
+    "cocktailName": "Margarita",
+    "ingredients": [
+        {
+            "name": "Tequila",
+            "volume": 2,
+            "unit": "ounces",
+            "isLiquid": true
+        },
+        {
+            "name": "Lime juice",
+            "volume": 1,
+            "unit": "ounces",
+            "isLiquid": true
+        },
+        {
+            "name": "Cointreau",
+            "volume": 1,
+            "unit": "ounces",
+            "isLiquid": true
+        },
+        {
+            "name": "Salt",
+            "volume": 1,
+            "unit": "pinch",
+            "isLiquid": false
+        }
+    ],
+    "popularity": 0.85,
+    "difficulty": 0.20,
+    "instructions": [
+        "Rub the rim of the glass with the lime slice to make the salt stick to it",
+        "Take care to moisten only the outer rim and sprinkle the rim with salt",
+        "Shake the other ingredients with ice",
+        "Carefully pour into the glass"
+    ],
+    "tasteProfile": [
+        "sour",
+        "sweet",
+        "salty" 
+    ],
+    "garnish": "lime wheel",
+    "alcoholContent": 0.40,
+    "cocktailClass": "cocktail",
+    "colour": "green",
+    "glassware": "margarita glass",
+    "served": "on the rocks",
+    "timeRequired": 5,
+    "bestSeasonToDrink": "summer",
+    "origin": "Mexico"
+}

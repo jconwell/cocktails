@@ -1,0 +1,55 @@
+{
+  "cocktailName": "Madison Avenue",
+  "ingredients": [
+    {
+      "ingredientName": "Bourbon",
+      "volume": 2,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Sweet Vermouth",
+      "volume": 1,
+      "unitOfMeasure": "ounce",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Maraschino Liqueur",
+      "volume": 0.5,
+      "unitOfMeasure": "ounce",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Orange Juice",
+      "volume": 1,
+      "unitOfMeasure": "ounce",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Cherry",
+      "volume": 1,
+      "unitOfMeasure": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.5,
+  "instructions": [
+    "Mix bourbon, sweet vermouth, maraschino liqueur, and orange juice in a shaken with ice.",
+    "Strain into a chilled cocktail glass.",
+    "Garnish with a cherry."
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Sour",
+    "Boozy"
+  ],
+  "garnish": "Cherry",
+  "alcoholContent": 0.3,
+  "glassware": "Cocktail Glass",
+  "method": "Shaken",
+  "ice": "No Ice",
+  "isBaseAlcohol": true,
+  "baseAlcohol": "Bourbon",
+  "preparationTime": 5
+}

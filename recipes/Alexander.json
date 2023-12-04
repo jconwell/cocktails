@@ -1,0 +1,41 @@
+{
+  "name": "Alexander",
+  "ingredients": [
+    { 
+      "name": "Gin", 
+      "volume": 1.0, 
+      "unit": "ounce", 
+      "isLiquid": true 
+    }, 
+    { 
+      "name": "Crème de Cacao", 
+      "volume": 1.0, 
+      "unit": "ounce", 
+      "isLiquid": true 
+    },
+    { 
+      "name": "Fresh Cream", 
+      "volume": 1.0, 
+      "unit": "ounce", 
+      "isLiquid": true 
+    }  
+  ],
+  "popularity": 0.3,
+  "difficulty": 0.2,
+  "instructions": [
+    "Add all ingredients to a shaker with ice", 
+    "Shake well", 
+    "Strain into a cocktail glass",
+    "Serve"
+  ],
+  "tasteProfile": ["Creamy", "Sweet", "Chocolatey"],
+  "garnish": "Grated nutmeg",
+  "alcoholContent": 20.0,
+  "colour": "Beige",
+  "serve": "Straight up without ice",
+  "drinkware": "Cocktail Glass",
+  "occasions": ["After Dinner Drink", "Romantic Dates"],
+  "mood": "Relaxed",
+  "isClassic": true,
+  "isVirgin": false
+}

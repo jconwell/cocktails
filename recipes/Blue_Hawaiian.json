@@ -1,0 +1,60 @@
+{
+   "cocktailName":"Blue Hawaiian",
+   "ingredients":[
+      {
+         "ingredientName":"Light Rum",
+         "volume":1,
+         "unitOfMeasure":"ounce",
+         "isLiquid":true
+      },
+      {
+         "ingredientName":"Blue Curacao",
+         "volume":1,
+         "unitOfMeasure":"ounce",
+         "isLiquid":true
+      },
+      {
+         "ingredientName":"Cream of Coconut",
+         "volume":1,
+         "unitOfMeasure":"ounce",
+         "isLiquid":true
+      },
+      {
+         "ingredientName":"Pineapple Juice",
+         "volume":2,
+         "unitOfMeasure":"ounce",
+         "isLiquid":true
+      },
+      {
+         "ingredientName":"Pineapple Slice",
+         "volume":1,
+         "unitOfMeasure":"count",
+         "isLiquid":false
+      },
+      {
+         "ingredientName":"Maraschino Cherry",
+         "volume":1,
+         "unitOfMeasure":"count",
+         "isLiquid":false
+      }
+   ],
+   "popularity":0.7,
+   "difficulty":0.3,
+   "instructions":[
+      "Step 1: Fill up a blender with ice.",
+      "Step 2: Add light rum, blue curacao, cream of coconut, and pineapple juice to the blender.",
+      "Step 3: Blend until smooth.",
+      "Step 4: Pour into a chilled glass.",
+      "Step 5: Garnish with a slice of pineapple and a cherry before serving."
+   ],
+   "tasteProfile":[
+      "Sweet",
+      "Tropical",
+      "Fruity"
+   ],
+   "garnish":"Pineapple Slice and Maraschino Cherry",
+   "alcoholContent":0.4,
+   "color":"Blue",
+   "glassware":"Hurricane Glass",
+   "servingTemperature":"Chilled"
+}

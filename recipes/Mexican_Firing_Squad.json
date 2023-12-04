@@ -1,0 +1,54 @@
+{
+  "cocktailName": "Mexican Firing Squad",
+  "ingredients": [
+    {
+      "ingredientName": "Lime juice",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Grenadine",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Angostura bitters",
+      "volume": 2,
+      "unit": "dashes",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Tequila",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Club soda",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.4,
+  "difficulty": 0.2,
+  "steps": [
+    "Pour lime juice, grenadine, bitters and tequila into a cocktail shaker filled with ice",
+    "Shake well for about 30 seconds",
+    "Strain into a glass filled with ice",
+    "Top with club soda"
+  ],
+  "tasteProfile": [
+    "Strong",
+    "Sweet",
+    "Tangy"
+  ],
+  "garnish": "Cherry and slice of lime",
+  "alcoholContent": 0.2,
+  "classification": "Modern Classics",
+  "baseSpirit": "Tequila",
+  "drinkware": "Old-Fashioned glass",
+  "preparationMethod": "Shake"
+}

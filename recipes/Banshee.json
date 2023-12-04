@@ -1,0 +1,43 @@
+{
+  "cocktailName": "Banshee",
+  "ingredients": [
+    {
+      "ingredientName": "Dark Rum",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Banana Liqueur",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Cream",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Banana",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.4,
+  "difficulty": 0.2,
+  "instructions": [
+    "Pour rum, banana liqueur and cream into a shaker with ice cubes.",
+    "Shake well.",
+    "Strain into a chilled cocktail glass.",
+    "Garnish with banana slice."
+  ],
+  "tasteProfile": ["creamy", "sweet", "fruity"],
+  "garnishes": "Banana slice",
+  "alcoholContent": 0.3,
+  "color": "Light yellow",
+  "glassware": "Cocktail glass",
+  "served": "Chilled"
+}

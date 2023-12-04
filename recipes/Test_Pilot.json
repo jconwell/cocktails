@@ -1,0 +1,61 @@
+{
+    "cocktail_name": "Test Pilot",
+    "ingredients": [
+        {
+            "name": "White Rum",
+            "volume": 1.5,
+            "unit": "ounces",
+            "is_liquid": true
+        },
+        {
+            "name": "Gold rum",
+            "volume": 0.75,
+            "unit": "ounces",
+            "is_liquid": true
+        },
+        {
+            "name": "Lime Juice",
+            "volume": 0.5,
+            "unit": "ounces",
+            "is_liquid": true
+        },
+        {
+            "name": "Falernum",
+            "volume": 0.5,
+            "unit": "ounces",
+            "is_liquid": true
+        },
+        {
+            "name": "Cointreau",
+            "volume": 0.5,
+            "unit": "ounces",
+            "is_liquid": true
+        },
+        {
+            "name": "Angostura Bitters",
+            "volume": 6,
+            "unit": "drops",
+            "is_liquid": true
+        },
+        {
+            "name": "Pernod",
+            "volume": 6,
+            "unit": "drops",
+            "is_liquid": true
+        }
+    ],
+    "popularity": 0.6,
+    "difficulty": 0.7,
+    "preparation_steps": [
+        "Combine all ingredients in a shaker with ice",
+        "Shake well",
+        "Strain into a chilled glass",
+        "Garnish with a cherry"
+    ],
+    "taste_profile": ["sweet", "citrus", "spicy"],
+    "garnish": "Cherry",
+    "alcohol_content": 35.5,
+    "cocktail_type": "Tiki",
+    "glass_type": "Double old fashioned glass",
+    "serving_temperature": "Chilled"
+}

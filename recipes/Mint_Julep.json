@@ -1,0 +1,48 @@
+{
+  "cocktail": 
+  {
+    "name": "Mint Julep",
+    "ingredients": [
+      {
+        "name": "Bourbon",
+        "volume": 3.0,
+        "unit": "ounces",
+        "isLiquid": true
+      },
+      {
+        "name": "Water",
+        "volume": 0.5,
+        "unit": "ounces",
+        "isLiquid": true
+      },
+      {
+        "name": "Granulated sugar",
+        "volume": 1.0,
+        "unit": "teaspoon",
+        "isLiquid": false
+      },
+      {
+        "name": "Mint leaves",
+        "volume": 6.0,
+        "unit": "count",
+        "isLiquid": false
+      }
+    ],
+    "popularity": 0.75,
+    "difficulty": 0.6,
+    "instructions": [
+      "Muddle mint leaves and sugar in the bottom of a glass.",
+      "Add bourbon.",
+      "Add crushed ice and stir until the glass becomes frosty.",
+      "Fill with more ice and garnish with mint leaves."
+    ],
+    "tasteProfile":["Sweet","Strong","Herbaceous"],
+    "garnish": "Mint sprig",
+    "alcoholContent": 0.38,
+    "serveIn": "Highball glass",
+    "recipeYield": "1 cocktail",
+    "preparationTime": "5 minutes",
+    "keywords": ["classic","southern","bourbon"],
+    "origin": "United States"
+  }
+}

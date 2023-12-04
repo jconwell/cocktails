@@ -1,0 +1,41 @@
+{
+    "cocktail_name": "Martini",
+    "ingredients": [
+        {
+            "name": "Gin",
+            "volume": 2.5,
+            "unit_of_measure": "ounces",
+            "is_liquid": true
+        },
+        {
+            "name": "Dry Vermouth",
+            "volume": 0.5,
+            "unit_of_measure": "ounces",
+            "is_liquid": true
+        },
+        {
+            "name": "Lemon Twist",
+            "volume": 1,
+            "unit_of_measure": "count",
+            "is_liquid": false
+        }
+    ],
+    "popularity": 0.85,
+    "difficulty": 0.2,
+    "instructions": [
+        "Pour gin and vermouth into a mixing glass with ice cubes",
+        "Stir well",
+        "Strain into a chilled Martini glass",
+        "Squeeze oil from lemon twist onto the drink, or garnish with olive"
+    ],
+    "taste_profile": ["Dry", "Strong", "Citrus"],
+    "garnish": "Lemon twist or olive",
+    "alcohol_content": 0.32,
+    "glassware": "Martini Glass",
+    "serving_temperature": "Very Cold",
+    "color": "Clear",
+    "prep_time_in_seconds": 180,
+    "shake_stir": "Stir",
+    "cocktail_type": "Classics",
+    "primary_alcohol": "Gin"
+}

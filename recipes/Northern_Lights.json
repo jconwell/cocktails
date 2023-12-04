@@ -1,0 +1,43 @@
+{
+  "name": "Northern Lights",
+  "ingredients": [
+    {
+      "ingredient_name": "Vodka",
+      "volume": 1.5,
+      "unit": "oz",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Melon Liqueur",
+      "volume": 0.5,
+      "unit": "oz",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Blue Curacao",
+      "volume": 0.5,
+      "unit": "oz",
+      "is_liquid": true
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.5,
+  "instructions": [
+    "Pour vodka into a shaker with ice",
+    "Add melon liqueur and blue curacao",
+    "Shake well",
+    "Strain into a chilled cocktail glass"
+  ],
+  "taste_profile": [
+    "Sweet",
+    "Fruity"
+  ],
+  "garnishes": "Lemon Twist",
+  "alcohol_content": 26.0,
+  "serving_glass": "Cocktail glass",
+  "preparation_time_minutes": 5,
+  "flavor_intensity": 0.7,
+  "color": "Turquoise",
+  "theme": "Festive",
+  "base_spirit": "Vodka"
+}

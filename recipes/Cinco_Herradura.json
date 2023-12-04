@@ -1,0 +1,55 @@
+{
+  "name": "Cinco Herradura",
+  "ingredients": [
+    {
+      "name": "Herradura Tequila",
+      "volume": 1.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Lime Juice",
+      "volume": 1,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Orange Juice",
+      "volume": 1,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Agave Syrup",
+      "volume": 0.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Salt",
+      "volume": 1,
+      "unit": "pinch",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.8,
+  "difficulty": 0.3,
+  "instructions": [
+    "Rim the glass with salt",
+    "Shake all ingredients with ice",
+    "Strain into salt-rimmed glass",
+    "Garnish with lime wheel"
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Sour",
+    "Salty"
+  ],
+  "garnish": "Lime wheel",
+  "alcoholContent": 0.15,
+  "servingSize": "1 glass",
+  "servingTemperature": "Cold",
+  "color": "Amber",
+  "glassType": "Rocks glass",
+  "origin": "Mexico"
+}

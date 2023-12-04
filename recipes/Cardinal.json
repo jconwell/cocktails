@@ -1,0 +1,41 @@
+{
+  "CocktailName": "Cardinal",
+  "Ingredients": [
+    {
+      "ingredientName": "Gin",
+      "volume": 1.5,
+      "unitMeasurement": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Dry Vermouth",
+      "volume": 0.75,
+      "unitMeasurement": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Grenadine",
+      "volume": 0.5,
+      "unitMeasurement": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "Popularity": 0.6,
+  "Difficulty": 0.4,
+  "Instructions": [
+    "Step 1: Pour all the ingredients into a mixer with ice cubes.",
+    "Step 2: Shake well for 10-15 seconds.",
+    "Step 3: Strain into a chilled cocktail glass."
+  ],
+  "TasteProfile": [
+    "sweet",
+    "sour"
+  ],
+  "Garnishes": "Lemon twist",
+  "AlcoholContent": 0.24,
+  "AdditionalInfo": {
+    "Drinkware": "cocktail glass",
+    "ServingSize": 2.75,
+    "ServingMeasureUnit": "ounces"
+  }
+}

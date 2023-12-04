@@ -1,0 +1,40 @@
+{
+"name": "Salty Dog",
+"ingredients": [
+  {
+    "ingredientName": "Grapefruit Juice",
+    "volume": 4.5,
+    "unit": "ounces",
+    "isLiquid": true
+  },
+  {
+    "ingredientName": "Vodka",
+    "volume": 1.5,
+    "unit": "ounces",
+    "isLiquid": true
+  },
+  {
+    "ingredientName": "Salt",
+    "volume": 1,
+    "unit": "pinch",
+    "isLiquid": false
+  }
+],
+"popularity": 0.5,
+"difficulty": 0.2,
+"steps": [
+  "Rim the glass with salt",
+  "In a shaker mix the vodka and grapefruit juice with ice",
+  "Strain the mixture in the glass"
+],
+"tasteProfile": [
+  "Salty",
+  "Citrus"
+],
+"garnish": "Grapefruit Slice",
+"alcoholContent": 0.14,
+"flavor": "Sweet and salty",
+"glassware": "Highball Glass",
+"type": "Classic Cocktail",
+"color": "Yellow"
+}

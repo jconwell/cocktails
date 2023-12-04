@@ -1,0 +1,37 @@
+{
+  "name": "Tootsie Roll",
+  "popularity": 0.4,
+  "difficulty": 0.3,
+  "taste_profile": ["sweet", "creamy", "chocolate"],
+  "ingredients": [
+    {
+      "name": "Kahlua",
+      "volume": 1.0,
+      "unit": "oz",
+      "is_liquid": true
+    },
+    {
+      "name": "Orange juice",
+      "volume": 1.0,
+      "unit": "oz",
+      "is_liquid": true
+    },
+    {
+      "name": "chocolate syrup",
+      "volume": 1.0,
+      "unit": "tbsp",
+      "is_liquid": true
+    }
+  ],
+  "instructions": [
+    "Pour Kahlua into a glass",
+    "Add orange juice",
+    "Stir in the chocolate syrup",
+    "Shake well with ice and strain into a cocktail glass"
+  ],
+  "garnishes": "None",
+  "alcohol_content": 0.17,
+  "prep_time_minutes": 3,
+  "glass_type": "cocktail",
+  "serve_temperature": "cold"
+}

@@ -1,0 +1,24 @@
+{
+    "cocktailName": "Revelation",
+    "ingredients": [
+        { "name": "Bourbon", "volume": 2, "unitOfMeasure": "ounces", "isLiquid": true },
+        { "name": "Lemon Juice", "volume": 0.75, "unitOfMeasure": "ounces", "isLiquid": true },
+        { "name": "Honey Syrup", "volume": 0.5, "unitOfMeasure": "ounces", "isLiquid": true },
+        { "name": "Ginger Liqueur", "volume": 0.25, "unitOfMeasure": "ounces", "isLiquid": true },
+        { "name": "Absinthe", "volume": 0.25, "unitOfMeasure": "ounces", "isLiquid": true }
+    ],
+    "popularity": 0.7,
+    "difficulty": 0.4,
+    "steps": [
+        "In a shaker combine all the ingredients",
+        "Add ice and shake until well mixed", "Strain the mix into a glass",
+        "Top with a splash of soda water if desired"
+    ],
+    "tasteProfile": ["Sweet", "Citrus", "Strong", "Spicy"],
+    "garnish": "Lemon wheel",
+    "alcoholContent": 0.3,
+    "glassType": "Rocks glass",
+    "timeOfDayBestToServe": "Evening",
+    "color": "Golden",
+    "seasonBestToServe": "All Seasons"
+}

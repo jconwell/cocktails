@@ -1,0 +1,42 @@
+{
+    "cocktailName": "Stoplight",
+    "ingredients": [
+        {
+            "ingredientName": "Midori Melon Liqueur",
+            "volume": 1,
+            "unitOfMeasure": "oz",
+            "isLiquid": true
+        },
+        {
+            "ingredientName": "Orange Curacao",
+            "volume": 1,
+            "unitOfMeasure": "oz",
+            "isLiquid": true
+        },
+        {
+            "ingredientName": "Grenadine",
+            "volume": 1,
+            "unitOfMeasure": "oz",
+            "isLiquid": true
+        }
+    ],
+    "popularityScore": 0.72,
+    "difficultyScore": 0.45,
+    "instructions": [
+        "Pour the Midori Melon Liqueur into a Collins glass filled with ice.",
+        "Slowly pour the Orange Curacao into the glass.",
+        "Slowly pour the Grenadine into the glass."
+    ],
+    "tasteProfile": [
+        "Sweet",
+        "Citrus",
+        "Fruity"
+    ],
+    "garnishes": "Cherry",
+    "alcoholContent": 0.16,
+    "cocktailType": "Layered",
+    "glassType": "Collins Glass",
+    "servingTemperature": "Cold",
+    "originCountry": "USA",
+    "flavorIntensity": 0.6
+}

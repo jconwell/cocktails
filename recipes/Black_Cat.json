@@ -1,0 +1,50 @@
+{
+  "cocktailName": "Black Cat",
+  "ingredients": [
+    {
+      "name": "vodka",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "blackberry schnapps",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "cranberry juice",
+      "volume": 3,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "lemon twist",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.2,
+  "instructions": [
+    "Pour the ingredients into a cocktail shaker with ice cubes.",
+    "Shake well.",
+    "Strain into a chilled cocktail glass.",
+    "Garnish with the lemon twist."
+  ],
+  "tasteProfile": [
+    "sweet",
+    "fruity",
+    "tart",
+    "refreshing"
+  ],
+  "garnishes": "lemon twist",
+  "alcoholContent": 0.20,
+  "glassType": "cocktail glass",
+  "cocktailType": "Long drink",
+  "occasion": "Halloween parties",
+  "colour": "Deep red",
+  "texture": "Smooth"
+}

@@ -1,0 +1,40 @@
+{
+  "Cocktail": "Melon Ball",
+  "Ingredients": [
+    {
+      "name": "Vodka",
+      "volume": 1.0,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Midori (melon liqueur)",
+      "volume": 2.0,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Pineapple juice",
+      "volume": 4.0,
+      "unit": "oz",
+      "isLiquid": true
+    }
+  ], 
+  "PopularityIndex": 0.7,
+  "DifficultyIndex": 0.2,
+  "Instructions": [
+    "Pour ingredients into ice-filled shaker",
+    "Shake until chilled",
+    "Strain into glass",
+    "Serve"
+  ],
+  "TasteProfile": [
+    "Sweet",
+    "Fruity"
+  ],
+  "Garnish": "Slice of lime and a cherry",
+  "AlcoholContent": 25.0,
+  "IdealServingGlass": "Highball Glass",
+  "PreparationTimeMinutes": 5,
+  "DrinkType": "Refreshing"
+}

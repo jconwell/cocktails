@@ -1,0 +1,45 @@
+{
+    "name": "Beatnik",
+    "ingredients": [
+        {
+            "ingredientName": "Rye Whiskey",
+            "volume": 2,
+            "unit": "ounces",
+            "isLiquid": true
+        },
+        {
+            "ingredientName": "Elderflower Liqueur",
+            "volume": 2,
+            "unit": "ounces",
+            "isLiquid": true
+        },
+        {
+            "ingredientName": "Beet juice",
+            "volume": 1,
+            "unit": "ounces",
+            "isLiquid": true
+        },
+        {
+            "ingredientName": "Lemon juice",
+            "volume": 1,
+            "unit": "ounces",
+            "isLiquid": true
+        }
+    ],
+    "popularity": 0.52,
+    "difficulty": 0.4,
+    "instructions": [
+        "Add all ingredients into a shaker with ice.",
+        "Shake well then strain into a glass filled with ice.",
+        "Garnish with a lemon wheel."
+    ],
+    "tasteProfile": [
+        "Sweet",
+        "Sour",
+        "Strong"
+    ],
+    "garnish": "Lemon wheel",
+    "alcoholContent": 0.25,
+    "glassType": "Rock glass",
+    "timeToMake": 5
+}

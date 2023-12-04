@@ -1,0 +1,61 @@
+{
+  "cocktailName": "San Francisco",
+  "ingredients": [
+    {
+      "ingredientName": "Vodka",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Peach schnapps",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Raspberry liqueur",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Pineapple juice",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Cranberry juice",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Ice",
+      "volume": 1,
+      "unit": "cup",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.3,
+  "instructions": [
+    "Combine vodka, peach schnapps, and raspberry liqueur in a shaker.",
+    "Add pineapple juice and cranberry juice.",
+    "Shake well with ice.",
+    "Strain into a highball glass."
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Sour",
+    "Fruity"
+  ],
+  "garnishes": "Pineapple slice",
+  "alcoholContent": 0.2,
+  "gleamIndex": 0.7,
+  "bestServedOn": "Parties",
+  "color": "Red",
+  "texture": "Smooth",
+  "glassType": "Highball glass"
+}

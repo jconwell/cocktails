@@ -1,0 +1,24 @@
+{
+    "name": "Trophy Margarita",
+    "ingredients": [
+        {"name": "Tequila", "volume": 2, "unit": "ounces", "isLiquid": true},
+        {"name": "Cointreau", "volume": 1, "unit": "ounces", "isLiquid": true},
+        {"name": "Fresh lime juice", "volume": 1, "unit": "ounces", "isLiquid": true},
+        {"name": "Agave nectar", "volume": 0.5, "unit": "ounces", "isLiquid": true},
+        {"name": "Salt", "volume": 1, "unit": "pinch", "isLiquid": false}
+    ],
+    "popularity": 0.7,
+    "difficulty": 0.4,
+    "instructions": [
+        "Coat the rim of the glass with salt.",
+        "Combine the tequila, fresh lime juice, Cointreau, and agave nectar in a cocktail shaker.",
+        "Fill the shaker with ice and shake until well chilled.",
+        "Strain into the prepared glass."
+    ],
+    "tasteProfile": ["salty", "sour", "sweet"],
+    "garnish": "Salt on the rim; Lime wheel",
+    "alcoholContent": 0.2,
+    "color": "yellow",
+    "texture": "smooth",
+    "temperature": "cold"
+}

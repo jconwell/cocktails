@@ -1,0 +1,33 @@
+{
+  "cocktailName": "Screwdriver",
+  "ingredients": [
+    {
+      "name": "Vodka",
+      "volume": 1.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Fresh Orange Juice",
+      "volume": 6.0,
+      "unit": "oz",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.8,
+  "difficulty": 0.2,
+  "instructions": [
+    "Pour the vodka into a highball glass with ice cubes",
+    "Top with orange juice",
+    "Stir well"
+  ],
+  "tasteProfile": [
+    "sweet",
+    "citrus"
+  ],
+  "garnish": "Slice of orange",
+  "alcoholContent": 0.10,
+  "color": "orange",
+  "drinkType": "long drink",
+  "glassType": "highball glass"
+}

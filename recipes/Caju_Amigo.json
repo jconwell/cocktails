@@ -1,0 +1,37 @@
+{
+  "name": "Caju Amigo",
+  "ingredients": [
+    {
+      "name": "Cachaca",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Cashew",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.4,
+  "difficulty": 0.2,
+  "instructions": [
+    "Pour Cachaca into a shot glass.",
+    "Chew the cashew then drink the Cachaca."
+  ],
+  "tasteProfile": [
+    "nutty",
+    "strong",
+    "warm"
+  ],
+  "garnish": "None",
+  "alcoholContent": 0.4,
+  "glassType": "Shot Glass",
+  "cocktailType": "Short Drink",
+  "primaryAlcohol": "Cachaca",
+  "isCarbonated": false,
+  "served": "Neat",
+  "color": "Colorless",
+  "originCountry": "Brazil"
+}

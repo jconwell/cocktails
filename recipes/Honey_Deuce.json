@@ -1,0 +1,49 @@
+{
+  "cocktailName": "Honey Deuce",
+  "ingredients": [
+    {
+      "name": "Vodka",
+      "volume": 1.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemonade",
+      "volume": 3,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Raspberry liqueur",
+      "volume": 0.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Honeydew melons",
+      "volume": 3,
+      "unit": "piece",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.75,
+  "difficulty": 0.25,
+  "instructions": [
+    "Chill all ingredients.",
+    "Mix vodka, lemonade and raspberry liqueur in shaker with ice.",
+    "Strain cocktail into chilled champagne flute.",
+    "Garnish with honeydew melons.",
+    "Serve immediately."
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Fruity",
+    "Refreshing"
+  ],
+  "garnish": "Honeydew Melon Balls",
+  "alcoholContent": 0.138,
+  "glassType": "Champagne Flute",
+  "summerDrink": true,
+  "bestTime": "Day Time",
+  "color": "Yellow - Pink"
+}

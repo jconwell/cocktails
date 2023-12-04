@@ -1,0 +1,61 @@
+{
+    "cocktailName": "Treacle",
+    "ingredients": [
+        {
+            "name": "Aged Rum",
+            "volume": 2,
+            "unitOfMeasure": "ounces",
+            "isLiquid": true
+        },
+        {
+            "name": "Apple Juice",
+            "volume": 1,
+            "unitOfMeasure": "ounce",
+            "isLiquid": true
+        },
+        {
+            "name": "Simple Syrup",
+            "volume": 0.5,
+            "unitOfMeasure": "ounce",
+            "isLiquid": true
+        },
+        {
+            "name": "Angostura Bitters",
+            "volume": 2,
+            "unitOfMeasure": "dashes",
+            "isLiquid": true
+        },
+        {
+            "name": "Apple Slice",
+            "volume": 1,
+            "unitOfMeasure": "slice",
+            "isLiquid": false
+        }
+    ],
+    "popularity": 0.6,
+    "difficulty": 0.4,
+    "instructions": [
+        "Add the rum, apple juice, simple syrup and bitters into a mixing glass with ice.",
+        "Stir until well-chilled.",
+        "Strain into a rocks glass filled with a large ice cube.",
+        "Garnish with an apple slice."
+    ],
+    "tasteProfile": [
+        "sweet",
+        "fruity",
+        "bitter"
+    ],
+    "garnish": "Apple Slice",
+    "alcoholContent": 0.22,
+    "servingGlass": {
+        "type": "Rocks glass",
+        "size": "Standard size"
+    },
+    "preparationTime": {
+        "minutes": 5
+    },
+    "origin": {
+        "country": "United States",
+        "year": 2000
+    }  
+}

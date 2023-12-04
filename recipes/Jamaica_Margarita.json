@@ -1,0 +1,57 @@
+{
+  "name": "Jamaica Margarita",
+  "ingredients": [
+    {
+      "ingredient_name": "Tequila",
+      "volume": 2.0,
+      "unit": "ounces",
+      "is_liquid": true,
+      "ingredient_type": "alcohol"
+    },
+    {
+      "ingredient_name": "Lime Juice",
+      "volume": 1.0,
+      "unit": "ounces",
+      "is_liquid": true,
+      "ingredient_type": "citrus"
+    },
+    {
+      "ingredient_name": "Hibiscus Syrup",
+      "volume": 2.0,
+      "unit": "ounces",
+      "is_liquid": true,
+      "ingredient_type": "flavouring"
+    },
+    {
+      "ingredient_name": "Agave Syrup",
+      "volume": 1.0,
+      "unit": "ounces",
+      "is_liquid": true,
+      "ingredient_type": "sweetener"
+    },
+    {
+      "ingredient_name": "Ice",
+      "volume": 1.0,
+      "unit": "cups",
+      "is_liquid": false,
+      "ingredient_type": "misc"
+    }
+  ],
+  "popularity": 0.75,
+  "difficulty": 0.30,
+  "instructions": [
+    "Fill a cocktail shaker with ice.",
+    "Pour in the tequila, lime juice, hibiscus syrup, and agave syrup.",
+    "Shake until the outside of the shaker has frosted.",
+    "Strain into a chilled cocktail glass.",
+    "Garnish with a lime wheel."
+  ],
+  "taste_profile": ["bitter", "sweet", "floral", "citrus"],
+  "garnishes": "Lime wheel",
+  "alcohol_content": 0.2,
+  "glass_type": "cocktail glass",
+  "drink_type": "cocktail",
+  "occasion": ["summer", "party", "casual"],
+  "color": "red",
+  "custom_field": "Generally served chilled"
+}

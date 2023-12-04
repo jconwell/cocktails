@@ -1,0 +1,46 @@
+{
+  "cocktailName": "Angel's Delight",
+  "ingredients": [
+    {
+      "name": "Cream",
+      "volume": 0.75,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Gin",
+      "volume": 0.75,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Triple Sec",
+      "volume": 0.75,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Grenadine",
+      "volume": 0.75,
+      "unit": "oz",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.62,
+  "difficulty": 0.33,
+  "instructions": [
+    "Pour the triple sec, gin and grenadine into a cocktail shaker half-filled with ice cubes.",
+    "Shake well and strain into a cocktail glass.",
+    "Top with cream, stir well and serve."
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Creamy"
+  ],
+  "garnishes": "None",
+  "alcoholContent": 0.11,
+  "servingGlass": "Cocktail Glass",
+  "cocktailType": "Creamy",
+  "preparationTime": 5,
+  "color": "Pink"
+}

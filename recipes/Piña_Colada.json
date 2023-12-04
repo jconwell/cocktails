@@ -1,0 +1,46 @@
+{
+  "name": "Piña Colada",
+  "ingredients": [
+    {
+      "ingredientName": "White rum",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Coconut cream",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Pineapple juice",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Ice cubes",
+      "volume": 1,
+      "unit": "cup",
+      "isLiquid": false
+    }
+  ],
+  "popularityScore": 0.87,
+  "difficultyScore": 0.3,
+  "instructions": [
+    "Add white rum, coconut cream, pineapple juice, and ice to a blender.",
+    "Blend until smooth.",
+    "Pour into a glass.",
+    "Garnish with a slice of pineapple and a maraschino cherry."
+  ],
+  "tasteProfile": [
+    "sweet",
+    "creamy",
+    "fruity"
+  ],
+  "garnish": "Pineapple slice and maraschino cherry",
+  "alcoholContent": 0.13,
+  "glassType": "Hurricane glass",
+  "serveAs": "Frozen"
+}

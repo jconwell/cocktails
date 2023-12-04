@@ -1,0 +1,37 @@
+{
+  "name": "Jelly Bean",
+  "ingredients": [
+    {
+      "name": "Blackberry Brandy",
+      "volume": 1,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Anisette",
+      "volume": 1,
+      "unit": "ounce",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.4,
+  "difficulty": 0.2,
+  "instructions": [
+    "Pour both ingredients into a shaker with crushed ice",
+    "Shake well",
+    "Strain into a chilled cocktail glass"
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Anise",
+    "Fruity"
+  ],
+  "garnish": "No garnish",
+  "alcoholContent": 43.0,
+  "category": "Drink",
+  "glassType": "Cocktail glass",
+  "serveMethod": "Shaken",
+  "serveTemperature": "Cold",
+  "color": "Purple",
+  "variants": []
+}

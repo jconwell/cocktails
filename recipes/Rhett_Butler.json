@@ -1,0 +1,37 @@
+{
+  "cocktailName": "Rhett Butler",
+  "ingredients": [
+    {
+      "name": "Bourbon Whiskey",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Southern Comfort",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.2,
+  "instructions": [
+    "In a mixing shaker, combine both the bourbon whiskey and Southern Comfort.",
+    "Shake well with crushed ice.",
+    "Strain the mixture into a chill cocktail glass."
+  ],
+  "tasteProfile": ["sweet", "strong"],
+  "garnishes": "lemon twist or a cherry",
+  "alcoholContent": 0.4,
+  "drinkType": "Cocktail",
+  "glassType": "cocktail glass",
+  "durationToMake": 5,
+  "costLevel": "medium",
+  "isFrozen": false,
+  "isCocktail": true,
+  "hasFruit": false,
+  "isCreamy": false,
+  "isSpicy": false,
+  "isTropical": false
+}

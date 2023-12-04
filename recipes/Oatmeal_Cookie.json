@@ -1,0 +1,49 @@
+{
+"name": "Oatmeal Cookie",
+"ingredients": [
+    {
+        "name": "Baileys Irish Cream",
+        "volume": 0.5,
+        "unit": "ounces",
+        "isLiquid": true
+    },
+    {
+        "name": "Butterscotch schnapps",
+        "volume": 0.5,
+        "unit": "ounces",
+        "isLiquid": true
+    },
+    {
+        "name": "Jagermeister",
+        "volume": 0.5,
+        "unit": "ounces",
+        "isLiquid": true
+    },
+    {
+        "name": "Kahlua",
+        "volume": 0.5,
+        "unit": "ounces",
+        "isLiquid": true
+    }
+],
+"popularity": 0.6,
+"difficulty": 0.3,
+"instructions": [
+    "Chill a cocktail glass in the freezer.",
+    "In a mixing glass, combine the Baileys Irish Cream, Butterscotch schnapps, Jagermeister, and Kahlua",
+    "Stirrer well.",
+    "Strain the cocktail into the chilled glass."
+],
+"tasteProfile": [
+    "sweet",
+    "creamy"
+],
+"garnish": "None",
+"alcoholContent": 0.34,
+"servedIn": "shot glass",
+"drinkType": "shooter",
+"color": "brown",
+"flavourIntensity": "medium",
+"texture": "smooth",
+"equipmentNeeded": ["mixing glass", "stirrer", "strainer"]
+}

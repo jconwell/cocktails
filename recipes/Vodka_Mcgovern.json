@@ -1,0 +1,49 @@
+{
+  "cocktailName": "Vodka Mcgovern",
+  "ingredient": [
+    {
+      "name": "Vodka",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Raspberry Schnapps",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Cranberry Juice",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.3,
+  "instructions": [
+    "Fill the shaker with ice cubes.",
+    "Add Vodka.",
+    "Add Raspberry Schnapps.",
+    "Add Cranberry Juice.",
+    "Shake well.",
+    "Strain into a chilled glass."
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Fruity",
+    "Refreshing"
+  ],
+  "garnish": "Raspberries",
+  "alcoholContent": 10.0,
+  "servingSize": "1 glass",
+  "servingTemperature": "cold",
+  "glassType": "Cocktail glass",
+  "occasion": ["Party", "Casual", "Celebration"],
+  "allergenInfo": ["Contains Berries"],
+  "nutritionInfo": {
+    "calories": 150.0,
+    "sugarContent": "10g"
+  }
+}

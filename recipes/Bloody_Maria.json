@@ -1,0 +1,61 @@
+{
+  "name": "Bloody Maria",
+  "ingredients": [
+    {
+      "name": "Tequila",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Tomato juice",
+      "volume": 4,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon juice",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Worcestershire sauce",
+      "volume": 1,
+      "unit": "teaspoon",
+      "isLiquid": true
+    },
+    {
+      "name": "Hot sauce",
+      "volume": 1,
+      "unit": "teaspoon",
+      "isLiquid": true
+    },
+    {
+      "name": "Celery salt",
+      "volume": 1,
+      "unit": "pinch",
+      "isLiquid": false
+    },
+    {
+      "name": "Ground pepper",
+      "volume": 1,
+      "unit": "pinch",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.55,
+  "difficulty": 0.3,
+  "instructions": [
+    "In a shaker filled with ice, combine tequila, tomato juice, lemon juice, Worcestershire sauce, hot sauce, celery salt, and pepper.",
+    "Shake until well chilled.",
+    "Strain into an ice-filled glass."
+  ],
+  "tasteProfile": ["Savory", "Spicy"],
+  "garnish": "Celery stalk, lime wedge",
+  "alcoholContent": 0.14,
+  "color": "Red",
+  "glassType": "Highball glass",
+  "cocktailType": "Classic",
+  "mood": "Casual"
+}

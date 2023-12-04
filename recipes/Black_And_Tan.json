@@ -1,0 +1,32 @@
+{
+  "Cocktail Name": "Black And Tan",
+  "Ingredients": [
+    {
+      "Name": "Pale Ale",
+      "Volume": 8,
+      "Unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "Name": "Stout Beer",
+      "Volume": 8,
+      "Unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "Popularity": 0.7,
+  "Difficulty": 0.3,
+  "Instructions": [
+    "Fill a pint glass halfway with pale ale.",
+    "Using a spoon, carefully pour the stout beer over the back of the spoon so it floats on top of the pale ale."
+  ],
+  "Taste Profile": [
+    "Bitter", 
+    "Malty"
+  ],
+  "Garnish": "None",
+  "Alcohol Content": 0.05,
+  "Color": "Two-tone",
+  "Glass Type": "Pint Glass",
+  "Serving Temperature": "Cold"
+}

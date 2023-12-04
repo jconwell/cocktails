@@ -1,0 +1,61 @@
+{
+    "name": "Playoff Punch",
+    "ingredients": [
+        {
+            "name": "Pineapple Juice",
+            "volume": 16,
+            "unit": "oz",
+            "isLiquid": true
+        },
+        {
+            "name": "Yuzu Juice",
+            "volume": 4,
+            "unit": "oz",
+            "isLiquid": true
+        },
+        {
+            "name": "White Wine",
+            "volume": 25.6,
+            "unit": "oz",
+            "isLiquid": true
+        },
+        {
+            "name": "Peach Schnapps",
+            "volume": 12.8,
+            "unit": "oz",
+            "isLiquid": true
+        },
+        {
+            "name": "Fresh Peaches",
+            "volume": 3,
+            "unit": "count",
+            "isLiquid": false
+        }
+    ],
+    "popularity": 0.75,
+    "difficulty": 0.2,
+    "instructions": [
+        "Combine pineapple juice, yuzu juice, white wine, and peach schnapps in a punch bowl or large pitcher.",
+        "Cover and refrigerate for 2-3 hours to allow flavors to meld together.",
+        "Just before serving, stir in the sliced fresh peaches.",
+        "Serve in individual glasses over ice, if desired."
+    ],
+    "tasteProfile": [
+        "Fruity",
+        "Sweet",
+        "Tangy"
+    ],
+    "garnish": "Fresh peach slices, additional as needed",
+    "alcoholContent": 0.10,
+    "mood": [
+        "Celebration",
+        "Party"
+    ],
+    "timeOfDay": [
+        "Afternoon",
+        "Evening"
+    ],
+    "season": [
+        "Summer"
+    ]
+}

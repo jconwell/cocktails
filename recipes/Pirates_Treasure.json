@@ -1,0 +1,47 @@
+{
+  "name": "Pirate's Treasure",
+  "ingredients": [
+    {
+      "ingredient_name": "Spiced Rum",
+      "ingredient_volume": 1.5,
+      "unit_of_measure": "ounce",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Coconut Cream",
+      "ingredient_volume": 0.5,
+      "unit_of_measure": "ounce",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Pineapple Juice",
+      "ingredient_volume": 3,
+      "unit_of_measure": "ounce",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Squeeze of Lime",
+      "ingredient_volume": 0.25,
+      "unit_of_measure": "ounce",
+      "is_liquid": true
+    }
+  ],
+  "popularity_score": 0.5,
+  "difficulty_score": 0.2,
+  "instructions": [
+    "Add the spiced rum, coconut cream, and pineapple juice to a cocktail shaker.",
+    "Shake well to combine and chill the ingredients.",
+    "Pour into a cocktail glass with ice.",
+    "Top with a squeeze of lime."
+  ],
+  "taste_profile": [
+    "refreshing",
+    "tropical",
+    "creamy",
+    "citrusy"
+  ],
+  "garnish": "Pineapple slice and a maraschino cherry",
+  "alcohol_content": 0.15,
+  "glassware": "Cocktail Glass",
+  "cocktail_style": "Tropical"
+}

@@ -1,0 +1,54 @@
+{
+  "cocktailName": "Farnell",
+  "ingredients": [
+    {
+      "name": "Gin",
+      "volume": 2.0,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon Juice",
+      "volume": 0.75,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Simple Syrup",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Seltzer Water",
+      "volume": 3.0,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Fresh Strawberries",
+      "volume": 3.0,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.3,
+  "steps": [
+    "Muddle the strawberries in a shaker.",
+    "Add gin, lemon juice, and simple syrup to the shaker.",
+    "Fill the shaker with ice and shake vigorously.",
+    "Strain into a glass filled with ice.",
+    "Top with seltzer water."
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Sour",
+    "Fruity"
+  ],
+  "garnishes": "Slice of lemon",
+  "alcoholContent": 0.23,
+  "glassType": "Highball Glass",
+  "isServeCold": true,
+  "isShake": true
+}

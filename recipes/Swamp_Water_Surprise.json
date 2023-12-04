@@ -1,0 +1,53 @@
+{
+  "cocktailName": "Swamp Water Surprise",
+  "cocktailIngredients": [
+    {
+      "ingredientName": "Vodka",
+      "ingredientVolume": 1.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Blue Curacao",
+      "ingredientVolume": 0.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Limeade",
+      "ingredientVolume": 2,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Ice",
+      "ingredientVolume": 1,
+      "unitOfMeasure": "cubes",
+      "isLiquid": false
+    } 
+  ],
+  "popularity": 0.3,
+  "difficultyToMake": 0.1,
+  "instructions": [
+    "Fill a highball glass with ice cubes.",
+    "Pour vodka, blue curacao, and limeade into the glass.",
+    "Stir well until combined.",
+    "Serve immediate and enjoy your Swamp Water Surprise."
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Tropical",
+    "Citrus"
+  ],
+  "garnishes": "Lime wheel",
+  "alcoholContent": 20.0,
+  "color": "Blue-green",
+  "glassType": "Highball Glass",
+  "ICMClassification": "Short drink",
+  "isAlcoholic": true,
+  "recommendedEvent": "Summer parties",
+  "recommendedTimeOfDay": "Evening",
+
+  "sourceRegion": "Unknown",
+  "cocktailType": "Modern Classics"
+}

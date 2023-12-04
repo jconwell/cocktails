@@ -1,0 +1,42 @@
+{
+  "name": "Americano",
+  "ingredients": [
+    {
+      "name": "Campari",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Sweet vermouth",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Club soda to top",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.3,
+  "instructions": [
+    "Pour the Campari and vermouth over ice into glass.",
+    "Top with club soda.",
+    "Garnish with a slice of orange",
+    "Serve and enjoy."
+  ],
+  "tasteProfile": [
+    "Bitter",
+    "Sweet"
+  ],
+  "garnish": "Orange slice",
+  "alcoholContent": 24.0,
+  "glassType": "Old-fashioned (preferably)",
+  "cocktailType": "alcoholic",
+  "flavorStrength": 0.70,
+  "refreshmentFactor": 0.75,
+  "color": "Red"
+}

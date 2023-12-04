@@ -1,0 +1,41 @@
+{
+    "cocktailName": "Vanilla Martini",
+    "ingredients": [
+        {
+            "name": "Vodka",
+            "volume": 1.5,
+            "unit": "ounces",
+            "isLiquid": true
+        },
+        {
+            "name": "Vanilla Schnapps",
+            "volume": 1.0,
+            "unit": "ounces",
+            "isLiquid": true
+        },
+        {
+            "name": "Lemon Slice",
+            "volume": 1,
+            "unit": "count",
+            "isLiquid": false
+        }
+    ],
+    "popularity": 0.7,
+    "difficulty": 0.3,
+    "instructions": [
+        "Chill the martini glass.",
+        "In a shaker, combine vodka and vanilla schnapps. Shake well.",
+        "Strain the mixture into the chilled glass.",
+        "Garnish with the lemon slice."
+    ],
+    "taste Profile": [
+        "Sweet",
+        "Sour"
+    ],
+    "garnish": "Lemon Slice",
+    "alcoholContent": 0.6,
+    "servingTemperature": "Cold",
+    "color": "Clear",
+    "glassType": "Martini Glass",
+    "origin": "United States"
+}

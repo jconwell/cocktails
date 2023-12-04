@@ -1,0 +1,44 @@
+{
+  "cocktailName": "Dragon's Heart",
+  "ingredients": [
+    {
+      "name": "Vodka",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Raspberry liqueur",
+      "volume": 1.0,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Cranberry juice",
+      "volume": 2.0,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Ice cubes",
+      "volume": 4.0,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.3,
+  "instructions": [
+    "Pour vodka and raspberry liqueur into a shaker filled with ice.",
+    "Shake well.",
+    "Pour into a glass and top with cranberry juice."
+  ],
+  "tasteProfile": ["Sweet", "Fruity", "Sour"],
+  "garnish": "Raspberry",
+  "alcoholContent": 20.0,
+  "glassware": "Cocktail glass",
+  "method": "Shake",
+  "colour": "Pink",
+  "texture": "Smooth",
+  "aromatics": ["Berry", "Tart"]
+}

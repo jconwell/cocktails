@@ -1,0 +1,59 @@
+{
+  "cocktailName": "Brazilian Sangria",
+  "ingredientList": [
+    {
+      "ingredientName": "Cachaca",
+      "volume": 1.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Red Wine",
+      "volume": 4.0,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Orange Juice",
+      "volume": 2.0,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Pineapple Juice",
+      "volume": 1.0,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Strawberries",
+      "volume": 4,
+      "unitOfMeasure": "count",
+      "isLiquid": false
+    },
+    {
+      "ingredientName": "Lime Wedges",
+      "volume": 3,
+      "unitOfMeasure": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularityScore": 0.7,
+  "difficultyScore": 0.5,
+  "instructions": [
+    "In a large pitcher, muddle the strawberries and lime wedges.",
+    "Add the cachaca, red wine, orange juice, and pineapple juice.",
+    "Stir well and serve over ice."
+  ],
+  "tasteProfile": ["Sweet", "Fruity", "Citrus"],
+  "garnish": "Fresh strawberries and lime wedges",
+  "alcoholContent": 0.12,
+  "servingTemperature": "Cold",
+  "glassware": "Wine Glass",
+  "cocktailType": "Punch/Party Drink",
+  "coreSpirit": "Cachaca",
+  "preparationMethod": "Muddle/Stir",
+  "aromaProfile": ["Fruity", "Citrus"],
+  "color": "Red",
+  "texture": "Smooth"
+}

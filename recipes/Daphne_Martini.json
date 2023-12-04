@@ -1,0 +1,50 @@
+
+{
+  "name": "Daphne Martini",
+  "ingredients": [
+    {
+      "name": "Gin",
+      "volume": 2.24,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Dry vermouth",
+      "volume": 0.75,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Cherry liqueur",
+      "volume": 0.24,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Orange peel",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.87,
+  "difficulty": 0.56,
+  "instructions": [
+    "Chill martini glass",
+    "In a mixing glass, combine gin, vermouth, and cherry liqueur",
+    "Stir with ice for 20 seconds",
+    "Strain into martini glass",
+    "Garnish with orange peel"
+  ],
+  "tasteProfile": [
+    "Bitter",
+    "Sweet",
+    "Citrus"
+  ],
+  "garnish": "orange peel",
+  "alcoholContent": 0.32,
+  "idealServingTemperature": "Cold",
+  "glassType": "Martini glass",
+  "isShaken": false,
+  "isStirred": true
+}

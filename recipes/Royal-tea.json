@@ -1,0 +1,41 @@
+{
+  "name": "Royal-tea",
+  "ingredients": [
+    {
+      "name": "Hot, strong Earl Grey tea",
+      "volume": 8.0,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Pimm's No. 1",
+      "volume": 2.0,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon juice",
+      "volume": 1.0,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.45,
+  "difficulty": 0.2,
+  "instructions": [
+    "Brew the Earl Grey tea.",
+    "While the tea is still hot, add the Pimm's No. 1.",
+    "Add the lemon juice.",
+    "Stir well to combine."
+  ],
+  "tasteProfile": [
+    "Mild",
+    "Herbic",
+    "Citrus"
+  ],
+  "garnishes": "Lemon slice and mint sprig",
+  "alcoholContent": 0.14,
+  "glassType": "Tea cup",
+  "drinkTemperature": "Hot",
+  "creationDecade": 1940
+}

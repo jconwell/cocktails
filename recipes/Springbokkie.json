@@ -1,0 +1,30 @@
+{
+  "cocktail": "Springbokkie",
+  "ingredients": [
+    {
+      "name": "Creme de Menthe, green",
+      "volume": 0.75,
+      "unit": "ounce",
+      "is_liquid": true
+    },
+    {
+      "name": "Amarula Cream",
+      "volume": 0.75,
+      "unit": "ounce",
+      "is_liquid": true
+    }
+  ],
+  "popularity": 0.5,
+  "difficulty": 0.2,
+  "instructions": [
+    "1. Chill a shot glass by filling it with ice and water. Allow it to sit for a few minutes, then dump out the ice water.",
+    "2. Pour the green creme de menthe into the shot glass.",
+    "3. Slowly Pour the Amarula Cream over the back of a spoon so it floats on top of the creme de menthe."
+  ],
+  "taste_profile": ["Minty", "Creamy", "Sweet"],
+  "garnish": "None",
+  "alcohol_content": 0.15,
+  "glass_type": "Shot Glass",
+  "time_needed": "5 minutes",
+  "color": "Green and Creamy White Stripes"
+}

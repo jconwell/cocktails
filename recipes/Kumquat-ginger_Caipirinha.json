@@ -1,0 +1,59 @@
+{
+  "cocktailName": "Kumquat-ginger Caipirinha",
+  "ingredients": [
+    {
+      "name": "lime",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    },
+    {
+      "name": "kumquats",
+      "volume": 5,
+      "unit": "count",
+      "isLiquid": false
+    },
+    {
+      "name": "ginger",
+      "volume": 1,
+      "unit": "ounce",
+      "isLiquid": false
+    },
+    {
+      "name": "superfine sugar",
+      "volume": 2,
+      "unit": "teaspoons",
+      "isLiquid": false
+    },
+    {
+      "name": "Cachaca",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.4,
+  "instructions": [
+    "Muddle the lime, kumquats and ginger together in a shaker.",
+    "Add sugar and muddle again.",
+    "Fill shaker with ice and add Cachaca.",
+    "Shake well and pour into glass."
+  ],
+  "tasteProfile": [
+    "fruity",
+    "sour",
+    "sweet",
+    "spicy"
+  ],
+  "garnish": "Kumquat and mint",
+  "alcoholContent": 0.2,
+  "appearance": {
+    "color": "amber",
+    "transparency": "clear"
+  },
+  "baseSpirit": "Cachaca",
+  "glassType": "Rocks Glass",
+  "servingMethod": "Muddled",
+  "cocktailType": "Classic"
+}

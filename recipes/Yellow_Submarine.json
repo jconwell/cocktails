@@ -1,0 +1,42 @@
+{
+  "name": "Yellow Submarine",
+  "ingredients": [
+    {
+      "ingredientName": "Vodka",
+      "ingredientVolume": 1.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Banana Liqueur",
+      "ingredientVolume": 0.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Orange Juice",
+      "ingredientVolume": 4,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Lemon Juice",
+      "ingredientVolume": 1,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.4,
+  "difficulty": 0.3,
+  "preparationSteps": [
+    "Pour vodka, banana liqueur, orange juice, and lemon juice into a shaker with ice.",
+    "Shake well.",
+    "Strain into a highball glass filled with ice."
+  ],
+  "tasteProfile": ["Citrus", "Sweet", "Fruity"],
+  "garnishes": "Banana Slice",
+  "alcoholContent": 0.15,
+  "color": "Yellow",
+  "glassType": "Highball Glass",
+  "serveMethod": "On the Rocks"
+}

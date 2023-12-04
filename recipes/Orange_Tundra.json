@@ -1,0 +1,49 @@
+{
+  "cocktail_name": "Orange Tundra",
+  "ingredients": [
+    {
+      "name": "vodka",
+      "quantity": 1.5,
+      "unit": "oz",
+      "liquid": true
+    },
+    {
+      "name": "orange juice",
+      "quantity": 2.5,
+      "unit": "oz",
+      "liquid": true
+    },
+    {
+      "name": "ice cubes",
+      "quantity": 3,
+      "unit": "count",
+      "liquid": false
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.2,
+  "instructions": [
+    {
+      "step1": "Fill a glass with ice cubes."
+    },
+    {
+      "step2": "Pour vodka over ice."
+    },
+    {
+      "step3": "Fill the rest of the glass with orange juice."
+    }, 
+    {
+      "step4": "Stir well and serve."
+    }
+  ],
+  "taste_profile": [
+    "sweet",
+    "citrus"
+  ],
+  "garnishes": "slice of orange wedge",
+  "alcohol_content": 0.15,
+  "glass_type": "highball glass",
+  "number_of_components" : 2,
+  "time_to_make" : 5,
+  "base_spirit": "vodka"
+}

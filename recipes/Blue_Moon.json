@@ -1,0 +1,38 @@
+{
+  "cocktailName": "Blue Moon",
+  "ingredients": [
+    {
+      "name": "Gin",
+      "volume": 2.0,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon Juice",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Creme de Violette",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.4,
+  "difficulty": 0.3,
+  "instructions": [
+    "Pour gin, lemon juice, and creme de violette into a cocktail shaker.",
+    "Add ice and shake until chilled.",
+    "Strain into a chilled cocktail glass."
+  ],
+  "tasteProfile": ["Sour", "Floral", "Crisp"],
+  "garnish": "Lemon twist",
+  "alcoholContent": 0.2,
+  "drinkType": "Cocktail",
+  "glassType": "Cocktail glass",
+  "isIced": false,
+  "isBlended": false,
+  "hasFruit": false
+}

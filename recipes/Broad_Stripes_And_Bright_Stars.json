@@ -1,0 +1,57 @@
+{
+  "cocktailName": "Broad Stripes And Bright Stars",
+  "ingredients": [
+    {
+      "name": "Blueberry-infused rye whiskey",
+      "volume": 1.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon juice",
+      "volume": 0.75,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Simple syrup",
+      "volume": 0.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Creme de Mure",
+      "volume": 0.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Blackberries",
+      "volume": 3,
+      "unitOfMeasure": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.6,
+  "instructions": [
+    "Muddle the blackberries in the base of a shaker.",
+    "Add the rest of the ingredients.",
+    "Shake well with ice.",
+    "Strain into a glass filled with crushed ice."
+  ],
+  "tasteProfile": [
+    "Fruity",
+    "Sweet",
+    "Tart"
+  ],
+  "garnishes": "Blackberry and mint sprig on top",
+  "alcoholContent": 0.15,
+  "class": "Short drink",
+  "glass": "Old Fashioned glass",
+  "method": "Shaken",
+  "served": "On the rocks",
+  "strength": "2/1",
+  "drinkType": "Alcoholic",
+  "color": "Red"
+}

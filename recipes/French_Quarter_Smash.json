@@ -1,0 +1,51 @@
+{
+  "name": "French Quarter Smash",
+  "ingredients": [
+    {
+      "ingredient_name": "Whiskey",
+      "ingredient_volume": 2.0,
+      "ingredient_unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Lemon",
+      "ingredient_volume": 1.0,
+      "ingredient_unit": "count",
+      "is_liquid": false
+    },
+    {
+      "ingredient_name": "Mint leaves",
+      "ingredient_volume": 6.0,
+      "ingredient_unit": "count",
+      "is_liquid": false
+    },
+    {
+      "ingredient_name": "Simple Syrup",
+      "ingredient_volume": 1.0,
+      "ingredient_unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Crushed Ice",
+      "ingredient_volume": 1.0,
+      "ingredient_unit": "cups",
+      "is_liquid": false
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.2,
+  "instructions": [
+    "Muddle the lemon, mint, and simple syrup in a shaker.",
+    "Add whiskey and fill with ice.",
+    "Shake well until chilled.",
+    "Strain into a rocks glass filled with crushed ice."
+  ],
+  "taste_profile": ["Sweet", "Citrus", "Minty"],
+  "garnishes": "Mint sprig and lemon wheel",
+  "alcohol_content": 0.4,
+  "yield": {
+    "value": 1,
+    "unit": "drinks"
+  },
+  "glassware": "Rocks Glass"
+}

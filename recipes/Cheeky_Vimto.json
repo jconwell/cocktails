@@ -1,0 +1,34 @@
+{
+  "name": "Cheeky Vimto",
+  "recipe": [
+    {
+      "ingredient": "Port Wine",
+      "volume": 1.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredient": "WKD Reef or WKD Original Blue",
+      "volume": 12,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.8,
+  "difficulty": 0.1,
+  "instructions": [
+    "Fill a highball glass with ice cubes.",
+    "Pour Port Wine over the ice.",
+    "Top it up with WKD Reef or WKD Original Blue."
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Tarty",
+    "Fruity"
+  ],
+  "garnish": "None",
+  "alcoholContent": 0.05,
+  "cocktailType": "Highball",
+  "servingGlass": "Highball Glass",
+  "color": "Blue/Purple"
+}

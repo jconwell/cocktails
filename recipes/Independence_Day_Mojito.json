@@ -1,0 +1,62 @@
+{
+  "name": "Independence Day Mojito",
+  "ingredients": [
+    {
+      "name": "White Rum",
+      "volume": 2,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Blueberries",
+      "volume": 15,
+      "unit": "count",
+      "isLiquid": false
+    },
+    {
+      "name": "Mint Leaves",
+      "volume": 10,
+      "unit": "count",
+      "isLiquid": false
+    },
+    {
+      "name": "Sugar",
+      "volume": 1,
+      "unit": "tbsp",
+      "isLiquid": false
+    },
+    {
+      "name": "Lime Juice",
+      "volume": 1,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Soda Water",
+      "volume": 2,
+      "unit": "oz",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.3,
+  "instructions": [
+    "Muddle the blueberries and mint leaves at the bottom of a glass.",
+    "Add sugar and lime juice to the glass.",
+    "Pour in white rum.",
+    "Top with soda water.",
+    "Stir gently until all ingredients are well combined."
+  ],
+  "tasteProfile": [
+    "Fresh",
+    "Fruity",
+    "Sweet",
+    "Minty"
+  ],
+  "garnish": "Mint sprig and a few blueberries",
+  "alcoholContent": 0.14,
+  "drinkType": "Refreshing",
+  "timeToMake": 5,
+  "glassType": "Highball",
+  "ice": "Crushed"
+}

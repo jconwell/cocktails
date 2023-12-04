@@ -1,0 +1,43 @@
+{
+  "cocktailName": "Perfect Storm",
+  "ingredients": [
+    {
+      "name": "Dark rum",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Ginger beer",
+      "volume": 3,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lime juice",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.3,
+  "instructions": [
+    "Fill a shaker with ice cubes.",
+    "Add dark rum and lime juice.",
+    "Shake and strain into a highball glass filled with ice cubes.",
+    "Top off with ginger beer."
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Citrus",
+    "Spicy"
+  ],
+  "garnish": "Lime wedge",
+  "alcoholContent": 0.2,
+  "glassType": "Highball glass",
+  "cocktailType": "Long drinks",
+  "cocktailFamily": "Rum cocktail",
+  "sweetnessLevel": 0.4,
+  "bitternessLevel": 0.1
+}

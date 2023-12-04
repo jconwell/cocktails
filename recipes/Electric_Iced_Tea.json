@@ -1,0 +1,44 @@
+{
+  "Cocktail": "Electric Iced Tea",
+  "Ingredients" : [{
+     "Ingredient_Name" : "Vodka",
+     "Volume" : 0.5,
+     "Unit" : "oz",
+     "Is_Liquid" : true
+   }, {
+     "Ingredient_Name" : "Rum",
+     "Volume" : 0.5,
+     "Unit" : "oz",
+     "Is_Liquid" : true
+   }, {
+     "Ingredient_Name" : "Tequila",
+     "Volume" : 0.5,
+     "Unit" : "oz",
+     "Is_Liquid" : true
+   }, {
+     "Ingredient_Name" : "Blue Curacao",
+     "Volume" : 0.5,
+     "Unit" : "oz",
+     "Is_Liquid" : true
+   }, {
+     "Ingredient_Name" : "Sour Mix",
+     "Volume" : 1,
+     "Unit" : "oz",
+     "Is_Liquid" : true
+   }, {
+     "Ingredient_Name" : "Lemon-Lime Soda",
+     "Volume" : 1,
+     "Unit" : "oz",
+     "Is_Liquid" : true
+   }],
+  "Popularity_Score" : 0.7,
+  "Difficulty_Score" : 0.6,
+  "Instructions" : ["Combine vodka, rum, tequila, blue curacao and sour mix in a cocktail shaker with ice.", "Shake well.", "Strain into a highball glass", "Top with lemon-lime soda.", "Stir gently."],
+  "Taste_Profile" : ["Sour", "Sweet", "Citrus"],
+  "Garnish" : "Lemon Slice",
+  "Alcohol_Content" : 0.18,
+  "Colour" : "Blue",
+  "Glass_Type" : "Highball glass",
+  "Temperature" : "Cold",
+  "Drink_Type" : "Cocktail"
+}

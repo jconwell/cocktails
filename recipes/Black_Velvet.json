@@ -1,0 +1,38 @@
+{
+  "cocktailName": "Black Velvet",
+  "ingredients": [
+    {
+      "ingredientName": "Chilled Champagne",
+      "volume": 5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true 
+    },
+    {
+      "ingredientName": "Stout Beer",
+      "volume": 5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.2,
+  "instructions": [
+    "Take a tall, narrow glass such as a champagne flute and pour in the stout beer",
+    "Allow it to settle before carefully topping up the glass with the champagne, ideally without making it overflow"
+  ],
+  "tasteProfile": ["bitter", "tangy"],
+  "garnish": "No garnish is required",
+  "alcoholContent": 0.12,
+  "glassType": {
+    "type": "champagne flute",
+    "size": 10,
+    "unit": "ounces"
+  },
+  "cocktailType": "Beer Cocktail",
+  "color": "Black",
+  "texture": "Smooth",
+  "serve": {
+    "serveMethod": "Straight-up; without ice",
+    "temperature": "Chilled"
+  }
+}

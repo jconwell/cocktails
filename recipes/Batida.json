@@ -1,0 +1,49 @@
+{
+  "name": "Batida",
+  "ingredients": [
+    {
+      "name": "Cachaca",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Sweetened condensed milk",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Passion fruit juice",
+      "volume": 3,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Ice",
+      "volume": 1,
+      "unit": "cup",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.4,
+  "difficulty": 0.2,
+  "instructions": [
+    "Add all ingredients into a blender",
+    "Blend until smooth",
+    "Pour into a glass",
+    "Garnish with a slice of passion fruit"
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Fruity",
+    "Strong"
+  ],
+  "garnish": "Passion fruit slice",
+  "alcoholContent": 0.2,
+  "drinkware": "Highball glass",
+  "color": "Creamy White",
+  "baseSpirit": "Cachaca",
+  "cocktailType": "Blended",
+  "flaming": false
+}

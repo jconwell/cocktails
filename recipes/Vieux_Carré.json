@@ -1,0 +1,62 @@
+{
+  "Cocktail Name": "Vieux Carré",
+  "Ingredients": [
+    {
+      "Ingredient_Name": "Rye Whiskey",
+      "Ingredient_Volume": 0.75,
+      "Unit_of_Measure": "ounces",
+      "Is_Liquid": true
+    },
+    {
+      "Ingredient_Name": "Cognac",
+      "Ingredient_Volume": 0.75,
+      "Unit_of_Measure": "ounces",
+      "Is_Liquid": true
+    },
+    {
+      "Ingredient_Name": "Sweet Vermouth",
+      "Ingredient_Volume": 0.75,
+      "Unit_of_Measure": "ounces",
+      "Is_Liquid": true
+    },
+    {
+      "Ingredient_Name": "Bénédictine",
+      "Ingredient_Volume": 0.25,
+      "Unit_of_Measure": "ounces",
+      "Is_Liquid": true
+    },
+    {
+      "Ingredient_Name": "Peychaud's Bitters",
+      "Ingredient_Volume": 2,
+      "Unit_of_Measure": "dashes",
+      "Is_Liquid": true
+    },
+    {
+      "Ingredient_Name": "Angostura Bitters",
+      "Ingredient_Volume": 2,
+      "Unit_of_Measure": "dashes",
+      "Is_Liquid": true
+    },
+    {
+      "Ingredient_Name": "Ice Cubes",
+      "Ingredient_Volume": 5,
+      "Unit_of_Measure": "count",
+      "Is_Liquid": false
+    }
+  ],
+  "Popularity Score": 0.7,
+  "Difficulty Level": 0.5,
+  "How_to_Make": [
+    "Combine all ingredients in a double Old Fashioned glass over ice",
+    "Stir well",
+    "Garnish with a cherry"
+  ],
+  "Taste Profile": [
+    "Sweet",
+    "Strong",
+    "Complex",
+    "Bitter"
+  ],
+  "Garnish": "Cherry",
+  "Alcohol Content": 0.35
+}

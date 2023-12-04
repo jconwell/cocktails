@@ -1,0 +1,48 @@
+{
+  "cocktailName": "Brandy Flip",
+  "ingredients": [
+    {
+      "name": "Brandy",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Simple Syrup",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Egg",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    },
+    {
+      "name": "Nutmeg",
+      "volume": 0.25,
+      "unit": "teaspoon",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.4,
+  "difficulty": 0.6,
+  "instructions": [
+    "In shaker, combine brandy, simple syrup and egg.",
+    "Shake well without ice to emulsify egg.",
+    "Add ice to shaker and shake again until well chilled.",
+    "Strain into an old fashioned glass.",
+    "Sprinkle nutmeg on top."
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Creamy",
+    "Spicy"
+  ],
+  "garnish": "Nutmeg",
+  "alcoholContent": 0.15,
+  "colour": "Frothy Yellowish",
+  "glassType": "Old Fashioned Glass",
+  "serveTime": "Evening"
+}

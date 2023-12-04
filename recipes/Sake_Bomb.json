@@ -1,0 +1,44 @@
+{
+  "name": "Sake Bomb",
+  "ingredients": [
+    {
+      "name": "Japanese Beer",
+      "volume": 8,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Sake",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.2,
+  "instructions": [
+    "Pour Japanese beer into a pint glass until it's half full.",
+    "Fill a shot glass with sake.",
+    "Drop the shot glass into the pint glass.",
+    "Drink immediately."
+  ],
+  "taste_profile": [
+    "bitter",
+    "strong"
+  ],
+  "garnishes": "None",
+  "alcohol_content": 0.13,
+  "glassware": "Pint glass and shot glass",
+  "serving_size": 1,
+  "prep_time": 2,
+  "origin_country": "Japan",
+  "flavour_notes": [
+    "umami",
+    "hoppy",
+    "boozy"
+  ],
+  "temperature": "Cold",
+  "mixing_method": "Drop",
+  "primary_alcohol": "Sake",
+  "color": "Amber"
+}

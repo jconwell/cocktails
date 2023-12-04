@@ -1,0 +1,40 @@
+{
+  "name": "Aura In Me",
+  "ingredients": [
+    {
+      "ingredient_name": "Vodka",
+      "ingredient_volume": 1.5,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Creme de Cacao",
+      "ingredient_volume": 0.5,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Cream",
+      "ingredient_volume": 2,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    }
+  ],
+  "popularity": 0.4,
+  "difficulty": 0.3,
+  "instructions": [
+    "Pour all ingredients into shaker with ice cubes",
+    "Shake well",
+    "Strain in chilled martini cocktail glass"
+  ],
+  "taste_profile": [
+    "Creamy",
+    "Sweet",
+    "Smooth"
+  ],
+  "garnishes": "Chocolate Flakes on Top",
+  "alcohol_content": 0.17,
+  "color": "White",
+  "glass_type": "martini glass",
+  "serving_temperature": "cold"
+}

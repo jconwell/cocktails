@@ -1,0 +1,58 @@
+{
+    "Cocktail": "Tuxedo",
+    "Ingredients": [
+        {
+            "Name": "Gin",
+            "Volume": 2.0,
+            "Unit": "ounces",
+            "IsLiquid": true
+        },
+        {
+            "Name": "Dry Vermouth",
+            "Volume": 1.0,
+            "Unit": "ounces",
+            "IsLiquid": true
+        },
+        {
+            "Name": "Maraschino Liqueur",
+            "Volume": 0.25,
+            "Unit": "ounces",
+            "IsLiquid": true
+        },
+        {
+            "Name": "Absinthe",
+            "Volume": 0.25,
+            "Unit": "ounces",
+            "IsLiquid": true
+        },
+        {
+            "Name": "Orange Bitters",
+            "Volume": 2,
+            "Unit": "dashes",
+            "IsLiquid": true
+        },
+        {
+            "Name": "Lemon Twist",
+            "Volume": 1,
+            "Unit": "twist",
+            "IsLiquid": false
+        }
+    ],
+    "Popularity": 0.65,
+    "Difficulty": 0.45,
+    "Instructions": [
+        "Stir gin, vermouth, maraschino liqueur, absinthe, and bitters over ice",
+        "Strain into a chilled cocktail glass",
+        "Garnish with lemon twist"
+    ],
+    "TasteProfile": [
+        "Crisp",
+        "Smooth",
+        "Herbal"
+    ],
+    "Garnishes": "Lemon Twist",
+    "AlcoholContent": 36.75,
+    "ServingGlass": "Cocktail Glass",
+    "PreparationTime": 5,
+    "Temperature": "Chilled"
+}

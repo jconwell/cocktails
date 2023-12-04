@@ -1,0 +1,41 @@
+{
+  "cocktailName": "Red Beer",
+  "ingredients": [
+    {
+      "name": "Beer",
+      "volume": 12,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Tomato Juice",
+      "volume": 4,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.5,
+  "difficulty": 0.2,
+  "instructions": [
+    "Pour the beer into a pint glass.",
+    "Top off with tomato juice.",
+    "Stir gently to mix."
+  ],
+  "tasteProfile": [
+    "Salty",
+    "Bitter"
+  ],
+  "garnish": "Celery stick",
+  "alcoholContent": 0.05,
+  "additionalAttributes": {
+    "color": "Red",
+    "texture": "Smooth",
+    "serveIn": "Pint glass",
+    "temperature": "Cold",
+    "idealOccasions": [
+      "Brunch",
+      "Summers",
+      "Picnic"
+    ]
+  }
+}

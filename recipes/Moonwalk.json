@@ -1,0 +1,45 @@
+{
+  "cocktail": "Moonwalk",
+  "ingredients": [
+    {
+      "name": "Grapefruit juice",
+      "volume": 1,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Grand Marnier",
+      "volume": 1,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Rose water",
+      "volume": 0.02,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Champagne",
+      "volume": 2,
+      "unit": "ounce",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.4,
+  "instructions": [
+    "Pour the grapefruit juice, Grand Marnier and rose water into a cocktail shaker with ice.",
+    "Shake well to mix.",
+    "Strain into a champagne glass.",
+    "Top up with champagne."
+  ],
+  "tasteProfile": ["citrus", "bubbly", "refreshing"],
+  "garnish": "None",
+  "alcoholContent": 0.25,
+  "timeOfDay": "Evening",
+  "servingTemperature": "Cold",
+  "glassType": "Champagne flute",
+  "origin": "Savoy Hotel, London",
+  "yearOfCreation": 1969
+}

@@ -1,0 +1,52 @@
+{
+    "cocktailName": "Vampire Kiss Martini",
+    "ingredientsList": [
+        {
+            "name": "Raspberry vodka",
+            "volume": 1.5,
+            "unit": "oz",
+            "isLiquid": true
+        },
+        {
+            "name": "Creme de Cassis",
+            "volume": 0.5,
+            "unit": "oz",
+            "isLiquid": true
+        },
+        {
+            "name": "Cranberry juice",
+            "volume": 2,
+            "unit": "oz",
+            "isLiquid": true
+        },
+        {
+            "name": "Champagne",
+            "volume": 0.5,
+            "unit": "oz",
+            "isLiquid": true
+        },
+        {
+            "name": "Red sugar crystals",
+            "volume": 1,
+            "unit": "count",
+            "isLiquid": false
+        }
+    ],
+    "popularityScore": 0.7,
+    "difficultyScore": 0.5,
+    "stepByStepInstructions": [
+        "Rim a martini glass with red sugar crystals.",
+        "In a cocktail shaker filled with ice, combine the vodka, creme de cassis, and cranberry juice.",
+        "Shake well, and strain into the prepared glass.",
+        "Top with champagne and serve immediately."
+    ],
+    "tasteProfile": [
+        "Sweet",
+        "Fruity",
+        "Bubbly"
+    ],
+    "garnish": "Raspberry on a stick",
+    "alcoholContent": 14.75,
+    "glassType": "Martini glass",
+    "cocktailType": "Chilled"
+}

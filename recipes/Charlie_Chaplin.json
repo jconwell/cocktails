@@ -1,0 +1,36 @@
+{
+  "name": "Charlie Chaplin",
+  "ingredients": [
+    {
+      "name": "Apricot Brandy",
+      "volume": 0.75,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Sloe Gin",
+      "volume": 0.75,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Lime Juice",
+      "volume": 0.75,
+      "unit": "oz",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.68,
+  "difficulty": 0.2,
+  "instructions": [
+    "Pour all ingredients into cocktail shaker filled with ice cubes.",
+    "Shake well for 10-15 seconds or until the outside of shaker becomes frosted.",
+    "Strain into chilled cocktail glass."
+  ],
+  "tasteProfile": ["Sweet", "Fruity", "Tart"],
+  "garnish": "Lime slice",
+  "alcoholContent": 0.26,
+  "cocktailType": "Stirred",
+  "cocktailStrength": "Moderate",
+  "servingGlass": "Cocktail Glass"
+}

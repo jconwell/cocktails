@@ -1,0 +1,56 @@
+{
+  "cocktailName": "Four Score",
+  "ingredients": [
+    {
+      "name": "Gin",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon Juice",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Sugar Syrup",
+      "volume": 0.75,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Soda Water",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon Wheel",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.3,
+  "steps": [
+    "Mix gin, lemon juice and sugar syrup in a shaker.",
+    "Shake well with ice.",
+    "Strain into a highball glass filled with ice.",
+    "Top up with soda water.",
+    "Garnish with a lemon wheel."
+  ],
+  "tasteProfile": [
+    "Citrusy",
+    "Sour",
+    "Sweet",
+    "Refreshing"
+  ],
+  "garnish": "Lemon Wheel",
+  "alcoholContent": 0.2,
+  "colour": "Clear",
+  "drinkType": "Long Drink",
+  "glassType": "Highball Glass",
+  "isIBAOfficial": false
+}

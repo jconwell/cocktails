@@ -1,0 +1,41 @@
+{
+  "name": "Grinch",
+  "ingredients": [
+    {
+      "name": "Midori melon liqueur",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "lemon juice",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "simple syrup",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.3,
+  "instructions": [
+    "Pour the ingredients into a shaker with ice cubes.",
+    "Shake well.",
+    "Strain into a chilled cocktail glass."
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Sour"
+  ],
+  "garnish": "Cherry",
+  "alcoholContent": 0.22,
+  "color": "Green",
+  "glassType": "Cocktail glass",
+  "isBlended": false,
+  "isClassic": false,
+  "season": "Winter"
+}

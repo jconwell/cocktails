@@ -1,0 +1,64 @@
+{
+  "cocktailName": "Flaming Spanish Coffee",
+  "ingredients": [
+    {
+      "name": "rum",
+      "volume": 0.75,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "coffee liqueur",
+      "volume": 0.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "triple sec",
+      "volume": 0.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "coffee",
+      "volume": 3.0,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "whipping cream",
+      "volume": 1.0,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "sugar",
+      "volume": 1.0,
+      "unit": "tsp",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.75,
+  "difficulty": 0.65,
+  "instructions": [
+    "Rim the top of a glass with sugar.",
+    "Pour rum, coffee liqueur, and triple sec into the glass.",
+    "Light the mixture on fire and rotate the glass to caramelise the sugar.",
+    "Pour in hot coffee and top with whipped cream."
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Boozy",
+    "Creamy",
+    "Coffee"
+  ],
+  "garnish": "Grated nutmeg",
+  "alcoholContent": 0.14,
+  "glassware": "Irish Coffee Mug",
+  "style": "Hot",
+  "baseSpirit": "Rum",
+  "cocktailType": "After Dinner / Dessert",
+  "flavour": ["Rum", "Coffee", "Cream"],
+  "origin": "Modern Classics",
+  "alcoholic": true
+}

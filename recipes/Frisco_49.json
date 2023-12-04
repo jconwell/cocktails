@@ -1,0 +1,47 @@
+{
+  "cocktailName": "Frisco 49",
+  "ingredients": [
+    {
+      "name": "bourbon",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "lemon juice",
+      "volume": 0.75,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Benedictine",
+      "volume": 0.75,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.4,
+  "instructions": [
+    "Fill a shaker with ice cubes",
+    "Add all ingredients",
+    "Shake and strain into a chilled cocktail glass"
+  ],
+  "tasteProfile": [
+    "sour",
+    "bitter",
+    "strong"
+  ],
+  "garnish": "Cocktail cherry and lemon zest",
+  "alcoholContent": 0.2,
+  "extraInfo": {
+    "perfectServe": "Cocktail Glass",
+    "cocktailType": "Classic",
+    "occasion": [
+      "Casual Night",
+      "Parties",
+      "Home Parties"
+    ],
+    "temperature": "Cold"
+  }
+}

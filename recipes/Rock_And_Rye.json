@@ -1,0 +1,38 @@
+{
+  "cocktailName": "Rock And Rye",
+  "ingredients": [
+    {
+      "name": "Rye whiskey",
+      "volume": 2.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Rock candy",
+      "volume": 1,
+      "unit": "pieces",
+      "isLiquid": false
+    },
+    {
+      "name": "Lemon slice",
+      "volume": 1,
+      "unit": "slice",
+      "isLiquid": false
+    }
+  ],
+  "popularityScore": 0.6,
+  "difficultyScore": 0.5,
+  "instructions": [
+    "Add rye whiskey to a glass.",
+    "Add a piece of rock candy.",
+    "Stir until the candy is mostly dissolved.",
+    "Add a slice of lemon."
+  ],
+  "tasteProfile": ["sweet", "citrus", "strong"],
+  "garnish": "Lemon slice",
+  "alcoholContent": 40.0,
+ "glassType": "Old fashioned glass",
+ "servingTemperature": "Chilled",
+ "IBAOfficial": false,
+ "timesOrdered": 7500  
+}

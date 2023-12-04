@@ -1,0 +1,44 @@
+{
+    "cocktail": {
+        "name": "Vodka Martini",
+        "ingredients": [
+            {
+                "ingredient_name": "Vodka",
+                "volume": 2,
+                "unit_of_measure": "ounces",
+                "is_liquid": true
+            },
+            {
+                "ingredient_name": "Dry Vermouth",
+                "volume": 1,
+                "unit_of_measure": "ounces",
+                "is_liquid": true
+            },
+            {
+                "ingredient_name": "Lemon twist",
+                "volume": 1,
+                "unit_of_measure": "count",
+                "is_liquid": false
+            }
+        ],
+        "food_pairing": ["Caviar", "Smoked Salmon"],
+        "glassware": "Martini Glass",
+        "popularity": 0.8,
+        "difficulty": 0.4,
+        "instructions": [
+            "Chill martini glass",
+            "Pour vodka and dry vermouth into a mixing glass",
+            "Stir well with a stirring spoon",
+            "Strain mixture into the chilled martini glass",
+            "Garnish with a lemon twist"
+        ],
+        "taste_profile": ["dry", "citrus", "strong"],
+        "garnish": "Lemon twist",
+        "alcohol_content": 0.40,
+        "color": "clear",
+        "served": "straight up",
+        "mix_method": "stirred",
+        "occasion": ["party", "special occasions", "casual"],
+        "mood": ["celebratory", "sophisticated"]
+    }
+}

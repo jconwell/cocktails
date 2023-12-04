@@ -1,0 +1,55 @@
+{
+    "cocktailName": "New England Sour",
+    "ingredients": [
+        {
+            "name": "Bourbon",
+            "volume": 2,
+            "unit": "ounces",
+            "isLiquid": true
+        },
+        {
+            "name": "Lemon Juice",
+            "volume": 0.75,
+            "unit": "ounces",
+            "isLiquid": true
+        },
+        {
+            "name": "Maple Syrup",
+            "volume": 0.5,
+            "unit": "ounces",
+            "isLiquid": true
+        },
+        {
+            "name": "Egg White",
+            "volume": 1,
+            "unit": "piece",
+            "isLiquid": false
+        },
+        {
+            "name": "Red Wine",
+            "volume": 1,
+            "unit": "ounces",
+            "isLiquid": true
+        }
+    ],
+    "popularity": 0.6,
+    "difficulty": 0.7,
+    "instructions": [
+        "In a shaker, combine the bourbon, lemon juice, maple syrup and egg white.",
+        "Shake without ice to emulsify the egg white.",
+        "Add ice, and shake again until well-chilled.",
+        "Strain the cocktail into a rocks glass filled with ice.",
+        "Gently pour the wine over the back of a spoon and onto the cocktail so that the wine floats on top."
+    ],
+    "tasteProfile": [
+        "Sour",
+        "Sweety",
+        "Robust"
+    ],
+    "garnish": "Lemon Wheel",
+    "alcoholContent": 0.25,
+    "color": "Reddish",
+    "glassware": "Rocks Glass",
+    "topology": ["Shaken"],
+    "occasion": ["Evening Drink"]
+}

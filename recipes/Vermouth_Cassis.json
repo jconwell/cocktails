@@ -1,0 +1,39 @@
+{
+  "cocktailName": "Vermouth Cassis",
+  "ingredients": [
+    {
+      "name": "Sweet Vermouth",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Cassis",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Soda Water",
+      "volume": 3.5,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.2,
+  "difficulty": 0.1,
+  "instructions": [
+    "Pour sweet vermouth and cassis over ice cubes in a highball glass.",
+    "Fill with soda water and stir."
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Fruity",
+    "Refreshing"
+  ],
+  "garnish": "None",
+  "alcoholContent": 0.1,
+  "glassType": "Highball Glass",
+  "serveMethod": "Serve on the rocks, with ice",
+  "color": "Deep red"
+}

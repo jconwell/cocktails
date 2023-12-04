@@ -1,0 +1,47 @@
+{
+  "name": "Ancient Mariner",
+  "ingredients": [
+    {
+      "name": "Rum",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lime Juice",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Simple Syrup",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+     },
+     {
+      "name": "Pernod",
+      "volume": 0.25,
+      "unit": "ounces",
+      "isLiquid": true
+     },
+     {
+      "name": "Pineapple Juice",
+      "volume": 0.75,
+      "unit": "ounces",
+      "isLiquid": true
+     }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.7,
+  "instructions": [
+    "Combine all the ingredients in a cocktail shaker.",
+    "Add ice and shake well.",
+    "Strain the cocktail into a chilled glass."
+  ],
+  "tasteProfile": ["Sweet", "Tropical", "Sour"],
+  "garnish": "Pineapple slice and cherry",
+  "alcoholContent": 0.22,
+  "color": "Transparent",
+  "family": "Rum"
+}

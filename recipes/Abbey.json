@@ -1,0 +1,52 @@
+{
+   "cocktail_name": "Abbey",
+   "ingredients": [
+       {
+          "name": "gin",
+          "volume": 1.5,
+          "measurement_unit": "oz",
+          "is_liquid": true
+       },
+       {
+          "name": "orange juice",
+          "volume": 1.0,
+          "measurement_unit": "oz",
+          "is_liquid": true
+       },
+       {
+          "name": "Angostura Bitters",
+          "volume": 0.2,
+          "measurement_unit": "oz",
+          "is_liquid": true
+       },
+       {
+          "name": "orgeat syrup",
+          "volume": 0.5,
+          "measurement_unit": "oz",
+          "is_liquid": true
+       }
+   ],
+   "average_popularity_rating": 0.6,
+   "difficulty_level": 0.3,
+   "preparation_steps": [
+       "Pour all the ingredients into a shaker with ice cubes.",
+       "Shake well.",
+       "Strain into a chilled cocktail glass."
+   ],
+   "taste_profile": [
+       "sweet",
+       "bitter",
+       "fresh"
+   ],
+   "garnish": "cherry",
+   "alcohol_content_percentage": 15.0,
+   "vintage_year": 1948,
+   "glass_type": "cocktail glass",
+   "serving_temperature": "cold",
+   "continent_origin": "Europe",
+   "cocktail_type": "classics",
+   "flame_on_serving": false,
+   "vegan_option": true,
+   "color": "yellow",
+   "lemon_twist_garnish": false
+}

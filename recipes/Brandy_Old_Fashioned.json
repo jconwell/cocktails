@@ -1,0 +1,60 @@
+{
+  "cocktailName": "Brandy Old Fashioned",
+  "ingredients": [
+    {
+      "ingredientName": "Brandy",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Sugar",
+      "volume": 1,
+      "unit": "cube",
+      "isLiquid": false
+    },
+    {
+      "ingredientName": "Angostura Bitters",
+      "volume": 2,
+      "unit": "dashes",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Soda Water",
+      "volume": 1,
+      "unit": "splash",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Orange Slice",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    },
+    {
+      "ingredientName": "Maraschino Cherry",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.2,
+  "instructionSteps": [
+    "Muddle sugar cube, few dashes of bitters, and a splash of soda water in an old fashioned glass.",
+    "Swirl to coat the glass with the mixture, adding a bit of brandy if needed.",
+    "Add ice cubes, then add brandy.",
+    "Top with soda water and stir.",
+    "Garnish with an orange slice and a maraschino cherry."
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Bitter",
+    "Fruity"
+  ],
+  "garnishes": "Orange Slice, Maraschino Cherry",
+  "alcoholContent": 0.15,
+  "glassType": "Old Fashioned glass",
+  "shakeOrStir": "Stir",
+  "temperature": "Cold"
+}

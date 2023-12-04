@@ -1,0 +1,41 @@
+{
+  "name": "Gin Cocktail",
+  "ingredients": [
+    {
+      "ingredient_name": "Gin",
+      "volume": 2,
+      "unit": "oz",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Lemon Juice",
+      "volume": 1,
+      "unit": "oz",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Simple Syrup",
+      "volume": 1,
+      "unit": "oz",
+      "is_liquid": true
+    }
+  ],
+  "popularity": 0.65,
+  "difficulty": 0.35,
+  "instructions": [
+    "1. Pour all ingredients into a cocktail shaker filled with ice cubes.",
+    "2. Shake well.",
+    "3. Strain in chilled cocktail glass."
+  ],
+  "taste_profile": [
+    "Sour",
+    "Sweet"
+  ],
+  "garnish": "Slice of lemon",
+  "alcohol_content": 0.25,
+  "served_in": "Cocktail Glass",
+  "time_to_prepare": "10 minutes",
+  "serving_temperature": "Cold",
+  "occasions": ["Summer", "Casual", "Party"],
+  "category": "Classic"
+}

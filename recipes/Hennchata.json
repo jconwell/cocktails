@@ -1,0 +1,38 @@
+{
+  "name": "Hennchata",
+  "ingredients": [
+    {
+      "ingredientName": "Hennessy V.S",
+      "volume": 1.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Horachata Cream Liqueur",
+      "volume": 3.0,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Ice",
+      "volume": 3.0,
+      "unitOfMeasure": "cubes",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.3,
+  "instructions": [
+    "Pour the Hennessy V.S into a rocks glass.",
+    "Add the Horchata Cream Liqueur.",
+    "Add ice and stir gently until well mixed."
+  ],
+  "tasteProfile": ["Sweet", "Creamy", "Spicy"],
+  "garnish": "Cinnamon stick",
+  "alcoholContent": 0.18,
+  "mixerType": "Cream Liqueur",
+  "glassType": "Rocks Glass",
+  "season": ["Fall", "Winter"],
+  "cocktailType": "Stirred",
+  "isClassic": false
+}

@@ -1,0 +1,44 @@
+{
+  "cocktailName": "Vanilla Rose",
+  "ingredientList": [
+    {
+      "ingredientName": "Vodka",
+      "ingredientVolume": 1.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Rose Wine",
+      "ingredientVolume": 4,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Vanilla Syrup",
+      "ingredientVolume": 0.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Lemon Juice",
+      "ingredientVolume": 0.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.8,
+  "difficulty": 0.3,
+  "instructions": [
+    "Pour vodka in a glass",
+    "Add rose wine",
+    "Drizzle vanilla syrup",
+    "Add Lemon Juice"
+  ],
+  "tasteProfile": ["sweet", "floral", "tart", "smooth"],
+  "garnish": "Lemon Slice",
+  "alcoholContent": 0.13,
+  "season": "Spring",
+  "glassType": "Stemless Wine Glass",
+  "timeOfDay": "Evening",
+  "color": "Pink"
+}

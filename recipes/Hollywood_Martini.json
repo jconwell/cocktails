@@ -1,0 +1,38 @@
+{
+  "name": "Hollywood Martini",
+  "ingredients": [
+    {
+      "ingredient_name": "Vanilla Vodka",
+      "volume": 1.5,
+      "unit": "oz",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Pineapple Juice",
+      "volume": 1,
+      "unit": "oz",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Champagne",
+      "volume": 1,
+      "unit": "oz",
+      "is_liquid": true
+    }
+  ],
+  "popularity_score": 0.6,
+  "difficulty_score": 0.4,
+  "instructions": [
+    "Combine the vanilla vodka and pineapple juice in a shaker with ice.",
+    "Shake well.",
+    "Strain into a chilled martini glass.",
+    "Top with champagne."
+  ],
+  "taste_profile": ["Sweet", "Fruity", "Bubbly"],
+  "garnish": "None",
+  "alcohol_content": 20.0,
+  "color": "Yellow",
+  "served_in": "Martini Glass",
+  "serving_temperature": "Chilled",
+  "origin_country": "USA"
+}

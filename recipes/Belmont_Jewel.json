@@ -1,0 +1,40 @@
+{
+  "name": "Belmont Jewel",
+  "ingredients": [
+    {
+      "name": "bourbon",
+      "volume": 1.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "lemonade",
+      "volume": 2,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "pomegranate juice",
+      "volume": 1,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.2,
+  "steps": [
+    "Pour the bourbon into a cocktail shaker filled with ice",
+    "Add the lemonade and pomegranate juice",
+    "Shake well until chilled",
+    "Strain into a glass filled with ice, and serve"
+  ],
+  "tasteProfile": ["Sweet", "Tart", "Strong"],
+  "garnish": "Lemon wheel",
+  "alcoholContent": 0.2,
+  "color":"Ruby Red",
+  "servedIn":"Highball glass",
+  "origin": "USA",
+  "type": "Modern classics",
+  "flavour": "Fruity",
+  "aroma": "Citrus"
+}

@@ -1,0 +1,33 @@
+{
+  "cocktailName": "Godfather",
+  "ingredients": [
+    {
+      "ingredientName": "Scotch whisky",
+      "volume": 1.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Amaretto",
+      "volume": 1.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.2,
+  "instructions": [
+    "Fill a mixing glass with ice cubes", 
+    "Add all ingredients",
+    "Stir and strain into a chilled old fashioned glass filled with ice cubes"
+  ],
+  "tasteProfile": ["sweet", "nutty", "smoky","strong"],
+  "garnish": "Maraschino cherry",
+  "alcoholContent": 0.4,
+  "glassware": "Old-fashioned glass",
+  "drinkType": "Spirit-forward",
+  "occasion": ["Evening drinks", "Cocktail parties"],
+  "color": "Amber",
+  "carbonation": false,
+  "servingTemperature": "Cold"
+}

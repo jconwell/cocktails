@@ -1,0 +1,58 @@
+{
+    "cocktailName": "Stone Wall",
+    "ingredients": [
+        {
+            "name": "Rye Whiskey",
+            "volume": 2,
+            "unit": "ounces",
+            "isLiquid": true
+        },
+        {
+            "name": "Apple Cider",
+            "volume": 3,
+            "unit": "ounces",
+            "isLiquid": true
+        },
+        {
+            "name": "Ginger Beer",
+            "volume": 1,
+            "unit": "ounces",
+            "isLiquid": true
+        },
+        {
+            "name": "Lemon Juice",
+            "volume": 0.5,
+            "unit": "ounces",
+            "isLiquid": true
+        },
+        {
+            "name": "Maple Syrup",
+            "volume": 0.5,
+            "unit": "ounces",
+            "isLiquid": true
+        }
+    ],
+    "popularity": 0.2,
+    "difficulty": 0.4,
+    "instructions": [
+        "Fill a shaker with ice cubes.",
+        "Add whiskey, apple cider, lemon juice and maple syrup.",
+        "Shake and strain into a rocks glass filled with ice cubes.",
+        "Top with ginger beer."
+    ],
+    "tasteProfile": [
+        "Sweet",
+        "Spicy",
+        "Strong"
+    ],
+    "garnish": "Apple slice",
+    "alcoholContent": 0.25,
+    "serveIn": "Rocks glass",
+    "serveTemperature": "Cold",
+    "color": "Dark Amber",
+    "primaryAlcohol": "Whiskey",
+    "baseFlavor": "Apple",
+    "texture": "Smooth",
+    "preparationTimeMinutes": 5,
+    "pageIndex": 72
+}

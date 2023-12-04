@@ -1,0 +1,49 @@
+{
+  "name": "Golden Glamour",
+  "ingredients": [
+    {
+      "name": "vodka",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Passion Fruit Juices",
+      "volume": 1.0,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon Zest",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": false
+    },
+    {
+      "name": "Champagne",
+      "volume": 1.0,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.3,
+  "instructions": [
+    "Add vodka and passion fruit juice into a shaker with ice.",
+    "Shake well.",
+    "Strain into a chilled martini glass.",
+    "Top with champagne.",
+    "Garnish with lemon zest."
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Tart",
+    "Fruity",
+    "Bitter"
+  ],
+  "garnishes": "Lemon Zest",
+  "alcoholContent": 0.22,
+  "glassType": "Martini glass",
+  "served": "Cold",
+  "mixologyTechnique": "Shake"
+}

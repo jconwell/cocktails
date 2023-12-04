@@ -1,0 +1,53 @@
+{
+    "name": "Stone Sour",
+    "ingredients": [
+        {
+            "name": "Apricot Brandy",
+            "volume": 1.5,
+            "unit": "oz",
+            "isLiquid": true
+        },
+        {
+            "name": "Orange Juice",
+            "volume": 1,
+            "unit": "oz",
+            "isLiquid": true
+        },
+        {
+            "name": "Lemon Juice",
+            "volume": 0.5,
+            "unit": "oz",
+            "isLiquid": true
+        },
+        {
+            "name": "Sugar",
+            "volume": 1,
+            "unit": "teaspoons",
+            "isLiquid": false
+        },
+        {
+            "name": "Orange",
+            "volume": 1,
+            "unit": "slice",
+            "isLiquid": false
+        },
+        {
+            "name": "Maraschino Cherry",
+            "volume": 1,
+            "unit": "item",
+            "isLiquid": false
+        }
+    ],
+    "popularity": 0.3,
+    "difficulty": 0.2,
+    "instructions": [
+        "Shake all ingredients (except orange slice and cherry) with ice and strain into a whiskey sour glass.",
+        "Decorate with the slice of orange and cherry. Serve."
+    ],
+    "tasteProfile": ["Sour", "Sweet", "Fruity"],
+    "garnish": "Orange slice and cherry",
+    "alcoholContent": 0.12,
+    "cocktailType": "Sour",
+    "glassType": "Whiskey Sour Glass",
+    "method": "Shaken"
+}

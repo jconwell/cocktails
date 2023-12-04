@@ -1,0 +1,50 @@
+{
+  "name": "Hoppel Poppel",
+  "ingredients": [
+    {
+      "name": "Bourbon",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Honey syrup",
+      "volume": 0.75,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon juice",
+      "volume": 0.75,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Fresh mint leaves",
+      "volume": 6,
+      "unit": "leaves",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.5,
+  "instructions": [
+    "Gently muddle the mint leaves in the bottom of a shaker.",
+    "Add the bourbon, honey syrup and lemon juice.",
+    "Fill shaker with ice, cover, and shake until chilled.",
+    "Strain into a chilled glass."
+  ],
+  "taste_profile": [
+    "Sweet",
+    "Sour",
+    "Herbal"
+  ],
+  "garnish": "Fresh mint sprig",
+  "alcohol_content": 40.0,
+  "glass_type": "Old fashioned glass",
+  "preparation_time": 5,
+  "served": "Cold",
+  "IBA_Official": false,
+  "color": "Brown",
+  "primary_alcohol": "Bourbon"
+}

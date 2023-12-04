@@ -1,0 +1,53 @@
+{
+  "cocktailName": "Toffee Apple",
+  "ingredients": [
+    {
+      "ingredientName": "Lemonade",
+      "volume": 4,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Sugar Syrup",
+      "volume": 1,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Caramel Vodka",
+      "volume": 1.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Apple Juice",
+      "volume": 2,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Ice Cubes",
+      "volume": 6,
+      "unitOfMeasure": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.2,
+  "instructions": [
+    "Start with a glass filled with ice cubes.",
+    "Pour in the caramel vodka.",
+    "Add the sugar syrup.",
+    "Top up with apple juice and lemonade.",
+    "Stir well to mix the ingredients."
+  ],
+  "tasteProfile": ["Sweet", "Tart", "Crisp"],
+  "garnishes": "Apple Slice and Mint Leaf",
+  "alcoholContent": 0.15,
+  "color": "Golden",
+  "glassType": "Highball Glass",
+  "drinkType": "Mixed Drink",
+  "primaryAlcohol": "Vodka",
+  "servingTemperature": "Cold",
+  "prepTime": 5
+}

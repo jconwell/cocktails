@@ -1,0 +1,67 @@
+{
+  "name": "Zombie",
+  "ingredients": [
+    {
+      "name": "Light rum",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Dark rum",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Apricot brandy",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lime juice",
+      "volume": 0.75,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Pineapple juice",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Grenadine",
+      "volume": 0.25,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Maraschino cherry",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.5,
+  "instructions": [
+    "Pour all liquid ingredients into a shaker with ice cubes.",
+    "Shake well.",
+    "Strain into a Collins glass.",
+    "Garnish with a cherry."
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Citrus",
+    "Rum"
+  ],
+  "garnish": "Maraschino cherry",
+  "alcoholContent": 0.14,
+  "color": "Red",
+  "glassType": "Collins glass",
+  "occasion": ["Halloween", "Party"],
+  "originalCreator": "Don Beach",
+  "yearOfCreation": 1934
+}

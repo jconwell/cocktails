@@ -1,0 +1,60 @@
+{
+    "name": "Rum Runner",
+    "ingredients": [
+        {
+            "name": "Blackberry Brandy",
+            "volume": 0.25,
+            "unit": "ounces",
+            "isLiquid": true
+        },
+        {
+            "name": "Dark Rum",
+            "volume": 1.5,
+            "unit": "ounces",
+            "isLiquid": true
+        },
+        {
+            "name": "Banana Liqueur",
+            "volume": 0.25,
+            "unit": "ounces",
+            "isLiquid": true
+        },
+        {
+            "name": "Lime Juice",
+            "volume": 1.0,
+            "unit": "ounces",
+            "isLiquid": true
+        },
+        {
+            "name": "Pineapple Juice",
+            "volume": 2.0,
+            "unit": "ounces",
+            "isLiquid": true
+        },
+        {
+            "name": "Grenadine",
+            "volume": 0.5,
+            "unit": "ounces",
+            "isLiquid": true
+        }
+    ],
+    "popularity": 0.7,
+    "difficulty": 0.4,
+    "instructions": [
+        "Fill a mixing glass with ice cubes.",
+        "Add all ingredients.",
+        "Shake and strain into a highball glass filled with ice cubes.",
+        "Garnish with a cherry and pineapple."
+    ],
+    "tasteProfile": [
+        "Sweet",
+        "Fruity",
+        "Rum-flavored"
+    ],
+    "garnish": "Cherry and pineapple slice",
+    "alcoholContent": 0.25,
+    "glassType": "Highball",
+    "serveType": "Shaken and strained",
+    "hasCarbonation": false,
+    "isTropical": true
+}

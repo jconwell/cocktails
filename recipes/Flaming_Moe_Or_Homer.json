@@ -1,0 +1,56 @@
+{
+  "cocktail_name": "Flaming Moe or Homer",
+  "ingredients": [
+    {
+      "ingredient_name": "cough syrup",
+      "volume": 1,
+      "unit": "ounce",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "peppermint schnapps",
+      "volume": 1,
+      "unit": "ounce",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "crème de menthe",
+      "volume": 1,
+      "unit": "ounce",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "sloe gin and lime juice",
+      "volume": 1,
+      "unit": "ounce",
+      "is_liquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.4,
+  "instructions": [
+    "Pour the cough syrup into a cocktail glass",
+    "Add peppermint schnapps",
+    "Add crème de menthe",
+    "Top with sloe gin and lime juice",
+    "Stir well",
+    "Light it on fire. The heat enhances the flavor",
+    "Extinguish the flame before drinking"
+  ],
+  "taste_profile": [
+    "sweet",
+    "herbal",
+    "citrus",
+    "medicinal"
+  ],
+  "garnish": "Cherry",
+  "alcohol_content": 0.4,
+  "glassware": {
+    "type": "cocktail glass",
+    "size": 8,
+    "unit_size": "ounces"
+  },
+  "primary_alcohol": "peppermint schnapps, crème de menthe, sloe gin",
+  "preparation_time_minutes": 5,
+  "serving_temperature": "cold"
+}

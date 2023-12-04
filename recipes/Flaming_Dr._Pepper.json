@@ -1,0 +1,44 @@
+{
+  "cocktailName": "Flaming Dr. Pepper",
+  "ingredients": [
+    {
+      "ingredientName": "Amaretto",
+      "volume": 0.75,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Bacardi 151 Rum",
+      "volume": 0.25,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Pilsner Beer",
+      "volume": 0.5,
+      "unit": "pint",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.9,
+  "instructions": [
+    "Pour Amaretto into a shot glass almost to the rim",
+    "Add Bacardi 151 Rum to the shot, filling it to the rim",
+    "Place the shot glass into a pint glass that is 1/2 filled with Pilsner Beer",
+    "Ignite the Bacardi 151 Rum in the shot glass",
+    "After flame dies, shoot the cocktail"
+  ],
+  "tasteProfile": [
+    "sweet", 
+    "bitter"
+  ],
+  "garnish": "None",
+  "alcoholContent": 40.0,
+  "color": "brown",
+  "originCountry": "United States",
+  "glassType": "Shot Glass",
+  "servingTemperature": "Chilled",
+  "occasionsSuitable": ["party", "regular drinking"],
+  "mocktailAlternativeExists": false
+}

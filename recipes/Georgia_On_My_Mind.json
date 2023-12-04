@@ -1,0 +1,50 @@
+{
+  "name": "Georgia On My Mind",
+  "ingredients": [
+    {
+      "name": "Vodka",
+      "volume": 1.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Peach Liqueur",
+      "volume": 0.75,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon Juice",
+      "volume": 0.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Simple Syrup",
+      "volume": 0.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Peach Slices",
+      "volume": 2,
+      "unit": "pieces",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.65,
+  "difficulty": 0.3,
+  "instructions": [
+    "In a shaker, combine vodka, peach liqueur, lemon juice, and simple syrup.",
+    "Add ice and shake until well chilled.",
+    "Strain into a glass over fresh ice.",
+    "Garnish with peach slices."
+  ],
+  "tasteProfile": ["Sweet", "Fruity", "Tangy"],
+  "garnish": "Peach slices",
+  "alcoholContent": 0.26,
+  "glassType": "Rocks glass",
+  "drinkType": "cocktail",
+  "isClassic": false,
+  "isTropical": false
+}

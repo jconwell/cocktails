@@ -1,0 +1,48 @@
+{
+  "name": "Spritz",
+  "ingredients": [
+    {
+      "ingredient_name": "Prosecco",
+      "volume": 3.0,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Aperol",
+      "volume": 2.0,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Soda Water",
+      "volume": 1.0,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Orange Slice",
+      "volume": 1,
+      "unit_of_measure": "slice",
+      "is_liquid": false
+    }
+  ],
+  "popularity_score": 0.8,
+  "difficulty_score": 0.3,
+  "instructions": [
+    "Pour Prosecco into the glass.",
+    "Add Aperol to the glass.",
+    "Top off with soda water.",
+    "Stir gently to mix.",
+    "Garnish with an orange slice."
+  ],
+  "taste_profile": [
+    "bitter",
+    "sweet",
+    "fizzy"
+  ],
+  "garnish": "Orange Slice",
+  "alcohol_content": 0.11,
+  "color": "orange",
+  "served_in": "wine glass",
+  "serve_temperature": "cold"
+}

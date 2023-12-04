@@ -1,0 +1,36 @@
+{
+  "name": "Screaming Orgasm",
+  "ingredients": [
+    { "name": "Amaretto", "volume": 0.5, "unit": "ounce", "isLiquid": true },
+    { "name": "Kahlua", "volume": 0.5, "unit": "ounce", "isLiquid": true },
+    { "name": "Baileys Irish Cream", "volume": 0.5, "unit": "ounce", "isLiquid": true },
+    { "name": "Vodka", "volume": 1, "unit": "ounce", "isLiquid": true },
+    { "name": "Heavy Cream", "volume": 1, "unit": "ounce", "isLiquid": true }
+  ],
+  "popularity": 0.75,
+  "difficulty": 0.3,
+  "instructions": [
+    "Pour all the ingredients in a cocktail shaker.",
+    "Fill the shaker with ice.",
+    "Shake well until the outside of the shaker becomes frosty.",
+    "Strain into an old-fashioned glass filled with ice."
+  ],
+  "tasteProfile": ["Sweet", "Creamy", "Balanced"],
+  "garnish": "No garnish",
+  "alcoholContent": 0.3,
+  "colour": "tan",
+  "brandPreference": {                 
+    "1st": {
+      "name": "Baileys Irish Cream",
+      "preference": .45
+    },
+    "2nd": {
+      "name": "Smirnoff Vodka",
+      "preference": .35
+    },
+    "3rd": {
+      "name": "Kahlua",
+      "preference": .20
+    }
+  }
+}

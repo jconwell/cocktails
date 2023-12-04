@@ -1,0 +1,50 @@
+{
+  "name": "Alabama Slammer",
+  "ingredients": [
+    {
+      "name": "Southern Comfort",
+      "volume": 1.0,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Amaretto",
+      "volume": 1.0,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Grenadine",
+      "volume": 0.5,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon Juice",
+      "volume": 2.0,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Orange Juice",
+      "volume": 2.0,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+   ],
+  "popularity": 0.65,
+  "difficulty": 0.3,
+  "instructions": [
+    "In a shaker, combine all the ingredients along with ice.",
+    "Shake well.",
+    "Strain the cocktail into a glass.",
+    "Serve with a straw."
+   ],
+  "tasteProfile": ["Sweet", "Citrus", "Nutty"],
+  "garnish": "Orange slice and a cherry",
+  "alcoholContent": 0.25,
+  "color": "Red",
+  "served": "On the rocks",
+  "glassType": "Highball glass",
+  "barTools": ["Shaker", "Strainer"]
+}

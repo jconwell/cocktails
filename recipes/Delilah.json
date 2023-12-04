@@ -1,0 +1,44 @@
+{
+  "cocktailName": "Delilah",
+  "ingredients": [
+    {
+      "name": "Gin",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Fresh lemon juice",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Cointreau",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Sugar rim",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.5,
+  "instructions": [
+    "Rub the rim of a cocktail glass with lemon and dip it in sugar to coat.",
+    "Pour the gin, Cointreau, and lemon juice into a cocktail shaker filled with ice.",
+    "Shake well.",
+    "Strain into the prepared glass."
+  ],
+  "tasteProfile": ["sweet", "citrusy"],
+  "garnish": "None",
+  "alcoholContent": 0.25,
+  "timeToPrepareInMinutes": 5,
+  "imageURL": "https://cdn.example.com/delilah.jpg",
+  "colorOfDrink": "Yellow",
+  "servingStyle": "Cocktail glass"
+}

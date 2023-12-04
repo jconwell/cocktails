@@ -1,0 +1,48 @@
+{
+  "cocktailName": "Butternut Old-fashioned",
+  "ingredients": [
+    {
+      "name": "bourbon",
+      "volume": 2,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "butternut squash puree",
+      "volume": 1,
+      "unit": "oz",
+      "isLiquid": false
+    },
+    {
+      "name": "maple syrup",
+      "volume": 0.25,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "angostura bitters",
+      "volume": 2,
+      "unit": "dashes",
+      "isLiquid": true
+    }
+  ],
+  "popularityScore": 0.5,
+  "difficultyScore": 0.65,
+  "instructions": [
+    "Combine bourbon, squash puree, maple syrup, and bitters in a cocktail shaker.",
+    "Shake until well mixed.",
+    "Strain the cocktail into a glass filled with ice.",
+    "Garnish with a slice of butternut squash and serve."
+  ],
+  "tasteProfile": [
+    "sweet",
+    "strong",
+    "earthy"
+  ],
+  "garnish": "slice of butternut squash",
+  "alcoholContent": 40.0,
+  "flavor": "sweet and earthy with a strong kick from the bourbon",
+  "color": "orange",
+  "servingSize": "1 drink",
+  "cocktailType": "Classic"
+}

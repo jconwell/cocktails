@@ -1,0 +1,51 @@
+{
+  "cocktailName": "Garden Patch Smash",
+  "ingredients": [
+    {
+      "name": "Bourbon",
+      "volume": 2.0,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon Juice",
+      "volume": 1.0,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Simple Syrup",
+      "volume": 0.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Fresh Basil Leaves",
+      "volume": 3.0,
+      "unit": "count",
+      "isLiquid": false
+    },
+    {
+      "name": "Fresh Strawberries",
+      "volume": 2.0,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.3,
+  "instructions": [
+    "In a shaker, muddle the basil leaves and strawberries.",
+    "Add the bourbon, lemon juice, simple syrup, and ice.",
+    "Shake well.",
+    "Strain into a rocks glass filled with crushed ice."
+  ],
+  "tasteProfile": ["Sweet", "Fruity", "Herbal"],
+  "garnish": "Basil leaf and strawberry on a cocktail stick",
+  "alcoholContent": 0.25,
+  "cocktailType": "Herb-based",
+  "glassType": "Rocks Glass",
+  "served": "On the Rocks",
+  "primaryAlcohol": "Bourbon",
+  "preparationTime": 5
+}

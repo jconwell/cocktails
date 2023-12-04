@@ -1,0 +1,44 @@
+{
+  "cocktail": "Boston",
+  "ingredients": [
+    {
+      "name": "Gin",
+      "volume": 2.0,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon Juice",
+      "volume": 1.0,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Grenadine",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Egg White",
+      "volume": 1.0,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.5,
+  "difficulty": 0.4,
+  "instructions": [
+    "Shake the gin, lemon juice, grenadine, and egg white in a cocktail shaker with ice",
+    "Strain the mixture into a chilled cocktail glass"
+  ],
+  "taste": [
+    "Sour",
+    "Sweet"
+  ],
+  "garnish": "Cherry",
+  "alcoholContent": 0.27,
+  "idealServeTemperature": "Cold",
+  "glassType": "Cocktail Glass",
+  "alcoholic": true
+}

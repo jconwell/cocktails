@@ -1,0 +1,41 @@
+{
+  "cocktail": "Malacca Flip", 
+  "ingredients": [
+    {
+      "name": "Gin", 
+      "volume": 1.5, 
+      "unit": "ounces", 
+      "isLiquid": true
+    }, 
+    {
+      "name": "Lemon Juice", 
+      "volume": 1, 
+      "unit": "ounces", 
+      "isLiquid": true
+    }, 
+    {
+      "name": "Sugar Syrup", 
+      "volume": 0.5, 
+      "unit": "ounces", 
+      "isLiquid": true
+    },
+    {
+      "name": "Egg",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    }],
+  "popularity": 0.3,  
+  "difficulty": 0.6,
+  "instructions": [
+    "Shake all ingredients with ice and strain into ice-filled old fashioned glass.", 
+    "Garnish with nutmeg"],
+  "tasteProfile": ["Sweet", "Citrus", "Refreshing"],
+  "garnish": "Nutmeg",
+  "alcoholContent": 0.15,
+  "glassware": "Old Fashioned Glass",
+  "typeOfDrink": "Classic",
+  "flavor": ["Citrus", "Sweet"],
+  "strength": "Medium",
+  "color": "Clear"
+}

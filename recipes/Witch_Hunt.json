@@ -1,0 +1,53 @@
+{
+  "name": "Witch Hunt",
+  "ingredients": [
+    {
+      "name": "Dark Rum",
+      "volume": 1.5,
+      "unitOfMeasure": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Apple Cider",
+      "volume": 3,
+      "unitOfMeasure": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon Juice",
+      "volume": 0.5,
+      "unitOfMeasure": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Ginger Syrup",
+      "volume": 0.5,
+      "unitOfMeasure": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Cinnamon Sticks",
+      "volume": 1,
+      "unitOfMeasure": "stick",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.5,
+  "instructions": [
+    "Combine all ingredients except cinnamon stick in a shaker with ice",
+    "Shake well",
+    "Strain into a collins glass filled with ice",
+    "Garnish with a cinnamon stick"
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Spicy",
+    "Sour"
+  ],
+  "garnish": "Cinnamon Stick",
+  "alcoholContent": 0.15,
+  "type": "Fall",
+  "glassType": "Collins glass",
+  "served": "On the rocks"
+}

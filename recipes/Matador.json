@@ -1,0 +1,41 @@
+{
+  "cocktail_name": "Matador",
+  "ingredients": [
+    {
+      "ingredient_name": "Tequila",
+      "volume": 1.5,
+      "unit_of_measure": "ounces",
+      "liquid": true
+    },
+    {
+      "ingredient_name": "Pineapple juice",
+      "volume": 1.5,
+      "unit_of_measure": "ounces",
+      "liquid": true
+    },
+    {
+      "ingredient_name": "Lime juice",
+      "volume": 0.5,
+      "unit_of_measure": "ounces",
+      "liquid": true
+    }
+  ],
+  "popularity": 0.76,
+  "difficulty": 0.35,
+  "instructions": [
+    "Pour all the ingredients into a shaker with ice cubes.",
+    "Shake well for 10-15 seconds.",
+    "Strain the mixture into a chilled cocktail glass."
+  ],
+  "taste_profile": [
+    "Sweet",
+    "Tangy",
+    "Citrus"
+  ],
+  "garnish": "Pineapple wedge",
+  "alcohol_content": 22.0,
+  "glass_type": "Cocktail glass",
+  "mixing_method": "Shake",
+  "cocktail_type": "Short drink",
+  "primary_alcohol": "Tequila"
+}

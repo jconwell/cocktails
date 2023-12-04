@@ -1,0 +1,47 @@
+{
+  "name": "Royal Bermuda",
+  "ingredients": [
+    {
+      "name": "Gosling's Black Seal rum",
+      "volume": 2.0,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lime",
+      "volume": 0.75,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Falernum syrup",
+      "volume": 1.0,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Cointreau",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.3,
+  "instructions": [
+    "Shake all ingredients with ice",
+    "Strain into a chilled cocktail glass"
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Refreshing",
+    "Citrus"
+  ],
+  "garnish": "Lime slice",
+  "alcoholContent": 0.24,
+  "glassType": "Cocktail glass",
+  "color": "Amber",
+  "texture": "Smooth",
+  "temperature": "Cold",
+  "recommendedSeason": "Summer"
+}

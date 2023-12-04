@@ -1,0 +1,46 @@
+{
+  "cocktailName": "Gin Fizz",
+  "ingredients": [
+    {
+      "name": "Gin",
+      "volume": 2.0,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon juice",
+      "volume": 1.0,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Simple syrup",
+      "volume": 0.75,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Soda water",
+      "volume": 3.0,
+      "unit": "ounce",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.2,
+  "instructions": [
+    "In a shaker, combine the gin, lemon juice and simple syrup.",
+    "Shake with ice and strain into a glass.",
+    "Top with soda water."
+  ],
+  "tasteProfile": [
+    "citrus", 
+    "sweet", 
+    "bitter"
+  ],
+  "garnish": "Lemon slice",
+  "alcoholContent": 0.24,
+  "color": "#f1c40f",
+  "glassType": "Highball glass",
+  "served": "On the rocks; poured over ice"
+}

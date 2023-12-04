@@ -1,0 +1,41 @@
+{
+  "cocktailName": "Flaming Doctor Pepper",
+  "ingredients": [
+    {
+      "name": "Amaretto",
+      "volume": 0.75,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "151 proof rum",
+      "volume": 0.25,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Beer",
+      "volume": 0.5,
+      "unitOfMeasure": "cups",
+      "isLiquid": true
+    }
+  ],
+  "popularityScore": 0.7,
+  "difficultyScore": 0.4,
+  "instructions": [
+    "Pour amaretto in shot glass and top with 151 proof rum.",
+    "Light the rum and let it burn for a few seconds.",
+    "Drop the flaming shot glass into the beer glass.",
+    "Quickly chug the contents."
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Strong",
+    "Nutty"
+  ],
+  "garnish": "None",
+  "alcoholContent": 35.2,
+  "glassType": "Shot glass and beer glass",
+  "isFlamingCocktail": true,
+  "serve": "Serve immediately after preparation"
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Affinity",
+  "ingredients": [
+    {
+      "name": "Scotch Whisky",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Sweet Vermouth",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Dry Vermouth",
+      "volume": 1.0,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Orange Bitters",
+      "volume": 2,
+      "unit": "dashes",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.45,
+  "difficulty": 0.2,
+  "instructions": [
+    "Combine all ingredients in a mixing glass with ice.",
+    "Stir well for 20-30 seconds.",
+    "Strain into a chilled cocktail glass.",
+    "Garnish with a lemon twist."
+  ],
+  "tasteProfile": ["Citrus", "Smooth", "Bitter"],
+  "garnish": "Lemon Twist",
+  "alcoholContent": 0.22,
+  "color": "Amber",
+  "glassware": "Cocktail Glass",
+  "serve": "Cold",
+  "pairingFood": "Cheese",
+  "origin": "Scotland"
+}

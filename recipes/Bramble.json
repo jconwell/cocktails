@@ -1,0 +1,53 @@
+{
+  "CocktailName": "Bramble",
+  "Ingredients": [
+    {
+      "IngredientName": "Gin",
+      "Volume": 4,
+      "Unit": "ounces",
+      "IsLiquid": true
+    },
+    {
+      "IngredientName": "Lemon Juice",
+      "Volume": 1.5,
+      "Unit": "ounces",
+      "IsLiquid": true
+    },
+    {
+      "IngredientName": "Sugar syrup",
+      "Volume": 0.75,
+      "Unit": "ounces",
+      "IsLiquid": true
+    },
+    {
+      "IngredientName": "Blackberry Liqueur",
+      "Volume": 1.5,
+      "Unit": "ounces",
+      "IsLiquid": true
+    }
+  ],
+  "Popularity": 0.7,
+  "Difficulty": 0.2,
+  "Preparation": [
+    "Fill a glass with crushed ice.",
+    "Combine gin, lemon juice, and sugar syrup in the glass and stir.",
+    "Pour blackberry liqueur over the top to create a marbling effect.",
+    "Garnish and serve."
+  ],
+  "TasteProfile": [
+    "Sweet",
+    "Sour",
+    "Fruity"
+  ],
+  "Garnish": "Fresh blackberries and a lemon slice",
+  "AlcoholContent": 0.21,
+  "GlassType": "Rocks glass",
+  "IsShaken": false,
+  "IsStirred": true,
+  "RequiresMuddling": false,
+  "RecommendedSeason": [
+    "Spring",
+    "Summer"
+  ],
+  "IconicLocation": "United Kingdom"
+}

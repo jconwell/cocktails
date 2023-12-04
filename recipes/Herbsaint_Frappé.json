@@ -1,0 +1,45 @@
+{
+  "name": "Herbsaint Frappé",
+  "ingredients": [
+    {
+      "ingredient_name": "Herbsaint Original",
+      "volume": 2.0,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Simple Syrup",
+      "volume": 0.5,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Mint Leaves",
+      "volume": 6.0,
+      "unit_of_measure": "count",
+      "is_liquid": false
+    },
+    {
+      "ingredient_name": "Crushed Ice",
+      "volume": 1.0,
+      "unit_of_measure": "cups",
+      "is_liquid": false
+    }
+  ],
+  "popularity": 0.3,
+  "difficulty": 0.2,
+  "instructions": [
+    "Place mint in the bottom of a glass and muddle.",
+    "Add Herbsaint and simple syrup.",
+    "Fill with crushed ice and stir until the outside of the glass frosts.",
+    "Top with more crushed ice and garnish with a mint sprig."
+  ],
+  "taste_profile": ["Anise", "Sweet", "Herbaceous"],
+  "garnish": "Mint sprig",
+  "alcohol_content": 0.27,
+  "color": "Green",
+  "glass_type":"Old-fashioned glass",
+  "occasion":["Summer", "After dinner"],
+  "origin": "New Orleans",
+  "flavour_intensity": 3
+}

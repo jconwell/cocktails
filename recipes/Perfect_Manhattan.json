@@ -1,0 +1,50 @@
+{
+  "cocktail": "Perfect Manhattan",
+  "ingredients": [
+    {
+      "name": "Rye whiskey",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Sweet vermouth",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Dry vermouth",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Angostura bitters",
+      "volume": 2,
+      "unit": "dashes",
+      "isLiquid": true
+    },
+    {
+      "name": "Maraschino cherry",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.75,
+  "difficulty": 0.45,
+  "instructions": [
+    "Pour the ingredients into a mixing glass with ice cubes.",
+    "Stir well.",
+    "Strain into a chilled cocktail glass.",
+    "Garnish with a cocktail cherry."
+  ],
+  "tasteProfile": ["Sweet", "Strong", "Rich", "Bitter"],
+  "garnishes": "Maraschino Cherry",
+  "alcoholContent": 0.40,
+  "glassType": "Cocktail glass",
+  "serveAs": "Chilled",
+  "cocktailType": "Classic",
+  "origin": "United States"
+}

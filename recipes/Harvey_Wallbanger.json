@@ -1,0 +1,46 @@
+{
+  "name": "Harvey Wallbanger",
+  "ingredients": [
+    {
+      "ingredientName": "Vodka",
+      "volume": 1.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Galliano",
+      "volume": 0.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Orange Juice",
+      "volume": 3,
+      "unit": "oz",
+      "isLiquid": true
+    }
+  ],
+  "howPopular": 0.6,
+  "difficultyLevel": 0.2,
+  "prepareSteps": [
+    "Pour vodka and orange juice into a glass over ice.",
+    "Stir well to combine.",
+    "Float Galliano on top. Do not stir again.",
+    "Serve & Enjoy!"
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Citrus",
+    "Herbaceous"
+  ],
+  "garnish": "Orange Slice",
+  "alcoholContent": 0.25,
+  "flavorIntensity": 0.7,
+  "sourness": 0.3,
+  "spiciness": 0.0,
+  "sweetness": 0.7,
+  "bitterness": 0.2,
+  "glassType": "Highball glass",
+  "cocktailType": "Longdrink",
+  "color": "Orange" 
+}

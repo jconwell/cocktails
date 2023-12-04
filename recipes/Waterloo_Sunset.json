@@ -1,0 +1,49 @@
+{
+  "name": "Waterloo Sunset",
+  "ingredients": [
+    {
+      "name": "Gin",
+      "volume": 1.5,
+      "unit": "ounces",
+      "liquid": true
+    },
+    {
+      "name": "Aperol",
+      "volume": 0.5,
+      "unit": "ounces",
+      "liquid": true
+    },
+    {
+      "name": "Lemon juice",
+      "volume": 0.5,
+      "unit": "ounces",
+      "liquid": true
+    },
+    {
+      "name": "Diluted honey syrup",
+      "volume": 0.5,
+      "unit": "ounces",
+      "liquid": true
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.4,
+  "instructions": [
+    "Fill a shaker with ice cubes.",
+    "Add all ingredients.",
+    "Shake and strain into a chilled cocktail glass."
+  ],
+  "tasteProfile": [
+    "Bitter",
+    "Sweet",
+    "Citrus"
+  ],
+  "garnish": "A slice of lemon",
+  "alcoholContent": 0.15,
+  "color": "Orange",
+  "temperature": "Chilled",
+  "glassType": "Cocktail glass",
+  "alcoholStatus": "Alcoholic",
+  "occasion": ["Evening drinks", "Socializing"],
+  "origin": "United Kingdom"
+}

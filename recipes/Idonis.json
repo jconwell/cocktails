@@ -1,0 +1,45 @@
+{
+  "cocktailName": "Idonis",
+  "ingredients": [
+    {
+      "name": "Rum",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Blue Curacao",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Pineapple Juice",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Cherry",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.3,
+  "instructions": [
+    "Pour rum, blue Curacao, and pineapple juice into a shaker with ice.",
+    "Shake well.",
+    "Strain into a glass.",
+    "Garnish with a cherry."
+  ],
+  "tasteProfile": ["Sweet", "Fruity", "Strong"],
+  "garnish": "Cherry",
+  "alcoholContent": 0.2,
+  "origin": "Caribbean",
+  "glassType": "Cocktail glass",
+  "served": "Cold",
+  "flavorIntensity": 0.7,
+  "color": "Blue"
+}

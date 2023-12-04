@@ -1,0 +1,43 @@
+{
+  "name": "Adonis",
+  "ingredients": [
+    {
+      "name": "Sweet Vermouth",
+      "volume": 1,
+      "unitOfMeasure": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Sherry",
+      "volume": 1,
+      "unitOfMeasure": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Orange Bitters",
+      "volume": 1,
+      "unitOfMeasure": "dash",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.4,
+  "difficultyLevel": 0.2,
+  "instructions": [
+    "Combine all ingredients into a mixing glass.",
+    "Fill the mixing glass with ice.",
+    "Stir the ingredients for about 30 seconds.",
+    "Strain into a chilled cocktail glass."
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Sour",
+    "Citrus"
+  ],
+  "garnish": "Orange Twist",
+  "alcoholContent": 18,
+  "glassType": "Cocktail Glass",
+  "cocktailType": "Cocktail Drink",
+  "cocktailStyle": "Classic",
+  "mixMethod": "Stirred",
+  "serveIn": "Straight Up"
+}

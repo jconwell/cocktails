@@ -1,0 +1,41 @@
+{
+    "name": "Astro Pop",
+    "ingredients": [
+        {
+            "name": "Midori Melon Liqueur",
+            "volume": 0.5,
+            "unit": "ounces",
+            "isLiquid": true
+        },
+        {
+            "name": "Blue Curacao liqueur",
+            "volume": 0.5,
+            "unit": "ounces",
+            "isLiquid": true
+        },
+        {
+            "name": "Granadine",
+            "volume": 0.5,
+            "unit": "ounces",
+            "isLiquid": true
+        }
+    ],
+    "popularity": 0.45,
+    "difficulty": 0.2,
+    "instructions": [
+        "Pour Midori into a shot glass.",
+        "Slowly pour Blue Curacao to layer it.",
+        "Lastly, slowly pour Granadine to create the third layer."
+    ],
+    "tasteProfile": [
+        "Sweet", 
+        "Sour"
+    ],
+    "garnishes": "None",
+    "alcoholContent": 25.0,
+    "cocktailType": "Shot",
+    "preferredGlass": "Shot Glass",
+    "origin": "Unknown",
+    "color": "Layered - Green, Blue, Red",
+    "occasion": ["Party", "New Year", "Celebration"]
+}

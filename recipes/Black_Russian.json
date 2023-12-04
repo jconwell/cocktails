@@ -1,0 +1,43 @@
+{
+  "name": "Black Russian",
+  "ingredients": [
+    {
+      "name": "Vodka",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Coffee liqueur",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Ice cubes",
+      "volume": 3,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.2,
+  "instructions": [
+    "Pour vodka over ice cubes in an old-fashioned glass.",
+    "Add coffee liqueur",
+    "Stir and serve."
+  ],
+  "taste_profile": [
+    "Sweet",
+    "Bitter",
+    "Strong"
+  ],
+  "garnish": "None",
+  "alcohol_content": 0.4,
+  "glass_type": "Old-Fashioned",
+  "time_to_make": 5,
+  "culture_origin": "Belgium",
+  "cocktail_type": "Short drink",
+  "serving_temperature": "Chilled",
+  "preparation_style": "Mixed"
+}

@@ -1,0 +1,49 @@
+{
+  "cocktail_name": "Colombia",
+  "ingredients": [
+    {
+      "name": "Dark Rum",
+      "volume": 2,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Lime Juice",
+      "volume": 1,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Pineapple Juice",
+      "volume": 1,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Coca Cola",
+      "volume": 6,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    }],
+  "popularity": 0.6,
+  "difficulty": 0.3,
+  "preparation_steps": [
+    "In a blender, combine rum, lime juice, and pineapple juice.",
+    "Blend until smooth.",
+    "Pour into a glass.",
+    "Top with Coca Cola."
+  ],
+  "taste_profile": [
+    "Strong",
+    "Citrus",
+    "Sweet"
+  ],
+  "garnishes": "Pineapple slice and cherry",
+  "alcohol_content": 0.1,
+  "cocktail_type": "Tropical drink",
+  "serving_glass": "Collins glass",
+  "preparation_time": 5,
+  "is_shaken": false,
+  "is_stirred": false,
+  "is_blended": true
+}

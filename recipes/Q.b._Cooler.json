@@ -1,0 +1,62 @@
+{
+  "name": "Q.b. Cooler",
+  "ingredients": [
+    {
+      "name": "Rum",
+      "volume": 1.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Lime Juice",
+      "volume": 0.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Ginger Syrup",
+      "volume": 0.75,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Pineapple Juice",
+      "volume": 1.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Club Soda",
+      "volume": 1,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Mint Leaves",
+      "volume": 6,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.65,
+  "difficulty": 0.6,
+  "instructions": [
+    "In a shaker, lightly muddle the mint leaves.",
+    "Add the rum, lime juice, ginger syrup and pineapple juice.",
+    "Fill shaker with ice and shake well.",
+    "Strain into a highball glass full of ice.",
+    "Top with club soda and stir lightly to combine."
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Tangy",
+    "Refreshing"
+  ],
+  "garnishes": "Mint Sprig",
+  "alcoholContent": 0.13,
+  "glassware": "Highball Glass",
+  "servingTemperature": "Cold",
+  "IBA_Official": false,
+  "baseSpirit": "Rum",
+  "cocktailType": "Highball"
+}

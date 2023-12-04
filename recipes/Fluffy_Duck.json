@@ -1,0 +1,42 @@
+{
+  "cocktailName": "Fluffy Duck",
+  "ingredients": [
+    {
+      "name": "advocaat",
+      "volume": 1.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "white rum",
+      "volume": 1,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "whipping cream",
+      "volume": 1,
+      "unitOfMeasure": "ounces",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.3,
+  "difficulty": 0.4,
+  "instructions": [
+    "Pour advocaat and rum into a shaker with ice cubes.",
+    "Add whipping cream.",
+    "Shake well.",
+    "Strain into a large cocktail glass."
+  ],
+  "tasteProfile": [
+    "sweet",
+    "creamy",
+    "rum"
+  ],
+  "garnish": "None",
+  "alcoholContent": 0.4,
+  "cocktailType": "creamy",
+  "shakeOrStir": "shake",
+  "glassType": "large cocktail glass",
+  "occasion": ["casual", "party"]
+}

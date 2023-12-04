@@ -1,0 +1,28 @@
+{
+  "cocktail": {
+    "name": "Russian Spring Punch", 
+    "ingredients": [
+      {"name": "Vodka", "volume": 1.5, "unit": "ounces", "isLiquid": true},
+      {"name": "Lemon juice", "volume": 0.75, "unit": "ounces", "isLiquid": true},
+      {"name": "Raspberry syrup", "volume": 0.5, "unit": "ounces", "isLiquid": true},
+      {"name": "Creme de cassis", "volume": 0.5, "unit": "ounces", "isLiquid": true},
+      {"name": "Champagne", "volume": 2.0, "unit": "ounces", "isLiquid": true},
+      {"name": "Blackberries", "volume": 2, "unit": "count", "isLiquid": false}
+    ],
+    "popularityScore": 0.65,
+    "difficultyScore": 0.30,
+    "instructions": [
+      "Fill a highball glass with ice.",
+      "Add vodka, lemon juice, raspberry syrup and creme de cassis.",
+      "Stir to mix.",
+      "Top up with champagne.",
+      "Garnish with a lemon slice and blackberries."
+    ],
+    "tasteProfile": ["sweet", "sour", "fruity"],
+    "garnish": "Lemon slice and blackberries",
+    "alcoholContent": 0.15,
+    "cocktailType": "highball",
+    "glassType": "highball glass",
+    "served": "on the rocks"
+  }
+}

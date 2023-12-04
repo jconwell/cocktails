@@ -1,0 +1,47 @@
+{
+    "name": "Illegal",
+    "ingredients": [
+        {
+            "name": "Mezcal",
+            "volume": 1.5,
+            "unit": "ounces",
+            "is_liquid": true
+        },
+        {
+            "name": "Lime Juice",
+            "volume": 1,
+            "unit": "ounces",
+            "is_liquid": true
+        },
+        {
+            "name": "Agave Syrup",
+            "volume": 0.5,
+            "unit": "ounces",
+            "is_liquid": true
+        },
+        {
+            "name": "Pineapple Juice",
+            "volume": 1,
+            "unit": "ounces",
+            "is_liquid": true
+        }
+    ],
+    "popularity": 0.6,
+    "difficulty": 0.3,
+    "instructions": [
+        "Add all the ingredients into a shaker with ice",
+        "Shake until well chilled",
+        "Strain into a rocks glass filled with large ice cubes"
+    ],
+    "taste_profile": ["Sweet", "Bitter", "Sour"],
+    "garnish": "Pineapple Leaf",
+    "alcohol_content": 0.2,
+    "serving_size": 1,
+    "serving_glass": "Rocks glass",
+    "color": "Golden",
+    "texture": "Smooth",
+    "origin": "Mexico",
+    "cocktail_type": "Short drink",
+    "primary_alcohol": "Mezcal",
+    "IBA_Official": false
+}

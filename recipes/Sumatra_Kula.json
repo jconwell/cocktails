@@ -1,0 +1,49 @@
+{
+  "cocktail_name": "Sumatra Kula",
+  "ingredients": [
+    {
+      "ingredient_name": "Fresh lime juice",
+      "volume": 0.5,
+      "unit": "oz",
+      "is_liquid": true 
+    },
+    {
+      "ingredient_name": "Pineapple juice",
+      "volume": 0.5,
+      "unit": "oz",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Apricot Brandy",
+      "volume": 1,
+      "unit": "oz",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Light rum",
+      "volume": 2,
+      "unit": "oz",
+      "is_liquid": true 
+    }
+  ],
+  "popularity_scale": 0.6,
+  "difficulty_scale": 0.3,
+  "instructions": [
+    "Pour the rum, lime juice, apricot brandy and pineapple juice into a shaker with ice cubes", 
+    "Shake well", 
+    "Strain into a chilled Collins glass filled with ice cubes",
+    "Garnish with a pineapple stick and a cherry"
+  ],
+  "taste_profile": ["Sweet", "Sour", "Fruity"],
+  "garnishes": "Pineapple stick and a cherry",
+  "alcohol_content": 0.15,
+  "serving_glass": "Collins glass",
+  "cocktail_type": "Longdrink",
+  "color": "Yellow",
+  "strength": "Medium",
+  "sweetness": "Medium",
+  "sourness": "Low",
+  "bitterness": "None",
+  "spiciness": "None",
+  "preparation_time_minutes": 5
+}

@@ -1,0 +1,43 @@
+{
+  "cocktailName": "Horsefeather",
+  "ingredientList": [
+    {
+      "ingredientName": "Rye Whiskey",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Ginger Beer",
+      "volume": 4,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Angostura Bitters",
+      "volume": 2,
+      "unit": "dashes",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Lemon",
+      "volume": 1,
+      "unit": "wedge",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.3,
+  "steps": [
+    "Add the whiskey and bitters to a rocks glass.",
+    "Fill the glass with ice, then top with the ginger beer.",
+    "Stir briefly to combine, then squeeze the lemon wedge over the drink and drop it into the glass."
+  ],
+  "tasteProfile": ["spicy", "bitter", "refreshing"],
+  "garnish": "Lemon wedge",
+  "alcoholContent": 0.2,
+  "color": "amber",
+  "type": "short drink",
+  "glassType": "rocks glass",
+  "prepTime": 5
+}

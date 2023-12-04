@@ -1,0 +1,45 @@
+{
+  "name": "Eye Candy",
+  "ingredients": [
+    {
+      "ingredientName": "Vodka",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Elderflower Liqueur",
+      "volume": 0.75,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Grapefruit Juice",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Basil Leaves",
+      "volume": 2,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.4,
+  "instructions": [
+    "Fill a shaker with ice cubes", 
+    "Add vodka, elderflower liqueur and grapefruit juice",
+    "Gently muddle basil leaves in the shaker",
+    "Shake and strain the mixture into a chilled cocktail glass",
+    "Garnish with a basil leaf"
+  ],
+  "tasteProfile": ["sweet", "herbaceous", "refreshing"],
+  "garnish": "Basil Leaf",
+  "alcoholContent": 0.2,
+  "glassType": "Cocktail Glass",
+  "iceRequirement": "Shaker Ice",
+  "color": "Pink",
+  "texture": "Smooth"
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Bijou",
+  "ingredients": [
+    {
+      "ingredientName": "Dry Gin",
+      "volume": 1.0,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Green Chartreuse",
+      "volume": 1.0,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Sweet Vermouth",
+      "volume": 1.0,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Orange bitters",
+      "volume": 1.0,
+      "unit": "dash",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.5,
+  "difficulty": 0.3,
+  "instructions": [
+    "Pour all ingredients into mixing glass with ice cubes.",
+    "Stir well.",
+    "Strain into chilled cocktail glass.",
+    "Squeeze oil from lemon peel onto the drink, or garnish with cherry."
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Herbal",
+    "Bitter"
+  ],
+  "garnish": "Lemon Peel or Cherry",
+  "alcoholContent": 0.35,
+  "pairingFood": ["Steak", "Grilled fish"],
+  "served": "Straight Up",
+  "drinkware": "Cocktail Glass",
+  "occasion": ["Party", "Evening drink"],
+  "season": ["All Seasons"]
+}

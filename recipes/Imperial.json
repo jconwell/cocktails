@@ -1,0 +1,44 @@
+{
+  "name": "Imperial Cocktail",
+  "ingredients": [
+    { 
+      "name": "Brandy",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    { 
+      "name": "Triple Sec",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lime Juice",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.4,
+  "steps": [
+    "In a shaker, combine all the ingredients.",
+    "Shake well until mixed.",
+    "Strain into a chilled cocktail glass."
+  ],
+  "tasteProfile": [
+    "Sour",
+    "Sweet",
+    "Citrus"
+  ],
+  "garnish": "Lime wedge",
+  "alcoholContent": 0.242,
+  "glassType": "cocktail glass",
+  "primaryAlcohol": "Brandy",
+  "sourceRegion": "Unknown",
+  "IBAOfficial": false,
+  "color": "Yellow",
+  "timesSearched": 7649,
+  "baseFlavor": "Citrus"
+}

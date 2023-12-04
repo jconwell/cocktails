@@ -1,0 +1,52 @@
+{
+  "cocktail_name": "Cloister",
+  "ingredients": [
+    {
+      "ingredient_name": "Gin",
+      "volume": 1.5,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Grapefruit Juice",
+      "volume": 0.5,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Yellow Chartreuse",
+      "volume": 0.25,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Lemon Juice",
+      "volume": 0.25,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Simple Syrup",
+      "volume": 0.25,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    }
+  ],
+  "popularity": 0.4,
+  "difficulty": 0.3,
+  "instructions": [
+    "Add all the ingredients into a shaker with ice and shake until well-chilled.",
+    "Strain into a chilled coupe.",
+    "Garnish with a lemon twist."
+  ],
+  "taste_profile": ["Sour", "Sweet", "Herbal"],
+  "garnishes": "Lemon twist",
+  "alcohol_content": 0.24,
+  "serving_glass": "Coupe",
+  "serving_temperature": "Chilled",
+  "preparation_time_minutes": 5,
+  "color": "Yellow",
+  "texture": "Smooth",
+  "origin": "Modern Classic",
+  "flavor_intensity": 0.6
+}

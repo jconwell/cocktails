@@ -1,0 +1,60 @@
+{
+  "cocktail": {
+    "name": "Old Cuban",
+    "ingredients": [
+      {
+        "name": "Rum",
+        "volume": 1.5,
+        "unit": "ounces",
+        "isLiquid": true
+      },
+      {
+        "name": "Lime Juice",
+        "volume": 1,
+        "unit": "ounces",
+        "isLiquid": true
+      },
+      {
+        "name": "Simple Syrup",
+        "volume": 1,
+        "unit": "ounces",
+        "isLiquid": true
+      },
+      {
+        "name": "Mint Leaves",
+        "volume": 6,
+        "unit": "count",
+        "isLiquid": false
+      },
+      {
+        "name": "Bitters",
+        "volume": 2,
+        "unit": "dashes",
+        "isLiquid": true
+      },
+      {
+        "name": "Champagne",
+        "volume": 2,
+        "unit": "ounces",
+        "isLiquid": true
+      }
+    ],
+    "popularity": 0.4,
+    "difficulty": 0.2,
+    "steps": [
+      "Combine rum, lime juice, syrup, and mint leaves in a shaker.",
+      "Shake until well mixed and chilled.",
+      "Strain the mixture into a glass.",
+      "Top with champagne.",
+      "Add a dash of bitters."
+    ],
+    "tasteProfile": [
+      "sweet",
+      "sour",
+      "bitter",
+      "minty"
+    ],
+    "alcoholContent": 0.14,
+    "garnishes": "Mint Sprig"
+  } 
+}

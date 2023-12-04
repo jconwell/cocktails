@@ -1,0 +1,45 @@
+{
+  "cocktail_name": "Damn The Weather",
+  "ingredients": [
+    {
+      "name": "Gin",
+      "volume": 1.5,
+      "unit_of_measure": "ounce",
+      "is_liquid": true,
+    },
+    {
+      "name": "sweet vermouth",
+      "volume": 0.75,
+      "unit_of_measure": "ounce",
+      "is_liquid": true
+    },
+    {
+      "name": "orange juice",
+      "volume": 0.25,
+      "unit_of_measure": "ounce",
+      "is_liquid": true
+    },
+    {
+      "name": "sloe gin",
+      "volume": 0.5,
+      "unit_of_measure": "ounce",
+      "is_liquid": true
+    }
+  ],
+  "popularity_score": 0.6,
+  "difficulty_score": 0.4,
+  "instructions": [
+    "Add all ingredients into a mixing tin with ice.",
+    "Shake well and strain into a chilled cocktail glass."
+  ],
+  "taste_profile": [
+    "sweet",
+    "bitter",
+    "citrus"
+  ],
+  "garnish": "Orange slice",
+  "alcohol_content": 0.25,
+  "drinkware": "Cocktail glass",
+  "cocktail_type": "Short drink",
+  "origin": "Great Britain"
+}

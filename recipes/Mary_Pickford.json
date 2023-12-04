@@ -1,0 +1,41 @@
+{
+  "cocktailName": "Mary Pickford",
+  "ingredients": [
+    {
+      "name": "Rum",
+      "volume": 2.0,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Pineapple juice",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Maraschino Liqueur",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Grenadine",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.3,
+  "instructions": [
+    "Pour all ingredients into a shaker with ice cubes.",
+    "Shake well.",
+    "Strain into a chilled glass."
+  ],
+  "tasteProfile": ["sweet", "fruity"],
+  "garnishes": "Cherry and Pineapple slice",
+  "alcoholContent": 0.2,
+  "glassType": "Cocktail glass",
+  "isStirred": false
+}

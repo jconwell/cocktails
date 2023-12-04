@@ -1,0 +1,39 @@
+{
+  "cocktail_name": "Apple Blossom",
+  "ingredients": [
+    {
+      "name": "Apple Brandy",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon Juice",
+      "volume": 0.75,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Grenadine",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity_score": 0.6,
+  "difficulty_score": 0.2,
+  "instructions": [
+    {
+      "step 1": "In a shaker, combine all ingredients with ice",
+      "step 2": "Shake until well chilled",
+      "step 3": "Strain cocktail into a chilled glass"
+    }
+  ],
+  "taste_profile": ["Sweet", "Sour", "Fruity"],
+  "garnish": "Cherry and apple slice",
+  "alcohol_content": 0.24,
+  "colour": "Pink",
+  "serving_glass": "Cocktail glass",
+  "theme": "Fruity",
+  "base_spirit": "Apple Brandy"
+}

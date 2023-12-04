@@ -1,0 +1,32 @@
+{
+  "name": "Fernet Con Coca",
+  "ingredients": [
+    {
+      "name": "Fernet",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Coca-Cola",
+      "volume": 6.0,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.2,
+  "instructions": [
+    "Put some ice cubes into a tall glass.",
+    "Pour the Fernet over the ice.",
+    "Add the Coca-Cola and stir lightly."
+  ],
+  "tasteProfile": ["bittersweet", "herbal", "caffeinated"],
+  "garnishes": "Lemon Slice",
+  "alcoholContent": 0.4,
+  "glassType": "Highball Glass",
+  "isFrozen": false,
+  "servingSize": 1,
+  "region": "South America",
+  "color": "Dark Brown"
+}

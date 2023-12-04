@@ -1,0 +1,30 @@
+{
+  "cocktailName": "Twentieth Century",
+  "ingredients": [
+    {"name": "Gin", "volume": 1.5, "unit": "oz", "isLiquid": true},
+    {"name": "Lemon Juice", "volume": 0.75, "unit": "oz", "isLiquid": true},
+    {"name": "Crème de Cacao", "volume": 0.75, "unit": "oz", "isLiquid": true},
+    {"name": "Lillet Blanc", "volume": 0.75, "unit": "oz", "isLiquid": true}
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.3,
+  "instructions": [
+    "Shake all the ingredients with ice",
+    "Double strain into a chilled coupe",
+    "No garnish"
+  ],
+  "tasteProfile": ["Sweet", "Sour"],
+  "garnish": "None",
+  "alcoholContent": 0.24,
+  "glassType": "coupe",
+  "type": "shaken",
+  "serveWith": ["appetizers", "light dishes"],
+  "origin": "UK",
+  "creationDate": "1937",
+  "occasionRecommended": ["post-dinner", "cocktail parties"],
+  "tasteIntensity": 0.5,
+  "sweetness": 0.6,
+  "sourness": 0.4,
+  "bitterness": 0.1,
+  "fruitiness": 0.3
+}

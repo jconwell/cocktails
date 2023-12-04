@@ -1,0 +1,48 @@
+{
+  "cocktailName": "Strawberry Daiquiris",
+  "recipe": [
+    {
+      "name": "Strawberries",
+      "volume": 1.0,
+      "unit": "Cup",
+      "isLiquid": false
+    },
+    {
+      "name": "White Rum",
+      "volume": 2,
+      "unit": "Ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Fresh Lime Juice",
+      "volume": 1,
+      "unit": "Ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Powdered Sugar",
+      "volume": 2,
+      "unit": "Tablespoons",
+      "isLiquid": false
+    },
+    {
+      "name": "Ice Cubes",
+      "volume": 1,
+      "unit": "Cup",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.7,
+  "complexity": 0.2,
+  "instructions": [
+    "Combine strawberries, powedered sugar, rum, and lime juice in a blender.",
+    "Add ice and blend until smooth.",
+    "Pour mixture into glasses and serve immediately."
+  ],
+  "tasteProfile": ["Sweet", "Fruity", "Refreshing"],
+  "garnish": "Strawberry and lime slice",
+  "alcoholContent": 0.13,
+  "isClassic": false,
+  "isTropical": true,
+  "glassType": "Daiquiri Glass"
+}

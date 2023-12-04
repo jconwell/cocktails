@@ -1,0 +1,48 @@
+{
+  "cocktailName": "Reposado Old-fashioned",
+  "ingredients": [
+    {
+      "name": "Reposado tequila",
+      "volume": 2,
+      "unitOfMeasure": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Angostura bitters",
+      "volume": 2,
+      "unitOfMeasure": "dashes",
+      "isLiquid": true
+    },
+    {
+      "name": "Agave nectar",
+      "volume": 0.5,
+      "unitOfMeasure": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Water",
+      "volume": 1,
+      "unitOfMeasure": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Orange peel",
+      "volume": 1,
+      "unitOfMeasure": "piece",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.2,
+  "instructions": [
+    "Add all the ingredients to a mixing glass and fill with ice.",
+    "Stir, and strain into a rocks glass filled with large ice cubes.",
+    "Twist a piece of orange peel over the glass and drop it in."
+  ],
+  "tasteProfile": ["Spirity", "Strong", "Sweet"],
+  "garnish": "Orange peel",
+  "alcoholContent": 0.4,
+  "glassType": "Old Fashioned glass",
+  "primaryAlcohol": "Tequila",
+  "cocktailType": "Classic"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Doctor",
+  "ingredients": [
+    {
+      "name": "white rum",
+      "volume": 2.0,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "lime juice",
+      "volume": 0.75,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "sugar",
+      "volume": 2,
+      "unit_of_measure": "teaspoons",
+      "is_liquid": false
+    }
+  ],
+  "popularity": 0.5,
+  "difficulty": 0.4,
+  "steps": [
+    "In a shaker, dissolve the sugar in the lime juice.",
+    "Add the rum.",
+    "Shake well with ice and strain into a chilled cocktail glass."
+  ],
+  "taste_profile": ["tart", "sweet"],
+  "garnishes": "lime wheel",
+  "alcohol_content": 0.4,
+  "ingredients_count": 3,
+  "preparation_time_minutes": 5
+}

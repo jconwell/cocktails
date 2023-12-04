@@ -1,0 +1,60 @@
+{
+  "name": "Michelada",
+  "ingredients": [
+    {
+      "name": "Lime Juice",
+      "volume": 1,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Hot Sauce",
+      "volume": 0.25,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Worcestershire Sauce",
+      "volume": 0.25,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Soy Sauce",
+      "volume": 0.25,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Chili Powder",
+      "volume": 1,
+      "unit": "pinch",
+      "isLiquid": false
+    },
+    {
+      "name": "Lager Beer",
+      "volume": 12,
+      "unit": "ounce",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.2,
+  "instructions": [
+    "Rub the rim of the glass with a lime slice to make the salt stick to it. Shake a generous amount of salt onto a plate and press the rim of the glass into the salt.",
+    "Mix the lime juice, hot sauce, Worcestershire sauce, soy sauce and chili powder in a shaker.",
+    "Pour into the glass and fill the rest with cold beer."
+  ],
+  "tasteProfile": [
+    "savory",
+    "salty",
+    "sour",
+    "spicy"
+  ],
+  "garnish": "Lime Slice",
+  "alcoholContent": 0.06,
+  "color": "amber",
+  "servingGlass": "Pint Glass",
+  "salePrice": 8.0,
+  "costPrice": 2.0
+}

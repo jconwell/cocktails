@@ -1,0 +1,50 @@
+{
+  "cocktailName": "Vodka Gimlet",
+  "ingredients": [
+    {
+      "ingredientName": "Vodka",
+      "ingredientVolume": 2,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Fresh lime juice",
+      "ingredientVolume": 1,
+      "unitOfMeasure": "ounce",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Simple syrup",
+      "ingredientVolume": 0.5,
+      "unitOfMeasure": "ounce",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Lime wheel to garnish",
+      "ingredientVolume": 1,
+      "unitOfMeasure": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.3,
+  "instructions": [
+    "Fill a shaker with ice cubes.",
+    "Add vodka, fresh lime juice and simple syrup.",
+    "Shake and strain into a chilled cocktail glass.",
+    "Garnish with a lime wheel."
+  ],
+  "tasteProfile": [
+    "Tangy",
+    "Sweet",
+    "Citrusy"
+  ],
+  "garnishes": "Lime wheel",
+  "alcoholContent": 0.4,
+  "servedIn": "Chilled cocktail glass",
+  "isShaken": true,
+  "hasCrushedIce": false,
+  "hasGarnish": true,
+  "color": "Pale-yellow",
+  "isChilled": true
+}

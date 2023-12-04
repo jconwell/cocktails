@@ -1,0 +1,52 @@
+{
+  "cocktailName": "Barracuda",
+  "recipe": [
+    {
+      "ingredientName": "Rum, gold",
+      "volume": 4.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Galliano",
+      "volume": 1,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Pineapple Juice",
+      "volume": 6,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Lime Juice",
+      "volume": 1,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Prosecco",
+      "volume": 1,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.35,
+  "steps": [
+    "Place ice cubes in the shaker.",
+    "Pour gold rum, Galliano, pineapple juice and lime juice into the shaker.",
+    "Shake well.",
+    "Strain into a large cocktail glass.",
+    "Top up the glass with Prosecco."
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Sour",
+    "Fruity"
+  ],
+  "garnish": "Pineapple slice and a cherry",
+  "alcoholContent": 0.33,
+  "glassType": "Cocktail glass"
+}

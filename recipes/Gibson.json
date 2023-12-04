@@ -1,0 +1,42 @@
+{
+    "name": "Gibson",
+    "ingredients": [
+        {
+            "ingredient_name": "Gin",
+            "ingredient_volume": 2.5,
+            "ingredient_unit": "oz",
+            "is_liquid": true
+        },
+        {
+            "ingredient_name": "Dry vermouth",
+            "ingredient_volume": 0.5,
+            "ingredient_unit": "oz",
+            "is_liquid": true
+        },
+        {
+            "ingredient_name": "Cocktail Onion",
+            "ingredient_volume": 1,
+            "ingredient_unit": "count",
+            "is_liquid": false
+        }
+    ],
+    "popularity_score": 0.7,
+    "difficulty_score": 0.3,
+    "instructions": [
+        "In a mixing glass filled with ice, combine the gin and vermouth.",
+        "Stir well.",
+        "Strain into a chilled cocktail glass.",
+        "Garnish with a cocktail onion."
+    ],
+    "taste_profile": [
+        "Dry",
+        "Slightly bitter",
+        "Strong"
+    ],
+    "garnish": "Cocktail Onion",
+    "alcohol_content": 40.0,
+    "glass_type": "Cocktail Glass",
+    "cocktail_type": "Classic",
+    "color": "Clear",
+    "origin": "United States"
+}

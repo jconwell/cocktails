@@ -1,0 +1,54 @@
+{
+  "cocktailName": "Oaxaca Old Fashioned",
+  "ingredients": [
+    {
+      "name": "Tequila",
+      "volume": 1,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Mezcal",
+      "volume": 0.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Agave Nectar",
+      "volume": 0.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Angostura bitters",
+      "volume": 2,
+      "unit": "dashes",
+      "isLiquid": true
+    },
+    {
+      "name": "Ice cubes",
+      "volume": 3,
+      "unit": "cubes",
+      "isLiquid": false
+    },
+    {
+      "name": "Orange twist",
+      "volume": 1,
+      "unit": "twist",
+      "isLiquid": false
+    }
+  ],
+  "popularityScore": 0.7,
+  "difficultyScore": 0.6,
+  "instructions": [
+    "Combine tequila, mezcal, agave nectar, and bitters in a mixing glass.",
+    "Add ice and stir until well chilled.",
+    "Strain over a large ice cube in an Old Fashioned glass.",
+    "Garnish with an orange twist."
+  ],
+  "tasteProfile": ["Sweet", "Smokey", "Citrus"],
+  "garnish": "Orange twist",
+  "alcoholContent": 0.395,
+  "color": "Amber",
+  "glassware": "Old Fashioned glass"
+}

@@ -1,0 +1,54 @@
+{
+  "Cocktail": "June Bug",
+  "Ingredients": [
+    {
+      "Name": "Midori Melon Liquor",
+      "Volume": 1,
+      "Unit": "oz",
+      "IsLiquid": true
+    },
+    {
+      "Name": "Malibu Rum",
+      "Volume": 1,
+      "Unit": "oz",
+      "IsLiquid": true
+    },
+    {
+      "Name": "Banana Liqueur",
+      "Volume": 0.5,
+      "Unit": "oz",
+      "IsLiquid": true
+    },
+    {
+      "Name": "Pineapple Juice",
+      "Volume": 1,
+      "Unit": "oz",
+      "IsLiquid": true
+    },
+    {
+      "Name": "Lemon Juice",
+      "Volume": 0.5,
+      "Unit": "oz",
+      "IsLiquid": true
+    }
+  ],
+  "Popularity": 0.6,
+  "Difficulty": 0.3,
+  "Instructions": [
+    "Fill a shaker with ice cubes.",
+    "Add all ingredients.",
+    "Shake and strain into a chilled highball glass filled with ice cubes."
+  ],
+  "TasteProfile": [
+    "Sweet",
+    "Sour",
+    "Fruity"
+  ],
+  "Garnish": "Cherry and pineapple slice",
+  "AlcoholContent": 0.15,
+  "AdditionalInformation": {
+    "Glassware": "Highball",
+    "IdealFor": "Summer time, Pool Parties",
+    "Origin": "Tropical"
+  }
+}

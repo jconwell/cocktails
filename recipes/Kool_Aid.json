@@ -1,0 +1,43 @@
+{
+  "cocktailName": "Kool Aid",
+  "ingredients": [
+    {
+      "name": "Gin",
+      "volume": 1.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon Juice",
+      "volume": 1.0,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Simple Syrup",
+      "volume": 0.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Raspberry Kool-Aid Mix",
+      "volume": 1,
+      "unit": "packet",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.3,
+  "instructions": [
+    "Fill a shaker with ice cubes.",
+    "Add all ingredients.",
+    "Shake and strain into a highball glass filled with ice cubes."
+  ],
+  "tasteProfile": ["Sweet", "Fruity", "Sour"],
+  "garnish": "Lemon Slice and Raspberry",
+  "alcoholContent": 0.14,
+  "color": "Red",
+  "glassType": "Highball Glass",
+  "serveMethod": "Shaken",
+  "temperature": "Cold"
+}

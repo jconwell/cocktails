@@ -1,0 +1,49 @@
+{
+  "cocktail_name": "Leap Year",
+  "ingredients": [
+    {
+      "name": "Gin",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Sweet Vermouth",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Grand Marnier",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon Juice",
+      "volume": 0.25,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.4,
+  "instructions": [
+    "Stir the ingredients with ice",
+    "Strain into a cocktail glass",
+    "Garnish with a lemon twist"
+  ],
+  "taste_profile": [
+    "Sweet",
+    "Sour",
+    "Citrus"
+  ],
+  "garnishes": "Lemon twist",
+  "alcohol_content": 0.27,
+  "glass_type": "Cocktail glass",
+  "origin": "Created by Harry Craddock in 1928",
+  "color": "Light yellow",
+  "texture": "Smooth",
+  "aroma": "Citrus and juniper",
+  "serving_temperature": "Cold"
+}

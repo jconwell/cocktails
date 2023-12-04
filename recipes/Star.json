@@ -1,0 +1,52 @@
+{
+  "name": "Star Cocktail",
+  "ingredients": [
+    {
+      "name": "Calvados",
+      "volume": 1.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Sweet Vermouth",
+      "volume": 1.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Angostura Bitters",
+      "volume": 0.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon Peel",
+      "volume": 1,
+      "unitOfMeasure": "peel",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.5,
+  "instructions": [
+    "Add all the liquids into a mixing glass",
+    "Fill the glass with ice",
+    "Stir it gently until it cools down",
+    "Strain the mix into a chilled cocktail glass",
+    "Twist the lemon peel over the glass to release its oils",
+    "Rub the rim of the glass with the peel",
+    "Drop the peel into the glass as garnish"
+  ],
+  "tasteProfile": [
+    "bitter",
+    "fruity",
+    "herbaceous"
+  ],
+  "garnish": "Lemon peel",
+  "alcoholContent": 25.3,
+  "glassware": "Cocktail Glass",
+  "temperature": "Chilled",
+  "color": "Deep Amber",
+  "occasion": "Cocktail Party",
+  "serveIn": "Evening"
+}

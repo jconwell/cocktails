@@ -1,0 +1,41 @@
+{
+  "cocktailName": "Valencia",
+  "ingredients": [
+    {
+      "name": "Apricot Brandy",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Dry Vermouth",
+      "volume": 1.0,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Orange Juice",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.3,
+  "instructions": [
+    "Pour all ingredients into a shaker with ice cubes.",
+    "Shake well.",
+    "Strain into a large cocktail glass."
+  ],
+  "tasteProfile": [
+    "fruity",
+    "sweet",
+    "slightly bitter"
+  ],
+  "garnish": "orange slice",
+  "alcoholContent": 0.2,
+  "cocktailType": "classic",
+  "glassType": "cocktail glass",
+  "shakenOrStirred": "shaken",
+  "served": "strained"
+}

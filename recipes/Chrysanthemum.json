@@ -1,0 +1,42 @@
+{
+  "name": "Chrysanthemum",
+  "ingredients": [
+    {
+      "ingredientName": "Dry Vermouth",
+      "volume": 1.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Bénédictine",
+      "volume": 1.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Absinthe",
+      "volume": 2,
+      "unitOfMeasure": "dashes",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.3,
+  "difficulty": 0.5,
+  "instructions": [
+    "Stir the vermouth, Bénédictine, and Absinthe with ice",
+    "Strain into a chilled cocktail glass",
+    "Garnish with an orange twist"
+  ],
+  "tasteProfile": [
+    "herbal",
+    "sweet",
+    "anise"
+  ],
+  "garnish": "orange twist",
+  "alcoholContent": 0.18,
+  "color": "amber",
+  "glassType": "cocktail glass",
+  "idealTemperature": "chilled",
+  "shakeOrStir": "stir",
+  "isClassic": true
+}

@@ -1,0 +1,53 @@
+{
+    "name": "Frostbite",
+    "ingredients": [
+        {
+            "ingredient name": "Tequila",
+            "volume": 1.5,
+            "unit of measure": "ounces",
+            "is liquid": true
+        },
+        {
+            "ingredient name": "Blue Curacao",
+            "volume": 1,
+            "unit of measure": "ounces",
+            "is liquid": true
+        },
+        {
+            "ingredient name": "Cream",
+            "volume": 1,
+            "unit of measure": "ounces",
+            "is liquid": true
+        },
+        {
+            "ingredient name": "Pineapple Juice",
+            "volume": 1,
+            "unit of measure": "ounces",
+            "is liquid": true
+        },
+        {
+            "ingredient name": "Shaved ice",
+            "volume": 1,
+            "unit of measure": "cups",
+            "is liquid": false
+        }
+    ],
+    "popularity": 0.6,
+    "difficulty": 0.3,
+    "instructions": [
+        "Blend all the ingredients with ice",
+        "Pour into a margarita glass",
+        "Garnish with a cherry or lime wheel"
+    ],
+    "taste profile": [
+        "fruity",
+        "creamy",
+        "refreshing"
+    ],
+    "garnish": "Cherry or lime wheel",
+    "alcohol content": 0.15
+    "glass type": "Margarita",
+    "preparation method": "blended",
+    "colour": "Blue",
+    "served temperature": "Cold"
+}

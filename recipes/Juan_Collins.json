@@ -1,0 +1,49 @@
+{
+  "cocktailName": "Juan Collins",
+  "ingredients": [
+    {
+      "name": "Tequila",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon Juice",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Agave Nectar",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Club Soda",
+      "volume": 4,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.3,
+  "instructions": [
+    "In a shaker, combine tequila, lemon juice, and agave nectar.",
+    "Shake well until ingredients are mixed.",
+    "Pour into a tall glass filled with ice cubes.",
+    "Top with club soda."
+  ],
+  "tasteProfile": [
+    "citrus",
+    "sweet",
+    "carbonated"
+  ],
+  "garnishes": "Lemon Slice and Cherry",
+  "alcoholContent": 0.12,
+  "glassware": "Collins Glass",
+  "temperature": "Cold",
+  "color": "Gold",
+  "texture": "Smooth",
+  "season": "All"
+}

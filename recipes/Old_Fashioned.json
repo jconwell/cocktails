@@ -1,0 +1,47 @@
+{
+  "name": "Old Fashioned",
+  "ingredients": [
+    {
+      "name": "Bourbon or Rye Whiskey",
+      "volume": 2,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Angostura Bitters",
+      "volume": 2,
+      "unit_of_measure": "dashes",
+      "is_liquid": true
+    },
+    {
+      "name": "Sugar Cube",
+      "volume": 1,
+      "unit_of_measure": "piece",
+      "is_liquid": false
+    },
+    {
+      "name": "Water",
+      "volume": 0.5,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    }
+  ],
+  "popularity": 0.9,
+  "difficulty": 0.3,
+  "instructions": [
+    "Place the sugar cube in an old fashioned glass.",
+    "Wet it down with 2-3 dashes of Angostura bitters.",
+    "Add a dash of water.",
+    "Muddle until dissolved.",
+    "Fill the glass with large ice cubes.",
+    "Add the bourbon or rye.",
+    "Gently stir to combine."
+  ],
+  "taste_profile": ["Strong", "Smooth", "Bittersweet"],
+  "garnishes": "Orange twist, Cocktail cherry",
+  "alcohol_content": 40.0,
+  "glass_type": "Old fashioned glass",
+  "drink_type": "Stirred",
+  "color": "Amber",
+  "fun_fact": "The Old Fashioned cocktail is one of the oldest known named cocktails, first appearing in print in 1862."
+}

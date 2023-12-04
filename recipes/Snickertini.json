@@ -1,0 +1,56 @@
+{
+  "CocktailName": "Snickertini",
+  "Ingredients": [
+    {
+      "Name": "Caramel Vodka",
+      "Volume": 1.5,
+      "Unit": "Ounces",
+      "IsLiquid": true
+    },
+    {
+      "Name": "Chocolate Liqueur",
+      "Volume": 0.5,
+      "Unit": "Ounces",
+      "IsLiquid": true
+    },
+    {
+      "Name": "Cream",
+      "Volume": 1,
+      "Unit": "Ounces",
+      "IsLiquid": true
+    },
+    {
+      "Name": "Caramel Syrup",
+      "Volume": 0.25,
+      "Unit": "Ounces",
+      "IsLiquid": true
+    },
+    {
+      "Name": "Peanut Rim",
+      "Volume": 1,
+      "Unit": "Count",
+      "IsLiquid": false
+    }
+  ],
+  "Popularity": 0.7,
+  "Difficulty": 0.2,
+  "Instructions": [
+    "Rim martini glass with caramel syrup and crushed peanuts.",
+    "In a shaker, combine caramel vodka, chocolate liqueur, cream, and caramel syrup.",
+    "Shake well until blended and chilled.",
+    "Pour into rimmed martini glass."
+  ],
+  "TasteProfile": [
+    "Sweet",
+    "Creamy",
+    "Nutty"
+  ],
+  "Garnish": "Crushed Peanuts and Caramel Drizzle",
+  "AlcoholContent": 0.15,
+  "DrinkType": "Martini",
+  "GlassType": "Martini Glass",
+  "IdealServingTemperature": "Cold",
+  "CocktailType": "Dessert",
+  "PrimaryAlcohol": "Vodka",
+  "Occasions": ["After Dinner", "Special Occasions"]
+}

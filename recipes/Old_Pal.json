@@ -1,0 +1,41 @@
+{
+  "CocktailName": "Old Pal",
+  "Ingredients": [
+    {
+      "IngredientName": "Rye whisky",
+      "IngredientVolume": 1.5,
+      "Unit": "ounces",
+      "IsLiquid": true
+    },
+    {
+      "IngredientName": "Dry vermouth",
+      "IngredientVolume": 1,
+      "Unit": "ounces",
+      "IsLiquid": true
+    },
+    {
+      "IngredientName": "Campari",
+      "IngredientVolume": 1,
+      "Unit": "ounce",
+      "IsLiquid": true
+    }
+  ],
+  "Popularity": 0.6,
+  "Difficulty": 0.3,
+  "Instructions": [
+    "Chill a cocktail glass in the freezer for at least 10 minutes.",
+    "In a mixing glass filled with ice, combine rye whisky, dry vermouth, and Campari.",
+    "Stir until the outside of the glass feels cold.",
+    "Strain into the chilled cocktail glass."
+  ],
+  "TasteProfile": [
+    "Bitter",
+    "Earthy",
+    "Crisp"
+  ],
+  "Garnish": "Lemon twist",
+  "AlcoholContent": 0.27,
+  "Glassware": "Cocktail Glass",
+  "Method": "Stirred",
+  "TimeRequired": "5 Minutes"
+}

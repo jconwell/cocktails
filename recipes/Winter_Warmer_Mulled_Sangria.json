@@ -1,0 +1,66 @@
+{
+    "cocktail_name": "Winter Warmer Mulled Sangria",
+    "ingredients": [
+        {
+            "ingredient_name": "Red wine",
+            "ingredient_volume": 750,
+            "unit_of_measure": "milliliter",
+            "is_liquid": true
+        },
+        {
+            "ingredient_name": "Brandy",
+            "ingredient_volume": 3,
+            "unit_of_measure": "ounce",
+            "is_liquid": true
+        },
+        {
+            "ingredient_name": "Orange",
+            "ingredient_volume": 1,
+            "unit_of_measure": "count",
+            "is_liquid": false
+        },
+        {
+            "ingredient_name": "Lemon",
+            "ingredient_volume": 1,
+            "unit_of_measure": "count",
+            "is_liquid": false
+        },
+        {
+            "ingredient_name": "Clove",
+            "ingredient_volume": 5,
+            "unit_of_measure": "count",
+            "is_liquid": false
+        },
+        {
+            "ingredient_name": "Cinnamon Stick",
+            "ingredient_volume": 2,
+            "unit_of_measure": "count",
+            "is_liquid": false
+        },
+        {
+            "ingredient_name": "Honey",
+            "ingredient_volume": 2,
+            "unit_of_measure": "tablespoon",
+            "is_liquid": true
+        },
+        {
+            "ingredient_name": "Nutmeg",
+            "ingredient_volume": 0.5,
+            "unit_of_measure": "teaspoon",
+            "is_liquid": false
+        }
+    ],
+    "popularity": 0.7,
+    "difficulty": 0.2,
+    "instructions": [
+        "Slice orange and lemon.",
+        "Pour wine into a large pan and add sliced fruit.",
+        "Add the brandy, honey, and spices.",
+        "Heat gently until hot, but not boiling.",
+        "Serve it warm."
+    ],
+    "taste_profile": ["Sweet", "Bitter", "Fruity"],
+    "garnishes": "Orange slice and cinnamon stick",
+    "alcohol_content": 12.5,
+    "cocktail_class": "Warm Cocktail"
+}

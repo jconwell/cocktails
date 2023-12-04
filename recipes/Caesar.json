@@ -1,0 +1,66 @@
+{
+  "cocktail": {
+    "name": "Caesar",
+    "ingredients": [
+      {
+        "name": "Vodka",
+        "volume": 1.5,
+        "unit": "ounces",
+        "isLiquid": true
+      },
+      {
+        "name": "Clamato Juice",
+        "volume": 4,
+        "unit": "ounces",
+        "isLiquid": true
+      },
+      {
+        "name": "Hot Sauce",
+        "volume": 2,
+        "unit": "drops",
+        "isLiquid": true
+      },
+      {
+        "name": "Worcestershire Sauce",
+        "volume": 1,
+        "unit": "dash",
+        "isLiquid": true
+      },
+      {
+        "name": "Celery Salt",
+        "volume": 1,
+        "unit": "pinch",
+        "isLiquid": false
+      },
+      {
+        "name": "Lime",
+        "volume": 1,
+        "unit": "wedge",
+        "isLiquid": false
+      }
+    ],
+    "popularity": 0.7,
+    "difficulty": 0.4,
+    "instructions": [
+      "Rim the glass with lime and then celery salt.",
+      "Fill the glass with ice.",
+      "Add vodka, Clamato Juice, Hot Sauce, and Worcestershire Sauce.",
+      "Stir well.",
+      "Garnish with a celery stalk and lime."
+    ],
+    "tasteProfile": [
+      "Spicy",
+      "Salty",
+      "Sour"
+    ],
+    "garnish": "Celery stalk, Lime wedge",
+    "alcoholContent": 0.10,
+    "color": "Red",
+    "glassType": "Highball glass",
+    "occasions": [
+      "Brunch",
+      "Summer afternoons"
+    ],
+    "origin": "Canada"
+  }
+}

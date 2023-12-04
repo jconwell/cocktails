@@ -1,0 +1,44 @@
+{
+   "cocktailName": "Colorado Bulldog",
+   "ingredients": [
+      {
+         "name": "Vodka",
+         "volume": 1.5,
+         "unitOfMeasure": "ounce(s)",
+         "isLiquid": true
+      },
+      {
+         "name": "Coffee liqueur",
+         "volume": 1.0,
+         "unitOfMeasure": "ounce(s)",
+         "isLiquid": true
+      },
+      {
+         "name": "Cola",
+         "volume": 1.0,
+         "unitOfMeasure": "ounce(s)",
+         "isLiquid": true
+      },
+      {
+         "name": "Cream",
+         "volume": 1.0,
+         "unitOfMeasure": "ounce(s)",
+         "isLiquid": true
+      }
+   ],
+   "popularityRate": 0.6,
+   "difficultyRate": 0.2,
+   "instructions": [
+      "Pour vodka and coffee liqueur over ice cubes in a highball glass.",
+      "Fill with light cream or milk, top with cola, and stir."
+   ],
+   "tasteProfile": [
+      "Sweet",
+      "Creamy"
+   ],
+   "garnishes": "None",
+   "alcoholContent": 0.25,
+   "isClassic": false,
+   "glassType": "Highball glass",
+   "shakenOrStirred": "Stirred"
+}

@@ -1,0 +1,35 @@
+{
+  "cocktailName": "Appletini",
+  "ingredients": [
+    {
+      "name": "Vodka",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Green Apple Schnapps",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon Juice",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.8,
+  "difficulty": 0.3,
+  "instructions": [
+    "Pour the vodka, schnapps, and lemon juice into a shaker with ice cubes.",
+    "Shake well.",
+    "Strain the mixture into a chilled martini glass."
+  ],
+  "tasteProfile": ["sweet", "sour", "fruity"],
+  "garnishes": "Apple slice",
+  "alcoholContent": 0.22,
+  "glassType": "Martini glass",
+  "mildOrStrong": "Moderate"
+}

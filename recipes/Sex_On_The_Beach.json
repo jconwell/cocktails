@@ -1,0 +1,48 @@
+{
+  "cocktailName": "Sex On The Beach",
+  "ingredients": [
+    {
+      "name": "vodka",
+      "volume": 1.33,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "peach schnapps",
+      "volume": 0.67,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "cranberry juice",
+      "volume": 2,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "orange juice",
+      "volume": 2,
+      "unit": "oz",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.25,
+  "preparationSteps": [
+    "Pour all ingredients into a shaker filled with ice",
+    "Shake well and strain into a highball glass filled with ice cubes"
+  ],
+  "tasteProfile": ["sweet", "fruity", "refreshing"],
+  "garnish": "orange slice",
+  "alcoholContent": 0.05,
+  "glassType": "highball glass",
+  "drinkType": "Cocktail",
+  "temperature": "cold",
+  "color": "multicolor",
+  "origin": "United States",
+  "occasion": ["summer", "party"],
+  "timeOfDay": ["evening", "night"],
+  "classic": true,
+  "mainAlcohol": "Vodka",
+  "typeOfIce": "cubes"
+}

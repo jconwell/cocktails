@@ -1,0 +1,50 @@
+{
+  "name": "Clover Club",
+  "ingredients": [
+    {
+      "name": "Gin",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon Juice",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Raspberry Syrup",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Egg White",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.4,
+  "difficulty": 0.6,
+  "instructions": [
+    "Combine gin, lemon juice, and raspberry syrup in a cocktail shaker.",
+    "Add egg white.",
+    "Shake without ice to emulsify the egg white.",
+    "Add ice and shake again until well chilled.",
+    "Strain into a cocktail glass."
+  ],
+  "tasteProfile": [
+    "Tart",
+    "Sweet",
+    "Fruity"
+  ],
+  "garnish": "Fresh Raspberries",
+  "alcoholContent": 0.20,
+  "color": "Pink",
+  "glassType": "Cocktail Glass",
+  "occasion": ["Evening Drinks", "Special Occasions"],
+  "preparationTime": 5,
+  "rating": 4.2
+}

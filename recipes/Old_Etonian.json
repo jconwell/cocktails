@@ -1,0 +1,50 @@
+{
+  "cocktail": {
+    "name": "Old Etonian",
+    "ingredients": [
+      {
+        "ingredientName": "Gin",
+        "volume": 1.5,
+        "unit": "ounce",
+        "isLiquid": true
+      },
+      {
+        "ingredientName": "Lillet Blanc",
+        "volume": 1.5,
+        "unit": "ounce",
+        "isLiquid": true
+      },
+      {
+        "ingredientName": "Creme de Noyaux",
+        "volume": 0.25,
+        "unit": "ounce",
+        "isLiquid": true
+      },
+      {
+        "ingredientName": "Orange Bitters",
+        "volume": 2,
+        "unit": "dashes",
+        "isLiquid": true
+      }
+    ],
+    "popularity": 0.6,
+    "difficulty": 0.5,
+    "instructions": [
+      "Chill a cocktail glass.",
+      "Combine all ingredients in a shaker with ice.",
+      "Shake well and double strain into the chilled glass."
+    ],
+    "tasteProfile": [
+      "sweet",
+      "bitter",
+      "fruity"
+    ],
+    "garnishes": "Lemon twist",
+    "alcoholContent": 0.4,
+    "serveTemperature": "Cold",
+    "glassType": "Cocktail glass",
+    "occasion": ["Evening", "Party"],
+    "originalCountry": "United Kingdom",
+    "color": "Pale yellow"
+  }
+}

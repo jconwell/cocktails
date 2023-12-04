@@ -1,0 +1,38 @@
+{
+  "cocktail_name": "Chocolate Martini",
+  "ingredients": [
+    {
+      "ingredient_name": "vodka",
+      "volume": 1.5,
+      "unit of measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "creme de cacao",
+      "volume": 1.5,
+      "unit of measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "half-and-half",
+      "volume": 1,
+      "unit of measure": "ounces",
+      "is_liquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.4,
+  "instructions": [
+    "Pour vodka and creme de cacao into a shaker filled with ice.",
+    "Shake well.",
+    "Strain into a cocktail glass.",
+    "Top up with half-and-half."
+  ],
+  "taste_profile": ["sweet", "creamy", "chocolate"],
+  "garnish": "none",
+  "alcohol_content": 0.2,
+  "ideal_temperature": "chilled",
+  "glass_type": "cocktail glass",
+  "preparation_time": 5,
+  "season": "all"
+}

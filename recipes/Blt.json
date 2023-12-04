@@ -1,0 +1,45 @@
+{
+  "cocktail": {
+    "name": "BLT",
+    "ingredients": [
+      {
+        "name": "Bourbon",
+        "volume": 2,
+        "unit": "ounces",
+        "isLiquid": true
+      },
+      {
+        "name": "Lemon Juice",
+        "volume": 0.75,
+        "unit": "ounces",
+        "isLiquid": true
+      },
+      {
+        "name": "Tonic Water",
+        "volume": 3,
+        "unit": "ounces",
+        "isLiquid": true
+      }
+    ],
+    "popularity": 0.7,
+    "difficulty": 0.2,
+    "instructions": [
+      "Fill a shaker with ice cubes.",
+      "Add bourbon and lemon juice.",
+      "Shake and strain into a highball glass filled with ice cubes.",
+      "Top up with tonic water."
+    ],
+    "tasteProfile": [
+      "sour",
+      "sweet",
+      "bitter"
+    ],
+    "garnish" : "Lemon slice",
+    "alcoholContent": 40.0,
+    "servingGlass": "Highball glass",
+    "style": "Classic",
+    "spiritBase": "Whiskey",
+    "originCountry": "USA",
+    "creationYear": "late-20th century"
+  }
+}

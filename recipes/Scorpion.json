@@ -1,0 +1,53 @@
+{
+  "cocktail_name": "Scorpion",
+  "ingredients": [
+    {
+      "name": "Ice",
+      "volume": 1,
+      "unit": "cup",
+      "isLiquid": false
+    },
+    {
+      "name": "Lemon Juice",
+      "volume": 1,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Brandy",
+      "volume": 1,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Dark Rum",
+      "volume": 1.5,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Orgeat Syrup",
+      "volume": 0.5,
+      "unit": "ounce",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.5,
+  "instructions": [
+    "Add ice to a blender.",
+    "Add lemon juice, brandy, dark rum, and orgeat syrup.",
+    "Blend until smooth.",
+    "Pour mixture into a glass."
+  ],
+  "taste_profile": [
+    "sweet", 
+    "sour", 
+    "strong"
+  ],
+  "garnishes": "Lemon slice and Maraschino cherry",
+  "alcohol_content": 0.25,
+  "serving_glass": "Hurricane glass",
+  "serving_temperature": "cold",
+  "preparation_time": 5
+}

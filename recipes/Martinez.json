@@ -1,0 +1,53 @@
+
+{
+  "cocktailName": "Martinez",
+  "ingredients": [
+    {
+      "name": "Gin",
+      "volume": 1.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Sweet vermouth",
+      "volume": 1.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Maraschino Liqueur",
+      "volume": 0.25,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Orange bitters",
+      "volume": 2,
+      "unit": "dashes",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon twist",
+      "volume": 1,
+      "unit": "slice",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.75,
+  "difficulty": 0.3,
+  "instructions": [
+    "Add all the ingredients except the lemon twist to a mixing glass and fill with ice.",
+    "Stir until well chilled.",
+    "Strain into a chilled martini glass.",
+    "Garnish with the lemon twist."
+  ],
+  "tasteProfile": ["Sweet", "Sour", "Bitter"],
+  "garnish": "Lemon twist",
+  "alcoholContent": 0.25,
+  "fizziness": 0,
+  "servingTemperature": "Cold",
+  "glassType": "Martini glass",
+  "isShaken": false,
+  "isStirred": true,
+  "color": "Amber"
+}

@@ -1,0 +1,50 @@
+{
+  "CocktailName": "Cuban Sunset",
+  "Ingredients": [
+    {
+      "IngredientName": "Rum",
+      "Volume": 2,
+      "Unit": "ounce",
+      "IsLiquid": true
+    },
+    {
+      "IngredientName": "Pineapple juice",
+      "Volume": 1,
+      "Unit": "ounce",
+      "IsLiquid": true
+    },
+    {
+      "IngredientName": "Orange Juice",
+      "Volume": 0.5,
+      "Unit": "ounce",
+      "IsLiquid": true
+    },
+    {
+      "IngredientName": "Pomegranate Juice",
+      "Volume": 0.5,
+      "Unit": "ounce",
+      "IsLiquid": true
+    },
+    {
+      "IngredientName": "Lime Wedge",
+      "Volume": 1,
+      "Unit": "piece",
+      "IsLiquid": false
+    }
+  ],
+  "Popularity": 0.7,
+  "Difficulty": 0.3,
+  "Instructions": [
+    "Step 1: Fill a Cocktail shaker with ice.",
+    "Step 2: Pour in the Rum, Pineapple Juice, Orange Juice and Pomegranate Juice.",
+    "Step 3: Shake well until the outside of the shaker becomes frosted.",
+    "Step 4: Strain into a chilled glass.",
+    "Step 5: Garnish with a lime wedge."
+  ],
+  "TasteProfile": ["Sweet", "Citrus", "Fruity"],
+  "Garnish": "Lime Wedge",
+  "AlcoholContent": 0.4,
+  "ServingGlass": "Hurricane Glass",
+  "Temperature": "Chilled",
+  "SpecialEquipment": "Cocktail Shaker"
+}

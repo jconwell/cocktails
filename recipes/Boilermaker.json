@@ -1,0 +1,37 @@
+{
+  "cocktail_name": "Boilermaker",
+  "ingredient": 
+  [
+    {
+      "name": "Bourbon",
+      "volume": 1.5,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {      
+      "name": "Beer",
+      "volume": 12,
+      "unit": "ounces",
+      "is_liquid": true
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty_level": 0.2,
+  "instructions": 
+  [
+    "Pour the bourbon into a shot glass.",
+    "Serve the beer in a beer mug or pint glass.",
+    "Drop the shot glass of bourbon, into the beer."
+  ],
+  "taste_profile": 
+  [
+    "strong", 
+    "bitter", 
+    "earthy"
+  ],
+  "garnish": "none",
+  "alcohol_content": 0.3,
+  "color": "amber",
+  "temperature": "chilled",
+  "glass_type": "mug or pint glass"
+}

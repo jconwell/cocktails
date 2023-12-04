@@ -1,0 +1,42 @@
+{
+  "cocktailName": "Dark 'n' Stormy",
+  "ingredients": [
+    {
+      "ingredientName": "Dark rum",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Ginger beer",
+      "volume": 3,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Lime wedge",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.2,
+  "instructions": [
+    "Fill a tall glass with ice cubes.",
+    "Pour dark rum over the ice.",
+    "Top with ginger beer.",
+    "Garnish with a lime wedge."
+  ],
+  "tasteProfile": [
+    "strong",
+    "spicy",
+    "citrus"
+  ],
+  "garnish": "Lime wedge",
+  "alcoholContent": 0.4,
+  "pairingFood": ["Seafood", "Spicy dishes"],
+  "glassType": "Highball glass",
+  "isLayered": false,
+  "isMuddled": false
+}

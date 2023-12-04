@@ -1,0 +1,51 @@
+{
+  "cocktailName": "Ghost-tini",
+  "ingredients": [
+    {
+      "ingredientName": "Vodka",
+      "ingredientVolume": 1.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true,
+    },
+    {
+      "ingredientName": "Vanilla simple syrup",
+      "ingredientVolume": 1.0,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true,
+    },
+    {
+      "ingredientName": "Cream",
+      "ingredientVolume": 1.0,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true,
+    },
+    {
+      "ingredientName": "White chocolate liqueur",
+      "ingredientVolume": 0.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true,
+    }
+  ],
+  "popularityRating": 0.6,
+  "difficultyRating": 0.3,
+  "instructions": [
+    {
+      "step": "Combine vodka, vanilla simple syrup, cream, and white chocolate liqueur into a cocktail shaker with ice."
+    },
+    {
+      "step": "Shake well to mix the ingredients together."
+    },
+    {
+      "step": "Strain the contents into a chilled martini glass."
+    }
+  ],
+  "tasteProfile": [
+    "sweet", "creamy", "smooth"
+  ],
+  "garnish": "Optional sprinkle of white chocolate shavings",
+  "alcoholContent": 0.2,
+  "servingMethod": "Serve in a chilled Martini glass",
+  "servingTemperature": "Cold",
+  "preparationTime": 5,
+  "glassware": "Martini Glass"
+}

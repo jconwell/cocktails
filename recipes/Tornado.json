@@ -1,0 +1,55 @@
+{
+  "name": "Tornado",
+  "ingredients": [
+    {
+      "ingredient_name": "Rye Whiskey",
+      "volume": 1.5,
+      "unit": "oz",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Benedictine",
+      "volume": 0.5,
+      "unit": "oz",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Lemon Juice",
+      "volume": 0.75,
+      "unit": "oz",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Simple Syrup",
+      "volume": 0.75,
+      "unit": "oz",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Angostura Bitters",
+      "volume": 1,
+      "unit": "dash",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Ice cube",
+      "volume": 2,
+      "unit": "count",
+      "is_liquid": false
+    }
+  ],
+  "popularity_score": 0.6,
+  "difficulty_score": 0.4,
+  "instructions": [
+    "In a shaker, combine rye whiskey, benedictine, lemon juice, simple syrup, and angostura bitters.",
+    "Add ice and shake until well chilled.",
+    "Strain into a chilled cocktail glass."
+  ],
+  "taste_profile": ["bitter", "sweet", "refreshing"],
+  "garnish": "Lemon twist",
+  "alcohol_content": 0.3,
+  "glassware": "Cocktail glass",
+  "is_shaken": true,
+  "is_stirred": false,
+  "is_blended": false
+}

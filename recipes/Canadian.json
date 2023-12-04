@@ -1,0 +1,37 @@
+{
+  "cocktail_name": "Canadian",
+  "ingredients": [
+    {
+      "ingredient_name": "Rye Whisky",
+      "volume": 1.5,
+      "unit_of_measure": "oz",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Dry Vermouth",
+      "volume": 0.5,
+      "unit_of_measure": "oz",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Bitters",
+      "volume": 2,
+      "unit_of_measure": "dashes",
+      "is_liquid": true
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.3,
+  "instructions": [
+    "Stir all ingredients with ice",
+    "Strain into a cocktail glass"
+  ],
+  "taste_profile": [
+    "Bitter",
+    "Dry"
+  ],
+  "garnish": "Orange Twist",
+  "alcohol_content": 0.27,
+  "preferred_glass": "Cocktail Glass",
+  "ideal_serving_temp": "Chilled"
+}

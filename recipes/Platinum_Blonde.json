@@ -1,0 +1,50 @@
+{
+  "cocktailName": "Platinum Blonde",
+  "ingredients": [
+    {
+      "name": "Gin",
+      "volume": 2,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Apricot Brandy",
+      "volume": 0.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon Juice",
+      "volume": 1,
+      "unit": "oz",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.4,
+  "instructions": [
+    "Fill a shaker with ice cubes.",
+    "Add all ingredients.",
+    "Shake and strain into a chilled cocktail glass."
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Citrus",
+    "Fruity"
+  ],
+  "garnish": "Lemon twist",
+  "alcoholContent": 0.2,
+  "color": {
+    "hue": "yellow",
+    "transparency": 0.85
+  },
+  "texture": {
+    "feel": "smooth"
+  },
+  "temperature": {
+    "bestServed": "cold"
+  },
+  "glassType": {
+    "recommended": "cocktail"
+  }
+}

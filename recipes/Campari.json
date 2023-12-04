@@ -1,0 +1,43 @@
+{
+  "Cocktail": "Campari Cocktail",
+  "Ingredients": [
+    {
+      "Name": "Campari",
+      "Volume": 1.5,
+      "Unit": "ounces",
+      "Is_Liquid": true
+    },
+    {
+      "Name": "Vodka",
+      "Volume": 0.5,
+      "Unit": "ounces",
+      "Is_Liquid": true
+    },
+    {
+      "Name": "Orange Slice",
+      "Volume": 1,
+      "Unit": "count",
+      "Is_Liquid": false
+    }
+  ],
+  "Popularity": 0.65,
+  "Difficulty": 0.2,
+  "Instructions": [
+    "Pour the Campari and vodka into a shaker filled with ice.",
+    "Stir well.",
+    "Strain into a chilled cocktail glass.",
+    "Garnish with the orange slice."
+  ],
+  "Taste_Profile": [
+    "Bitter",
+    "Citrusy",
+    "Fresh"
+  ],
+  "Garnish": "Orange Slice",
+  "Alcohol_Content": 0.24,
+  "Color": "Red",
+  "Glass_Type": "Cocktail Glass",
+  "Shaken_Stirred": "Stirred",
+  "Serving_Temperature": "Cold",
+  "Origin": "Italy"
+}

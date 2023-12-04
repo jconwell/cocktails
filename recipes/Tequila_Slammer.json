@@ -1,0 +1,39 @@
+{
+  "cocktailName": "Tequila Slammer",
+  "ingredients": [
+    {
+      "ingredientName": "Tequila",
+      "volume": 1,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Champagne or sparkling wine",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.2,
+  "makingInstructions": [
+    "Pour the tequila in a shot glass",
+    "Top with champagne or sparkling wine until it's full",
+    "Slam the palm of your hand onto the top of the glass to create some fizz",
+    "Drink in one gulp"
+  ],
+  "tasteProfile": ["Strong", "Bitter"],
+  "garnish": "None",
+  "alcoholContent": 0.4,
+  "extraInfo": {
+    "minimumAge": 21,
+    "serveIn": "Shot glass",
+    "idealTime": "Evening"
+  },
+  "color": "Yellow",
+  "texture": "Fizzing",
+  "temperature": "Cold",
+  "origin": "Mexico",
+  "type": "Alcoholic",
+  "isClassic": true
+}

@@ -1,0 +1,39 @@
+{
+  "cocktailName": "Irish Car Bomb",
+  "ingredients": [
+    {
+      "ingredientName": "Jameson Irish Whiskey",
+      "ingredientVolume": 1.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Irish Cream",
+      "ingredientVolume": 1,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Guinness Stout",
+      "ingredientVolume": 8,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.2,
+  "instructions": [
+    "Pour the Guinness Stout into a pint glass or beer mug and let it settle.",
+    "Fill a shot glass half with Jameson Irish Whiskey and the other half with Irish Cream.",
+    "Drop the shot glass in the pint glass or beer mug.",
+    "Drink it all at once."
+  ],
+  "tasteProfile": ["creamy", "bitter", "sweet"],
+  "garnishes": "None",
+  "alcoholContent": 0.12,
+  "cocktailStyle": "Bomb Shot",
+  "servingGlass": "Pint Glass",
+  "color": "Black",
+  "texture": "Creamy",
+  "baseAlcohol": "Whiskey"
+}

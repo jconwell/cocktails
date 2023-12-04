@@ -1,0 +1,49 @@
+{
+  "name": "Blue Hawaii",
+  "ingredients": [
+    {
+      "ingredient_name": "Rum",
+      "ingredient_volume": 1,
+      "unit_of_measure": "oz",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Vodka",
+      "ingredient_volume": 0.5,
+      "unit_of_measure": "oz",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Blue Curacao",
+      "ingredient_volume": 0.5,
+      "unit_of_measure": "oz",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Pineapple Juice",
+      "ingredient_volume": 3,
+      "unit_of_measure": "oz",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Sweet And Sour Mix",
+      "ingredient_volume": 1,
+      "unit_of_measure": "oz",
+      "is_liquid": true
+    }
+  ],
+  "popularity_score": 0.7,
+  "difficulty_score": 0.3,
+  "instructions": [
+    "Pour the ingredients into a cocktail shaker with ice.",
+    "Shake well.",
+    "Strain into a chilled cocktail glass."
+  ],
+  "taste_profile": ["sweet", "sour", "fruity"],
+  "garnish": "Pineapple slice",
+  "alcohol_content": 0.12,
+  "color": "blue",
+  "cocktail_type": "tropical",
+  "glass_type": "cocktail",
+  "season": "summer"
+}

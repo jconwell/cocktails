@@ -1,0 +1,48 @@
+{
+  "name": "Ouzini",
+  "ingredients": [
+    {
+      "name_of_ingredient": "Vodka",
+      "volume": 1.5,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name_of_ingredient": "Ouzo",
+      "volume": 1.0,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name_of_ingredient": "Lime Juice",
+      "volume": 1.0,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name_of_ingredient": "Sugar Syrup",
+      "volume": 0.5,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name_of_ingredient": "Ice Cubes",
+      "volume": 5,
+      "unit_of_measure": "count",
+      "is_liquid": false
+    }
+  ],
+  "popularity": 0.5,
+  "difficulty": 0.2,
+  "instructions": [
+    "Chill the vodka before serving.",
+    "Pour vodka, ouzo, lime juice and sugar syrup into a shaker with ice cubes.",
+    "Shake well for 15 seconds and strain into a chilled cocktail glass."
+  ],
+  "taste_profile": ["sour", "sweet", "strong"],
+  "garnish": "Lime Wheel",
+  "alcohol_content": 0.25,
+  "origin": "Greece",
+  "type_of_glass": "Cocktail Glass",
+  "serve": "Chilled"
+}

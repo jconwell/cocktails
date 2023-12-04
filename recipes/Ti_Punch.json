@@ -1,0 +1,43 @@
+{
+  "name": "Ti' Punch",
+  "popularity": 0.6,
+  "difficulty": 0.2,
+  "ingredients": [
+    {
+      "name": "Rhum Agricole",
+      "volume": 2,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Lime",
+      "volume": 1,
+      "unit": "piece",
+      "isLiquid": false
+    },
+    {
+      "name": "Cane Syrup",
+      "volume": 0.5,
+      "unit": "oz",
+      "isLiquid": true
+    }
+  ],
+  "instructions": [
+    "Squeeze the lime into a glass",
+    "Add the cane syrup",
+    "Add the Rhum Agricole",
+    "Stir gently"
+  ],
+  "tasteProfile": [
+    "Tart",
+    "Sweet",
+    "Strong"
+  ],
+  "garnish": "Lime slice",
+  "alcoholContent": 0.4,
+  "isClassicCocktail": true,
+  "suitableEvents": ["Casual Partying", "Night Drinking"],
+  "serveIn": "Old Fashioned Glass",
+  "originCountry": "Martinique",
+  "originYear": 1900
+}

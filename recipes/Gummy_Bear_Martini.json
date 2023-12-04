@@ -1,0 +1,46 @@
+{
+  "cocktail_name": "Gummy Bear Martini",
+  "ingredients": [
+    {
+      "ingredient_name": "Vodka",
+      "ingredient_volume": 1.5,
+      "measuring_unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Peach schnapps",
+      "ingredient_volume": 1,
+      "measuring_unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Cranberry juice",
+      "ingredient_volume": 0.5,
+      "measuring_unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Gummy bears",
+      "ingredient_volume": 5,
+      "measuring_unit": "count",
+      "is_liquid": false
+    }
+  ],
+  "drink_popularity": 0.6,
+  "drink_difficulty": 0.2,
+  "step_by_step_instructions": [
+    "Pour vodka and peach schnapps into a shaker with ice",
+    "Shake until well chilled",
+    "Strain into a Martini glass",
+    "Top with cranberry juice",
+    "Garnish with gummy bears"
+  ],
+  "taste_profile": ["Sweet", "Fruity"],
+  "garnishes": "Gummy bears",
+  "alcohol_content": 0.24,
+  "color": "Red",
+  "glass_type": "Martini glass",
+  "serving_temperature": "Cold",
+  "drink_style": "Martini",
+  "origin_country": "United States"
+}

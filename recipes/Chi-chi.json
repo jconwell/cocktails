@@ -1,0 +1,48 @@
+{
+  "cocktail_name": "Chi-chi",
+  "ingredients": [
+    {
+      "ingredient_name": "Vodka",
+      "volume": 1,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "ingredient_name": "Pineapple juice",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredient_name": "Cream of coconut",
+      "volume": 1,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "ingredient_name": "Ice cubes",
+      "volume": 1,
+      "unit": "cup",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty_to_make": 0.3,
+  "steps": [
+    "Put all the ingredients into a blender.",
+    "Blend until you have a smooth mixture.",
+    "Pour the mixture into a glass."
+  ],
+  "taste_profile": [
+    "Sweet",
+    "Creamy",
+    "Tropical"
+  ],
+  "garnishes": "Pineapple slice and a maraschino cherry",
+  "alcohol_content": 0.15,
+  "color": "White",
+  "drinkware": "Hurricane Glass",
+  "occasions": ["Summer parties", "Beach parties", "Casual"],
+  "type_of_cocktail": "Blended drink",
+  "isClassics": false
+}

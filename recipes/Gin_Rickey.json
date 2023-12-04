@@ -1,0 +1,39 @@
+{
+  "name": "Gin Rickey",
+  "ingredients": [
+    {
+      "name": "Gin",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lime Juice",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Club Soda",
+      "volume": 4,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.1,
+  "instructions": [
+    "Squeeze the lime into a highball glass.",
+    "Add 2-3 ice cubes.",
+    "Pour in the gin and the lime juice.",
+    "Top off with club soda.",
+    "Stir lightly."
+  ],
+  "tasteProfile": ["Tangy", "Refreshing"],
+  "garnish": "Lime wedge",
+  "alcoholContent": 0.25,
+  "color": "Clear",
+  "servingGlass": "Highball glass",
+  "origin": "United States",
+  "flavorIntensity": 0.45
+}

@@ -1,0 +1,37 @@
+{
+  "cocktailName": "Sapphire Martini",
+  "ingredients": [
+    {
+      "name": "Bombay Sapphire Gin",
+      "volume": 2.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Dry Vermouth",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon twist",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.8,
+  "difficulty": 0.3,
+  "instructions": [
+    "Chill martini glass in the freezer.",
+    "Fill a mixing glass with ice cubes.", 
+    "Add Bombay Sapphire Gin and Dry Vermouth.",
+    "Stir until the outside of the glass becomes cold.",
+    "Strain the contents of the glass into the chilled martini glass.",
+    "Garnish with a lemon twist."
+  ],
+  "tasteProfile": ["Bitter", "Aromatic"],
+  "garnishes": "Lemon twist",
+  "alcoholContent": 0.32,
+  "glassType": "Martini Glass"
+}

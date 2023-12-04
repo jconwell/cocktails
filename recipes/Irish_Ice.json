@@ -1,0 +1,46 @@
+{
+  "cocktailName": "Irish Ice",
+  "ingredients": [
+    {
+      "name": "Bailey's Irish Cream",
+      "volume": 1,
+      "unitOfMeasure": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Jameson Irish Whiskey",
+      "volume": 1,
+      "unitOfMeasure": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Ice cubes",
+      "volume": 3,
+      "unitOfMeasure": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularityScore": 0.6,
+  "difficultyScore": 0.2,
+  "instructions": [
+    "Fill a glass with ice cubes",
+    "Pour the Bailey's Irish Cream over the ice",
+    "Add the Jameson Irish Whiskey",
+    "Stir well until properly mixed"
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Smooth",
+    "Creamy"
+  ],
+  "garnish": "A sprinkle of cocoa powder on top",
+  "alcoholContent": 0.4,
+  "cocktailType": "Creamy",
+  "glassType": "Old Fashioned glass",
+  "servingMethod": "On The Rocks",
+  "flavourIntensity": 0.7,
+  "aroma": [
+    "Coffee",
+    "Cream"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Between The Sheets",
+  "ingredients": [
+    {
+      "name": "Brandy",
+      "volume": 0.75,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Light Rum",
+      "volume": 0.75,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Triple Sec",
+      "volume": 0.75,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon Juice",
+      "volume": 0.5,
+      "unit": "oz",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.3,
+  "instructions": [
+    "Combine all ingredients in a cocktail shaker filled with ice",
+    "Shake well until the outside of the shaker becomes frosted",
+    "Strain into chilled cocktail glass"
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Citrus"
+  ],
+  "garnish": "Lemon twist",
+  "alcoholContent": 0.25,
+  "color": "Amber",
+  "style": "Short drink",
+  "glassType": "Cocktail glass",
+  "timeOfDay": "Evening",
+  "season": "All",
+  "mood": "Relaxed"
+}

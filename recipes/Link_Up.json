@@ -1,0 +1,35 @@
+{
+  "cocktailName": "Link Up",
+  "ingredients": [
+    {"name": "Cognac", "volume": 1.5, "unit": "oz", "isLiquid": true},
+    {"name": "Campari", "volume": 0.5, "unit": "oz", "isLiquid": true},
+    {"name": "Lemon Juice", "volume": 0.75, "unit": "oz", "isLiquid": true},
+    {"name": "Simple Syrup", "volume": 0.5, "unit": "oz", "isLiquid": true},
+    {"name": "Pineapple Juice", "volume": 0.5, "unit": "oz", "isLiquid": true},
+    {"name": "Cherry", "volume": 1, "unit": "count", "isLiquid": false}
+  ],
+  "popularity": 0.60,
+  "difficulty": 0.50,
+  "instructions": [
+    "Chill a cocktail glass in the freezer for a few minutes.",
+    "In a  shaking glass, add Cognac, Campari, Lemon Juice, Simple Syrup, Pineapple Juice.",
+    "Fill with ice and shake vigorously.",
+    "Fine strain into the chilled glass.",
+    "Garnish with a cherry."
+  ],
+  "tasteProfile": [
+    "Bittersweet",
+    "Fruity",
+    "Tangy"
+  ],
+  "garnish": "Cherry",
+  "alcoholContent": 0.145,
+  "drinkType": "Mixed drink",
+  "glassType": "Cocktail glass",
+  "served": "Chilled",
+  "color": "Red",
+  "event": "Social Gatherings",
+  "seasonality": "All Seaons",
+  "strength": "Medium",
+  "mood": "Happy Hour"
+}

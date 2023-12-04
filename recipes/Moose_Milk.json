@@ -1,0 +1,43 @@
+{
+  "name": "Moose Milk",
+  "ingredients": [
+    {
+      "ingredient_name": "Light Rum",
+      "volume": 0.5,
+      "unit_of_measure": "oz",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Dark Rum",
+      "volume": 0.5,
+      "unit_of_measure": "oz",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Kahlua",
+      "volume": 1,
+      "unit_of_measure": "oz",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Ice Cream",
+      "volume": 2,
+      "unit_of_measure": "scoops",
+      "is_liquid": false
+    }
+  ],
+  "popularity": 0.2,
+  "difficulty": 0.2,
+  "instructions": [
+    "Blend light rum, dark rum, Kahlua, and ice cream in a blender until smooth.",
+    "Pour into a large, frosty mug or glass."
+  ],
+  "taste_profile": [
+    "Sweet",
+    "Creamy"
+  ],
+  "garnish": "Nutmeg",
+  "alcohol_content": 0.4,
+  "glass_type": "Large Frosty Mug",
+  "time_to_make": 5
+}

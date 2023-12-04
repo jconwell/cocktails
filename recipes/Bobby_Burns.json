@@ -1,0 +1,48 @@
+{
+  "cocktailName": "Bobby Burns",
+  "ingredients": [
+    {
+      "name": "Scotch whisky",
+      "volume": 1.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Sweet vermouth",
+      "volume": 1.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Benedictine",
+      "volume": 0.25,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon twist",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.4,
+  "instructions": [
+    "In a mixing glass, combine whisky, vermouth, and Benedictine.",
+    "Fill the glass with ice and stir until well chilled.",
+    "Strain into a chilled cocktail glass.",
+    "Garnish with a lemon twist."
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Smoky",
+    "Citrus",
+    "Herbaceous"
+  ],
+  "garnish": "Lemon twist",
+  "alcoholContent": 0.32,
+  "pairingFood": ["Red meat", "Seafood"],
+  "idealServingTemperature": "Chilled",
+  "idealGlassware": "Cocktail glass"
+}

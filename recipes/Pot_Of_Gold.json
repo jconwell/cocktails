@@ -1,0 +1,54 @@
+{
+"cocktailName": "Pot Of Gold",
+"ingredients": [
+    {
+        "name": "Irish Whiskey",
+        "volume": 2,
+        "unit": "ounces",
+        "isLiquid": true
+    },
+
+    {
+        "name": "Lemon Juice",
+        "volume": 1,
+        "unit": "ounces",
+        "isLiquid": true
+    },
+
+    {
+        "name": "Ginger Syrup",
+        "volume": 0.75,
+        "unit": "ounces",
+        "isLiquid": true
+    },
+
+    {
+        "name": "Ginger Beer",
+        "volume": 4,
+        "unit": "ounces",
+        "isLiquid": true
+    }
+],
+"popularityScore": 0.53,
+"difficultyScore": 0.17,
+"instructions": [
+    "Fill a shaker with ice cubes",
+    "Add Irish whiskey, lemon juice and ginger syrup", 
+    "Shake and strain into a highball glass filled with ice cubes", 
+    "Top up with ginger beer",  
+    "Garnish with a lemon wheel and mint leaves"
+],
+"tasteProfile": [
+    "Tangy", 
+    "Strong", 
+    "Bitter"
+],
+"garnishes": "Lemon Wheel and Mint leaves",
+"alcoholContent": 0.25,
+"pairings": ["Seafood"],
+"servingGlass": "Highball Glass",
+"originCountry": "Ireland",
+"color": "Amber",
+"style": "Classic",
+"season": "Year-round"
+}

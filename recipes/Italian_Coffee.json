@@ -1,0 +1,40 @@
+{
+  "cocktailName": "Italian Coffee",
+  "ingredients": [
+    {
+      "name": "Coffee",
+      "volume": 6,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Amaretto Liqueur",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Whipped cream",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.2,
+  "instructions": [
+    "Brew coffee and pour into a coffee mug.",
+    "Pour Amaretto Liqueur into the coffee.",
+    "Top with whipped cream."
+  ],
+  "tasteProfile": [
+    "Bitter",
+    "Sweet",
+    "Creamy"
+  ],
+  "garnish": "Grated chocolate",
+  "alcoholContent": 0.08,
+  "glassware": "Coffee Mug",
+  "cocktailType": "Hot Cocktail",
+  "cocktailTime": "Anytime Drink"
+}

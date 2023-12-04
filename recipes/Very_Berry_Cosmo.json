@@ -1,0 +1,24 @@
+{
+  "cocktail_name": "Very Berry Cosmo",
+  "ingredients": [
+    {"ingredient_name": "Vanilla Vodka", "volume": 1.5, "unit_of_measure": "oz", "is_liquid": true},
+    {"ingredient_name": "Cranberry Juice", "volume": 1.5, "unit_of_measure": "oz", "is_liquid": true},
+    {"ingredient_name": "Lime Juice", "volume": 1, "unit_of_measure": "oz", "is_liquid": true},
+    {"ingredient_name": "Raspberries", "volume": 4, "unit_of_measure": "count", "is_liquid": false}
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.3,
+  "instructions": [
+    "Muddle the raspberries at the bottom of a shaker.",
+    "Add the vodka, cranberry juice, and lime juice.",
+    "Add ice and shake until well mixed and chilled.",
+    "Strain into a chilled martini glass."
+  ],
+  "taste_profile": ["Fruity", "Sweet", "Tart"],
+  "garnish": "fresh raspberry on the rim",
+  "alcohol_content": 0.2,
+  "color": "Red",
+  "texture": "Smooth",
+  "temperature": "Cold",
+  "container": "Martini Glass"
+}

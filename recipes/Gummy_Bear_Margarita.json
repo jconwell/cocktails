@@ -1,0 +1,45 @@
+{
+  "cocktailName": "Gummy Bear Margarita",
+  "ingredients": [
+    {
+      "name": "Silver Tequila",
+      "volume": 2,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Gummy Bears",
+      "volume": 10,
+      "unitOfMeasure": "count",
+      "isLiquid": false
+    },
+    {
+      "name": "Lime Juice",
+      "volume": 1,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Simple Syrup",
+      "volume": 1,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.85,
+  "difficulty": 0.4,
+  "instructions": [
+    "In a shaker, combine tequila, lime juice and simple syrup",
+    "Shake with ice until well mixed",
+    "Strain into a chilled glass",
+    "Add gummy bears either in the drink or as garnish"
+  ],
+  "tasteProfile": ["Sweet", "Sour", "Strong"],
+  "garnishes": "Gummy Bears and Lime Slice",
+  "alcoholContent": 0.18,
+  "color" : "Yellow",
+  "texture" : "Smooth",
+  "servingGlass" : "Margarita Glass",
+  "ice" : "Cubed",
+  "temperature" : "Cold"
+}

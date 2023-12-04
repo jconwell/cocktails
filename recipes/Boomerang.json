@@ -1,0 +1,47 @@
+{
+  "cocktailName": "Boomerang",
+  "ingredients": [
+    {
+      "name": "Gin",
+      "volume": 1,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Dry Vermouth",
+      "volume": 0.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Benedictine",
+      "volume": 0.25,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Angostura Bitters",
+      "volume": 0.2,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.4,
+  "instructions": [
+    "Stir all ingredients together in a mixing glass filled with ice.",
+    "Strain into a chilled cocktail glass.",
+    "Garnish with a lemon twist."
+  ],
+  "tasteProfile": [
+    "sweet",
+    "herbal",
+    "bitter",
+    "citrus"
+  ],
+  "garnishes": "Lemon twist",
+  "alcoholContent": 0.25,
+  "bestTimeOfConsumption": "night",
+  "cocktailType": "Classic",
+  "glassType": "Cocktail glass"
+}

@@ -1,0 +1,34 @@
+{
+  "cocktail_name": "Brave Bull",
+  "ingredients": [
+    {
+      "name": "Tequila",
+      "volume": 2,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Kahlua",
+      "volume": 1,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    }
+  ],
+  "popularity_score": 0.6,
+  "difficulty_score": 0.5,
+  "instructions": [
+    "Pour the tequila into a glass over ice.",
+    "Top with Kahlua.",
+    "Stir well."
+  ],
+  "taste_profile": [
+    "strong", 
+    "bitter"
+  ],
+  "garnish": "None",
+  "alcohol_content": 0.3,
+  "glass_type": "Old Fashioned Glass",
+  "serve_method": "On the Rocks",
+  "category": "Classic",
+  "IBA_official": false
+}

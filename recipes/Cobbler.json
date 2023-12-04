@@ -1,0 +1,44 @@
+{
+  "name": "Cobbler",
+  "ingredients": [
+    {
+      "name": "Sherry",
+      "volume": 2.0,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Superfine Sugar",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": false
+    },
+    {
+      "name": "Orange Slice",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    },
+    {
+      "name": "Lemon Slice",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.3,
+  "instructions": [
+    "Muddle the superfine sugar and fruits in a shaker.",
+    "Add the Sherry.",
+    "Shake well with ice.",
+    "Strain into a cobbler glass.",
+    "Garnish."
+  ],
+  "tasteProfile": ["sweet", "fruity", "light"],
+  "garnishes": "Fresh fruit and a mint sprig",
+  "alcoholContent": 0.15,
+  "glassType": "Cobbler glass",
+  "isCarbonated": false,
+  "isCocktailFrozen": false
+}

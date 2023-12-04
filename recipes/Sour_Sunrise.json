@@ -1,0 +1,40 @@
+{
+  "cocktailName": "Sour Sunrise",
+  "ingredients": [
+    {
+      "name": "Tequila",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Freshly Squeezed Orange Juice",
+      "volume": 4,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Grenadine",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.65,
+  "difficulty": 0.2,
+  "instructions": [
+    "Fill a highball glass with ice",
+    "Add tequila",
+    "Pour in orange juice and stir",
+    "Slowly pour grenadine around the inside edge of the glass, it will sink and slowly rise to mix with the other ingredients creating sunrise effect"
+  ],
+  "tasteProfile": ["sweet", "sour", "fruity"],
+  "garnish": "Cherry and orange slice",
+  "alcoholContent": 0.14,
+  "glassType": "Highball Glass",
+  "spectacularPresentation": false,
+  "aftertaste": "Fruit-forward, with sweetness followed by a hint of tequila zing",
+  "shakeOrStir": "Stir",
+  "idealSeason": "Summer",
+  "typeOfIce": "Cubed"
+}

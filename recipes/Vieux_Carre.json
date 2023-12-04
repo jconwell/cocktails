@@ -1,0 +1,58 @@
+{
+  "cocktail_name":"Vieux Carre",
+  "ingredients": [
+    {
+      "ingredient_name":"Rye Whiskey",
+      "volume":1,
+      "unit_of_measure":"ounces",
+      "is_liquid":true
+    },
+    {
+      "ingredient_name":"Cognac",
+      "volume":1,
+      "unit_of_measure":"ounces",
+      "is_liquid":true
+    },
+    {
+      "ingredient_name":"Sweet Vermouth",
+      "volume":1,
+      "unit_of_measure":"ounces",
+      "is_liquid":true
+    },
+    {
+      "ingredient_name":"Benedictine D.O.M.",
+      "volume":0.25,
+      "unit_of_measure":"ounces",
+      "is_liquid":true
+    },
+    {
+      "ingredient_name":"Angostura Bitters",
+      "volume":1,
+      "unit_of_measure":"dash",
+      "is_liquid":true
+    },
+    {
+      "ingredient_name":"Peychaud's Bitters",
+      "volume":1,
+      "unit_of_measure":"dash",
+      "is_liquid":true
+    },
+    {
+      "ingredient_name":"Lemon Twist",
+      "volume":1,
+      "unit_of_measure":"piece",
+      "is_liquid":false
+    }
+  ],
+  "popularity":0.7,
+  "difficulty":0.4,
+  "instructions":[
+    "Combine the rye, cognac, vermouth, Benedictine, and both bitters in a mixing glass.",
+    "Add ice and stir to chill.",
+    "Strain the mixture into a chilled cocktail glass.",
+    "Garnish with lemon twist."
+  ],
+  "taste_profile":["Strong", "Complex", "Savoury"],
+  "garnish":"Lemon Twist",
+  "alcohol_content":0.35
+}

@@ -1,0 +1,44 @@
+{
+    "cocktailName": "Danny Ocean",
+    "ingredients": [
+        {
+            "ingredientName": "Jamaican Rum",
+            "volume": 2.5,
+            "unit": "ounces",
+            "isLiquid": true
+        },
+        {
+            "ingredientName": "Pineapple Juice",
+            "volume": 1.5,
+            "unit": "ounces",
+            "isLiquid": true
+        },
+        {
+            "ingredientName": "Coconut Cream",
+            "volume": 1,
+            "unit": "ounce",
+            "isLiquid": true
+        },
+        {
+            "ingredientName": "Lime Juice",
+            "volume": 0.5,
+            "unit": "ounce",
+            "isLiquid": true
+        }
+    ],
+    "popularity": 0.6,
+    "difficulty": 0.4,
+    "steps": [
+        "Pour the rum, pineapple juice, coconut cream, and lime juice into a shaker with ice.",
+        "Shake until well mixed and chilled.",
+        "Strain into a chilled glass."
+    ],
+    "tasteProfile": ["Sweet", "Tangy"],
+    "garnish": "Pineapple slice and cherry on a skewer",
+    "alcoholContent": 0.25,
+    "colour": "Milky white",
+    "servingSize": 1,
+    "servingGlass": "Cocktail glass",
+    "originCountry": "Jamaica",
+    "isClassic": false
+}

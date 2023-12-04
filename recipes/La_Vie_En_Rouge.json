@@ -1,0 +1,52 @@
+{
+  "cocktailName": "La Vie En Rouge",
+  "ingredients": [
+    {
+      "name": "Gin",
+      "volume": 1.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon Juice",
+      "volume": 0.75,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Raspberry Syrup",
+      "volume": 0.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Egg White",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    },
+    {
+      "name": "Angostura Bitters",
+      "volume": 1,
+      "unit": "dash",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.6,
+  "instructions": [
+    "Combine all ingredients in a shaker without ice and shake until frothy.",
+    "Add ice to the shaker and shake again to chill.",
+    "Strain into a cocktail glass and garnish."
+  ],
+  "tasteProfile": [
+    "sour",
+    "sweet",
+    "fruity"
+  ],
+  "garnish": "Raspberries and a slice of lemon",
+  "alcoholContent": 0.14,
+  "color": "Red",
+  "idealGlassType": "Coupe glass",
+  "origin": "France"
+}

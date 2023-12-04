@@ -1,0 +1,31 @@
+{
+  "cocktailName": "Cement Mixer",
+  "ingredients": [
+    {
+      "name": "Irish Cream Liqueur",
+      "volume": 0.75,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lime juice",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.2,
+  "difficulty": 0.3,
+  "instructions": [
+    "Pour the Irish cream into a shot glass.",
+    "Pour the lime juice over the Irish cream.",
+    "Stir until the mix takes on a 'cement mixer' texture."
+  ],
+  "tasteProfile": ["creamy", "sour", "unique"],
+  "garnish": "None",
+  "alcoholContent": 0.17,
+  "color": "cream",
+  "glassType": "shot glass",
+  "isShaken": false,
+  "servingTemperature": "cold"
+}

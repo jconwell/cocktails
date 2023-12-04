@@ -1,0 +1,34 @@
+{
+  "cocktailName": "Angel's Tip",
+  "ingredients": [
+      {
+        "name": "Crema di Cacao", 
+        "volume": 1.5, 
+        "unit": "ounces", 
+        "isLiquid": true
+      }, 
+      {
+        "name": "cream", 
+        "volume": 1, 
+        "unit": "ounces", 
+        "isLiquid": true
+      }
+  ],
+  "popularity": 0.5,
+  "difficulty": 0.4,
+  "instructions": [
+      "Pour cream off the back of a spoon so it 'floats' on top of the Cacao",
+      "Serve as is, or lightly stir"
+  ],
+  "tasteProfile": [
+      "sweet", 
+      "creamy", 
+      "bitter"
+  ],
+  "garnish": "none",
+  "alcoholContent": 0.24,
+  "servingGlass": "shot glass",
+  "temperature": "cold",
+  "color": "light brown",
+  "skillRequired": "beginner"
+}

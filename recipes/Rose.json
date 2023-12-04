@@ -1,0 +1,35 @@
+{
+    "cocktail": "Rose",
+    "ingredients": [
+        {
+            "name": "Kirsch Liqueur",
+            "volume": 1,
+            "unit": "ounce",
+            "isLiquid": true
+        },
+        {
+            "name": "Dry Vermouth",
+            "volume": 0.5,
+            "unit": "ounce",
+            "isLiquid": true
+        },
+        {
+            "name": "Cherry Brandy",
+            "volume": 0.5,
+            "unit": "ounce",
+            "isLiquid": true
+        }
+    ],
+    "popularity": 0.4,
+    "difficulty": 0.3,
+    "instructions": [
+        "Stir all ingredients with ice",
+        "Strain into a cocktail glass"
+    ],
+    "tasteProfile": ["Sweet", "Fruity", "Smooth"],
+    "garnishes": "None",
+    "alcoholContent": 0.28,
+    "color": "Rose",
+    "glassware": "Cocktail Glass",
+    "mixMethod": "Stir"
+}

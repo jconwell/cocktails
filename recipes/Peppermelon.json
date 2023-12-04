@@ -1,0 +1,53 @@
+{
+  "cocktailName": "Peppermelon",
+  "ingredients": [
+    {
+      "name": "Vodka",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Watermelon Juice",
+      "volume": 4,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Pepper",
+      "volume": 0.25,
+      "unit": "pinch",
+      "isLiquid": false
+    },
+    {
+      "name": "Mint Leaves",
+      "volume": 4,
+      "unit": "count",
+      "isLiquid": false
+    }],
+  "popularity": 0.7,
+  "difficulty": 0.2,
+  "instructions": [
+    "Muddle mint leaves in a shaker",
+    "Add vodka, watermelon juice, and pepper to shaker",
+    "Shake well",
+    "Strain into a glass with ice",
+    "Garnish with a sprig of mint"
+  ],
+  "tasteProfile": [
+    "Spicy",
+    "Sweet",
+    "Refreshing"
+  ],
+  "garnish": "Mint sprig",
+  "alcoholContent": 0.05,
+  "color": "Red",
+  "environment": "Outdoor",
+  "recommendedGlass": "Collins Glass",
+  "originCountry": "USA",
+  "flavorTypes": [
+    "spicy",
+    "sweet",
+    "fruity"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "cocktailName": "Apple-kneel",
+  "ingredients": [
+    {
+      "name": "Apple Juice",
+      "volume": 1.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon Juice",
+      "volume": 0.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Simple Syrup",
+      "volume": 0.75,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Ginger Ale",
+      "volume": 1.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Apple Slice",
+      "volume": 1,
+      "unitOfMeasure": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.65,
+  "difficulty": 0.3,
+  "instructions": [
+    "In a shaker, combine apple juice, lemon juice and simple syrup.",
+    "Shake well until mixed.",
+    "Pour into a glass over ice cubes.",
+    "Top with ginger ale and stir gently to combine.",
+    "Garnish with an apple slice."
+  ],
+  "tasteProfile": ["Sweet", "Fruity", "Citrusy"],
+  "garnish": "Apple Slice",
+  "alcoholContent": 0.0,
+  "color": "Golden Yellow",
+  "servedIn": "Highball glass"
+}

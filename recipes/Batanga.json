@@ -1,0 +1,56 @@
+{
+  "name": "Batanga",
+  "ingredients": [
+    {
+      "name": "Tequila",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Coca-Cola",
+      "volume": 4,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lime juice",
+      "volume": 0.5,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Salt",
+      "volume": 1,
+      "unit": "pinch",
+      "isLiquid": false
+    },
+    {
+      "name": "Ice cubes",
+      "volume": 3,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.58,
+  "difficulty": 0.2,
+  "instructions": [
+    "Rim the glass with salt",
+    "Fill the glass with ice cubes",
+    "Add 2 ounces of tequila to the glass",
+    "Add 0.5 ounce of lime juice to the glass",
+    "Top up with Coca-Cola",
+    "Stir gently with a knife to mix"
+  ],
+  "tasteProfile": [
+    "Sweet", 
+    "Sour",
+    "Salty"
+  ],
+  "garnish": "Lime slice",
+  "alcoholContent": 0.26,
+  "baseSpirit": "Tequila",
+  "drinkware": "Highball glass",
+  "preparationMethod": "Build",
+  "isCarbonated": true
+}

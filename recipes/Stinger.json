@@ -1,0 +1,39 @@
+{
+  "cocktailName": "Stinger",
+  "ingredients": [
+    {
+      "name": "Cognac",
+      "volume": 2,
+      "unit": "oz",
+      "liquid": true
+    },
+    {
+      "name": "White creme de menthe",
+      "volume": 0.75,
+      "unit": "oz",
+      "liquid": true
+    }
+  ],
+  "popularity": 0.5,
+  "difficulty": 0.2,
+  "instructions": [
+    "In a cocktail shaker filled with ice, pour the cognac and creme de menthe.",
+    "Shake well.",
+    "Strain into a chilled cocktail glass."
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Minty",
+    "Strong"
+  ],
+  "garnish": "Mint leaves",
+  "alcoholContent": 26,
+  "aromaProfile": [
+    "Mint",
+    "Citrus"
+  ],
+  "serveIn": "Cocktail glass",
+  "cocktailType": "Classic",
+  "cocktailCategory": "After Dinner Cocktail",
+  "baseSpirit": "Brandy"
+}

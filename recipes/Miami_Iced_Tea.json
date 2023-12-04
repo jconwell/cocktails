@@ -1,0 +1,74 @@
+{
+  "name": "Miami Iced Tea",
+  "ingredients": [
+    {
+      "name": "vodka",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "rum",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "gin",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "tequila",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "peach schnapps",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "cranberry juice",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "sprite",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "lemon",
+      "volume": 1,
+      "unit": "slice",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.4,
+  "instructions": [
+    "Fill a shaker with ice cubes.",
+    "Add all ingredients.",
+    "Shake and strain into a highball glass filled with ice cubes.",
+    "Garnish with a lemon slice."
+  ],
+  "tasteProfile": [
+    "sweet",
+    "citrus",
+    "fruity",
+    "alcopholic"
+  ],
+  "garnish": "lemon slice",
+  "alcoholContent": 0.3,
+  "glassware": "Highball glass",
+  "servingTemperature": "cold",
+  "color": "red",
+  "occasion": "summer parties",
+  "strength": "strong"
+}

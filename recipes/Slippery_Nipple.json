@@ -1,0 +1,31 @@
+{
+  "name": "Slippery Nipple",
+  "ingredients": [
+    {
+      "name": "Sambuca",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Irish cream",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.2,
+  "instructions": [
+    "Pour the Sambuca into a shot glass.",
+    "Float the Irish cream on top."
+  ],
+  "taste_profile": ["sweet", "licorice", "creamy"],
+  "garnish": "",
+  "alcohol_content": 0.9,
+  "glassware": "shot glass",
+  "served": "neat",
+  "timing": "any time of day",
+  "origin": "United States",
+  "color": "white, layered"
+}

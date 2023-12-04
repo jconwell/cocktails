@@ -1,0 +1,60 @@
+{
+  "cocktailName": "Porn Star Martini",
+  "ingredients": [
+    {
+      "ingredientName": "Passoa",
+      "volume": 1,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Vanilla Vodka",
+      "volume": 1,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Freshly Squeezed Lime Juice",
+      "volume": 1,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Passion Fruit Puree",
+      "volume": 1,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Prosecco",
+      "volume": 1,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Passionfruit",
+      "volume": 1,
+      "unitOfMeasure": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.4,
+  "instructions": [
+    "Pour Passoa, Vanilla Vodka, Lime Juice and Passion Fruit Puree into a cocktail shaker with a handful of ice",
+    "Shake well until the outside of the shaker goes cold",
+    "Strain into a Martini glass",
+    "Top up with a spoonful of Prosecco",
+    "Serve with a half of passionfruit on the side"
+  ],
+  "tasteProfile": [
+    "Sour",
+    "Sweet",
+    "Tropical"
+  ],
+  "garnish": "Half passionfruit",
+  "alcoholContent": 0.26,
+  "glassType": "Martini glass",
+  "servingTemperature": "Cold",
+  "color": "Yellow"
+}

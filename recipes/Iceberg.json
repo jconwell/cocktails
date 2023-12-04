@@ -1,0 +1,53 @@
+{
+  "name": "Iceberg",
+  "ingredients": [
+    {
+      "name": "Vodka",
+      "volume": 1,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Blue Curacao",
+      "volume": 1,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Lime cordial",
+      "volume": 1,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemonade",
+      "volume": 1,
+      "unit": "ounce",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.3,
+  "instructions": [
+    "Pour vodka over ice in a highball glass.",
+    "Add blue curacao,",
+    "Add lime cordial,",
+    "Top with lemonade"
+  ],
+  "tasteProfile": ["Sweet", "Citrus"],
+  "garnish": "None",
+  "alcoholContent": 0.20,
+  "glassType": {
+    "name": "Highball Glass",
+    "volume": 8,
+    "unit": "ounces"
+  },
+  "creationYear": "Unknown",
+  "origin": "Unknown",
+  "colors": [{
+      "color": "Turquoise",
+      "order": 1
+    }
+  ],
+  "served": "On the rocks; poured over ice"
+}

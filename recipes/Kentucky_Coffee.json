@@ -1,0 +1,46 @@
+{
+  "name": "Kentucky Coffee",
+  "ingredients": [
+    {
+      "ingredientName": "Bourbon",
+      "volume": 2,
+      "unitMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Hot Coffee",
+      "volume": 6,
+      "unitMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Sugar",
+      "volume": 1,
+      "unitMeasure": "tsp",
+      "isLiquid": false
+    },
+    {
+      "ingredientName": "Cream",
+      "volume": 1.5,
+      "unitMeasure": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.3,
+  "instructions": [
+    "Pour bourbon into a mug.",
+    "Fill with hot coffee.",
+    "Stir in sugar until fully dissolved.",
+    "Top off with cream."
+  ],
+  "tasteProfile": ["Warm", "Sweet", "Strong"],
+  "garnish": "Whipped Cream",
+  "alcoholContent": 0.1,
+  "additional_fields": {
+    "drinkware": "Mug",
+    "servingTemperature": "Hot",
+    "eventFit": ["Evening", "Cold Weather"],
+    "consumptionTime": "Post Dinner"
+  }
+}

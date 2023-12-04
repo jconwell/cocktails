@@ -1,0 +1,44 @@
+{
+    "name": "Hollywood",
+    "ingredients": [
+        {
+            "name": "Vodka",
+            "volume": 1.5,
+            "unit": "oz",
+            "isLiquid": true
+        },
+        {
+            "name": "Chambord raspberry liqueur",
+            "volume": 0.5,
+            "unit": "oz",
+            "isLiquid": true
+        },
+        {
+            "name": "Pineapple juice",
+            "volume": 1.5,
+            "unit": "oz",
+            "isLiquid": true
+        }
+    ],
+    "popularity": 0.5,
+    "difficulty": 0.2,
+    "instructions": [
+        "Add all ingredients into shaker with ice.",
+        "Shake well.",
+        "Strain into a cocktail glass."
+    ],
+    "taste_profile": [
+        "Sweet",
+        "Fruity",
+        "Sour"
+    ],
+    "garnish": "Pineapple slice and cherry",
+    "alcohol_content": 0.25,
+    "extra_features": {
+        "ideal_serving_glass": "Cocktail glass",
+        "drink_type": "Cocktail",
+        "flavor_base": "Fruit",
+        "preparation_method": "Shaken",
+        "color": "Pink"
+    }
+}

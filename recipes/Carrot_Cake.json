@@ -1,0 +1,55 @@
+{
+  "name": "Carrot Cake",
+  "ingredients": [
+    {
+      "ingredientName": "Carrot Juice",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Vanilla Vodka",
+      "volume": 2.0,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Frangelico",
+      "volume": 1.0,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Cinnamon Stick",
+      "volume": 1.0,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.4,
+  "instructions": [
+    "Fill a shaker with ice cubes.",
+    "Add all ingredients.",
+    "Shake and strain into a chilled cocktail glass.",
+    "Garnish with cinnamon stick."
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Vegetal",
+    "Creamy",
+    "Spicy"
+  ],
+  "garnishes": "Cinnamon Stick",
+  "alcoholContent": 0.35,
+  "servingMethod": {
+    "tool": "Cocktail Glass",
+    "method": "Shake & Strain"
+  },
+  "history": {
+    "origin": "Contemporary Classics",
+    "era": "21st Century"
+  },
+  "color": "Orange",
+  "texture": "Smooth"
+}

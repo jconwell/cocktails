@@ -1,0 +1,47 @@
+{
+  "cocktail_name": "Purple Viking",
+  "ingredients": [{
+      "ingredient_name": "Vodka",
+      "volume": 2.0,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Blue Curacao",
+      "volume": 1.0,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Cranberry juice",
+      "volume": 3.0,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Pineapple Juice",
+      "volume": 1.5,
+      "unit": "ounces",
+      "is_liquid": true
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.3,
+  "instructions": [
+    "Fill a shaker with ice cubes.",
+    "Add vodka, blue curacao, cranberry juice, and pineapple juice.",
+    "Shake until chilled.",
+    "Strain into a large glass filled with ice cubes."
+  ],
+  "taste_profile": [
+    "Sweet",
+    "Fruity",
+    "Sour"
+  ],
+  "garnish": "Lime wedge and cherry",
+  "alcohol_content": 0.12,
+  "cocktail_category": "Classic",
+  "preparation_time": 5,
+  "glass_type": "Highball glass",
+  "preferred_season": "Summer"
+}

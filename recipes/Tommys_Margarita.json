@@ -1,0 +1,40 @@
+{
+  "cocktailName": "Tommy's Margarita",
+  "ingredients": [
+    {
+      "name": "Blanco Tequila",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Fresh Lime Juice",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Agave Nectar",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.85,
+  "difficulty": 0.2,
+  "instructions": [
+    "Pour all the ingredients into a cocktail shaker.",
+    "Shake well for 10-15 seconds.",
+    "Strain mixture into a glass filled with ice.",
+    "Serve immediately."
+  ],
+  "tasteProfile": ["Sour", "Sweet"],
+  "garnishes": "Lime Wheel",
+  "alcoholContent": 0.4,
+  "color": "Yellow",
+  "glassType": "Rocks Glass",
+  "texture": "Liquid",
+  "temperature": "Cold",
+  "spiceLevels": "No Spice",
+  "preparationTimeMinutes": 5
+}

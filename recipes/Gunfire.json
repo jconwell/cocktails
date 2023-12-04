@@ -1,0 +1,31 @@
+{
+  "cocktailName": "Gunfire",
+  "ingredients": [
+    {
+      "name": "Black Tea",
+      "volume": 8,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Rum",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "drinkPopularity": 0.5,
+  "drinkDifficulty": 0.2,
+  "stepByStepInstructions": [
+    "Brew the black tea as per your preference.",
+    "Add rum to the hot tea.",
+    "Stir gently and serve."
+  ],
+  "tasteProfile": ["bitter", "strong"],
+  "garnishes": "None",
+  "alcoholContent": 0.05,
+  "glassType": "Mug",
+  "alcoholType": "Rum",
+  "color": "Brown",
+  "region": "United Kingdom"
+}

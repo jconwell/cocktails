@@ -1,0 +1,50 @@
+{
+  "cocktailName": "Medicina Latina",
+  "ingredients": [
+    {
+      "ingredientName": "Reposado Tequila",
+      "ingredientVolume": 1.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Honey-Ginger Syrup",
+      "ingredientVolume": 0.75,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Fresh Lemon Juice",
+      "ingredientVolume": 0.75,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Mezcal",
+      "ingredientVolume": 0.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.6,
+  "instructions": [
+    "Shake the reposado tequila, honey-ginger syrup, and fresh lemon juice with ice",
+    "Strain into a chilled glass",
+    "Top with mezcal"
+  ],
+  "tasteProfile": [
+    "Spicy",
+    "Sweet",
+    "Strong"
+  ],
+  "garnish": "Lemon Wheel",
+  "alcoholContent": 28.8,
+  "cocktailType": "Modern Classics",
+  "glassType": "Rocks glass",
+  "isCarbonated": false,
+  "isCreamy": false,
+  "isFruity": true,
+  "servingTemperature": "Cold",
+  "prepTime": 5
+}

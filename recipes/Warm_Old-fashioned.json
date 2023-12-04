@@ -1,0 +1,53 @@
+{
+  "name": "Warm Old-fashioned",
+  "ingredients": [
+    {
+      "ingredientName": "Bourbon",
+      "ingredientVolume": 2,
+      "unitOfMeasure": "ounce",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Sugar cube",
+      "ingredientVolume": 1,
+      "unitOfMeasure": "count",
+      "isLiquid": false
+    },
+    {
+      "ingredientName": "Angostura bitters",
+      "ingredientVolume": 3,
+      "unitOfMeasure": "drops",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Hot water",
+      "ingredientVolume": 2,
+      "unitOfMeasure": "ounce",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Orange slice",
+      "ingredientVolume": 1,
+      "unitOfMeasure": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.65,
+  "difficulty": 0.35,
+  "instructions": [
+    "Muddle the sugar cube and bitters in a heat-resistant glass",
+    "Add the bourbon",
+    "Top with hot water",
+    "Stir until sugar is completely dissolved"
+  ],
+  "tasteProfile": ["Sweet", "Warming", "Rich"],
+  "garnish": "Orange slice",
+  "alcoholContent": 0.35,
+  "color": "Dark brown",
+  "servingGlass": "Heat-resistant glass",
+  "cocktailType": "Hot",
+  "cocktailStyle": "Classic",
+  "flavorBase": "Bourbon",
+  "timeOfDay": "Evening",
+  "season": "Winter"
+}

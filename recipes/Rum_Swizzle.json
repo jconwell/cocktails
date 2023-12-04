@@ -1,0 +1,55 @@
+{
+  "cocktail_name": "Rum Swizzle",
+  "ingredients": [
+    {
+      "ingredient_name": "Dark Rum",
+      "ingredient_volume": 4.5,
+      "ingredient_unit": "ounces",
+      "ingredient_is_liquid": true
+    },
+    {
+      "ingredient_name": "Pineapple Juice",
+      "ingredient_volume": 4,
+      "ingredient_unit": "ounces",
+      "ingredient_is_liquid": true
+    },
+    {
+      "ingredient_name": "Orange Juice",
+      "ingredient_volume": 4,
+      "ingredient_unit": "ounces",
+      "ingredient_is_liquid": true
+    },
+    {
+      "ingredient_name": "Grenadine",
+      "ingredient_volume": 1,
+      "ingredient_unit": "ounces",
+      "ingredient_is_liquid": true
+    },
+    {
+      "ingredient_name": "Angostura Bitters",
+      "ingredient_volume": 1,
+      "ingredient_unit": "dash",
+      "ingredient_is_liquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.4,
+  "instructions": [
+    "Fill a pitcher a third of the way with crushed ice.",
+    "Add all the ingredients.",
+    "Churn vigorously until the frothing resembles the rushing surf.",
+    "Strain into cocktail glasses.",
+    "Garnish and serve."
+  ],
+  "taste_profile": [
+    "Sweet",
+    "Citrus",
+    "Fruity"
+  ],
+  "garnish": "Nutmeg and Orange slice",
+  "alcohol_content": 0.1,
+  "color": "Red",
+  "glassware": "Cocktail Glass",
+  "occasion": ["Summer", "Tropical", "Party"],
+  "base_spirit": "Rum"
+}

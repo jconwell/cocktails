@@ -1,0 +1,46 @@
+{
+  "cocktailName": "Japanese",
+  "ingredients": [
+    {
+      "name": "Brandy",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Orgeat syrup",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon juice",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Cherry",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.4,
+  "instructions": [
+    "Pour all ingredients into shaker filled with ice cubes.",
+    "Shake well.",
+    "Strain in chilled glass.",
+    "Garnish with a cherry."
+  ],
+  "tasteProfile": ["Sweet", "Sour"],
+  "garnish": "Cherry",
+  "alcoholContent": 28,
+  "glassType": "Cocktail glass",
+  "shakeOrStir": "Shake",
+  "color": "Amber",
+  "aromaProfile": ["Fruity", "Almond"],
+  "idealTemperature": "Cold",
+  "originCountry": "Japan"
+}

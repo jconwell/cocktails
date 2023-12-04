@@ -1,0 +1,53 @@
+{
+  "name": "Sage Lady",
+  "ingredients": [
+    {
+      "name": "Bacardi superior rum",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "sage leaves",
+      "volume": 5,
+      "unit": "count",
+      "isLiquid": false
+    },
+    {
+      "name": "simple syrup",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "lime juice",
+      "volume": 0.75,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "egg white",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "tasteProfile": ["strong", "refreshing", "herbal"],
+  "popularity": 0.7,
+  "difficulty": 0.45,
+  "garnish": "Sage leaf and Lime Wheel on top",
+  "instructions": [
+    "In a shaker, muddle 4 of the sage leaves with the simple syrup",
+    "Add the rum, lime juice and egg white",
+    "Fill with ice and shake well",
+    "Strain into a chilled coupe",
+    "Slap a sage leaf between your hands over the cocktail (to release the aroma), place on top of the foam",
+    "Then add the Lime Wheel on top"
+  ],
+  "glassType": "Coupe",
+  "alcoholContent": 0.2,
+  "color": "Creamy White",
+  "texture": "Foamy",
+  "preparationTime": 5,
+  "servingSize": 1
+}

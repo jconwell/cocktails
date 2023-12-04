@@ -1,0 +1,71 @@
+{
+  "name": "Bull Shot",
+  "ingredients": 
+  [
+    {
+      "ingredient_name": "Vodka",
+      "volume": 1.5,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Beef bouillon",
+      "volume": 2.5,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Lemon juice",
+      "volume": 0.5,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Worcestershire sauce",
+      "volume": 1,
+      "unit_of_measure": "dashes",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Tabasco sauce",
+      "volume": 1,
+      "unit_of_measure": "dashes",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Pepper",
+      "volume": 1,
+      "unit_of_measure": "pinch",
+      "is_liquid": false
+    },
+    {
+      "ingredient_name": "Salt",
+      "volume": 1,
+      "unit_of_measure": "pinch",
+      "is_liquid": false
+    }
+  ],
+  "popularity": 0.65,
+  "difficulty": 0.4,
+  "instructions": 
+  [
+    "Pour the vodka over ice in a shaker.",
+    "Add the beef bouillon, lemon juice, Worcestershire sauce, Tabasco, pepper and salt.",
+    "Shake well.",
+    "Strain into a chilled glass."
+  ],
+  "taste_profile": ["Savory", "Sour", "Spicy"],
+  "garnish": "None",
+  "alcohol_content": 0.1,
+  "color": "Brown",
+  "cocktail_type": "Alcoholic",
+  "glass_type": "Standard cocktail glass",
+  "cocktail_style": "Classic",
+  "origin": "United States",
+  "flavor_base": "Vodka",
+  "flavor_strength": "Medium",
+  "sweetness_level": "Low",
+  "sourness_level": "Medium",
+  "creaminess_level": "None",
+  "carbonation_level": "None"
+}

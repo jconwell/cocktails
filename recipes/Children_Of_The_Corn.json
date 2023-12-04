@@ -1,0 +1,46 @@
+{
+    "name": "Children Of The Corn",
+    "ingredients": [
+        {
+            "name": "bourbon",
+            "volume": 2,
+            "unit": "oz",
+            "isLiquid": true
+        },
+        {
+            "name": "lemon juice",
+            "volume": 1,
+            "unit": "oz",
+            "isLiquid": true
+        },
+        {
+            "name": "corn syrup",
+            "volume": 0.5,
+            "unit": "oz",
+            "isLiquid": true
+        },
+        {
+            "name": "cherry",
+            "volume": 1,
+            "unit": "count",
+            "isLiquid": false
+        }
+    ],
+    "popularity": 0.3,
+    "difficulty": 0.4,
+    "instructions": [
+        "Fill a shaker with ice cubes",
+        "Add all ingredients",
+        "Shake and strain into a rocks glass filled with ice cubes",
+        "Garnish with cherry"
+    ],
+    "tasteProfile": [
+        "sweet",
+        "tangy"
+    ],
+    "garnish": "cherry",
+    "alcoholContent": 0.4,
+    "mood": "casual",
+    "timeOfDay": "evening",
+    "glassType": "rocks glass"
+}

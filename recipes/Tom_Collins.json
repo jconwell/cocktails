@@ -1,0 +1,61 @@
+{
+  "cocktailName": "Tom Collins",
+  "recipe": [
+    {
+      "ingredient": "Gin",
+      "quantity": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredient": "Lemon Juice",
+      "quantity": 1,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "ingredient": "Simple Syrup",
+      "quantity": 1,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "ingredient": "Soda Water",
+      "quantity": 3,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredient": "Cherry",
+      "quantity": 1,
+      "unit": "count",
+      "isLiquid": false
+    },
+    {
+      "ingredient": "Lemon Slice",
+      "quantity": 1,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.65,
+  "difficulty": 0.2,
+  "instructions": [
+    "Combine gin, lemon juice, and simple syrup in a cocktail shaker.",
+    "Fill shaker with ice, cover and shake until chilled.",
+    "Strain into a Collins glass filled with ice cubes.",
+    "Top with soda water.",
+    "Garnish with a lemon slice and a cherry."
+  ],
+  "tasteProfile": [
+    "Sour",
+    "Sweet",
+    "Fruity",
+    "Bubbly"
+  ],
+  "garnish": "Cherry and Lemon Slice",
+  "alcoholContent": 0.2,
+  "colour": "Clear",
+  "servingGlass": "Collins Glass",
+  "topWith": "Soda Water"
+}

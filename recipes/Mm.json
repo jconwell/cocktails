@@ -1,0 +1,30 @@
+{
+  "name": "M&m",
+  "ingredients": [
+    {
+      "name": "Amaretto",
+      "volume": 1.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Milk",
+      "volume": 3,
+      "unit": "oz",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.35,
+  "difficulty": 0.2,
+  "instructions": [
+    "Pour Amaretto into a shaker filled with ice.",
+    "Add milk.",
+    "Shake well."
+  ],
+  "tasteProfile": ["Sweet", "Creamy"],
+  "garnishes": "None",
+  "alcoholContent": 0.15,
+  "color": "Brown",
+  "glassType": "Lowball Glass",
+  "servingTemperature": "Cold"
+}

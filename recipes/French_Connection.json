@@ -1,0 +1,31 @@
+{
+    "name": "French Connection",
+    "ingredients": [
+        {
+            "name": "Cognac",
+            "volume": 1.5,
+            "unit": "oz",
+            "isLiquid": true
+        },
+        {
+            "name": "Amaretto",
+            "volume": 1.5,
+            "unit": "oz",
+            "isLiquid": true
+        }
+    ],
+    "popularity": 0.7,
+    "difficulty": 0.2,
+    "instructions": [
+        "Pour the ingredients into an old fashioned glass filled with ice cubes.",
+        "Stir well."
+    ],
+    "tasteProfile": ["sweet", "alcoholic", "nutty"],
+    "garnishes": "None",
+    "alcoholContent": 0.4,
+    "season": "All seasons",
+    "timeOfDay": "Night",
+    "color": "Amber",
+    "glassware": "Old-fashioned glass",
+    "style": "Short drink"
+}

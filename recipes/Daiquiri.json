@@ -1,0 +1,25 @@
+{
+  "name": "Daiquiri",
+  "ingredients": [
+    {"name": "White Rum", "volume": 2.0, "unit": "ounces", "isLiquid": true},
+    {"name": "Lime Juice", "volume": 1.0, "unit": "ounces", "isLiquid": true},
+    {"name": "Simple Syrup", "volume": 1.0, "unit": "ounces", "isLiquid": true}
+  ],
+  "popularity": 0.85,
+  "difficulty": 0.3,
+  "instructions": [
+    "In a shaker, add all the ingredients along with ice.",
+    "Shake well for about 10 seconds.",
+    "Strain the mix into a chilled cocktail glass."
+  ],
+  "tasteProfile": [
+    "sweet", "citrus", "refreshing"
+  ],
+  "garnishes": "Lime wheel",
+  "alcoholContent": 0.4,
+  "glassType": "Cocktail glass",
+  "drinkingTime": "Anytime",
+  "colour": "Clear",
+  "texture": "Smooth",
+  "serve": "Without ice"
+}

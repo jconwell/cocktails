@@ -1,0 +1,45 @@
+{
+  "cocktailName": "Rustic Manhattan",
+  "ingredients": [
+    {
+      "name": "Bourbon",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Sweet Vermouth",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Bitters",
+      "volume": 2,
+      "unit": "dashes",
+      "isLiquid": true
+    },
+    {
+      "name": "Cherry",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.8,
+  "difficulty": 0.2,
+  "instructions": [
+    "Pour the bourbon, sweet vermouth and bitters into a mixing glass filled with ice.",
+    "Stir well until the outside of the glass is very cold to touch.",
+    "Strain the mixture into a cocktail glass.",
+    "Garnish with the cherry."
+  ],
+  "tasteProfile": ["sweet", "strong", "bitter"],
+  "garnish": "Cherry",
+  "alcoholContent": 0.4,
+  "color": "Amber",
+  "serveIn": "Cocktail glass",
+  "temperature": "Cold",
+  "occasion": ["After dinner", "Night out"],
+  "pairingFood": ["Steak", "Burger"]
+}

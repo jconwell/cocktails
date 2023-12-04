@@ -1,0 +1,38 @@
+{
+  "name": "Amarula And Eve",
+  "ingredients": [
+    {
+      "name": "Amarula Cream",
+      "volume": 1,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Vodka",
+      "volume": 1,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Apple Juice",
+      "volume": 3,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.2,
+  "instructions": [
+    "Pour Amarula Cream into a shaker.",
+    "Add Vodka.",
+    "Add Apple Juice.",
+    "Shake well.",
+    "Strain into a martini glass."
+  ],
+  "taste_profile": ["Sweet", "Mild"],
+  "garnishes": "Apple Slice",
+  "alcohol_content": 0.2,
+  "recommended_glassware": "Martini Glass",
+  "cocktail_type": "Creamy",
+  "flavor_intensity": 0.4
+}

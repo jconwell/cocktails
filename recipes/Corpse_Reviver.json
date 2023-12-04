@@ -1,0 +1,51 @@
+{
+  "cocktailName": "Corpse Reviver",
+  "ingredients": [
+    {
+      "name": "Lemon Juice",
+      "volume": 0.75,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Cointreau",
+      "volume": 0.75,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lillet Blanc",
+      "volume": 0.75,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Gin",
+      "volume": 0.75,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Absinthe",
+      "volume": 1,
+      "unit": "dash",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.5,
+  "instructions": [
+    "Chill a cocktail glass with a rinse of absinthe.",
+    "Add the rest of the ingredients into a shaker with ice and shake.",
+    "Strain into the prepared glass."
+  ],
+  "tasteProfile": ["Citrus", "Strong", "Herbaceous"],
+  "garnish": "No garnish",
+  "alcoholContent": 24.0,
+  "glassware": "Coupette glass",
+  "served": "Straight up; without ice",
+  "timing": "All day",
+  "cocktailType": "Classics",
+  "flaming": false,
+  "IBAOfficialCocktail": true
+}

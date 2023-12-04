@@ -1,0 +1,54 @@
+{
+  "cocktail_name": "Rose Martini",
+  "ingredients": [
+    {
+      "name": "Vodka",
+      "volume": 1.5,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Lychee Liquor",
+      "volume": 1,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Rose Water",
+      "volume": 0.5,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Lime Juice",
+      "volume": 0.25,
+      "unit": "ounces",
+      "is_liquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.3,
+  "instructions": [
+    "Fill a shaker with ice cubes.",
+    "Add vodka, lychee liquor, rose water, and lime juice.",
+    "Shake and strain into a chilled martini glass."
+  ],
+  "taste_profile": [
+    "Sweet",
+    "Fruity",
+    "Floral"
+  ],
+  "garnish": "Rose Petal",
+  "alcohol_content": 0.25,
+  "glass_type": "Martini Glass",
+  "serving_temperature": "cold",
+  "presentation": {
+    "color": "Clear",
+    "layered": false,
+    "garnishing": "Floating rose petals"
+  },
+  "occasion": [
+    "Romantic Date",
+    "Valentine's Day"
+  ]
+}

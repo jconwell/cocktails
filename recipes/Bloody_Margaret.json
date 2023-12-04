@@ -1,0 +1,66 @@
+{
+  "cocktail": {
+    "name": "Bloody Margaret",
+    "ingredients": [
+      {
+        "name": "Vodka",
+        "volume": 2.0,
+        "unit": "ounces",
+        "isLiquid": true
+      },
+      {
+        "name": "Tomato Juice",
+        "volume": 3.5,
+        "unit": "ounces",
+        "isLiquid": true
+      },
+      {
+        "name": "Lemon Juice",
+        "volume": 1.0,
+        "unit": "ounces",
+        "isLiquid": true
+      },
+      {
+        "name": "Worcestershire Sauce",
+        "volume": 1.0,
+        "unit": "ounces",
+        "isLiquid": true
+      },
+      {
+        "name": "Hot Sauce",
+        "volume": 0.5,
+        "unit": "ounces",
+        "isLiquid": true
+      },
+      {
+        "name": "Celery Salt",
+        "volume": 1.0,
+        "unit": "pinch",
+        "isLiquid": false
+      },
+      {
+        "name": "Pepper",
+        "volume": 1.0,
+        "unit": "pinch",
+        "isLiquid": false
+      }
+    ],
+    "popularity": 0.65,
+    "difficulty": 0.3,
+    "steps": [
+      "Combine vodka, tomato juice, lemon juice, Worcestershire sauce, hot sauce, celery salt, and pepper in a shaker.",
+      "Shake well to mix all the ingredients.",
+      "Pour into a glass over ice cubes.",
+      "Garnish with celery stalk and lemon wedge."
+    ],
+    "tasteProfile": [
+      "savory",
+      "spicy"
+    ],
+    "garnish": "Celery Stalk, Lemon Wedge",
+    "alcoholContent": 0.2,
+    "serveIn": "Highball glass",
+    "timeOfDay": "morning",
+    "notes": "Bloody Margaret is a popular brunch cocktail. It's savory, slightly spicy, and very refreshing."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Bikini Martini",
+  "ingredients": [
+    {
+      "name": "Coconut rum",
+      "volume": 1,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Vodka",
+      "volume": 1,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Pineapple juice",
+      "volume": 2,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Grenadine syrup",
+      "volume": 1,
+      "unit": "tsp",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.8,
+  "difficulty": 0.2,
+  "instructions": [
+    "Mix vodka and rum in a shaker with ice",
+    "Add pineapple juice and grenadine",
+    "Shake well",
+    "Strain into a martini glass"
+  ],
+  "taste_profile": ["Sweet", "Tropical", "Citrus"],
+  "garnish": "Pineapple slice and cherry",
+  "alcohol_content": 40,
+  "cocktail_type": "Tropical",
+  "glass_type": "Martini glass",
+  "occasion": ["Summer", "Beach party", "Casual"]
+}

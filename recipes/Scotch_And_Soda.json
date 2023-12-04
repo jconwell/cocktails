@@ -1,0 +1,37 @@
+{
+  "name": "Scotch and Soda",
+  "ingredients": [
+    {
+      "name": "Scotch Whisky",
+      "volume": 2.0,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Club Soda",
+      "volume": 5.0,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.1,
+  "steps": [
+    "Pour the scotch into a glass filled with ice.",
+    "Top with club soda.",
+    "Stir gently to mix."
+  ],
+  "tasteProfile": [
+    "Bitter",
+    "Smoky"
+  ],
+  "garnishes": "Lemon wedge",
+  "alcoholContent": 0.4,
+  "color": "Golden brown",
+  "drinkware": "Highball glass",
+  "occasion": [
+    "Leisure",
+    "Relaxation"
+  ],
+  "style": "Traditional"
+}

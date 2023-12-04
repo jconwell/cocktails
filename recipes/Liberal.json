@@ -1,0 +1,46 @@
+{
+  "cocktailName": "Liberal",
+  "ingredients": [
+    {
+      "name": "Bourbon",
+      "volume": 1.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Sweet vermouth",
+      "volume": 0.75,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Orange bitters",
+      "volume": 1,
+      "unit": "dash",
+      "isLiquid": true
+    },
+    {
+      "name": "Amer Torani",
+      "volume": 0.5,
+      "unit": "oz",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.3,
+  "difficulty": 0.2,
+  "instructions": [
+    "Stir all ingredients with ice and strain into a cocktail glass.",
+    "Garnish with a cherry."
+  ],
+  "tasteProfile": [
+    "Strong",
+    "Bitter",
+    "Smooth"
+  ],
+  "garnish": "Cherry",
+  "alcoholContent": 0.25,
+  "texture": "Smooth",
+  "servingSize": "1 drink",
+  "servingGlass": "Cocktail Glass",
+  "preparationTime": "5 minutes"
+}

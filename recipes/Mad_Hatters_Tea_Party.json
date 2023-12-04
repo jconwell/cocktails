@@ -1,0 +1,46 @@
+{
+  "cocktailName": "Mad Hatter's Tea Party",
+  "ingredients": [
+    {
+      "name": "Earl Grey Tea",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Gin",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Simple Syrup",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon Juice",
+      "volume": 0.75,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.65,
+  "difficulty": 0.4,
+  "instructions": [
+    "Steep the Earl Grey tea in hot water and let it cool",
+    "In a shaker, combine the Gin, Simple Syrup, and Lemon Juice",
+    "Add the cooled tea to the shaker",
+    "Shake well and strain into a teacup"
+  ],
+  "tasteProfile": ["Sour", "Sweet", "Herbal"],
+  "garnish": "Lemon Wheel",
+  "alcoholContent": 0.25,
+  "cocktailType": "Mixed drink",
+  "glassType": "Teacup",
+  "serveMethod": "Shaken",
+  "serveTemperature": "Cold",
+  "baseSpirit": "Gin",
+  "color": "Light Yellow"
+}

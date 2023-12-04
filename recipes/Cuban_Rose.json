@@ -1,0 +1,38 @@
+{
+  "cocktail": {
+    "name": "Cuban Rose",
+    "ingredients": [
+      {
+        "name": "Vodka",
+        "volume": 2,
+        "unit": "oz",
+        "isLiquid": true
+      },
+      {
+        "name": "Rose's Lime Juice",
+        "volume": 0.75,
+        "unit": "oz",
+        "isLiquid": true
+      },
+      {
+        "name": "Cranberry Juice",
+        "volume": 0.75,
+        "unit": "oz",
+        "isLiquid": true
+      }
+    ],
+    "popularity": 0.3,
+    "difficulty": 0.15,
+    "instructions": [
+      "In a shaker filled with ice, pour vodka, Rose's lime juice, and cranberry juice.",
+      "Shake well until chilled.",
+      "Strain into a chilled cocktail glass."
+    ],
+    "tasteProfile": ["sweet", "sour"],
+    "garnish": "lime wheel",
+    "alcoholContent": 0.2,
+    "glassType": "cocktail",
+    "method": "shaker",
+    "color": "pink"
+  }
+}

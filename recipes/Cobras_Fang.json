@@ -1,0 +1,54 @@
+{
+  "name": "Cobra's Fang",
+  "ingredients": [
+    {
+      "name": "Dark Rum",
+      "volume": 1.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Lime Juice",
+      "volume": 0.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Orange Juice",
+      "volume": 0.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Falernum",
+      "volume": 0.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Crushed Ice",
+      "volume": 1,
+      "unit": "cup",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.4,
+  "instructions": [
+    "Combine all ingredients in a blender",
+    "Blend until smooth",
+    "Pour into a glass",
+    "Garnish with lime and mint"
+  ],
+  "tasteProfile": [
+    "Tropical",
+    "Sweet",
+    "Citrusy"
+  ],
+  "garnish": "Lime wheel and mint sprig",
+  "alcoholContent": 0.2,
+  "pairingFood": "Grilled fish or chicken",
+  "seasonality": "Summer",
+  "glassware": "Highball glass",
+  "cocktailType": "Frozen"
+}

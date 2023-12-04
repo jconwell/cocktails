@@ -1,0 +1,42 @@
+{
+  "cocktail_name": "Spiced Silver Bell",
+  "ingredients": [
+    {
+      "name": "Lime Juice",
+      "volume": 0.75,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Simple Syrup",
+      "volume": 0.5,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Gin",
+      "volume": 2,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Cinnamon Stick",
+      "volume": 1,
+      "unit": "stick",
+      "is_liquid": false
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.4,
+  "preparation_steps": [
+    "Fill a shaker with ice cubes",
+    "Add lime juice, simple syrup and gin",
+    "Shake and strain into a glass filled with ice cubes",
+    "Garnish with a cinnamon stick"
+  ],
+  "taste_profile": ["Sweet", "Sour", "Spicy"],
+  "garnish": "Cinnamon Stick",
+  "alcohol_content": 0.2,
+  "serving_glass": "Rocks",
+  "color": "Clear"
+}

@@ -1,0 +1,49 @@
+{
+  "cocktailName": "Lynchburg Lemonade",
+  "ingredients": [
+    {
+      "name": "Jack Daniels Whiskey",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Triple Sec",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Fresh Lemon Juice",
+      "volume": 1.0,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon-Lime Soda",
+      "volume": 2.0,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon",
+      "volume": 1,
+      "unit": "slice",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.8,
+  "difficulty": 0.4,
+  "instructions": [
+    "Pour the whiskey, triple sec, and lemon juice into a shaker with ice cubes.",
+    "Shake well.",
+    "Strain into a collins glass filled with fresh ice.",
+    "Top off with the lemon-lime soda.",
+    "Garnish with a lemon slice and cherry."
+  ],
+  "tasteProfile": ["Sweet", "Sour"],
+  "garnish": "Lemon slice and cherry",
+  "alcoholContent": 0.15,
+  "costPerServing": 1.75,
+  "calories": 190
+}

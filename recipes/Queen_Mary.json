@@ -1,0 +1,39 @@
+{
+  "cocktailName": "Queen Mary",
+  "ingredients": [
+    {
+      "name": "Vodka",
+      "volume": 2.0,
+      "unit": "oz",
+      "liquid": true
+    },
+    {
+      "name": "Tomato juice",
+      "volume": 4.0,
+      "unit": "oz",
+      "liquid": true
+    },
+    {
+      "name": "Worcestershire sauce",
+      "volume": 0.5,
+      "unit": "oz",
+      "liquid": true
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.4,
+  "instructions": [
+    "Pour the vodka into a glass filled with ice cubes.",
+    "Add the tomato juice and Worcestershire sauce.",
+    "Stir well."
+  ],
+  "tasteProfile": [
+    "Savory",
+    "Spicy"
+  ],
+  "garnish": "Celery stalk",
+  "alcoholContent": 0.15,
+  "glassType": "Highball glass",
+  "isClassic": false,
+  "originated": "United States"
+}

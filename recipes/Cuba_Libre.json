@@ -1,0 +1,52 @@
+{
+  "name": "Cuba Libre",
+  "ingredients": [
+    {
+      "name": "Light Rum",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Fresh Lime Juice",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Cola",
+      "volume": 4,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lime Wedge",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.2,
+  "steps": [
+    "Fill a glass with ice cubes",
+    "Pour in rum",
+    "Add lime juice",
+    "Top off with cola",
+    "Stir well",
+    "Garnish with lime wedge"
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Citrus",
+    "Fizzy"
+  ],
+  "garnish": "Lime Wedge",
+  "alcoholContent": 0.2,
+  "serveIn": "Highball glass",
+  "preparationTime": 5,
+  "color": "Dark Brown",
+  "category": "Long Drink",
+  "vintageYear": "1900",
+  "originCountry": "Cuba"
+}

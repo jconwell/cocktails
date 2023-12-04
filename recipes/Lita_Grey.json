@@ -1,0 +1,56 @@
+{
+  "name": "Lita Grey",
+  "ingredients": [
+    {
+      "name": "Reposado Tequila",
+      "volume": 2,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Agave syrup",
+      "volume": 0.5,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Grapefruit juice",
+      "volume": 0.75,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Lime juice",
+      "volume": 0.75,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Egg white",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.4,
+  "instructions": [
+    "Add all ingredients into shaker with ice and shake.",
+    "Strain into a glass over fresh ice.",
+    "Garnish with a grapefruit wheel."
+  ],
+  "tasteProfile": [
+    "sweet",
+    "tart",
+    "refreshing"
+  ],
+  "garnish": "Grapefruit wheel",
+  "alcoholContent": 0.22,
+  "servingGlass": "Rocks",
+  "mixMethod": "Shake",
+  "appearance": "Pale yellow",
+  "aroma": [
+    "Citrus",
+    "Agave"
+  ]
+}

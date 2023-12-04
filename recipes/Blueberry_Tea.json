@@ -1,0 +1,49 @@
+{
+  "name": "Blueberry Tea",
+  "ingredients": [
+    {
+      "ingredient_name": "Amaretto",
+      "quantity": 1.5,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Grand Marnier",
+      "quantity": 1.5,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Earl Grey Tea",
+      "quantity": 1,
+      "unit": "cup",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Sugar",
+      "quantity": 1,
+      "unit": "teaspoon",
+      "is_liquid": false
+    },
+    {
+      "ingredient_name": "Blueberries",
+      "quantity": 8,
+      "unit": "count",
+      "is_liquid": false
+    }
+  ],
+  "popularity_score": 0.6,
+  "difficulty_score": 0.4,
+  "instructions": [
+    "Steep the Earl Grey tea in hot water and let it cool.",
+    "In a cocktail shaker, combine the Amaretto, Grand Marnier, cooled tea, sugar, and blueberries.",
+    "Shake well until the sugar is dissolved and the blueberries are muddled.",
+    "Strain into an ice-filled glass."
+  ],
+  "taste_profile": ["sweet", "fruity", "herbaceous"],
+  "garnishes": "Lemon slice and whole blueberries",
+  "alcohol_content": 0.12,
+  "glass_type": "Highball",
+  "cocktail_type": "Refreshment",
+  "occasion": ["Summer Parties", "Casual"]
+}

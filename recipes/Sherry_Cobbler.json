@@ -1,0 +1,43 @@
+{
+  "name": "Sherry Cobbler",
+  "ingredients": [
+    {
+      "name": "Dry sherry",
+      "volume": 3.0,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Simple syrup",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Orange slice",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.2,
+  "instructions": [
+    "In a shaker, muddle the orange slice",
+    "Add the sherry and syrup",
+    "Fill with ice and shake until well chilled",
+    "Strain into a glass filled with crushed ice",
+    "Garnish with a fresh orange slice and a cherry"
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Citrus",
+    "Nutty"
+  ],
+  "garnish": "Orange slice and cherry",
+  "alcoholContent": 0.15,
+  "color": "Amber",
+  "glassware": "Cobbler",
+  "drinkingTime": "Afternoon",
+  "origin": "United States"
+}

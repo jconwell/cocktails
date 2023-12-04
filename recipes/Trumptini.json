@@ -1,0 +1,60 @@
+{
+  "Cocktail_Name": "Trumptini",
+  "Ingredients": [
+    {
+      "Name": "Vodka",
+      "Volume": 1.5,
+      "Unit_of_Measure": "Ounces",
+      "Is_Liquid": true
+    },
+    {
+      "Name": "Lemon Juice",
+      "Volume": 1,
+      "Unit_of_Measure": "Ounces",
+      "Is_Liquid": true
+    },
+    {
+      "Name": "Ginger Syrup",
+      "Volume": 0.75,
+      "Unit_of_Measure": "Ounces",
+      "Is_Liquid": true
+    },
+    {
+      "Name": "Raspberry Liqueur",
+      "Volume": 0.5,
+      "Unit_of_Measure": "Ounces",
+      "Is_Liquid": true
+    },
+    {
+      "Name": "Raspberries",
+      "Volume": 3,
+      "Unit_of_Measure": "Count",
+      "Is_Liquid": false
+    }
+  ],
+  "Popularity_Rating": 0.6,
+  "Difficulty_Rating": 0.3,
+  "Instructions": [
+    "In a shaker, muddle the raspberries.",
+    "Add all other ingredients.",
+    "Shake well with ice.",
+    "Strain into a martini glass.",
+    "Garnish with a raspberry."
+  ],
+  "Taste_Profile": [
+    "Sweet",
+    "Fruity",
+    "Tart"
+  ],
+  "Garnish": "Raspberry",
+  "Alcohol_Content": 27.75,
+  "Serving_Glass_Type": "Martini Glass",
+  "Preparation_Time_in_Minutes": 5,
+  "Has_Citrus": true,
+  "Has_Berry": true,
+  "Is_Classic": false,
+  "Is_Creamy": false,
+  "Is_Sour": true,
+  "Is_Spicy": false,
+  "Is_Strong": false
+}

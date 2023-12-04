@@ -1,0 +1,40 @@
+{
+  "name": "Rusty Nail",
+  "ingredients": [
+    {
+      "ingredient_name": "Scotch whisky",
+      "volume": 1.5,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Drambuie",
+      "volume": 0.75,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    }
+  ],
+  "popularity": 0.65,
+  "difficulty": 0.2,
+  "instructions": [
+    "Fill a rocks glass with ice cubes",
+    "Add Scotch whisky",
+    "Add Drambuie",
+    "Stir the mix"
+  ],
+  "taste_profile": [
+    "sweet",
+    "smoky",
+    "herbaceous"
+  ],
+  "garnish": "Lemon twist",
+  "alcohol_content": 40.0,
+  "ideal_serving_glass": "Rocks Glass",
+  "ideal_serving_temperature": "Cold",
+  "is_a_classic": true,
+  "flavour_aliases": [
+    "Whisky",
+    "Honey",
+    "Herbal"
+  ]
+}

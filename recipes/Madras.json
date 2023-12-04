@@ -1,0 +1,37 @@
+{
+  "name": "Madras Cocktail",
+  "ingredients": [
+    {
+      "name": "Vodka",
+      "volume": 1.5,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Cranberry Juice",
+      "volume": 4,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Orange Juice",
+      "volume": 1,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.2,
+  "instructions": [
+    "Fill a highball glass with ice cubes.",
+    "Add vodka.",
+    "Add cranberry juice.",
+    "Top with orange juice.",
+    "Stir well."
+  ],
+  "taste_profile": ["Tangy", "Sweet", "Fruity"],
+  "garnish": "Slice of Lime",
+  "alcohol_content": 0.10,
+  "color": "Pink",
+  "glass_type": "Highball glass"
+}

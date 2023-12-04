@@ -1,0 +1,45 @@
+{
+    "cocktailName": "Ward Eight",
+    "ingredients": [
+        {
+            "ingredientName": "Rye Whiskey",
+            "volume": 1.5,
+            "unit": "ounce",
+            "isLiquid": true
+        },
+        {
+            "ingredientName": "Lemon Juice",
+            "volume": 0.5,
+            "unit": "ounce",
+            "isLiquid": true
+        },
+        {
+            "ingredientName": "Orange Juice",
+            "volume": 0.5,
+            "unit": "ounce",
+            "isLiquid": true
+        },
+        {
+            "ingredientName": "Grenadine",
+            "volume": 1,
+            "unit": "teaspoon",
+            "isLiquid": true
+        }
+    ],
+    "popularity": 0.6,
+    "difficulty": 0.3,
+    "instructions": [
+        "Pour the whiskey, lemon juice, orange juice and grenadine into a cocktail shaker.",
+        "Fill the shaker with ice, then cover and shake until well chilled.",
+        "Strain the cocktail into a chilled glass."
+    ],
+    "tasteProfile": ["Sweet", "Sour", "Fruity"],
+    "garnishes": "Maraschino cherry",
+    "alcoholContent": 0.22,
+    "glassType": "Coupette Glass",
+    " drinkType": "Spirit Forward",
+    "flavourIntensity": "Medium",
+    "colour": "Amber",
+    "origin": "United States",
+    "hasCaffeine": false
+}

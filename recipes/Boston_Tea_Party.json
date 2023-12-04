@@ -1,0 +1,62 @@
+{
+  "cocktailName": "Boston Tea Party",
+  "ingredients": [
+    {
+      "name": "Vodka",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Rum",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Gin",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Tequila",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon Juice",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Grenadine",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Coca-Cola",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.5,
+  "difficulty": 0.7,
+  "instructions": [
+    "Add all ingredients into a shaker except for the cola.",
+    "Shake well.",
+    "Strain the mixture into a glass filled with ice.",
+    "Top off with Coca-Cola.",
+    "Stir gently."
+  ],
+  "tasteProfile": ["strong", "sweet", "sour"],
+  "garnish": "Lemon Slice",
+  "alcoholContent": 0.22,
+  "color": "Red",
+  "occasion": ["party", "celebration"],
+  "glassType": "Collins glass"
+}

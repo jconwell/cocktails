@@ -1,0 +1,48 @@
+{
+  "name": "Central Park",
+  "ingredients": [
+    {
+      "ingredient_name": "Bourbon",
+      "volume": 2,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Lemon juice",
+      "volume": 0.75,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Maple syrup",
+      "volume": 0.5,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Apple slices",
+      "volume": 2,
+      "unit_of_measure": "count",
+      "is_liquid": false
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty_level": 0.4,
+  "instructions": [
+    "Muddle the apple slices in a shaker.",
+    "Add bourbon, lemon juice, and maple syrup to the shaker.",
+    "Shake well with ice.",
+    "Strain into a glass over ice."
+  ],
+  "taste_profile": [
+    "Sweet",
+    "Sour",
+    "Fruity"
+  ],
+  "garnish": "Apple slice",
+  "alcohol_content": 27.0,
+  "glass_type": "Old Fashioned glass",
+  "served": "On the rocks",
+  "style": "Short drink",
+  "extra_field": "This cocktail is perfect for fall or winter evenings."
+}

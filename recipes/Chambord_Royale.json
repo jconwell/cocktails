@@ -1,0 +1,43 @@
+{
+  "cocktailName": "Chambord Royale",
+  "ingredients": [
+    {
+      "name": "Chambord Liqueur",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Champagne",
+      "volume": 5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Raspberry",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.8,
+  "difficulty": 0.3,
+  "instructions": [
+    "Pour the Chambord Liqueur into a flute glass.",
+    "Top up with Champagne.",
+    "Garnish with a single raspberry."
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Fruity",
+    "Bubbly"
+  ],
+  "garnish": "Single Raspberry",
+  "alcoholContent": 0.12,
+  "serveType": "Flute Glass",
+  "serveTemperature": "Chilled",
+  "origin": "France",
+  "colors": [
+    "Purple"
+  ]
+}

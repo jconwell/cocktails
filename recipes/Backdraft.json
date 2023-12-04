@@ -1,0 +1,42 @@
+{
+  "cocktailName": "Backdraft",
+  "ingredients": [
+    {
+      "name": "Grand Marnier",
+      "volume": 1.0,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Peppermint Schnapps",
+      "volume": 1.0,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Cinnamon",
+      "volume": 1,
+      "unit": "dash",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.8,
+  "instructions": [
+    "Heat the brandy or cognac in a heatproof glass until warm, usually about 25-30 seconds in the microwave.",
+    "Sprinkle the cinnamon over the schnapps and ignite (please be careful while doing this step).",
+    "Tell the person who's going to drink to use a straw to drink the shot while the flame is still on. The draught created makes the flame go higher. So be sure not to lean over the glass.",
+    "When the glass is empty, cover it with your hand to cut-off the oxygen and stop the flame.",
+    "Lift your hand a little bit and inhale the alcoholic gases in the glass.",
+    "When finished, slam the shot glass on the bar, the down draught created by this will force the remaining gases to be expelled from the glass."
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Spicy",
+    "Strong"
+  ],
+  "garnishes": "No garnishes",
+  "alcoholContent": 0.8,
+  "isSignatureDrink": false,
+  "isSeasonal": false
+}

@@ -1,0 +1,59 @@
+{
+  "cocktailName": "Sazerac",
+  "ingredients": [
+    {
+      "name": "Rye Whiskey",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Sugar cube",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    },
+    {
+      "name": "Peychaud's Bitters",
+      "volume": 0.25,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Absinthe",
+      "volume": 0.25,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon peel",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.3,
+  "instructions": [
+    "Chill an old-fashioned glass by filling it with ice and letting it sit while preparing the rest of the drink.",
+    "In a separate mixing glass, muddle the sugar cube and bitters.",
+    "Add the rye whiskey to the bitters/sugar mixture.",
+    "Empty the ice from the old-fashioned glass, and swish the absinthe around the glass to coat it before discarding any excess.",
+    "Pour the whiskey/bitters/sugar mixture from the mixing glass into the old-fashioned glass.",
+    "Garnish with a lemon peel."
+  ],
+  "tasteProfile": [
+    "bitter",
+    "sweet",
+    "citrus"
+  ],
+  "garnish": "Lemon peel",
+  "alcoholContent": 0.4,
+  "glassType": "Old-fashioned glass",
+  "cocktailType": "Classic",
+  "served": "On the rocks",
+  "standardGarnish": "Lemon peel",
+  "drinkware": "Old-fashioned glass",
+  "preparationMethod": "Stirred",
+  "IBA Official Cocktail": true
+}

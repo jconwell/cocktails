@@ -1,0 +1,55 @@
+{
+  "cocktail_name": "Plumdog Millionaire",
+  "ingredients": [
+    {
+      "name": "Plum",
+      "volume": 1,
+      "unit_of_measure": "count",
+      "is_liquid": false
+    },
+    {
+      "name": "Lemon",
+      "volume": 0.5,
+      "unit_of_measure": "count",
+      "is_liquid": false
+    },
+    {
+      "name": "Sugar Syrup",
+      "volume": 1,
+      "unit_of_measure": "oz",
+      "is_liquid": true
+    },
+    {
+      "name": "Gin",
+      "volume": 2,
+      "unit_of_measure": "oz",
+      "is_liquid": true
+    },
+    {
+      "name": "Plum Bitters",
+      "volume": 0.5,
+      "unit_of_measure": "oz",
+      "is_liquid": true
+    },
+    {
+      "name": "Soda Water",
+      "volume": 1,
+      "unit_of_measure": "oz",
+      "is_liquid": true
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.4,
+  "instructions": [
+    "Muddle the plum and lemon in a shaker",
+    "Add the sugar syrup, gin, and plum bitters",
+    "Shake well with ice",
+    "Strain into a glass over fresh ice",
+    "Top with soda water"
+  ],
+  "taste_profile": ["Sweet", "Tart", "Fruity"],
+  "garnish": "Slice of plum",
+  "alcohol_content": 0.2,
+  "glassware": "Highball glass",
+  "serving_temperature": "Cold"
+}

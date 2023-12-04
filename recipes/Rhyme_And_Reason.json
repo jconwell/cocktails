@@ -1,0 +1,44 @@
+{
+  "Cocktail Name": "Rhyme And Reason",
+  "Ingredients": [
+    {
+      "Name": "Lime Juice",
+      "Volume": 0.75,
+      "Unit": "ounces",
+      "IsLiquid": true
+    },
+    {
+      "Name": "Simple Syrup",
+      "Volume": 0.75,
+      "Unit": "ounces",
+      "IsLiquid": true
+    },
+    {
+      "Name": "Aperol",
+      "Volume": 1.0,
+      "Unit": "ounces",
+      "IsLiquid": true
+    },
+    {
+      "Name": "Plymouth Gin",
+      "Volume": 1.5,
+      "Unit": "ounces",
+      "IsLiquid": true
+    }
+  ],
+  "Popularity": 0.6,
+  "Difficulty": 0.3,
+  "Instructions": [
+    "Fill cocktail shaker with ice.",
+    "Add lime juice, simple syrup, Aperol, and gin.",
+    "Shake until well chilled.",
+    "Strain into a cocktail glass.",
+    "Serve."
+  ],
+  "Taste Profile": ["Sweet", "Bitter", "Citrus"],
+  "Garnish": "Lime Slice",
+  "Alcohol Content": 24.0,
+  "Drinkware": "Cocktail Glass",
+  "Serving Temperature": "Cold",
+  "Preparation Time in Minutes": 5
+}

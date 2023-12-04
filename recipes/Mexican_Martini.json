@@ -1,0 +1,49 @@
+{
+  "cocktailName": "Mexican Martini",
+  "ingredients": [
+    {
+      "ingredientName": "Tequila",
+      "ingredientVolume": 2,
+      "ingredientUnit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Cointreau",
+      "ingredientVolume": 1,
+      "ingredientUnit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Lime Juice",
+      "ingredientVolume": 1.5,
+      "ingredientUnit": "ounces",
+      "isLiquid": true
+    },   
+    {
+      "ingredientName": "Olive Juice",
+      "ingredientVolume": 0.5,
+      "ingredientUnit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularityRating" : 0.72,
+  "difficulty" : 0.43,
+  "preparationSteps": [
+    {"step1": "Combine all ingredients into a shaker with ice"},
+    {"step2": "Shake well"},
+    {"step3": "Pour into a large martini glass with a salted rim"},
+    {"step4": "Garnish with an olive and a lime wedge"},
+    {"step5": "Serve immediately"}
+  ],
+  "tasteProfile": [
+    "Salty",
+    "Citrus",
+    "Alcoholic"
+  ],
+  "garnish": "Olive, Lime wedge",
+  "alcoholContent": 0.41,
+  "cocktailTimeOfDay": "Night",
+  "cocktailSeason": "All",
+  "preparationTime": 5,
+  "glasswareType": "Martini Glass"
+}

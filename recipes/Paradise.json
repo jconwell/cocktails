@@ -1,0 +1,41 @@
+{
+  "cocktailName": "Paradise",
+  "ingredients": [
+    {
+      "name": "Gin",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Apricot Brandy",
+      "volume": 1.0,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Orange Juice",
+      "volume": 1.0,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.55,
+  "difficulty": 0.2,
+  "instructions": [
+    "Shake well with cracked ice",
+    "Strain into a chilled cocktail glass"
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Fruity",
+    "Citrus"
+  ],
+  "garnish": "None",
+  "alcoholContent": 0.25,
+  "serveIn": "Cocktail Glass",
+  "serveTemperature": "Cold",
+  "cocktailType": "Shaken",
+  "flavourIntensity": 3.5,
+  "colour": "Orange"
+}

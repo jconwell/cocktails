@@ -1,0 +1,51 @@
+{
+  "cocktail_name": "Waldorf",
+  "ingredients": [
+    {
+      "name": "Rye Whiskey",
+      "amount": 1.5,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Sweet Vermouth",
+      "amount": 0.75,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Absinthe",
+      "amount": 0.75,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Angostura Bitters",
+      "amount": 2,
+      "unit": "dashes",
+      "is_liquid": true
+    },
+    {
+      "name": "Luxardo Cherries",
+      "amount": 1,
+      "unit": "count",
+      "is_liquid": false
+    }
+  ],
+  "popularity_score": 0.5,
+  "difficulty_score": 0.6,
+  "instructions": [
+    "Pour all liquid ingredients into a mixing glass with ice cubes.",
+    "Stir well.",
+    "Strain into a chilled cocktail glass.",
+    "Garnish with a Luxardo Cherry."
+  ],
+  "taste_profile": ["Strong", "Bitter", "Herbal"],
+  "garnish": "Luxardo Cherry",
+  "alcohol_content": 22.5,
+  "glass_type": "Cocktail glass",
+  "cocktail_type": "Classic",
+  "flavour": "Bitter",
+  "color": "Pale Yellow",
+  "primary_alcohol": "Rye Whiskey"
+}

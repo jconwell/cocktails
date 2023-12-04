@@ -1,0 +1,46 @@
+{
+  "name": "Zurracapote",
+  "ingredients": [
+    {
+      "ingredientName": "Red Wine",
+      "volume": 33.814,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Lemon",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    },
+    {
+      "ingredientName": "Orange",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    },
+    {
+      "ingredientName": "Sugar",
+      "volume": 2.028,
+      "unit": "ounces",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.2,
+  "instructions": [
+    "Pour the red wine into a large pot",
+    "Add the juice of a lemon and an orange",
+    "Stir in the sugar until it dissolves",
+    "Simmer on low heat for about 10 minutes",
+    "Let it cool, then strain into glasses"
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Fruity",
+    "Tangy"
+  ],
+  "garnishes": "Orange slice and lemon slice",
+  "alcoholContent": 0.12,
+  "color": "Dark Red"
+}

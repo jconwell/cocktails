@@ -1,0 +1,51 @@
+{
+  "Cocktail": {
+    "name": "Rourou",
+    "ingredients": [
+      {
+        "name": "Rum",
+        "volume": 2.0,
+        "unit": "ounces",
+        "isLiquid": true
+      },
+      {
+        "name": "Coconut cream",
+        "volume": 1.0,
+        "unit": "ounces",
+        "isLiquid": true
+      },
+      {
+        "name": "Pineapple juice",
+        "volume": 2.0,
+        "unit": "ounces",
+        "isLiquid": true
+      },
+      {
+        "name": "Lime juice",
+        "volume": 1.0,
+        "unit": "ounces",
+        "isLiquid": true
+      },
+      {
+        "name": "Pineapple slice",
+        "volume": 1,
+        "unit": "count",
+        "isLiquid": false
+      }
+    ],
+    "popularity": 0.7,
+    "difficulty": 0.3,
+    "steps": [
+      "1. Fill a shaker with ice cubes.",
+      "2. Add rum, coconut cream, pineapple juice, and lime juice.",
+      "3. Shake and strain into a highball glass filled with ice cubes.",
+      "4. Garnish with pineapple."
+    ],
+    "taste_profile": ["sweet", "fruity", "creamy"],
+    "garnishes": "Pineapple slice",
+    "alcohol_content": 0.2,
+    "color": "Yellow",
+    "glass_type": "Highball glass",
+    "category": "Tropical"
+  }
+}

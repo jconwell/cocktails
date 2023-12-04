@@ -1,0 +1,50 @@
+{
+  "cocktailName": "Skeleton Key",
+  "ingredients": [
+    {
+      "name": "Bourbon",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon Juice",
+      "volume": 0.75,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Ginger Beer",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Honey Syrup",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Allspice Dram",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.6,
+  "instructions": [
+    "In a cocktail shaker, combine the bourbon, lemon juice, honey syrup, and allspice dram.",
+    "Shake until well chilled.",
+    "Strain into a glass filled with ice.",
+    "Top with the ginger beer.",
+    "Stir gently to combine."
+  ],
+  "tasteProfile": ["Sweet", "Spicy", "Tangy"],
+  "garnish": "Lemon Wheel and Candied Ginger",
+  "alcoholContent": 0.26,
+  "glassType": "Rocks Glass",
+  "isShaken": true,
+  "isStirred": false
+}

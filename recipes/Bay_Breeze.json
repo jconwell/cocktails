@@ -1,0 +1,41 @@
+{
+  "name": "Bay Breeze",
+  "ingredients": [
+    {
+      "name": "Vodka",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Cranberry Juice",
+      "volume": 3,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Pineapple Juice",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularityRating": 0.6,
+  "difficultyRating": 0.2,
+  "instructions": [
+    "Pour all the ingredients into a shaker with ice.",
+    "Shake well.",
+    "Strain into a highball glass filled with ice."
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Fruity",
+    "Refreshing"
+  ],
+  "garnish": "A slice of lime",
+  "alcoholContent": 0.05,
+  "color": "Pink",
+  "servingGlass": "Highball glass",
+  "occasion": ["Summer", "House parties"],
+  "drinkStyle": "Shaken"
+}

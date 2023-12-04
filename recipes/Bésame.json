@@ -1,0 +1,48 @@
+{
+  "cocktailName": "Bésame",
+  "ingredients": [
+    {
+      "ingredientName": "Champagne",
+      "volume": 3.0,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Raspberry-infused vodka",
+      "volume": 1.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Chambord",
+      "volume": 0.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Fresh raspberry",
+      "volume": 2,
+      "unitOfMeasure": "count",
+      "isLiquid": false
+    }
+  ],
+ "popularityScore": 0.8,
+ "difficultyScore": 0.3,
+ "instructions": [
+   "Fill shaker with ice cubes,",
+   "Pour in the Raspberry-infused vodka and Chambord,",
+   "Shake it well and strain into a champagne glass,",
+   "Top up with Champagne,",
+   "Gently stir and garnish with Fresh raspberry."
+ ],
+ "tasteProfile": [
+   "Sweet",
+   "Fruity",
+   "Tart"
+ ],
+ "garnish": "Fresh raspberry",
+ "alcoholContent": 0.4,
+ "colorEstimate": "Rose Gold",
+ "glassTypeRecommendation": "Champagne Glass",
+ "servingTemperatureRecommendation": "Chilled"
+}

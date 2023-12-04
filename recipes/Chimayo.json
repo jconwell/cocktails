@@ -1,0 +1,46 @@
+{
+  "cocktail": 
+    {
+      "name": "Chimayo",
+      "ingredients": [
+        {
+          "name": "Tequila",
+          "volume": 1.5,
+          "unit": "oz",
+          "isLiquid": true
+        },
+        {
+          "name": "Apple cider",
+          "volume": 1,
+          "unit": "oz",
+          "isLiquid": true
+        },
+        {
+          "name": "Lemon juice",
+          "volume": 1,
+          "unit": "oz",
+          "isLiquid": true
+        },
+        {
+          "name": "Creme de cassis",
+          "volume": 0.5,
+          "unit": "oz",
+          "isLiquid": true
+        }
+      ],
+      "popularity": 0.4,
+      "difficulty": 0.3,
+      "instructions": [
+        "Pour the tequila, apple cider, lemon juice and creme de cassis into a shaker with ice cubes",
+        "Shake well.",
+        "Strain into a chilled cocktail glass"
+      ],
+      "taste_profile": ["sweet", "fruity", "tart"],
+      "garnish": "Apple slice",
+      "alcohol_content": 0.18,
+      "colour": "Purple",
+      "serve_in": "Cocktail glass",
+      "time_of_day": "Evening",
+      "time_to_prepare": 5
+    }
+}

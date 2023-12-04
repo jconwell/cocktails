@@ -1,0 +1,40 @@
+{
+  "cocktailName": "Peppermint Patty",
+  "ingredients": [
+    {
+      "name": "Dark creme de cacao",
+      "volume": 1,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Peppermint schnapps",
+      "volume": 1,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Cream",
+      "volume": 2,
+      "unit": "oz",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.5,
+  "difficulty": 0.3,
+  "instructions": [
+    "Pour all ingredients into a shaker with ice cubes.",
+    "Shake well.",
+    "Strain into a chilled cocktail glass."
+  ],
+  "tasteProfile": [
+    "sweet",
+    "creamy",
+    "minty"
+  ],
+  "garnish": "Mint leaf",
+  "alcoholContent": 0.2,
+  "color": "whitish",
+  "cocktailType": "short drink",
+  "glassType": "cocktail glass"
+}

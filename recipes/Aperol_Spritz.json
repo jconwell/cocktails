@@ -1,0 +1,48 @@
+{
+  "cocktailName": "Aperol Spritz",
+  "ingredients": [
+    {
+      "name": "Prosecco",
+      "volume": 3,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Aperol",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Soda Water",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Orange Slice",
+      "volume": 1,
+      "unit": "slice",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.2,
+  "instructions": [
+    "Pour Prosecco into a glass filled with ice.",
+    "Add Aperol in a similar fashion.",
+    "Add a splash of soda water.",
+    "Garnish with a slice of orange."
+  ],
+  "tasteProfile": [
+    "Bitter",
+    "Sweet",
+    "Citrus"
+  ],
+  "garnish": "Orange Slice",
+  "alcoholContent": 0.11,
+  "cocktailType": "Wine Cocktail",
+  "glassType": "Wine Glass",
+  "isClassic": true,
+  "mixingMethod": "Build"
+}

@@ -1,0 +1,40 @@
+{
+  "CocktailName": "Shirley Temple",
+  "Ingredients": [
+    {
+      "IngredientName": "Grenadine",
+      "Volume": 0.75,
+      "UnitOfMeasure": "Ounce",
+      "IsLiquid": true
+    },
+    {
+      "IngredientName": "Ginger Ale",
+      "Volume": 10,
+      "UnitOfMeasure": "Ounce",
+      "IsLiquid": true
+    },
+    {
+      "IngredientName": "Maraschino Cherry",
+      "Volume": 1,
+      "UnitOfMeasure": "Count",
+      "IsLiquid": false
+    }
+  ],
+  "Popularity": 0.9,
+  "DifficultytoMake": 0.1,
+  "PreparationSteps": [
+    "Pour ginger ale into the glass.",
+    "Add grenadine.",
+    "Stir well.",
+    "Add maraschino cherry for garnish."
+  ],
+  "TasteProfile": [
+    "Sweet",
+    "Fruity"
+  ],
+  "Garnish": "Maraschino cherry",
+  "AlcoholContent": 0.0,
+  "ServingGlass": "Highball Glass",
+  "IceRequired": true,
+  "Color": "Red"
+  }

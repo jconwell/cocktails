@@ -1,0 +1,51 @@
+{
+  "name": "French Pearl",
+  "ingredients": [
+    {
+      "ingredient_name": "Pernod Absinthe",
+      "ingredient_volume": 0.5,
+      "ingredient_measure_unit": "oz",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Plymouth Gin",
+      "ingredient_volume": 2.0,
+      "ingredient_measure_unit": "oz",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Lime Juice",
+      "ingredient_volume": 0.75,
+      "ingredient_measure_unit": "oz",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Simple Syrup",
+      "ingredient_volume": 1.0,
+      "ingredient_measure_unit": "oz",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Mint Leaves",
+      "ingredient_volume": 2.0,
+      "ingredient_measure_unit": "count",
+      "is_liquid": false
+    }
+  ],
+  "popularity": 0.55,
+  "difficulty": 0.25,
+  "instructions": [
+    "Muddle the mint leaves with the simple syrup in the bottom of a shaker.",
+    "Add the absinthe, gin, and lime juice.",
+    "Fill the shaker with ice and shake well.",
+    "Strain into a chilled cocktail glass."
+  ],
+  "taste_profile": ["Citrus", "Sweet", "Herbaceous"],
+  "garnish": "Mint Sprig",
+  "alcohol_content": 0.65,
+  "ideal_serving_glass": "cocktail glass",
+  "ideal_temperature": "Chilled",
+  "origin": "France",
+  "creation_year": 2000,
+  "flavor_intensity": "Moderate"
+}

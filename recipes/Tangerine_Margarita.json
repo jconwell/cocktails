@@ -1,0 +1,57 @@
+{
+  "cocktailName": "Tangerine Margarita",
+  "ingredients": [
+    {
+      "name": "Silver Tequila",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Fresh tangerine juice",
+      "volume": 4,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Fresh lime juice",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Simple Syrup",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Ice cubes",
+      "volume": 1,
+      "unit": "Cup",
+      "isLiquid": false
+    },
+    {
+      "name": "Salt",
+      "volume": 1,
+      "unit": "pinch",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.4,
+  "instructions": [
+    "Rub the rim of a margarita glass with lime and dip in salt.",
+    "In a shaker, combine all the ingredients.",
+    "Shake well until chilled.",
+    "Pour the mix into the salt rimmed glass.",
+    "Serve immediately."
+  ],
+  "tasteProfile": ["Sour","Sweet","Citrusy"],
+  "garnishes": "Tangerine Slice",
+  "AlcoholContent": 0.12,
+  "extraIngredients" : {
+    "InSeason" : true,
+    "CommonIngredient" : true
+  }
+}

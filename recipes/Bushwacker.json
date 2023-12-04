@@ -1,0 +1,62 @@
+{
+  "cocktail_name": "Bushwacker",
+  "ingredients": [
+    {
+      "ingredient_name": "Dark Rum",
+      "volume": 1.0,
+      "unit": "oz",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Kahlua",
+      "volume": 1.0,
+      "unit": "oz",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Dark Creme de Cacao",
+      "volume": 1.0,
+      "unit": "oz",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Coconut cream",
+      "volume": 2.0,
+      "unit": "oz",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Half-and-half",
+      "volume": 2.0,
+      "unit": "oz",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Crushed ice",
+      "volume": 1.0,
+      "unit": "cup",
+      "is_liquid": false
+    }
+  ],
+  "popular_score": 0.7,
+  "difficulty_score": 0.3,
+  "instructions": [
+    "Pour all the ingredients into a blender.",
+    "Blend at a high speed until smooth.",
+    "Pour into a large glass.",
+    "Serve with a straw."
+  ],
+  "taste_profile": [
+    "Sweet",
+    "Creamy",
+    "Chocolate"
+  ],
+  "garnishes": "Freshly grated nutmeg",
+  "alcohol_content": 0.2,
+
+  "additional_characteristics": {
+    "texture": "Frozen",
+    "glass_type": "Hurricane Glass",
+    "origin_country": "U.S Virgin Islands"
+  }
+}

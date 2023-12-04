@@ -1,0 +1,58 @@
+{
+  "cocktailName": "Morning Glory",
+  "ingredients": [
+    {
+      "ingredientName": "Scotch Whisky",
+      "volume": 1.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Lemon Juice",
+      "volume": 1,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Simple Syrup",
+      "volume": 0.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Absinthe",
+      "volume": 0.25,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Egg White",
+      "volume": 1,
+      "unitOfMeasure": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularityScore": 0.6,
+  "difficultyScore": 0.8,
+  "instructions": [
+    "Pour the Scotch whisky, lemon juice, simple syrup, absinthe into a shaker.",
+    "Add the egg white to the shaker.",
+    "Perform a 'dry shake' (shaking without ice) until the egg white is frothy.",
+    "Add ice and shake again until well-mixed.",
+    "Strain into a chilled glass."
+  ],
+  "tasteProfile": [
+    "Sour",
+    "Sweet",
+    "Strong"
+  ],
+  "garnish": "Lemon twist",
+  "alcoholContent": 0.22,
+  "cocktailStyle": "Shaken",
+  "glassware": "Cocktail Glass",
+  "baseSpirit": "Scotch Whisky",
+  "occasion": [
+    "Evening",
+    "Night"
+  ]
+}

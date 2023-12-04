@@ -1,0 +1,37 @@
+{
+  "name": "Candy Appley",
+  "ingredients": [
+    {
+      "name": "vodka",
+      "volume": 1.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "apple schnapps",
+      "volume": 1.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "cranberry juice",
+      "volume": 4,
+      "unit": "oz",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.2,
+  "instructions": [
+    "Fill a shaker with ice cubes.",
+    "Add vodka, apple schnapps and cranberry juice.",
+    "Shake and strain into a chilled highball glass filled with ice cubes.",
+    "Garnish with apple."
+  ],
+  "tasteProfile": ["sweet", "fruity", "tart"],
+  "garnish": "slice of apple",
+  "alcoholContent": 0.2,
+  "color": "red",
+  "serveIn": "highball glass",
+  "prepTime": 3 
+}

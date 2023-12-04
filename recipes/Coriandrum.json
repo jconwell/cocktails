@@ -1,0 +1,49 @@
+{
+  "cocktailName": "Coriandrum",
+  "ingredients": [
+    {
+      "name": "Vodka",
+      "volume": 1.5,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Lime Juice",
+      "volume": 1,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Simple Syrup",
+      "volume": 0.5,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Coriander",
+      "volume": 2,
+      "unit": "sprigs",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.3,
+  "instructions": [
+    "Muddle the coriander in a shaker",
+    "Add the vodka, lime juice, and simple syrup to the shaker",
+    "Shake well with ice",
+    "Strain into a chilled glass"
+  ],
+  "tasteProfile": [
+    "Herbaceous",
+    "Citrusy",
+    "Sweet"
+  ],
+  "garnish": "Lime Wheel and Coriander Sprig",
+  "alcoholContent": 0.14,
+  "color": "Green",
+  "glassType": "Cocktail Glass",
+  "occasion": ["Summer Parties", "Social Gatherings"],
+  "variationPossible": true,
+  "alternativeIngredients": ["Gin"]
+}

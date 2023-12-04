@@ -1,0 +1,42 @@
+{
+  "name": "Hunter's",
+  "ingredients": [
+    {
+      "ingredientName": "whiskey",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "lemon juice",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "cherry brandy",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.5,
+  "difficulty": 0.4,
+  "instructions": [
+    "Fill a shaker with ice cubes.",
+    "Add all ingredients.",
+    "Shake and strain into a chilled cocktail glass."
+  ],
+  "tasteProfile": [
+    "Strong",
+    "Sour",
+    "Sweet"
+  ],
+  "garnishes": "lemon slice and cherry",
+  "alcoholContent": 40.0,
+  "color": "Amber",
+  "glassType": "Cocktail glass",
+  "cocktailType": "Shaken",
+  "occasion": ["After Dinner", "Celebrations"],
+  "origin": "America"
+}

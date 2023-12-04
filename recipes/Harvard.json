@@ -1,0 +1,50 @@
+{
+  "name": "Harvard",
+  "ingredients": [
+    {
+      "ingredientName": "Cognac",
+      "volume": 2,
+      "unitOfMeasure": "oz",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Sweet Vermouth",
+      "volume": 1,
+      "unitOfMeasure": "oz",
+      "isLiquid": true
+    },    
+    {
+      "ingredientName": "Angostura Bitters",
+      "volume": 2,
+      "unitOfMeasure": "dashes",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Soda Water",
+      "volume": 1,
+      "unitOfMeasure": "oz",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Lemon Twist",
+      "volume": 1,
+      "unitOfMeasure": "piece",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.55,
+  "difficulty": 0.25,
+  "instructions": [
+    "In a mixing glass filled with ice, combine the cognac, sweet vermouth, and bitters.",
+    "Stir until well chilled.",
+    "Strain into a chilled coupe or cocktail glass.",
+    "Top with soda water.",
+    "Garnish with a lemon twist."
+  ],
+  "tasteProfile": ["Bitter", "Sweet", "Herbaceous"],
+  "garnish": "Lemon Twist",
+  "alcoholContent": 0.31,
+  "glassType": "Coupe",
+  "isClassic": true,
+  "origin": "USA"
+}

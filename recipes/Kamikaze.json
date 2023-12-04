@@ -1,0 +1,43 @@
+{
+  "cocktailName": "Kamikaze",
+  "ingredients": [
+    {
+      "name": "Vodka",
+      "volume": 1.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Triple Sec",
+      "volume": 1,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lime Juice",
+      "volume": 1,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.3,
+  "instructions": [
+    "Chill a cocktail glass",
+    "In a shaker with crushed ice, combine vodka, triple sec, and lime juice",
+    "Shake well",
+    "Strain into the chilled cocktail glass",
+    "Serve immediately"
+  ],
+  "tasteProfile": [
+    "Strong",
+    "Citrus",
+    "Sour"
+  ],
+  "garnishes": "Lime wheel",
+  "alcoholContent": 0.25,
+  "color": "Clear",
+  "glassType": "Cocktail glass",
+  "servingTemperature": "Cold",
+  "pairingFood": "Fish"
+}

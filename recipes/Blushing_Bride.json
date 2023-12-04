@@ -1,0 +1,41 @@
+{
+  "cocktailName": "Blushing Bride",
+  "ingredients": [
+    {
+      "ingredientName": "Peach Schnapps",
+      "ingredientVolume": 1,
+      "ingredientUnit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Grenadine",
+      "ingredientVolume": 1,
+      "ingredientUnit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Champagne",
+      "ingredientVolume": 5,
+      "ingredientUnit": "ounce",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.4,
+  "difficulty": 0.2,
+  "instructions": [
+    "Pour the peach schnapps and grenadine into a Champagne flute.",
+    "Top up with Champagne."
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Fruity"
+  ],
+  "garnish": "None",
+  "alcoholContent": 0.15,
+  "cocktailType": "Sparkling",
+  "servingGlass": "Champagne flute",
+  "preparationTime": 3,
+  "flavorIntensity": 0.5,
+  "color": "pink",
+  "shakeOrStir": "neither"
+}

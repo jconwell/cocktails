@@ -1,0 +1,51 @@
+{
+  "cocktailName": "Pegu Club",
+  "ingredients": [
+    {
+      "name": "Gin",
+      "volume": 1.5,
+      "unitOfMeasure": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Cointreau",
+      "volume": 0.75,
+      "unitOfMeasure": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Lime juice",
+      "volume": 0.5,
+      "unitOfMeasure": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Angostura bitters",
+      "volume": 1,
+      "unitOfMeasure": "dash",
+      "isLiquid": true
+    },
+    {
+      "name": "Orange bitters",
+      "volume": 1,
+      "unitOfMeasure": "dash",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.3,
+  "instructions": [
+    "Chill a cocktail glass.",
+    "In a shaker, combine all ingredients with ice.",
+    "Shake until well chilled.",
+    "Strain into the chilled cocktail glass."
+  ],
+  "tasteProfile": ["Sour", "Sweet", "Bitter"],
+  "garnish": "Lime twist",
+  "alcoholContent": 0.2,
+  "cocktailType": "Classic",
+  "pairings": ["Seafood", "Light Salads"],
+  "drinkware": "Cocktail Glass",
+  "color": "#ffcc00",
+  "servingTemperature": "Cold"
+}

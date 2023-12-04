@@ -1,0 +1,41 @@
+{
+  "cocktail_name": "Apple Martini",
+  "ingredients": [
+    {
+      "ingredient_name": "Vodka",
+      "volume": 1.5,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Sour Apple Schnapps",
+      "volume": 1,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Lemon Juice",
+      "volume": 1,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    }
+  ],
+  "popularity_score": 0.7,
+  "difficulty_score": 0.3,
+  "instructions": [
+    "Pour the ingredients into a shaker with ice cubes.",
+    "Shake well.",
+    "Strain into a chilled cocktail glass."
+  ],
+  "taste_profile": [
+    "Sour",
+    "Sweet"
+  ],
+  "garnish": "Apple Slice",
+  "alcohol_content": 0.24,
+  "primary_alcohol": "Vodka",
+  "glass_type": "Cocktail Glass",
+  "serving_type": "Straight Up",
+  "preparation_time_minutes": 5,
+  "color": "Green"
+}

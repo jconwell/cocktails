@@ -1,0 +1,53 @@
+{
+  "name": "Chicago Fizz",
+  "ingredients": [
+    {
+      "name": "Dark Rum",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Port Wine",
+      "volume": 0.75,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon Juice",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Sugar Syrup",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Soda Water",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Egg White",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.65,
+  "difficulty": 0.75,
+  "instructions": [
+    "Shake rum, port, juice, and syrup with ice and strain into a highball glass over two ice cubes.",
+    "Fill with soda, add the egg white, and serve."
+  ],
+  "tasteProfile": ["Sweet", "Creamy", "Fruity"],
+  "garnishes": "Nutmeg on top",
+  "alcoholContent": 0.14,
+  "glassware": "Highball Glass",
+  "strengthRating": "Medium",
+  "colour": "Brown"
+}

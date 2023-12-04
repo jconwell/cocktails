@@ -1,0 +1,31 @@
+{
+  "name": "Snakebite",
+  "ingredients": [
+    {
+      "name": "Lager",
+      "volume": 7,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Cider",
+      "volume": 7,
+      "unit": "oz",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.4,
+  "difficulty": 0.2,
+  "instructions": [
+    "Pour the Lager into the pint glass",
+    "Pour the cider into the same glass, layering it on top of the Lager",
+    "Serve"
+  ],
+  "tasteProfile": ["Juicy", "Crisp", "Fruity", "Soft"],
+  "garnishes": "None",
+  "alcoholContent": 6.0,
+  "color": "Golden",
+  "serveware": "Pint glass",
+  "temperature": "Cold",
+  "type": "Beer Cocktail"
+}

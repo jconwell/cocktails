@@ -1,0 +1,37 @@
+{
+  "name": "Gin Sour",
+  "ingredients": [
+    {
+      "name": "Gin",
+      "volume": 2.0,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon Juice",
+      "volume": 1.0,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Simple Syrup",
+      "volume": 0.75,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.3,
+  "procedure": [
+    "Shake all ingredients with ice",
+    "Strain into a chilled cocktail glass",
+    "Top with a few dashes of Angostura bitters"
+  ],
+  "tasteProfile": ["Sweet", "Sour", "Aromatic"],
+  "garnish": "Lemon Twist",
+  "alcoholContent": 0.2,
+  "origin": "United States",
+  "flavorIntensity": 0.7,
+  "servingTemperature": "Chilled",
+  "glassType": "Cocktail glass"
+}

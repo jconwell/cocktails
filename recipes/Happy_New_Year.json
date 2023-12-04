@@ -1,0 +1,49 @@
+{
+  "name": "Happy New Year",
+  "ingredients": [
+    {
+      "name": "Sparkling Wine",
+      "volume": 4,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Brandy",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon juice",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Sugar cube",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    },
+    {
+      "name": "Angostura bitters",
+      "volume": 1,
+      "unit": "dash",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.3,
+  "instructions": [
+    "Place sugar cube in a champagne flute.",
+    "Douse the sugar cube with Angostura bitters.",
+    "Add the brandy.",
+    "Top with sparkling wine.",
+    "Squeeze lemon juice over top and stir gently."
+  ],
+  "tasteProfile": ["bitter", "sweet", "citrus"],
+  "garnish": "None",
+  "alcoholContent": 0.12,
+  "glassType": "champagne flute",
+  "temperature": "cold"
+}

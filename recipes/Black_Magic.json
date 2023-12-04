@@ -1,0 +1,50 @@
+{
+  "name": "Black Magic",
+  "ingredients": [
+    {
+      "name": "Vodka",
+      "volume": 2.0,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Coffee Liqueur",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon Juice",
+      "volume": 0.25,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Sugar",
+      "volume": 1.0,
+      "unit": "cubes",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.3,
+  "instructions": [
+    "Pour vodka and coffee liqueur into a glass.",
+    "Squeeze lemon juice into the glass.",
+    "Stir well to dissolve the sugar cube."
+  ],
+  "taste_profile": [
+    "Bitter",
+    "Sweet",
+    "Citrus"
+  ],
+  "garnishes": "Lemon Twist",
+  "alcohol_content": 0.24,
+  "glass_type": "Cocktail glass",
+  "is_iced": false,
+  "serving_size": 1.0,
+  "color": "Black",
+  "country_of_origin": "USA",
+  "occasion": ["Halloween", "Party"],
+  "time_of_day": ["Night", "Evening"]
+}

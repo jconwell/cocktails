@@ -1,0 +1,61 @@
+{
+  "cocktailName": "Hello Kitty",
+  "ingredients": [
+    {
+      "ingredientName": "Malibu Rum",
+      "ingredientVolume": 1.5,
+      "measurementUnit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Cranberry Juice",
+      "ingredientVolume": 3,
+      "measurementUnit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Pineapple Juice",
+      "ingredientVolume": 2,
+      "measurementUnit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Fresh Lime",
+      "ingredientVolume": 0.5,
+      "measurementUnit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularityScore": 0.5,
+  "difficultyScore": 0.1,
+  "instructions": [
+    "Pour Malibu Rum into a shaker with ice",
+    "Add cranberry juice and pineapple juice",
+    "Squeeze and add fresh lime juice",
+    "Shake well",
+    "Strain into an iced filled rocks glass"
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Fruity"
+  ],
+  "garnish": "Lime wheel",
+  "alcoholContent": 0.15,
+  "glassType": "Rocks glass",
+  "timeToPrepare": 5,
+  "servingSize": 1,
+  "isClassicCocktail": false,
+  "isTikiCocktail": false,
+  "baseSpirit": "Rum",
+  "flavorProfile": [
+    "Sweet",
+    "Tropical",
+    "Citrus"
+  ],
+  "color": "Pink",
+  "IBU": 0,
+  "isCarbonated": false,
+  "isFrozen": false,
+  "occasion": "Summer, Casual, Party",
+  "pairWithFood": "Seafood, Salads"
+}

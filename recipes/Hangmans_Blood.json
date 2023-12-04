@@ -1,0 +1,62 @@
+{
+  "cocktailName": "Hangman's Blood",
+  "ingredients": [
+    {
+      "ingredientName": "Rum",
+      "volume": 1,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Gin",
+      "volume": 1,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Brandy",
+      "volume": 1,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Porter",
+      "volume": 1,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Fresh Lemon Juice",
+      "volume": 1,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Sugar Syrup",
+      "volume": 0.75,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Champagne",
+      "volume": 1,
+      "unit": "ounce",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.5,
+  "difficulty": 0.82,
+  "instructions": [
+    "Pour the rum, gin, brandy into a pint glass.",
+    "Add the porter, stirring gently.",
+    "In a shaker, combine the lemon juice and sugar syrup. Shake well.",
+    "Pour the lemon juice, sugar syrup combination into the pint glass. Stir gently.",
+    "Top up with Champagne as desired."
+  ],
+  "tasteProfile": ["sweet", "bitter", "fruity", "strong"],
+  "garnish": "Lemon twist",
+  "alcoholContent": 0.42,
+  "glassType": "Pint Glass",
+  "cocktailType": "Mixed Drink",
+  "occasion": ["Night Party", "Casual Drink"]
+}

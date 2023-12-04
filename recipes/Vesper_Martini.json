@@ -1,0 +1,38 @@
+{
+  "name": "Vesper Martini",
+  "ingredients": [
+    {
+      "name": "Gin",
+      "volume": 3,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Vodka",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lillet Blanc",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.8,
+  "difficulty": 0.4,
+  "instructions": [
+    "Pour all ingredients into a cocktail shaker filled with ice.",
+    "Shake until chilled.",
+    "Strain into a chilled martini glass."
+  ],
+  "tasteProfile": ["strong", "dry", "citrusy"],
+  "garnish": "Lemon twist",
+  "alcoholContent": 0.33,
+  "servingMethod": "Straight up; without ice",
+  "glassType": "Martini Glass",
+  "topWith": "",
+  "muddleIngredients": false,
+  "shakeStir": "Shake"
+}

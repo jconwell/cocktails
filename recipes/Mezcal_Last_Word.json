@@ -1,0 +1,48 @@
+{
+  "cocktail_name": "Mezcal Last Word",
+  "ingredients": [
+    {
+      "ingredient_name": "Mezcal",
+      "volume": 0.75,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Green Chartreuse",
+      "volume": 0.75,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Maraschino Liqueur",
+      "volume": 0.75,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Lime",
+      "volume": 1,
+      "unit_of_measure": "count",
+      "is_liquid": false
+    }
+  ],
+  "popularity_rating": 0.75,
+  "difficulty_rating": 0.4,
+  "instruction_steps": [
+    "Combine all ingredients in a shaker with ice",
+    "Shake well till it's well chilled",
+    "Strain into a chilled coupe glass"
+  ],
+  "taste_profile": [
+    "sweet",
+    "herbaceous",
+    "smoky"
+  ],
+  "garnish": "Cherry",
+  "alcohol_content": 40.0,
+  "serving_glass_type": "coupe glass",
+  "cocktail_color": "green",
+  "preparation_time_minutes": 5,
+  "cocktail_style": "Shaken",
+  "origin_country": "Mexico"
+}

@@ -1,0 +1,47 @@
+{
+  "cocktail_name": "Southern Joe",
+  "ingredients": [
+    {
+      "name": "Bourbon",
+      "volume": 1.5,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Sweet Vermouth",
+      "volume": 0.75,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Peach Schnapps",
+      "volume": 0.50,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Ice cubes",
+      "volume": 3,
+      "unit": "cubes",
+      "is_liquid": false
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.2,
+  "instructions": [
+    "Put the ice cubes into a cocktail shaker.",
+    "Add bourbon, sweet vermouth, and peach schnapps to the shaker.",
+    "Shake well for 20 seconds.",
+    "Strain into a chilled martini glass."
+  ],
+  "taste_profile": [
+    "sweet",
+    "bitter",
+    "fruity"
+  ],
+  "garnish": "Peach slice",
+  "alcohol_content": 0.24,
+  "glass_type": "Martini Glass",
+  "shake_or_stir": "Shake",
+  "cocktail_type": "Classic"
+}

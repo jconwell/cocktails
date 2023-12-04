@@ -1,0 +1,38 @@
+{
+  "cocktail": {
+    "name": "Kir",
+    "ingredients": [
+      {
+        "ingredient_name": "Creme de Cassis",
+        "quantity": 0.5,
+        "unit_of_measure": "ounces",
+        "isLiquid": true
+      },
+      {
+        "ingredient_name": "Dry White Wine (Preferably Chablis)",
+        "quantity": 7,
+        "unit_of_measure": "ounces",
+        "isLiquid": true
+      }
+    ],
+    "popularity": 0.7,
+    "difficulty": 0.2,
+    "preparation_steps": [
+      "Pour Creme de Cassis into the glass.",
+      "Top up the glass with chilled white wine."
+    ],
+    "taste_profile": [
+      "Sweet",
+      "Tangy"
+    ],
+    "garnish": "None",
+    "alcohol_content": 0.101,
+    "glassware": "wine glass",
+    "serving_temperature": "chilled",
+    "country_of_origin": "France",
+    "ibu": 0.0,
+    "color": "pink",
+    "aroma": ["blackcurrant", "fruity"],
+    "texture": "smooth"
+  }
+}

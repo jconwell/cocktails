@@ -1,0 +1,54 @@
+{
+  "cocktail_name": "Bamboo",
+  "ingredients": [
+    {
+      "name": "Dry Sherry",
+      "volume": 1.5,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Dry Vermouth",
+      "volume": 1.5,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Angostura Bitters",
+      "volume": 2,
+      "unit_of_measure": "dashes",
+      "is_liquid": true
+    },
+    {
+      "name": "Orange Bitters",
+      "volume": 1,
+      "unit_of_measure": "dash",
+      "is_liquid": true
+    }
+  ],
+  "popularity": 0.65,
+  "difficulty": 0.35,
+  "instructions": [
+    "Stir all ingredients with ice in a mixing glass",
+    "Strain into a chilled cocktail glass"
+  ],
+  "taste_profile": [
+    "Dry",
+    "Bitter",
+    "Citrus"
+  ],
+  "garnish": "Lemon twist",
+  "alcohol_content": 0.22,
+  "color": "Amber",
+  "glass_type": "Cocktail Glass",
+  "ideal_serving_temperature": "Cold",
+  "event_type": [
+    "Classy",
+    "Night"
+  ],
+  "cocktail_type": "Classic",
+  "origin": "Japan",
+  "flavor_intensity": 0.7,
+  "sweetness_level": 0.3,
+  "historical_period": "Late 19th Century"
+}

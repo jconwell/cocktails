@@ -1,0 +1,45 @@
+{
+  "name": "Gold Rush",
+  "ingredients": [
+    {
+      "ingredient_name": "Bourbon",
+      "volume": 2,
+      "unit_of_measure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredient_name": "Lemon Juice",
+      "volume": 0.75,
+      "unit_of_measure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredient_name": "Honey Syrup",
+      "volume": 0.75,
+      "unit_of_measure": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.3,
+  "instructions": [
+    "Combine ingredients in a shaker.",
+    "Shake with ice.",
+    "Strain into a chilled old-fashioned glass filled with a large ice cube."
+  ],
+  "taste_profile": [
+    "Sweet",
+    "Sour",
+    "Strong"
+  ],
+  "garnish": "Lemon twist",
+  "alcohol_content": 40.0,
+  "color": "Gold",
+  "texture": "Smooth",
+  "aroma": "Citrus",
+  "isBlended": false,
+  "isAged": false,
+  "isCarbonated": false,
+  "glass_type": "Old-fashioned glass",
+  "serving_temperature": "Chilled"
+}

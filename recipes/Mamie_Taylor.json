@@ -1,0 +1,37 @@
+{
+  "cocktailName": "Mamie Taylor",
+  "ingredients": [
+    {
+      "ingredientName": "Scotch whisky",
+      "volume": 2.0,
+      "unitOfMeasure": "ounces",
+      "ingredientIsLiquid": true
+    },
+    {
+      "ingredientName": "Lime juice",
+      "volume": 0.5,
+      "unitOfMeasure": "ounces",
+      "ingredientIsLiquid": true
+    },
+    {
+      "ingredientName": "Ginger ale",
+      "volume": 3.0,
+      "unitOfMeasure": "ounces",
+      "ingredientIsLiquid": true
+    }
+  ],
+  "popularityScore": 0.7,
+  "difficultyScore": 0.3,
+  "instructions": [
+    "Pour the scotch whisky and lime juice into a collins glass filled with ice cubes.",
+    "Top with the ginger ale and stir well.",
+    "Garnish with a lime slice."
+  ],
+  "tasteProfile": ["spicy", "citrusy", "refreshing"],
+  "garnish": "Lime slice",
+  "alcoholContent": 0.13,
+  "glassware": "Collins glass",
+  "served": "On the rocks; poured over ice",
+  "timeOfDay": ["Evening", "Night"],
+  "event": ["Casual", "Celebratory"]
+}

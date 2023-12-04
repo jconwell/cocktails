@@ -1,0 +1,49 @@
+{
+  "name": "Yellow Bird",
+  "ingredients": [
+    {
+      "name": "White Rum",
+      "volume": 1.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Galliano",
+      "volume": 0.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Triple Sec",
+      "volume": 0.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "Lime Juice",
+      "volume": 1.0,
+      "unit": "oz",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.4,
+  "instructions": [
+    "In a shaker, combine all ingredients with ice.",
+    "Shake well until chilled.",
+    "Strain into a chilled cocktail glass."
+  ],
+  "tasteProfile": [
+    "sweet",
+    "sour",
+    "citrus"
+  ],
+  "garnish": "Orange Slice",
+  "alcoholContent": 0.2,
+  "glassType": "Cocktail Glass",
+  "isShaken": true,
+  "isStirred": false,
+  "isBlended": false,
+  "theme": "Tropical",
+  "occasion": "Summer Party"
+}

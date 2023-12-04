@@ -1,0 +1,50 @@
+{
+  "cocktail_name": "Amaretto Sour",
+  "ingredients": [
+    {
+      "name": "Amaretto",
+      "volume": 1.5,
+      "unit": "ounces",
+      "type": "liquid",
+      "is_liquid": true
+    },
+    {
+      "name": "Lemon juice",
+      "volume": 1.0,
+      "unit": "ounces",
+      "type": "liquid",
+      "is_liquid": true
+    },
+    {
+      "name": "Simple syrup",
+      "volume": 0.5,
+      "unit": "ounces",
+      "type": "liquid",
+      "is_liquid": true
+    },
+    {
+      "name": "Egg white",
+      "volume": 1.0,
+      "unit": "ounces",
+      "type": "liquid",
+      "is_liquid": true
+    }
+  ],
+  "popularity_score": 0.6,
+  "difficulty_score": 0.3,
+  "instructions": [
+    "Add all ingredients into a shaker and dry-shake (without ice) for about 15 seconds.",
+    "Add ice and shake again until well-chilled.",
+    "Strain into a chilled coupe glass."
+  ],
+  "taste_profile": [
+    "Sweet",
+    "Sour"
+  ],
+  "garnish": "Cherry and a slice of lemon",
+  "alcohol_content": 0.28,
+  "cocktail_family": "Sour",
+  "primary_alcohol": "Amaretto",
+  "serving_glass": "Coupe glass",
+  "method": "Shaken"
+}

@@ -1,0 +1,49 @@
+{
+  "cocktailName": "Hanky-panky Martini",
+  "ingredients": [
+    {
+      "name": "gin",
+      "volume": 1.5,
+      "measurementUnit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "sweet vermouth",
+      "volume": 1.5,
+      "measurementUnit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Fernet Branca",
+      "volume": 0.25,
+      "measurementUnit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "orange peel",
+      "volume": 1,
+      "measurementUnit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.65,
+  "difficulty": 0.3,
+  "instructions": [
+    "Pour the gin, sweet vermouth, and Fernet Branca into a mixing glass filled with ice cubes.",
+    "Stir well.",
+    "Strain into a chilled cocktail glass.",
+    "Squeeze the orange peel over the drink to extract its oils, then drop it in."
+  ],
+  "tasteProfile": [
+    "bittersweet",
+    "herbaceous",
+    "citrus"
+  ],
+  "garnish": "Orange peel",
+  "alcoholContent": 0.25,
+  "glassware": "Martini Glass",
+  "occasion": "Evening Drink",
+  "mood": ["Relaxed", "Sophisticated"],
+  "flavorIntensity": 0.7,
+  "sweetnessLevel": 0.3
+}

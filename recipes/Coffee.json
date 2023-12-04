@@ -1,0 +1,46 @@
+{
+  "name": "Irish Coffee",
+  "ingredients": [
+    {
+      "ingredientName": "Irish whiskey",
+      "volume": 1.5,
+      "unit": "ounces",
+      "liquid": true
+    },
+    {
+      "ingredientName": "Coffee",
+      "volume": 4,
+      "unit": "ounces",
+      "liquid": true
+    },
+    {
+      "ingredientName": "Brown sugar",
+      "volume": 1,
+      "unit": "tablespoon",
+      "liquid": false
+    },
+    {
+      "ingredientName": "Whipped cream",
+      "volume": 1,
+      "unit": "dollop",
+      "liquid": false
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.2,
+  "instructions": [
+    "Preheat a clear stemmed glass with hot water",
+    "Empty the water, and add 2 teaspoons of brown sugar",
+    "Pour in the Irish Whiskey",
+    "Fill with hot coffee until there is about a centimeters gap from the rim of the glass. Stir well",
+    "Top with a collar of lightly whipped cream by pouring gently over a spoon"
+  ],
+  "tasteProfile": ["sweet", "creamy", "strong"],
+  "garnish": "Nutmeg",
+  "alcoholContent": 0.05,
+  "color": "brown",
+  "serveIn": "Irish coffee mug",
+  "flavorIntensity": 0.7,
+  "sweetness": 0.65,
+  "secondsToMake": 180
+}

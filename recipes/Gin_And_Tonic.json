@@ -1,0 +1,41 @@
+{
+  "cocktail": {
+    "name": "Gin and Tonic",
+    "ingredients": [
+      {
+        "name": "Gin",
+        "volume": 2.0,
+        "unit": "ounces",
+        "isLiquid": true
+      },
+      {
+        "name": "Tonic Water",
+        "volume": 4.0,
+        "unit": "ounces",
+        "isLiquid": true
+      },
+      {
+        "name": "Lime Wedge",
+        "volume": 1.0,
+        "unit": "count",
+        "isLiquid": false
+      }
+    ],
+    "popularity": 0.8,
+    "difficulty": 0.2,
+    "instructions": [
+      "Fill a highball glass with ice cubes",
+      "Add gin",
+      "Top up with tonic water",
+      "Gently stir",
+      "Garnish with a lime wedge"
+    ],
+    "tasteProfile": ["bitter", "citrusy", "refreshing"],
+    "garnish": "Lime Wedge",
+    "alcoholContent": 0.22,
+    "color": "clear",
+    "glassType": "highball glass",
+    "occasion": ["summer", "casual", "refreshment"],
+    "strength": "medium"
+  }
+}

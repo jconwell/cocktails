@@ -1,0 +1,38 @@
+{
+  "name": "Almost A Collins",
+  "ingredients": [
+    {
+      "name": "gin",
+      "volume": 1.5,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "lemon juice",
+      "volume": 1.0,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "name": "simple syrup",
+      "volume": 0.75,
+      "unit": "oz",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.4,
+  "difficulty": 0.2,
+  "instructions": [
+    "Pour the gin, lemon juice, and simple syrup into a cocktail shaker with ice cubes.",
+    "Shake well.",
+    "Strain into a collins glass."
+  ],
+  "tasteProfile": [
+    "sour",
+    "sweet"
+  ],
+  "garnishes": "Lemon wheel and cherry",
+  "alcoholContent": 0.12,
+  "cocktailType": "long-drink",
+  "drinkware": "collins glass"
+}

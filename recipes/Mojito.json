@@ -1,0 +1,57 @@
+{
+  "name": "Mojito",
+  "ingredients": [
+    {
+      "name": "White rum",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lime juice",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Sugar",
+      "volume": 2,
+      "unit": "teaspoons",
+      "isLiquid": false
+    },
+    {
+      "name": "Mint",
+      "volume": 10,
+      "unit": "leaves",
+      "isLiquid": false
+    },
+    {
+      "name": "Soda water",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.89,
+  "difficulty": 0.3,
+  "instructions": [
+    "Muddle mint leaves and sugar",
+    "Add lime juice",
+    "Add rum",
+    "Top with soda water",
+    "Stir gently"
+  ],
+  "tasteProfile": [
+    "sweet",
+    "fresh",
+    "citrus",
+    "herbaceous"
+  ],
+  "garnish": "Mint sprig and lime wheel",
+  "alcoholContent": 0.14,
+  "servingGlass": "Highball glass",
+  "temperature": "Cold",
+  "pairingFood": ["Seafood", "Salad", "Charcuterie boards", "Spicy foods"],
+  "color": "Light green",
+  "occasion": ["Summer", "Social gatherings", "Anytime"]
+}

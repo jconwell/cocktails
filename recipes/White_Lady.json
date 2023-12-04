@@ -1,0 +1,55 @@
+{
+  "cocktailName": "White Lady",
+  "ingredients": [
+    {
+      "name": "Gin",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Cointreau",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon Juice",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Egg White",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.65,
+  "difficulty": 0.3,
+  "instructions": [
+    "Mix the gin, Cointreau and lemon juice in a shaker with ice",
+    "Strain into a separate glass and discard the ice",
+    "Add the egg white to the shaker and shake until frothy",
+    "Add the original mixture back into the shaker and shake until well mixed",
+    "Strain into a chilled cocktail glass"
+  ],
+  "tasteProfile": [
+    "citrus",
+    "sweet",
+    "smooth"
+  ],
+  "garnish": "Cherry on top",
+  "alcoholContent": 0.24,
+  "servedIn": "cocktail glass",
+  "color": "light yellow",
+  "texture": "creamy",
+  "occasion": [
+     "evening",
+     "night",
+     "party"
+  ],
+  "originCountry": "UK",
+  "firstCreated": "1919"
+}

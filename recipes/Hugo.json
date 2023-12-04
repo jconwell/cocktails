@@ -1,0 +1,25 @@
+{
+  "name": "Hugo",
+  "ingredients": [
+    { "ingredient_name": "Prosecco", "volume": 5, "unit": "ounces", "is_liquid": true },
+    { "ingredient_name": "Elderflower Syrup", "volume": 0.75, "unit": "ounces", "is_liquid": true },
+    { "ingredient_name": "Soda Water", "volume": 2, "unit": "ounces", "is_liquid": true },
+    { "ingredient_name": "Lime", "volume": 1, "unit": "juiced", "is_liquid": true },
+    { "ingredient_name": "Mint Leaves", "volume": 8, "unit": "count", "is_liquid": false }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.2,
+  "instructions": [
+    "Crush the mint leaves and drop into a wine glass.",
+    "Add the lime juice and elderflower syrup.",
+    "Pour in the prosecco and top off with soda water.",
+    "Stir gently to combine. Serve chilled."
+  ],
+  "taste_profile": ["sweet", "carbonated", "refreshing", "citrus"],
+  "garnishes": "Mint sprig and lime wedge",
+  "alcohol_content": 0.11,
+  "drinkware": "Wine Glass",
+  "occasion": ["Summer", "Casual Parties"],
+  "temperature": "Cold",
+  "color": "Pale Yellow"
+}

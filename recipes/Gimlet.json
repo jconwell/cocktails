@@ -1,0 +1,41 @@
+{
+  "name": "Gimlet",
+  "ingredients": [
+    {
+      "name": "Gin",
+      "volume": 2.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Fresh lime juice",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Simple syrup",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.87,
+  "difficulty": 0.35,
+  "steps": [
+    "Fill a shaker with ice cubes",
+    "Add all ingredients",
+    "Shake and strain into a chilled cocktail glass",
+  ],
+  "tasteProfile": ["citrus", "sweet", "sharp"],
+  "garnish": "Lime wheel",
+  "alcoholContent": 0.4,
+  "color": "pale yellow",
+  "drinkType": "cocktail",
+  "glassType": "cocktail glass",
+  "served": "cold",
+  "mainAlcohol": "gin",
+  "occasion": ["summer", "party"],
+  "taste": ["sweet", "citrus", "fresh"],
+  "skillsNeeded": ["shaking"]
+}

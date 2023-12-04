@@ -1,0 +1,56 @@
+{
+  "cocktailName": "Rock Lobster",
+  "ingredients": [
+    {
+      "name": "Tequila",
+      "volume": 1.0,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Coffee Liqueur",
+      "volume": 1.0,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Cranberry Juice",
+      "volume": 2.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Orange Juice",
+      "volume": 2.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Cherry",
+      "volume": 1,
+      "unitOfMeasure": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.5,
+  "difficulty": 0.4,
+  "instructions": [
+    "Pour the tequila and coffee liqueur over ice cubed in a cocktail glass.",
+    "Fill with half cranberry juice and half orange juice.",
+    "Stir well and serve.",
+    "Garnish the drink with a cherry."
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Sour",
+    "Bitter"
+  ],
+  "garnish": "Cherry",
+  "alcoholContent": 0.225,
+  "additionalInfo": {
+    "glassType": "Cocktail glass",
+    "color": "Red",
+    "beverageType": "Mixed Drink",
+    "drinkwareType": "Glass"
+  }
+}

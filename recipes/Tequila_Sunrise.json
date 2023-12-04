@@ -1,0 +1,45 @@
+{
+    "name": "Tequila Sunrise",
+    "ingredients": [
+        {
+            "name": "tequila",
+            "volume": 2,
+            "unit": "ounces",
+            "isLiquid": true
+        },
+        {
+            "name": "orange juice",
+            "volume": 4,
+            "unit": "ounces",
+            "isLiquid": true
+        },
+        {
+            "name": "grenadine",
+            "volume": 1,
+            "unit": "ounces",
+            "isLiquid": true
+        }
+    ],
+    "popularity": 0.7,
+    "difficulty": 0.4,
+    "instructions": [
+        "Pour the tequila and the orange juice into a highball glass with ice cubes",
+        "Stir well",
+        "Slowly pour the grenadine around the inside edge of the glass",
+        "It will sink and gradually rise to mix with the other ingredients naturally"
+    ],
+    "tasteProfile": [
+        "sweet",
+        "citrus",
+        "fruity"
+    ],
+    "garnish": "slice of orange and a cherry",
+    "alcoholContent": 0.2,
+    "flavorIntensity": 0.6,
+    "glassType": "highball glass",
+    "recommendedTimeOfDay": "morning",
+    "isBlended": false,
+    "seasonality": "all",
+    "cocktailType": "long drink",
+    "occasion": ["party", "casual"]
+}

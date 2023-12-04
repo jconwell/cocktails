@@ -1,0 +1,68 @@
+{
+  "cocktailName": "Kappa Colada",
+  "ingredients": [
+    {
+      "ingredientName": "White Rum",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Pineapple Juice",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Mint Leaves",
+      "volume": 5,
+      "unit": "count",
+      "isLiquid": false
+    },
+    {
+      "ingredientName": "Cucumber slices",
+      "volume": 3,
+      "unit": "count",
+      "isLiquid": false
+    },
+    {
+      "ingredientName": "Lime",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    },
+    {
+      "ingredientName": "Simple Syrup",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Coconut Cream",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.6,
+  "instructions": [
+    "Muddle the cucumber and mint in a shaker.",
+    "Add the rum, lime juice, simple syrup and coconut cream.",
+    "Shake well.",
+    "Strain into a glass over crushed ice.",
+    "Garnish with a mint leaf and enjoy."
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Creamy",
+    "Refreshing"
+  ],
+  "garnish": "Mint Leaf",
+  "alcoholContent": 15.0,
+  "color": "Light Green",
+  "drinkware": "Hurricane Glass",
+  "occasion": ["Summer", "Tropical", "Relaxation"],
+  "aroma": ["Fresh", "Citrus", "Minty"],
+  "glassTemperature": "Cold"
+}

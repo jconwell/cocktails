@@ -1,0 +1,36 @@
+{
+  "cocktailName": "Shandy",
+  "ingredients": [
+    {
+      "ingredientName": "Beer",
+      "volume": 8.0,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Lemonade",
+      "volume": 8.0,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficultyRating": 0.1,
+  "recipeInstructions": [
+    "Chill the beer and lemonade",
+    "Pour the beer into a 16-ounce glass",
+    "Top off with lemonade",
+    "Stir gently and serve immediately"
+  ],
+  "tasteProfile": [
+    "sweet",
+    "tangy",
+    "refreshing"
+  ],
+  "garnish": "Lemon slice",
+  "alcoholContent": 0.038,
+  "color": "Golden",
+  "texture": "Effervescent",
+  "servedIn": "Pint glass",
+  "origin": "England"
+}

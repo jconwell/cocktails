@@ -1,0 +1,45 @@
+{
+  "cocktailName": "Dark 'n Fluffy",
+   "ingredients": [
+    {"ingredientName": "Dark Rum",
+     "volume": 2.5,
+     "unitOfMeasure": "ounces",
+     "isLiquid": true
+    },
+    {
+     "ingredientName": "Cream",
+     "volume": 1.5,
+     "unitOfMeasure": "ounces",
+     "isLiquid": true
+    },
+    {
+     "ingredientName": "Chocolate Syrup",
+     "volume": 0.5,
+     "unitOfMeasure": "ounces",
+     "isLiquid": true
+    },
+    {
+     "ingredientName": "Marshmallows",
+     "volume": 3,
+     "unitOfMeasure": "count",
+     "isLiquid": false
+    }
+   ],
+   "popularity": 0.7,
+   "complexity": 0.6,
+   "stepByStepInstructions": [
+    "Step 1: Pour the Dark Rum into the cocktail shaker",
+    "Step 2: Add Chocolate Syrup",
+    "Step 3: Follow with a splash of Cream",
+    "Step 4: Shake well",
+    "Step 5: Strain into chilled cocktail glass",
+    "Step 6: Garnish with three Marshmallows on top"
+   ],
+   "tasteProfile": ["Sweet", "Creamy", "Rich Chocolate"],
+   "garnish": "Marshmallows",
+   "alcoholContent": 0.2,
+   "cocktailClass": "Creamy",
+   "glassType": "Cocktail glass",
+   "drinkType": "Alcoholic",
+   "chilled": true
+}

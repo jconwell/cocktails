@@ -1,0 +1,52 @@
+{
+  "name": "Atomic",
+  "ingredients": [
+    {
+      "name": "Vodka",
+      "volume": 2,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Banana liqueur",
+      "volume": 1,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Blue Curacao liqueur",
+      "volume": 1,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Grenadine",
+      "volume": 0.5,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Banana",
+      "volume": 1,
+      "unit": "slice",
+      "is_liquid": false
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.6,
+  "instructions": [
+    "Mix the vodka, banana liqueur, and blue Curacao in a shaker with ice.",
+    "Strain into a cocktail glass.",
+    "Add a splash of Grenadine.",
+    "Garnish with a slice of banana."
+  ],
+  "taste_profile": [
+    "sweet",
+    "fruity",
+    "strong"
+  ],
+  "garnishes": "banana slice",
+  "alcohol_content": 0.35,
+  "temperature_served": "cold",
+  "glass_type": "cocktail glass"
+}

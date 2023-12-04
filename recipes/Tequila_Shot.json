@@ -1,0 +1,36 @@
+{
+  "name": "Tequila Shot",
+  "ingredients": [
+    {
+      "ingredient_name": "Tequila",
+      "volume": 1.5,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Lime",
+      "volume": 1,
+      "unit": "count",
+      "is_liquid": false
+    },
+    {
+      "ingredient_name": "Salt",
+      "volume": 1,
+      "unit": "pinch",
+      "is_liquid": false
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.2,
+  "instructions": [
+    "1. Wet the back of your hand slightly below your index finger and pour a pinch of salt onto the area.",
+    "2. Lick the salt off your hand. This step is important because it lessens the burn of the tequila, by salivation of the mouth.",
+    "3. Drink the tequila quickly.",
+    "4. Immediately bite into and suck the lime or lemon. The sour fruit balances and enhances the flavor of the tequila."
+  ],
+  "taste_profile": ["salty", "citrus", "strong"],
+  "garnishes": "lime wedge",
+  "alcohol_content": 0.4,
+  "glass_type": "shot",
+  "served": "straight"
+}

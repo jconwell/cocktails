@@ -1,0 +1,46 @@
+{
+  "cocktail_name": "Envy",
+  "ingredients": [
+    {
+      "ingredient_name": "Vodka",
+      "volume": 1.5,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Blue Curacao",
+      "volume": 0.5,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Pineapple Juice",
+      "volume": 3.0,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Lime Juice",
+      "volume": 0.25,
+      "unit": "ounces",
+      "is_liquid": true
+    }
+  ],
+  "popularity_score": 0.6,
+  "difficulty_score": 0.2,
+  "instructions": [
+    "Combine vodka, blue curacao, pineapple juice, and lime juice in a shaker with ice.",
+    "Shake until chilled.",
+    "Strain into a chilled cocktail glass."
+  ],
+  "taste_profile": [
+    "Sweet",
+    "Citrus"
+  ],
+  "garnish": "Pineapple Wedge",
+  "alcohol_content": 40.0,
+  "season": "All Seasons",
+  "time_of_day": "Evening",
+  "glassware": "Cocktail Glass",
+  "is_fruity": true
+}

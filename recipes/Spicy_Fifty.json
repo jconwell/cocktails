@@ -1,0 +1,53 @@
+{
+  "cocktailName": "Spicy Fifty",
+  "ingredients": [
+    {
+      "ingredientName": "Vanilla Vodka",
+      "volume": 1.75,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Elderflower Liqueur",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Fresh Lime Juice",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Honey Syrup",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Red Chili Pepper",
+      "volume": 1,
+      "unit": "slice",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.65,
+  "difficulty": 0.6,
+  "instructions": [
+    "Muddle the red chili pepper at the bottom of the shaker.",
+    "Add all the liquid ingredients into the shaker.",
+    "Fill the shaker with ice and shake hard until well-chilled.",
+    "Fine-strain the mixture into a chilled cocktail glass."
+  ],
+  "tasteProfile": [
+    "Spicy",
+    "Citrusy",
+    "Sweet"
+  ],
+  "garnish": "Red Chili Pepper",
+  "alcoholContent": 0.4,
+  "mixingMethod": "Shake",
+  "servingGlass": "Cocktail Glass",
+  "color": "Pale Yellow"
+}

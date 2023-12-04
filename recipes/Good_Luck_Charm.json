@@ -1,0 +1,55 @@
+{
+  "name": "Good Luck Charm",
+  "ingredients": [
+    {
+      "name": "Tequila",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Peach Schnapps",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Orange Juice",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Pineapple Juice",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Grenadine Syrup",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.3,
+  "instructions": [
+    "Mix tequila, peach schnapps, orange juice, and pineapple juice in a cocktail mixer with ice.",
+    "Shake it well.",
+    "Pour it in a glass with some ice in it.",
+    "Add grenadine syrup which will settle down at the bottom.",
+    "Stir lightly and serve."
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Citrus",
+    "Slightly Bitter"
+  ],
+  "garnish": "Pineapple Slice and a Cherry",
+  "alcoholContent": 0.2,
+  "cocktailType": "Fruity",
+  "glassType": "Hurricane glass",
+  "idealServingTemperature": "Chilled",
+  "color": "Red"
+}

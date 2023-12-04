@@ -1,0 +1,49 @@
+{
+  "name": "Red And Yellow",
+  "ingredients": [
+    {
+      "name": "Tequila",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Pineapple Juice",
+      "volume": 4,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Grenadine",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Orange wheel",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.2,
+  "instructions": [
+    "Pour the tequila and pineapple juice into a shaker with ice.",
+    "Shake well.",
+    "Strain into an ice-filled collins glass.",
+    "Slowly pour the grenadine around the inside edge of the glass, it will sink and slowly rise to mix with the other ingredients.",
+    "Garnish with an orange wheel."
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Sour",
+    "Fruity"
+  ],
+  "garnish": "Orange Wheel",
+  "alcoholContent": 0.15,
+  "colour": "Red-Yellow gradient",
+  "glassType": "Collins glass",
+  "isCarbonated": false,
+  "isCocktailClassics": false
+}

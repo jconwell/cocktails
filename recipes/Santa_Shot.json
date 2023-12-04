@@ -1,0 +1,42 @@
+{
+  "cocktail": {
+    "name": "Santa Shot",
+    "ingredients": [
+      {
+        "ingredientName": "Grenadine",
+        "volume": 1,
+        "unit": "ounces",
+        "isLiquid": true
+      },
+      {
+        "ingredientName": "Green Creme de Menthe",
+        "volume": 1,
+        "unit": "ounces",
+        "isLiquid": true
+      },
+      {
+        "ingredientName": "Peppermint Schnapps",
+        "volume": 1,
+        "unit": "ounces",
+        "isLiquid": true
+      }
+    ],
+    "popularity": 0.6,
+    "difficulty": 0.2,
+    "instructions": [
+      "Pour the Grenadine into a shot glass.",
+      "Using a spoon, slowly pour the Green Creme de Menthe over the back of the spoon to layer it on top of the Grenadine.",
+      "Using the spoon, slowly pour the Peppermint Schnapps over the back of the spoon to layer it on top of the Green Creme de Menthe."
+    ],
+    "tasteProfile": [
+      "sweet", 
+      "minty"
+    ],
+    "garnishes": "none",
+    "alcoholContent": 0.3,
+    "glassType": "shot",
+    "served": "cold",
+    "preparationTime": 5,
+    "color": "red-green-white layers"
+  }
+}

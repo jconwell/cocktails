@@ -1,0 +1,60 @@
+{
+  "cocktailName": "Lavender Sapphire Collins",
+  "ingredients": [
+    {
+      "name": "Bombay Sapphire gin",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon juice",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "House-made lavender syrup",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Soda water",
+      "volume": 3,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lavender flower",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    }
+],
+  "popularity": 0.7,
+  "difficulty": 0.4,
+  "instructions": [
+    "Fill a Collins glass with ice",
+    "In a shaker, combine gin, lemon juice and lavender syrup",
+    "Shake until chilled",
+    "Strain the mixture over the ice",
+    "Top with soda water",
+    "Gently stir the cocktail",
+    "Garnish with a lavender flower"
+],
+  "tasteProfile": [
+    "citrus", 
+    "floral", 
+    "bitter", 
+    "sweet"
+],
+  "garnish": "Lavender flower",
+  "alcoholContent": 0.17,
+  "cocktailType": "Highball",
+  "glassType": "Collins glass",
+  "occasion": ["Summer", "Cocktail party"],
+  "origin": "Contemporary Classics",
+  "color": "Light Purple",
+  "IBAOfficial": false
+}

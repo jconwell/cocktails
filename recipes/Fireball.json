@@ -1,0 +1,38 @@
+{
+  "cocktail_name": "Fireball",
+  "ingredients": [
+    {
+      "ingredient_name": "Fireball Cinnamon Whisky",
+      "volume": 1.5,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Apple Cider",
+      "volume": 4,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    }
+  ],
+  "popularity": 0.75,
+  "difficulty": 0.15,
+  "instructions": [
+    "Fill a shaker with ice cubes",
+    "Add Fireball Cinnamon Whisky",
+    "Add Apple Cider",
+    "Shake and strain into a rocks glass filled with ice cubes"
+  ],
+  "taste_profile": [
+    "Spicy", 
+    "Sweet", 
+    "Fruity"
+  ],
+  "garnish": "Apple Slice",
+  "alcohol_content": 0.35,
+  "glassware_type": "Rocks Glass",
+  "drink_type": "Mixed",
+  "color": "Light Brown",
+  "temperature": "Chilled",
+  "texture": "Smooth",
+  "occasion": ["Autumn", "Outdoor Parties", "Casual Drinks"]
+}

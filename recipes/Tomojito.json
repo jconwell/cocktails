@@ -1,0 +1,56 @@
+{
+  "Name": "Tomojito",
+  "Ingredients": [
+    {
+      "name": "Fresh mint leaves",
+      "volume": 10,
+      "unit": "leaves",
+      "isLiquid": false
+    },
+    {
+      "name": "Lime juice",
+      "volume": 1,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Tomato juice",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "White rum",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Simple syrup",
+      "volume": 1,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Soda water",
+      "volume": 1,
+      "unit": "ounce",
+      "isLiquid": true
+    }
+  ],
+  "Popularity": 0.4,
+  "Difficulty": 0.2,
+  "Instructions": [
+    "Muddle the mint leaves at the bottom of a glass.",
+    "Add the lime juice, tomato juice, white rum, and simple syrup.",
+    "Stir well, then top off with the soda water."
+  ],
+  "Taste_profile": ["Minty", "Sweet", "Sour"],
+  "Garnishes": "Lime wheel and mint sprig",
+  "Alcohol_content": 0.20,
+  "Color": "Red",
+  "Texture": "Smooth",
+  "Temperature": "Cold",
+  "Origin_country": "Cuba",
+  "Glassware": "Highball glass"
+}

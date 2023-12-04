@@ -1,0 +1,43 @@
+{
+  "name": "Blue Blazer",
+  "ingredients": [
+    {
+      "ingredient_name": "Scotch whiskey",
+      "volume": 2.0,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Boiling water",
+      "volume": 2.0,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Sugar",
+      "volume": 1.0,
+      "unit_of_measure": "tablespoon",
+      "is_liquid": false
+    }
+  ],
+  "popularity": 0.5,
+  "difficulty_level": 0.7,
+  "instructions": [
+    "Pour the whiskey into a mug.",
+    "Add the sugar and stir to dissolve.",
+    "Pour the boiling water into the mug and stir vigorously.",
+    "Pour the mixture from one mug to another, igniting the stream with a match.",
+    "Serve immediately."
+  ],
+  "taste_profile": ["Smoky", "Sweet"],
+  "garnish": "Lemon twist",
+  "alcohol_content": 0.4,
+  "color": "Amber",
+  "aroma": ["Peat", "Citrus"],
+  "type": "Hot cocktail",
+  "drinkware": "Mug",
+  "serving_temperature": "Hot",
+  "preparation_time_minutes": 5.0,
+  "origin": "USA",
+  "cost": 7.0
+}

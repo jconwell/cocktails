@@ -1,0 +1,53 @@
+{
+  "cocktailName": "Vampiro",
+  "ingredients": [
+    {
+      "name": "tequila",
+      "volume": 1.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "tomato juice",
+      "volume": 3,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "orange juice",
+      "volume": 1,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "lime juice",
+      "volume": 0.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "chili sauce",
+      "volume": 0.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "sugar",
+      "volume": 0.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.55,
+  "instructions": [
+    "In a shaker, combine tequila, tomato juice, orange juice, lime juice, chili sauce, and sugar.",
+    "Shake well until the sugar is dissolved.",
+    "Strain into a highball glass filled with ice."
+  ],
+  "tasteProfile": ["bitter", "spicy", "sweet", "sour"],
+  "garnish": "Lime Wheel and Orange Twist",
+  "alcoholContent": 0.37,
+  "colour": "orange",
+  "glassType": "highball"
+}

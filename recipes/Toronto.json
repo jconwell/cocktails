@@ -1,0 +1,56 @@
+{
+  "cocktailName": "Toronto",
+  "ingredients": [
+    {
+      "name": "rye whiskey", 
+      "volume": 2, 
+      "unit": "ounces", 
+      "isLiquid": true
+    },
+    {
+      "name": "Fernet-Branca", 
+      "volume": 0.25, 
+      "unit": "ounces", 
+      "isLiquid": true
+    },
+    {
+      "name": "simple syrup", 
+      "volume": 0.25, 
+      "unit": "ounces", 
+      "isLiquid": true
+    },
+    {
+      "name": "angostura bitters", 
+      "volume": 2, 
+      "unit": "dashes", 
+      "isLiquid": true
+    },
+    {
+      "name": "orange peel", 
+      "volume": 1, 
+      "unit": "piece", 
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.4,
+  "difficulty": 0.3,
+  "instructions": [
+    "Combine rye, Fernet-Branca, simple syrup, and bitters in a mixing glass and fill with ice.", 
+    "Stir until well chilled, about 20 seconds.",
+    "Strain into a chilled cocktail glass.",
+    "Twist orange peel over cocktail to express oils, then drop twist into glass."
+  ],
+ 	"tasteProfile": [
+ 		"strong", 
+ 		"bitter", 
+ 		"herbaceous", 
+ 		"citrus"
+ 	],
+  "garnishes": "orange twist",
+  "alcoholContent": 0.35,
+  "servingGlass": "Old fashioned glass",
+  "origin": "Canada",
+  "color": "Dark amber",
+  "flaming": false,
+  "layered": false
+}

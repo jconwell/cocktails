@@ -1,0 +1,54 @@
+{
+  "cocktail": {
+    "name": "Quentão",
+    "ingredients": [
+      {
+        "name": "Cachaça",
+        "volume": 25.36,
+        "unit_of_measure": "ounces",
+        "is_liquid": true
+      },
+      {
+        "name": "Sugar",
+        "volume": 2,
+        "unit_of_measure": "ounces",
+        "is_liquid": false
+      },
+      {
+        "name": "Lemons",
+        "volume": 2,
+        "unit_of_measure": "count",
+        "is_liquid": false
+      },
+      {
+        "name": "Ginger",
+        "volume": 1,
+        "unit_of_measure": "count",
+        "is_liquid": false
+      },
+      {
+        "name": "Cloves",
+        "volume": 8,
+        "unit_of_measure": "count",
+        "is_liquid": false
+      }
+    ],
+    "popularity": 0.7,
+    "difficulty": 0.4,
+    "instructions": [
+      "Peel and cut the ginger into small pieces.",
+      "Cut the lemons into quarters.",
+      "Place all ingredients in a pan and mix.",
+      "Cook for about 30 minutes until it thickens to a syrup consistency.",
+      "Serve hot."
+    ],
+    "taste_profile": [
+      "strong",
+      "sweet",
+      "spicy"
+    ],
+    "garnish": "Lemon slice and cinnamon stick",
+    "alcohol_content": 0.4,
+    "serving_temperature": "Hot"
+  }
+}

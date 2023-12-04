@@ -1,0 +1,57 @@
+{
+  "cocktailName": "Missouri Mule",
+  "ingredients": [
+    {
+      "name": "Bourbon",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon Juice",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Applejack Brandy",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Ginger Beer",
+      "volume": 4,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Mint leaves",
+      "volume": 2,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.3,
+  "instructions": [
+    "In a shaker, combine bourbon, applejack, lemon juice, and one mint leaf.",
+    "Shake and strain into a glass filled with ice.",
+    "Top up with ginger beer.",
+    "Garnish with a mint leaf."
+  ],
+  "tasteProfile": [
+    "Sweet",
+    "Sour",
+    "Minty",
+    "Spicy"
+  ],
+  "garnish": "Mint Leaf",
+  "alcoholContent": 0.24,
+  "cocktailType": "alcoholic",
+  "served": "on the rocks",
+  "glassType": "Highball glass",
+  "sweetnessLevel": 0.5,
+  "sournessLevel": 0.6,
+  "bitternessLevel": 0.2
+}

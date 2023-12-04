@@ -1,0 +1,43 @@
+{
+  "cocktailName": "Glowtini",
+  "ingredientDetails": [
+    {
+      "name": "Vodka",
+      "volume": 1.5,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Blue Curacao",
+      "volume": 1,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "White Cranberry Juice",
+      "volume": 3,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon wheel",
+      "volume": 1,
+      "unitOfMeasure": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.3,
+  "instructions": [
+    "Combine Vodka, Blue Curacao and White Cranberry Juice in a shaker with ice.",
+    "Shake until well chilled.",
+    "Strain into a martini glass.",
+    "Garnish with a lemon wheel."
+  ],
+  "tasteProfile": ["sweet", "citrus", "vibrant"],
+  "garnish": "Lemon wheel",
+  "alcoholContent": 0.24,
+  "servingGlass": "Martini Glass",
+  "preparationTime": 5,
+  "color": "blue"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Tequila Sour",
+  "ingredients": [
+    {
+      "name": "Tequila",
+      "volume": 2.0,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon Juice",
+      "volume": 1.0,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Simple Syrup",
+      "volume": 1.0,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Egg White",
+      "volume": 1.0,
+      "unit": "counts",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.3,
+  "instructions": [
+    "Place all ingredients in the shaker",
+    "Shake vigorously for about 10 seconds",
+    "Strain and pour into a glass",
+    "Add garnish"
+  ],
+  "tasteProfile": ["citrus", "sweet", "sharp"],
+  "garnishes": "lemon slice or cherry",
+  "alcoholContent": 0.2,
+  "color": "Pale Yellow",
+  "alcoholType": "Tequila",
+  "glassType": "Old fashioned glass",
+  "isRefreshing": false   
+}

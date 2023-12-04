@@ -1,0 +1,51 @@
+{
+  "name": "Bumbo",
+  "ingredients": [
+    {
+      "name": "Dark rum",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Brown sugar",
+      "volume": 1,
+      "unit": "teaspoon",
+      "isLiquid": false
+    },
+    {
+      "name": "Nutmeg",
+      "volume": 0.25,
+      "unit": "teaspoon",
+      "isLiquid": false
+    },
+    {
+      "name": "Cinnamon",
+      "volume": 0.25,
+      "unit": "teaspoon",
+      "isLiquid": false
+    },
+    {
+      "name": "Water",
+      "volume": 0.5,
+      "unit": "cup",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.4,
+  "difficulty": 0.3,
+  "instructions": [
+    "Add all the solid ingredients to a mixing glass.",
+    "Add a splash of the water and muddle until the sugar has dissolved.",
+    "Add the rum and the remaining water.",
+    "Stir until well mixed.",
+    "Strain into a glass filled with ice."
+  ],
+  "tasteProfile": ["Sweet", "Spicy", "Rum-heavy"],
+  "garnish": "Grated nutmeg on top",
+  "alcoholContent": 0.4,
+  "glassType": "Old fashioned glass",
+  "timeToPrepare": 5,
+  "cocktailType": "Traditional",
+  "origin": "Caribbean"
+}

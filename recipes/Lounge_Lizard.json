@@ -1,0 +1,44 @@
+{
+  "CocktailName": "Lounge Lizard",
+  "Ingredients": [
+    {
+      "IngredientName": "Dark Rum",
+      "Volume": 1.5,
+      "UnitOfMeasure": "oz",
+      "IsLiquid": true
+    },
+    {
+      "IngredientName": "Amaretto",
+      "Volume": 1,
+      "UnitOfMeasure": "oz",
+      "IsLiquid": true
+    },
+    {
+      "IngredientName": "Lime Juice",
+      "Volume": 0.5,
+      "UnitOfMeasure": "oz",
+      "IsLiquid": true
+    },
+    {
+      "IngredientName": "Cola",
+      "Volume": 4,
+      "UnitOfMeasure": "oz",
+      "IsLiquid": true
+    }
+  ],
+  "Popularity": 0.6,
+  "Difficulty": 0.4,
+  "Instructions": [
+    "Pour the rum, amaretto, lime juice into pre-chilled glass with ice cubes.",
+    "Stir well.",
+    "Top with cola, stir gently."
+  ],
+  "TasteProfile": [
+    "Sour",
+    "Sweet"
+  ],
+  "Garnish": "Lime Wheel",
+  "AlcoholContent": 0.2,
+  "DrinkType": "Cocktail",
+  "GlassType": "Highball glass"
+}

@@ -1,0 +1,47 @@
+{
+  "cocktailName": "Green Gin Giant",
+  "ingredients": [
+    {
+      "name": "gin",
+      "volume": 2.0,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "green chartreuse",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "simple syrup",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "lime",
+      "volume": 1.0,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.3,
+  "instructions": [
+    "Chill a cocktail glass",
+    "In a shaker, combine gin, chartreuse, simple syrup",
+    "Squeeze the juice of a lime into the shaker",
+    "Fill shaker with ice, cover and shake until well chilled",
+    "Strain cocktail into chilled glass"
+  ],
+  "tasteProfile": [
+    "sweet",
+    "sour",
+    "herbaceous"
+  ],
+  "garnishes": "lime wheel",
+  "alcoholContent": 0.22,
+  "glassware": "cocktail glass",
+  "servingTemperature": "cold"
+}

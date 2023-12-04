@@ -1,0 +1,68 @@
+{
+  "cocktail_name": "Long Beach Tea",
+  "ingredients": [
+    {
+      "ingredient_name": "Vodka",
+      "volume": 0.5,
+      "unit_of_measure": "oz",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Rum",
+      "volume": 0.5,
+      "unit_of_measure": "oz",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Tequila",
+      "volume": 0.5,
+      "unit_of_measure": "oz",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Gin",
+      "volume": 0.5,
+      "unit_of_measure": "oz",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Triple Sec",
+      "volume": 0.5,
+      "unit_of_measure": "oz",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Cranberry Juice",
+      "volume": 0.5,
+      "unit_of_measure": "oz",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Fresh Lemon Juice",
+      "volume": 0.25,
+      "unit_of_measure": "oz",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "Cola",
+      "volume": 1,
+      "unit_of_measure": "oz",
+      "is_liquid": true
+    }
+  ],
+  "popularity": 0.8,
+  "difficulty": 0.5,
+  "how_to_make": [
+    "Pour all ingredients, except for cola, into a shaker with ice cubes.",
+    "Shake well.",
+    "Strain into a highball glass filled with ice.",
+    "Top up with cola.",
+    "Garnish with a lemon slice."
+  ],
+  "taste_profile": ["sweet", "sour", "bitter"],
+  "garnish": "Lemon Slice",
+  "alcohol_content": 40.0,
+  "serving_glass": "Highball glass",
+  "cocktail_style": "Mixed drink",
+  "cocktail_type": "Alcoholic"
+}

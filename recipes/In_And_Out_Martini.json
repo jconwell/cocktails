@@ -1,0 +1,34 @@
+{
+  "name": "In And Out Martini",
+  "ingredients": [
+    {
+      "name": "Gin",
+      "volume": 3.0,
+      "unit": "ounce",
+      "liquid": true
+    },
+    {
+      "name": "Dry Vermouth",
+      "volume": 0.5,
+      "unit": "ounce",
+      "liquid": true
+    }
+  ],
+  "popularity": 0.65,
+  "difficulty": 0.25,
+  "instructions": [
+    "Pour gin and half of the vermouth into a mixing glass with ice cubes",
+    "Stir well",
+    "Rinse the inside of a chilled martini glass with the remaining vermouth, then discard",
+    "Strain the contents of the mixing glass into the martini glass"
+  ],
+  "taste_profile": [
+    "Dry",
+    "Bitter",
+    "Fruity"
+  ],
+  "garnish": "Lemon twist",
+  "alcohol_content": 46.0,
+  "cocktail_glass": "Martini Glass",
+  "cocktail_type": "Shaken"
+}

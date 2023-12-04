@@ -1,0 +1,54 @@
+{
+  "name": "Red Carpet",
+  "ingredients": [
+     {
+       "ingredient_name": "Champagne",
+       "volume": 4.5,
+       "unit": "ounces",
+       "is_liquid": true
+     },
+     {
+       "ingredient_name": "Pomegranate Juice",
+       "volume": 1.5,
+       "unit": "ounces",
+       "is_liquid": true
+     },
+     {
+       "ingredient_name": "Lemon Twist",
+       "volume": 1,
+       "unit": "count",
+       "is_liquid": false
+     }
+  ],
+  "popularity": 0.65,
+  "difficulty": 0.30,
+  "instructions": [
+     "Pour the pomegranate juice into a champagne flute.",
+     "Top with champagne.",
+     "Garnish with a lemon twist."
+  ],
+  "taste_profile": [
+     "Sweet",
+     "Tart",
+     "Bubbly"
+  ],
+  "garnishes": "Lemon Twist",
+  "alcohol_content": 12.0,
+  "glassware": "Champagne Flute",
+  "serving_temperature": "Chilled",
+  "seasonality": [
+     "Spring",
+     "Summer"
+  ],
+  "color": "Red",
+  "time_of_day": "Evening",
+  "pairings": [
+     "Seafood",
+     "Poultry",
+     "Asian Cuisine"
+  ],
+  "occasion": [
+     "Celebration",
+     "Party"
+  ]
+}

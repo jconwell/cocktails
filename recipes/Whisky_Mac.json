@@ -1,0 +1,37 @@
+{
+  "cocktail_name": "Whisky Mac",
+  "ingredients": [
+    {
+      "name": "Blended Whisky",
+      "volume": 1.5,
+      "unit": "ounce",
+      "liquid": true
+    },
+    {
+      "name": "Stone's Ginger Wine",
+      "volume": 1.5,
+      "unit": "ounce",
+      "liquid": true
+    }
+  ],
+  "popularity": 0.6,
+  "difficulty": 0.3,
+  "instructions": [
+    "Fill a mixing glass with ice.",
+    "Pour in the Whisky and Ginger Wine.",
+    "Stir well to mix the ingredients.",
+    "Strain into a chilled old fashioned glass.",
+    "Serve straight up without ice."
+  ],
+  "taste_profile": [
+    "Strong",
+    "Spicy",
+    "Smooth"
+  ],
+  "garnish": "None",
+  "alcohol_content": 0.5,
+  "drinking_glass": "Old fashioned",
+  "prep_time": 5,
+  "rating": 4.3,
+  "servings": 1
+}

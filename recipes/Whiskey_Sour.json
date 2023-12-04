@@ -1,0 +1,47 @@
+{
+  "name": "Whiskey Sour",
+  "ingredients": [
+    {
+      "ingredient_name": "whiskey",
+      "volume": 2,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "lemon juice",
+      "volume": 1,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "sugar syrup",
+      "volume": 0.75,
+      "unit_of_measure": "ounces",
+      "is_liquid": true
+    },
+    {
+      "ingredient_name": "egg white",
+      "volume": 1,
+      "unit_of_measure": "ounce",
+      "is_liquid": true
+    }
+  ],
+  "popularity": 0.85,
+  "difficulty": 0.6,
+  "instructions": [
+    "Combine the whiskey, lemon juice, sugar syrup and egg white in a shaker.",
+    "Dry shake (without ice) for 10-15 seconds to froth up the egg white.",
+    "Add ice to the shaker and do a wet shake.",
+    "Strain the cocktail into a glass."
+  ],
+  "taste_profile": [
+    "sour",
+    "sweet",
+    "smooth"
+  ],
+  "garnishes": "Maraschino cherry",
+  "alcohol_content": 0.21,
+  "glassware": "Old-fashioned glass",
+  "cocktail_class": "sour",
+  "cocktail_family": "New Orleans"
+}

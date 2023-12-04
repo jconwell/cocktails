@@ -1,0 +1,41 @@
+{
+  "name": "Amber Moon",
+  "ingredients": [
+    {
+      "name": "Raw egg",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false,
+      "alcoholContent": 0.00
+    },
+    {
+      "name": "Whiskey",
+      "volume": 2,
+      "unit": "ounces",
+      "isLiquid": true,
+      "alcoholContent": 0.40
+    },
+    {
+      "name": "Tabasco sauce",
+      "volume": 0.1,
+      "unit": "ounces",
+      "isLiquid": true,
+      "alcoholContent": 0.00
+    }
+  ],
+  "popularity": 0.4,
+  "difficulty": 0.2,
+  "instructions": [
+    "Crack the raw egg into a glass.",
+    "Pour in the whiskey.",
+    "Add a few drops of Tabasco sauce.",
+    "Stir until well-mixed."
+  ],
+  "tasteProfile": ["strong", "spicy", "bold"],
+  "garnishes": "none",
+  "totalAlcoholContent": 0.20,
+  "glassType": "small",
+  "recipeOrigin": "America",
+  "avgPrepTime": 5,
+  "serveCold": true
+}

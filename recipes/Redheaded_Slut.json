@@ -1,0 +1,41 @@
+{
+  "name": "Redheaded Slut",
+  "ingredients": [
+    {
+      "name": "Jagermeister",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "peach schnapps",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "cranberry juice",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.2,
+  "instructions": [
+    "Pour Jagermeister into a shaker filled with ice.",
+    "Add peach schnapps to the shaker.",
+    "Add cranberry juice.",
+    "Shake well to combine.",
+    "Strain into a shot glass."
+  ],
+  "tasteProfile": [
+    "sweet",
+    "fruit-forward",
+    "chilled"
+  ],
+  "garnishes": "no garnish",
+  "alcoholContent": 0.35,
+  "drinkType": "shot",
+  "glassType": "shot glass"
+}

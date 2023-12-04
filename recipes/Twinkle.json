@@ -1,0 +1,43 @@
+{
+    "name": "Twinkle",
+    "ingredients": [
+        {
+            "name": "Vodka",
+            "volume": 2,
+            "unit": "oz",
+            "isLiquid": true
+        },
+        {
+            "name": "Elderflower Liqueur",
+            "volume": 1,
+            "unit": "oz",
+            "isLiquid": true
+        },
+        {
+            "name": "Champagne",
+            "volume": 5,
+            "unit": "oz",
+            "isLiquid": true
+        },
+        {
+            "name": "Lemon twist",
+            "volume": 1,
+            "unit": "peel",
+            "isLiquid": false
+        }
+    ],
+    "popularity": 0.56,
+    "difficulty": 0.35,
+    "instructions": [
+        "Chill a flute glass in the fridge.",
+        "In a shaker filled with ice, mix vodka and elderflower liqueur.",
+        "Rim the chilled glass with the lemon twist and drop it into the bottom of the glass.",
+        "Pour the mixture into the glass and top up with champagne."
+    ],
+    "tasteProfile": ["Fruity", "Sweet", "Crisp", "Bubbles"],
+    "garnish": "Lemon twist", 
+    "alcoholContent": 0.14,
+    "color": "Light Yellow",
+    "glassType": "Flute",
+    "timeToPrepare": 5
+}

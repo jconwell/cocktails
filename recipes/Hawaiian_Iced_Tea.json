@@ -1,0 +1,75 @@
+{
+  "cocktail": {
+    "name": "Hawaiian Iced Tea",
+    "ingredients": [
+      {
+        "ingredient_name": "Vodka",
+        "volume": 0.5,
+        "unit_of_measure": "oz",
+        "is_liquid": true
+      },
+      {
+        "ingredient_name": "Light rum",
+        "volume": 0.5,
+        "unit_of_measure": "oz",
+        "is_liquid": true
+      },
+      {
+        "ingredient_name": "Tequila",
+        "volume": 0.5,
+        "unit_of_measure": "oz",
+        "is_liquid": true
+      },
+      {
+        "ingredient_name": "Gin",
+        "volume": 0.5,
+        "unit_of_measure": "oz",
+        "is_liquid": true
+      },
+      {
+        "ingredient_name": "Pineapple juice",
+        "volume": 3.0,
+        "unit_of_measure": "oz",
+        "is_liquid": true
+      },
+      {
+        "ingredient_name": "Lemon-lime soda",
+        "volume": 1.0,
+        "unit_of_measure": "oz",
+        "is_liquid": true
+      },
+      {
+        "ingredient_name": "Lemon wheel",
+        "volume": 1,
+        "unit_of_measure": "Count",
+        "is_liquid": false
+      },
+      {
+       "ingredient_name": "Mint leaves",
+        "volume": 3,
+        "unit_of_measure": "Count",
+        "is_liquid": false
+      }
+    ],
+    "popularity": 0.7,
+    "difficulty": 0.6,
+    "instructions": [
+      "Mix vodka, light rum, tequila, gin, and pineapple juice in a shaker.",
+      "Shake well with crushed ice.",
+      "Pour the mix into a glass.",
+      "Top up with lemon-lime soda.",
+      "Garnish with lemon wheel and mint leaves."
+    ],
+    "taste_profile": [
+      "Sweet",
+      "Sour",
+      "Bitter",
+      "Strong"
+    ],
+    "garnish": "Lemon wheel and mint leaves",
+    "alcohol_content": 0.25,
+    "color": "Yellow",
+    "glass_type": "Highball glass",
+    "fizz": false
+  }
+}

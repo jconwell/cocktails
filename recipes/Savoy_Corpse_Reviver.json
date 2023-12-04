@@ -1,0 +1,56 @@
+{
+  "name": "Savoy Corpse Reviver",
+  "ingredients": [
+    {
+      "name": "Lemon Juice",
+      "volume": 0.75,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Lillet Blanc",
+      "volume": 0.75,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Cointreau",
+      "volume": 0.75,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Gin",
+      "volume": 0.75,
+      "unit": "ounces",
+      "is_liquid": true
+    },
+    {
+      "name": "Absinthe",
+      "volume": 1,
+      "unit": "dashes",
+      "is_liquid": true
+    }
+  ],
+  "popularity": 0.4,
+  "difficulty": 0.5,
+  "instructions": [
+    "Chill a cocktail glass with ice and pour a dash of absinthe into it.",
+    "Coat the glass with absinthe and discard the excess.",
+    "In a shaker, combine lemon juice, Lillet Blanc, Cointreau, and gin with ice and shake until well chilled.",
+    "Strain the mixture into the coated glass.",
+    "Serve immediately."
+  ],
+  "taste_profile": [
+    "Sour",
+    "Bitter",
+    "Strong"
+  ],
+  "garnish": "None",
+  "alcohol_content": 0.22,
+  "color": "Clear",
+  "glass_type": "Cocktail Glass",
+  "occasion": ["After Dinner", "Night Caps"],
+  "origin": "England",
+  "spirit_base": "Gin"
+}

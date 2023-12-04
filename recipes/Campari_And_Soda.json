@@ -1,0 +1,37 @@
+{
+  "name": "Campari And Soda",
+  "ingredients": [
+    {
+      "ingredient name": "Campari",
+      "volume": 2.0,
+      "unit": "oz",
+      "isLiquid": true
+    },
+    {
+      "ingredient name": "Club Soda",
+      "volume": 6.0,
+      "unit": "oz",
+      "isLiquid": true
+    }
+  ],
+  "popularity": 0.7,
+  "difficulty": 0.2,
+  "instructions": [
+    "Fill a highball glass with ice",
+    "Scan pour Campari over ice",
+    "Top with club soda",
+    "Gently stir",
+    "Garnish with an orange slice"
+  ],
+  "taste profile": [
+    "Bitter",
+    "Refreshing",
+    "Sweet"
+  ],
+  "garnish": "Orange Slice",
+  "alcohol content": 0.24,
+  "glass type": "highball glass",
+  "origin": "Italy",
+  "color": "red",
+  "flavor intensity": 0.7
+}

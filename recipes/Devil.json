@@ -1,0 +1,51 @@
+{
+  "cocktail": {
+    "name": "Devil",
+    "ingredients": [
+      {
+        "name": "Rum",
+        "volume": 2.0,
+        "unitOfMeasure": "ounces",
+        "isLiquid": true
+      },
+      {
+        "name": "Lime Juice",
+        "volume": 1.0,
+        "unitOfMeasure": "ounces",
+        "isLiquid": true
+      },
+      {
+        "name": "Syrup",
+        "volume": 0.5,
+        "unitOfMeasure": "ounces",
+        "isLiquid": true
+      },
+      {
+        "name": "Image of Lime",
+        "count": 1,
+        "unitOfMeasure": "piece",
+        "isLiquid": false
+      }
+    ],
+    "popularity": 0.6,
+    "difficulty": 0.3,
+    "steps": [
+      "Pour the rum into a shaker with ice cubes.",
+      "Add the lime juice and syrup.",
+      "Shake well.",
+      "Strain into a glass with ice.",
+      "Garnish with lime."
+    ],
+    "tasteProfile": [
+      "Sweet",
+      "Sour",
+      "Strong"
+    ],
+    "garnish": "Lime wedge",
+    "alcoholContent": 0.4,
+    "glassware": "Cocktail glass",
+    "cocktailType": "Rum based",
+    "preparationMethod": "Shake",
+    "suitableEvent": ["Summer parties", "Evening relaxation"]
+  }
+}

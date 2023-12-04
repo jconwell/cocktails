@@ -1,0 +1,50 @@
+{
+  "cocktailName": "Bed Of Roses",
+  "ingredients": [
+    {
+      "ingredientName": "Rose infused vodka",
+      "volume": 2,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Strawberry puree",
+      "volume": 1,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Lemon juice",
+      "volume": 0.75,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Agave nectar",
+      "volume": 0.75,
+      "unitOfMeasure": "ounces",
+      "isLiquid": true
+    },
+    {
+      "ingredientName": "Rose petals",
+      "volume": 2,
+      "unitOfMeasure": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.8,
+  "difficulty": 0.6,
+  "instructions": [
+    "Combine vodka, strawberry puree, lemon juice, and agave nectar in a shaker with ice.",
+    "Shake until well mixed and chilled.",
+    "Strain into a cocktail glass.",
+    "Garnish with rose petals."
+  ],
+  "tasteProfile": ["sweet", "sour", "floral"],
+  "garnish": "Rose petals",
+  "alcoholContent": 0.35,
+  "glassType": "Cocktail glass",
+  "shakeOrStir": "Shake",
+  "baseSpirit": "Vodka",
+  "cocktailType": "Fruity"
+}

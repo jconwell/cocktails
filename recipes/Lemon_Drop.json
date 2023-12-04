@@ -1,0 +1,42 @@
+{
+  "cocktail_name": "Lemon Drop",
+  "ingredients": [
+    {
+      "name": "Vodka",
+      "volume": 1.5,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon Juice",
+      "volume": 1,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Simple Syrup",
+      "volume": 1,
+      "unit": "ounce",
+      "isLiquid": true
+    },
+    {
+      "name": "Lemon Slice",
+      "volume": 1,
+      "unit": "count",
+      "isLiquid": false
+    }],
+  "popularity": 0.8,
+  "difficulty": 0.3,
+  "instructions": [
+    "In a shaker, combine vodka, lemon juice, and simple syrup.",
+    "Shake well.",
+    "Strain into a chilled martini glass.",
+    "Garnish with a lemon slice."
+  ],
+  "taste_profile": ["Fruity", "Sweet", "Sour"],
+  "garnish": "Lemon Slice",
+  "alcohol_content": 0.4,
+  "color": "Yellow",
+  "glass_type": "Martini Glass",
+  "serve_temperature": "Cold"
+}

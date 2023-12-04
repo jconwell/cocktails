@@ -1,0 +1,50 @@
+{
+  "name": "Burning Bush",
+  "ingredients": [
+    {
+      "name": "Juniper berries",
+      "volume": 15,
+      "unit": "count",
+      "isLiquid": false
+    },
+    {
+      "name": "Gin",
+      "volume": 1.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Lime juice",
+      "volume": 1,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Simple syrup",
+      "volume": 0.5,
+      "unit": "ounces",
+      "isLiquid": true
+    },
+    {
+      "name": "Ice cubes",
+      "volume": 4 ,
+      "unit": "count",
+      "isLiquid": false
+    }
+  ],
+  "popularity": 0.4,
+  "difficulty": 0.3,
+  "instructions": [
+     "In a large glass, muddle the juniper berries",
+     "Add the gin, lime juice, and simple syrup",
+     "Fill the glass with ice cubes",
+     "Stir until the ingredients are well mixed",
+     "Strain the cocktail into a serving glass"
+  ],
+  "tasteProfile": ["sweet", "tart", "herbaceous"],
+  "garnish": "lime wheel and a juniper berry",
+  "alcoholContent": 0.24,
+  "color": "yellow-green",
+  "glassware": "Old Fashioned glass",
+  "servingTemperature": "cold"
+}
